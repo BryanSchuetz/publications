@@ -10,3 +10,4 @@ scripts/*.coffee
 .git
 .powenv
 .rvmrc
+.sass-cache

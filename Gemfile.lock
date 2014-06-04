@@ -16,6 +16,8 @@ GEM
       lumberjack (~> 1.0)
       pry (>= 0.9.12)
       thor (>= 0.18.1)
+    guard-concat (0.0.3)
+      guard (>= 1.1.0)
     guard-livereload (2.2.0)
       em-websocket (~> 0.5)
       guard (~> 2.0)
@@ -64,6 +66,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  guard-concat
   guard-livereload
   guard-sass
   rack
