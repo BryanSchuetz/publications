@@ -3,16 +3,9 @@
 {% include 'includes/head' %}
 <body>
   <div class="wrap">
-
-    <header class="primary-header">
-      <h1 class="site-title"><a href="/">{{site.title}}</a></h1>
-      <ul class="page-menu">
-      {% for page in site.pages %}
-        <li><a href="{{page.url}}"{% if page.url == url %} class="is-current-page"{% endif %}>{{page.title}}</a></li>
-      {% endfor %}
-      </ul>
-    </header>
+    {% include 'includes/header' %}
 {{ content }}
   </div><!-- /wrap -->
+  {% include 'includes/footer' %}
 </body>
 </html>
