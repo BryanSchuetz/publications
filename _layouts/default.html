@@ -2,9 +2,10 @@
 <html lang="en">
 {% include 'includes/head' %}
 <body>
+  {% include 'includes/nav' %}
+  {% include 'includes/header' %}
   <div class="wrap">
-    {% include 'includes/header' %}
-{{ content }}
+    {{ content }}
   </div><!-- /wrap -->
   {% include 'includes/footer' %}
 </body>

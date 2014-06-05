@@ -4,10 +4,13 @@
 
 body{
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 22px;
-  line-height: 1.5;
+  font-size: 16px;
+  line-height: 23px;
+  margin: 0;
 }
-
+*{
+  box-sizing: border-box;
+}
 img, video, object{ max-width: 100% }
 
 article, header, nav, section {
@@ -16,38 +19,34 @@ article, header, nav, section {
 
 /* Layout
 ================================ */
-
-.wrap{
-  margin: 60px auto;
-  max-width: 1200px;
-  overflow: hidden;
-  width: 90%;
+.nav-wrap{
+  background-color: yellow;
+  padding: .5em;
 }
+.utility-nav{
 
+}
+.header-wrap{
+  background-color: pink;
+}
 .primary-header{
-  float: right;
-  width: 30%
+  @include width(5);
+  margin: auto;
+  background-color: yellow;
 }
-
-.content{
-  float: left;
-  width: 65%;
+.wrap{
+  margin: auto;
+  overflow: hidden;
+  background-color: yellow;
+  @include width(5);
 }
-
-@media only screen and (max-width: 1085px){
-  body{
-    font-size: 16px;
-  }
-
-  .wrap{
-    margin: 15px auto;
-  }
-
-  .primary-header,  .content{
-    float: none;
-    width: auto;
-  }
-
+.footer-wrap{
+  background-color: pink;
+}
+.footer{
+  @include width(5);
+  margin: auto;
+  background-color: yellow;
 }
 
 /* Text
@@ -60,9 +59,6 @@ a{
 
 /* Header */
 
-.primary-header{
-  font-size: 0.85em;
-}
 
 .site-title{ font-size: 1.2em; }
 
@@ -100,5 +96,67 @@ a{
 .subpage-menu a{
   display: inline-block;
   margin-right: 15px;
+}
+
+//—————————————————————//
+//****Media Queries****//
+//—————————————————————//
+/*
+  Mobile layout
+  240–479 px
+  Zoomed out below 320 px
+*/
+
+@media screen and (min-width: 15em) {
+
+}
+/*
+  Wide mobile layout
+  480-767 px
+  Zoomed in above 480 px
+*/
+@media screen and (min-width: 30em) {
+  .primary-header{
+    @include width(6);
+  }
+  .wrap{
+    @include width(6);
+  }
+  .footer{
+    @include width(6);
+  }
+}
+/*
+  Tablet layout
+  600-911 px
+  Zoomed in above 600 px
+*/
+@media screen and (min-width: 37.5em){
+  .primary-header{
+    @include width(8);
+  }
+  .wrap{
+    @include width(8);
+  }
+  .footer{
+    @include width(8);
+  }
+
+}
+/*
+  Widescreen layout
+  912-1887 px
+  Zoomed in above 912 px
+*/
+@media screen and (min-width: 57em){
+.primary-header{
+  @include width(12);
+}
+.wrap{
+  @include width(12);
+}
+.footer{
+  @include width(12);
+}
 }
 /* I got 99 problems, but this last line ain't one */
