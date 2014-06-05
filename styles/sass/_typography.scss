@@ -1,0 +1,26 @@
+/* Typography Styles
+================================ */
+
+// once the web-fonts are loaded, show the site
+// TODO: Better way to prevent the FOUT
+.wf-active body{
+    visibility: visible;
+}
+
+/* Page Generic Styles
+================================ */
+
+a{
+  color: $green-link;
+  text-decoration: none;
+}
+
+/* Header
+================================ */
+h1{
+  font-size: 2rem;
+  font-weight: 400;
+}
+.utility-nav, .tagline, .details{
+  font-size: .9rem;
+}

@@ -3,12 +3,14 @@
 @import "grid";
 @import "reset";
 @import "variables";
+@import "typography";
 
 body{
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'proxima-nova-1', Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 23px;
   margin: 0;
+  visibility: hidden;
 }
 *{
   box-sizing: border-box;
@@ -26,36 +28,69 @@ article, header, nav, section {
   padding: .5em;
 }
 .primary-header{
-  @include width(5);
+  @include width(4);
+  @include min-width(4);
   margin: auto;
 }
+
+.masthead{
+  margin-top: 3em;
+  border: none;
+  border-bottom: 1px solid $black;
+  hr{
+    border: 0;
+    border-bottom: 3px solid $black;
+    margin: 0 0 .2em 0;
+
+  }
+}
+header{
+  border-bottom: 1px solid $black;
+}
+.tagline{
+  padding: .5em 0;
+  .tag{
+    display: block;
+    float: left;
+  }
+  .button{
+    visibility: hidden;
+    display: block;
+    float: right;
+    position: relative;
+    top: -1px;
+  }
+  .ss-icon{
+    position: relative;
+    top: 2px;
+  }
+}
+
 .wrap{
   margin: auto;
   overflow: hidden;
-  @include width(5);
+  @include width(4);
+  @include min-width(4);
 }
 .footer-wrap{
   background-color: $black;
 }
 .footer{
-  @include width(5);
+  @include width(4);
+  @include min-width(4);
   margin: auto;
   color: $nav-blue;
   // padding: 1em 0 1em 0;
 }
-
-/* Text
-================================ */
-
-a{
-  color: $green-link;
-  text-decoration: none;
+section{
+  margin-bottom: 8em;
 }
 
 /* Page Sections */
 
 // Nav
 .utility-nav{
+  @include min-width(5);
   ul{
     list-style-type: none;
     margin: 0;
@@ -63,7 +98,6 @@ a{
   li{
     float: left;
     margin-right: 1em;
-    font-size: .9rem;
     a{
       color: $nav-gray;
     }
@@ -72,8 +106,45 @@ a{
     }
   }
 }
+.ss-icon{
+  position: relative;
+  top:2px;
+}
 /* Content */
-
+section hr{
+  border: 0;
+  border-bottom: 1px solid $nav-gray;
+}
+#daideas{
+  display: block;
+  padding: .4em;
+  background-color: $green-link;
+  color: white !important;
+  font-weight: 400;
+  a{
+    color: white !important;
+  }
+}
+#developments{
+  font-weight: 900;
+  a{
+    color: $black;
+  }
+}
+#devalts{
+  font-weight: 300;
+  line-height: .8em;
+  a{
+    color: $black;
+  }
+}
+.pubs-header{
+  margin-bottom: .38em;
+}
+.readmore{
+  text-align: right;
+  margin-top: 0;
+}
 .content-title{
   font-size: 2.4em;
   line-height: 1.3;
@@ -117,6 +188,11 @@ a{
   }
   .footer{
     @include width(6);
+  }
+  .tagline{
+    .button{
+      visibility: visible;
+    }
   }
 }
 /*

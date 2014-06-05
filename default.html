@@ -1,7 +1,18 @@
 {% capture content %}
     <section class="content">
       {{body}}
-
+      <hr>
+      <h1 class="pubsheader"><span id="daideas"><a href="#">DAIdeas</a></span></h1>
+      {{ site.pages.daideas.meta.summary | markdown }}
+      <p class="readmore details"><a href="#"><span class="ss-icon ss-standard"> &#x21AA; </span> Recent Articles</a></p>
+      <hr>
+      <h1 class="pubsheader" id="developments"><a href="#">DEVELOPMENTS</a></h1>
+      {{ site.pages.developments.meta.summary | markdown }}
+      <p class="readmore details"><a href="#"><span class="ss-icon ss-standard"> &#x21AA; </span> Recent Issues</a></p>
+      <hr>
+      <h1 class="pubsheader" id="devalts"><a href="#">DEVELOPING<br>ALTERNATIVES</a></h1>
+      {{ site.pages.developing-alternatives.meta.summary | markdown }}
+      <p class="readmore details"><a href="#"><span class="ss-icon ss-standard"> &#x21AA; </span> Recent Issues</a></p>
     </section><!-- /content -->
 {% endcapture %}
 {% include 'layouts/default' %}
