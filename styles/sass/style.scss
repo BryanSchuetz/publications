@@ -1,6 +1,8 @@
 @import "ss-standard";
 @import "ss-social-circle";
 @import "grid";
+@import "reset";
+@import "variables";
 
 body{
   font-family: Helvetica, Arial, sans-serif;
@@ -17,68 +19,59 @@ article, header, nav, section {
     display: block;
 }
 
-/* Layout
+/* Page Layout
 ================================ */
 .nav-wrap{
-  background-color: yellow;
+  background-color: $black;
   padding: .5em;
-}
-.utility-nav{
-
-}
-.header-wrap{
-  background-color: pink;
 }
 .primary-header{
   @include width(5);
   margin: auto;
-  background-color: yellow;
 }
 .wrap{
   margin: auto;
   overflow: hidden;
-  background-color: yellow;
   @include width(5);
 }
 .footer-wrap{
-  background-color: pink;
+  background-color: $black;
 }
 .footer{
   @include width(5);
   margin: auto;
-  background-color: yellow;
+  color: $nav-blue;
+  // padding: 1em 0 1em 0;
 }
 
 /* Text
 ================================ */
 
 a{
-  color: #0091e5;
+  color: $green-link;
   text-decoration: none;
 }
 
-/* Header */
+/* Page Sections */
 
-
-.site-title{ font-size: 1.2em; }
-
-.page-menu {
-  margin: 0 0 30px;
-  padding: 0;
+// Nav
+.utility-nav{
+  ul{
+    list-style-type: none;
+    margin: 0;
+  }
+  li{
+    float: left;
+    margin-right: 1em;
+    font-size: .9rem;
+    a{
+      color: $nav-gray;
+    }
+    .is-current-page{
+      color: $white;
+    }
+  }
 }
-
-.page-menu li{
-  border-top: 1px dotted #d4d7d9;
-  margin: 0.5em 0 0;
-  padding: 0.5em 0 0;
-  list-style: none;
-}
-
-.is-current-page{
-  color: #999;
-  pointer-events: none;
-}
-
 /* Content */
 
 .content-title{
