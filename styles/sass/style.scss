@@ -5,10 +5,13 @@
 @import "variables";
 @import "typography";
 
+html{
+  font-size: 12px;
+  line-height: 21px;
+}
+
 body{
   font-family: 'proxima-nova-1', Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 23px;
   margin: 0;
   visibility: hidden;
 }
@@ -93,7 +96,9 @@ section{
   @include min-width(5);
   ul{
     list-style-type: none;
-    margin: 0;
+    margin: 0 0 0 1em;
+    -webkit-margin-before: 0;
+    -webkit-padding-start: 0;
   }
   li{
     float: left;
@@ -162,6 +167,15 @@ section hr{
   margin-right: 15px;
 }
 
+// Article Pages
+
+span.tags::after{
+    content: " | ";
+    margin-left: .2em;
+}
+span.tags:last-child::after{
+    content: " "
+}
 //—————————————————————//
 //****Media Queries****//
 //—————————————————————//
@@ -194,6 +208,16 @@ section hr{
       visibility: visible;
     }
   }
+  html{
+    font-size: 13px;
+    line-height: 22px;
+  }
+  h1{
+    font-size: 3.3rem;
+  }
+  .masthead{
+    margin-top: 4em;
+  }
 }
 /*
   Tablet layout
@@ -210,7 +234,19 @@ section hr{
   .footer{
     @include width(8);
   }
-
+  html{
+    font-size: 16px;
+    line-height: 25px;
+  }
+  h1{
+    font-size: 4.3rem;
+  }
+  .masthead{
+    margin-top: 5em;
+  }
+  .utility-nav{
+    @include width(8)
+  }
 }
 /*
   Widescreen layout
@@ -218,14 +254,14 @@ section hr{
   Zoomed in above 912 px
 */
 @media screen and (min-width: 57em){
-.primary-header{
-  @include width(12);
-}
-.wrap{
-  @include width(12);
-}
-.footer{
-  @include width(12);
-}
+  .primary-header{
+    @include width(12);
+  }
+  .wrap{
+    @include width(12);
+  }
+  .footer{
+    @include width(12);
+  }
 }
 /* I got 99 problems, but this last line ain't one */
