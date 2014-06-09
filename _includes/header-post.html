@@ -1,7 +1,10 @@
 <header class="primary-header">
   <div class="masthead">
-    <h1 class="masthead-title">{% if '/daideas' == url %}
-        <span class="daideas-mast">{{title}}</span>{% else %}{{ title }} {% endif %} </h1>
+    <h1 class="masthead-title">
+      {% if meta.publication == 'daideas' %}
+        <a href="/daideas"><span class="daideas-mast">DAIdeas</span></a>
+      {% endif %}
+    </h1>
     <hr>
   </div>
   <div class="tagline cf">

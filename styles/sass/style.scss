@@ -122,7 +122,21 @@ section hr{
 }
 #daideas{
   display: block;
-  padding: .4em;
+  padding-top: .6em;
+  padding-left: .4em;
+  padding-bottom: .6em;
+  background-color: $green-link;
+  color: white !important;
+  font-weight: 400;
+  a{
+    color: white !important;
+  }
+}
+.daideas-mast{
+  display: block;
+  padding-top: .6em;
+  padding-left: .4em;
+  padding-bottom: .6em;
   background-color: $green-link;
   color: white !important;
   font-weight: 400;
@@ -143,23 +157,12 @@ section hr{
     color: $black;
   }
 }
-.pubs-header{
-  margin-bottom: .38em;
+.pubsheader, .postheader{
+  margin: .5em 0 .5em 0;
 }
 .readmore{
   text-align: right;
   margin-top: 0;
-}
-.content-title{
-  font-size: 2.4em;
-  line-height: 1.3;
-  margin: 0 0 0.5em;
-}
-
-.post-preview{
-  border-top: 1px dotted #d4d7d9;
-  margin: 1em 0 0;
-  padding: 1em 0 0;
 }
 
 .subpage-menu a{
@@ -168,7 +171,17 @@ section hr{
 }
 
 // Article Pages
+.issue{
+  margin-top: 0;
+}
+.content ul{
+  list-style-position: outside;
+  padding-left: 1.5em;
+  li{
+    margin-bottom: .8em;
+  }
 
+}
 span.tags::after{
     content: " | ";
     margin-left: .2em;
@@ -235,11 +248,11 @@ span.tags:last-child::after{
     @include width(8);
   }
   html{
-    font-size: 16px;
-    line-height: 25px;
+    font-size: 17px;
+    line-height: 27px;
   }
   h1{
-    font-size: 4.3rem;
+    font-size: 4rem;
   }
   .masthead{
     margin-top: 5em;
@@ -262,6 +275,10 @@ span.tags:last-child::after{
   }
   .footer{
     @include width(12);
+  }
+  html{
+    font-size: 18px;
+    line-height: 30px;
   }
 }
 /* I got 99 problems, but this last line ain't one */

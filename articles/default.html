@@ -1,0 +1,18 @@
+{% capture content %}
+<p class="details issue"><strong>{{ date | date: "%B %Y" }}</strong></p>
+    <section class="content">
+      <article>
+        <h2>{{ title }} </h2>
+        <span class="postDetails clearfix">
+          <span class="details byline">By <strong>{{ meta.author }} </strong></span>
+          <br><span class="tagLinks details">Article Topics:
+          {% for tag in taxonomy['tags'] %}
+              <span class="tags"><a class="tags" href="{{ tag.url }} ">{{ tag.value }} </a></span>
+          {% endfor %}
+          </span>
+        </span>
+        {{body}}
+      </article>
+    </section><!-- /content -->
+{% endcapture %}
+{% include 'layouts/post' %}
