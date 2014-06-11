@@ -3,15 +3,15 @@
       {{body}}
       <hr>
       <h1 class="pubsheader"><span id="daideas"><a href="/daideas">DAIdeas</a></span></h1>
-      {{ site.pages.daideas.meta.summary | markdown }}
+      {{ site.pages.daideas.excerpt }}
       <p class="readmore details"><a href="/daideas"><span class="ss-icon ss-standard"> &#x21AA; </span> Recent Articles</a></p>
       <hr>
-      <h1 class="pubsheader" id="developments"><a href="#">DEVELOPMENTS</a></h1>
-      {{ site.pages.developments.meta.summary | markdown }}
-      <p class="readmore details"><a href="#"><span class="ss-icon ss-standard"> &#x21AA; </span> Recent Issues</a></p>
+      <h1 class="pubsheader" id="developments"><a href="/developments">DEVELOPMENTS</a></h1>
+      {{ site.pages.developments.excerpt }}
+      <p class="readmore details"><a href="/developments"><span class="ss-icon ss-standard"> &#x21AA; </span> Recent Issues</a></p>
       <hr>
       <h1 class="pubsheader" id="devalts"><a href="#">DEVELOPING<br>ALTERNATIVES</a></h1>
-      {{ site.pages.developing-alternatives.meta.summary | markdown }}
+      {{ site.pages.developing-alternatives.excerpt }}
       <p class="readmore details"><a href="#"><span class="ss-icon ss-standard"> &#x21AA; </span> Recent Issues</a></p>
     </section><!-- /content -->
 {% endcapture %}

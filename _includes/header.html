@@ -1,7 +1,14 @@
 <header class="primary-header">
   <div class="masthead">
-    <h1 class="masthead-title">{% if '/daideas' == url %}
-        <span class="daideas-mast">{{title}}</span>{% else %}{{ title }} {% endif %} </h1>
+    {% if url contains '/daideas' %}
+      <h1 class="masthead-title"><span class="daideas-mast"><a href="/daideas">DAIdeas</a></span></h1>
+      {% elsif url contains '/developments' %}
+        <h1 class="masthead-title-developments"><a href="/developments">DEVELOPMENTS</a></h1>
+      {% elsif url contains '/developing-alternatives' %}
+        <h1 class="masthead-title-developing-alternatives"><a href="/developing-alternatives">Developing Alternatives</a></h1>
+      {% else %}
+        <h1 class="masthead-title">{{title}}</h1>
+    {% endif %}
     <hr>
   </div>
   <div class="tagline cf">

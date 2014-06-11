@@ -1,0 +1,14 @@
+{% capture content %}
+    <section class="content">
+    {{ site.pages.developments.excerpt | markdown }}
+    <h3>Full Article Archive:</h3>
+    <hr>
+    {% for post in site.pages.articles.posts limit:4 %}
+      {% if post.meta.publication == 'developments' %}
+      {% include 'includes/article' %}
+      {% endif %}
+    {% endfor %}
+    <p class="readmore details"><a href="/developments"><span class="ss-icon ss-standard"> &#x21AA; </span> Recent Issues</a></p>
+    </section><!-- /content -->
+{% endcapture %}
+{% include 'layouts/default' %}
