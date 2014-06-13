@@ -1,0 +1,13 @@
+{% capture content %}
+    <section class="content">
+      {{body}}
+    <h3>Recent Issues:</h3>
+    <hr>
+    {% for page in site.pages.developing-alternatives.pages %}
+      <h2 class="postheader"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+    <hr>
+    {% endfor %}
+    <p class="readmore details"><a href="/developing-alternatives/archive"><span class="ss-icon ss-standard"> &#x21AA; </span> Full Article Archive</a></p>
+    </section><!-- /content -->
+{% endcapture %}
+{% include 'layouts/default' %}
