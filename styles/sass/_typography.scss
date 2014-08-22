@@ -14,6 +14,9 @@ a{
   color: $green-link;
   text-decoration: none;
 }
+a:hover{
+  opacity: 0.9;
+}
 
 /* Header
 ================================ */

@@ -8,7 +8,6 @@
 html{
   font-size: 12px;
   line-height: 21px;
-  foo: bar;
 }
 
 body{
@@ -37,6 +36,7 @@ article, header, nav, section {
   position: fixed;
   width: 100%;
   top: 0;
+  z-index: 10;
 }
 .headroom{
   -webkit-transition:-webkit-transform 300ms linear;
@@ -238,6 +238,54 @@ span.tags:last-child::after{
 header{
   padding-top: 1em;
 }
+
+// Issue Pages
+
+.feature{
+  position: relative;
+  height: 177px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2em;
+  a{
+    color: $white;
+  }
+}
+.feature-odd{
+  p{
+    background-color: rgba(91,156,62,0.8);
+  }
+}
+.feature-even{
+  p{
+    background-color: rgba(121,83,0,0.8);
+  }
+}
+.feature-link{
+  font-size: 1.5rem;
+  line-height: 2rem;
+  padding: .5em;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  margin-bottom: 0;
+}
+.also-features{
+  -moz-columns: 2;
+  -webkit-columns: 2;
+  columns: 2;
+  -webkit-column-gap: $gutter;
+  -moz-column-gap: $gutter;
+  column-gap: $gutter;
+  ul{
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+    li{
+      min-height: 3em;
+    }
+  }
+}
 //—————————————————————//
 //****Media Queries****//
 //—————————————————————//
@@ -280,6 +328,9 @@ header{
   .masthead{
     margin-top: 4em;
   }
+  .feature{
+    height: 273px;
+  }
 }
 /*
   Tablet layout
@@ -309,6 +360,16 @@ header{
   .utility-nav{
     @include width(8)
   }
+  .feature{
+    @include width(4);
+  }
+  .feature-odd{
+    float: left;
+    margin-right: $gutter;
+  }
+  .feature-even{
+    float: right;
+  }
 }
 /*
   Widescreen layout
@@ -328,6 +389,9 @@ header{
   html{
     font-size: 18px;
     line-height: 30px;
+  }
+  .feature{
+    @include width(6);
   }
 }
 /* I got 99 problems, but this last line ain't one */
