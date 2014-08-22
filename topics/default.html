@@ -1,0 +1,11 @@
+{% capture content %}
+    <section class="content">
+      {{body}}
+      {% for tag in site.taxonomy.tags %}
+        <div class="tag-block">
+          <p>{{ tag.value }} </p>
+        </div>
+      {% endfor %}
+    </section><!-- /content -->
+{% endcapture %}
+{% include 'layouts/default' %}

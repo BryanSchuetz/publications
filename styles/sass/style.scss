@@ -8,6 +8,7 @@
 html{
   font-size: 12px;
   line-height: 21px;
+  foo: bar;
 }
 
 body{
@@ -23,6 +24,9 @@ img, video, object{ max-width: 100% }
 
 article, header, nav, section {
     display: block;
+    h2{
+      margin-bottom: 0;
+    }
 }
 
 /* Page Layout
@@ -30,7 +34,32 @@ article, header, nav, section {
 .nav-wrap{
   background-color: $black;
   padding: .5em;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
+.headroom{
+  -webkit-transition:-webkit-transform 300ms linear;
+   -moz-transition:transform 300ms linear;
+     -o-transition:transform 300ms linear;
+        transition:transform 300ms linear;
+}
+.headroom--pinned {
+  -webkit-transform:translateY(0%);
+     -moz-transform:translateY(0%);
+      -ms-transform:translateY(0%);
+       -o-transform:translateY(0%);
+          transform:translateY(0%);
+  z-index: 10;
+}
+.headroom--unpinned {
+  -webkit-transform:translateY(-100%);
+   -moz-transform:translateY(-100%);
+    -ms-transform:translateY(-100%);
+     -o-transform:translateY(-100%);
+        transform:translateY(-100%);
+}
+
 .primary-header{
   @include width(4);
   @include min-width(4);
@@ -104,6 +133,7 @@ section{
   li{
     float: left;
     margin-right: 1em;
+    color: $nav-gray;
     a{
       color: $nav-gray;
     }
@@ -186,6 +216,7 @@ section hr{
 // Article Pages
 .issue{
   margin-top: 0;
+  color: lighten($black, 40%);
 }
 .content ul{
   list-style-position: outside;
@@ -193,7 +224,9 @@ section hr{
   li{
     margin-bottom: .8em;
   }
-
+}
+.issue{
+  margin: 0;
 }
 span.tags::after{
     content: " | ";
@@ -201,6 +234,9 @@ span.tags::after{
 }
 span.tags:last-child::after{
     content: " "
+}
+header{
+  padding-top: 1em;
 }
 //—————————————————————//
 //****Media Queries****//

@@ -1,9 +1,11 @@
-<div class="nav-wrap cf">
+<div id="nav" class="nav-wrap cf">
   <nav class="utility-nav cf">
     <ul class="cf">
-        <li><a href="/"{% if '/' == url or '/daideas' == url or '/developments' == url or '/developing-alternatives' == url or url contains '/articles/'%} class="is-current-page"{% endif %}><span class="ss-icon ss-standard">&#x1F4D6;</span> Publications</a></li>
-        <li><a href="/topics"{% if '/topics' == url %} class="is-current-page"{% endif %}><span class="ss-icon ss-standard">&#xE100;</span> Topics</a></li>
-        <li><a href="/about"{% if '/about' == url %} class="is-current-page"{% endif %}><span class="ss-icon ss-standard">&#x2139;</span> About this site</a></li>
+        <li><a href="/"{% if '/' == url or '/daideas' == url or '/developments' == url or '/developing-alternatives' == url or url contains '/articles/'%} class="is-current-page"{% endif %}>PUBLICATIONS</a></li>
+        <li>/</li>
+        <li><a href="/topics"{% if '/topics' == url %} class="is-current-page"{% endif %}>TOPICS</a></li>
+        <li>/</li>
+        <li><a href="/about"{% if '/about' == url %} class="is-current-page"{% endif %}>ABOUT</a></li>
       </ul>
   </nav>
 </div>
