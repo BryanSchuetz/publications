@@ -370,6 +370,14 @@ header{
   .feature-even{
     float: right;
   }
+  .article-lead{
+    -moz-columns: 2;
+    -webkit-columns: 2;
+    columns: 2;
+    -webkit-column-gap: $gutter;
+    -moz-column-gap: $gutter;
+    column-gap: $gutter;
+  }
 }
 /*
   Widescreen layout
