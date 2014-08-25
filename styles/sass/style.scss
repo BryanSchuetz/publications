@@ -107,6 +107,7 @@ header{
 }
 .footer-wrap{
   background-color: $black;
+  min-height: 5em;
 }
 .footer{
   @include width(4);
@@ -238,7 +239,10 @@ span.tags:last-child::after{
 header{
   padding-top: 1em;
 }
-
+img.author{
+  float: left;
+  margin-right: $gutter;
+}
 // Issue Pages
 
 .feature{
@@ -285,6 +289,23 @@ header{
       min-height: 3em;
     }
   }
+}
+// SVGs
+.envelope{
+  height: 15px;
+  width: 15px;
+  position: relative;
+  top: 2px;
+}
+#envelope-path{
+  fill: $green-link;
+}
+.more-arrow{
+  width: 15px;
+  height: 15px;
+}
+#more-arrow-path{
+  fill: $green-link;
 }
 //—————————————————————//
 //****Media Queries****//

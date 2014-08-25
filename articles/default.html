@@ -13,6 +13,15 @@
         </span>
         {{body}}
       </article>
+      <hr>
+      <div class="author-block">
+      {% for asset in assets %}
+        {% if asset.meta.author? %}
+          <img class="author" src="{{ asset.url }}" alt="Photo of {{ meta.author }}" />
+        {% endif %}
+      {% endfor %}
+      <p>{{ meta.author-bio | markdown }}</p>
+      </div>
     </section><!-- /content -->
 {% endcapture %}
 {% include 'layouts/post' %}
