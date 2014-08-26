@@ -11,11 +11,16 @@
 ================================ */
 
 a{
-  color: $green-link;
+  color: white;
+  background-color: lighten($green-link, 10%);
+  padding: 2px 4px;
   text-decoration: none;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  border-radius:5px;
 }
 a:hover{
-  opacity: 0.9;
+  background-color: darken($green-link, 10%);
 }
 
 /* Header

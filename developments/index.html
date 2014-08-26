@@ -1,9 +1,11 @@
 {% capture content %}
     <section class="content">
+      {% assign intro  = site.pages.developments %}
+      {{ intro.body }}
     <h3>Recent Issues:</h3>
     <hr>
     {% for page in site.pages.developments.pages %}
-      <h2 class="postheader"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+      <h2 class="postheader postheader-issue"><a href="{{ page.url }}">{{ page.title }}</a></h2>
     <hr>
     {% endfor %}
     <p class="readmore details"><a href="/developments/archive"><svg class="more-arrow" viewBox="0 0 247 185" preserveAspectRatio="xMinYMax"><use xlink:href="#more-arrow"></use></svg> Full Article Archive</a></p>

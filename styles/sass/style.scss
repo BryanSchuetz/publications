@@ -5,11 +5,15 @@
 @import "variables";
 @import "typography";
 
+/* Page
+================================ */
+
+// Core Competency
+
 html{
   font-size: 12px;
   line-height: 21px;
 }
-
 body{
   font-family: 'proxima-nova-1', Helvetica, Arial, sans-serif;
   margin: 0;
@@ -20,16 +24,60 @@ body{
   box-sizing: border-box;
 }
 img, video, object{ max-width: 100% }
-
-article, header, nav, section {
+iframe{
+  width: 100%;
+}
+header{
+  padding-top: 1em;
+}
+article, header, nav{
     display: block;
     h2{
       margin-bottom: 0;
     }
 }
+section{
+  display: block;
+  margin-bottom: 8em;
+}
 
-/* Page Layout
+// Misc Components
+
+section hr{
+  border: 0;
+  border-bottom: 1px solid $nav-gray;
+}
+blockquote{
+  margin-left: 0;
+  padding-left: 1em;
+  border-left: .4em solid $black;
+
+}
+
+// SVGs
+
+.envelope{
+  height: 15px;
+  width: 15px;
+  position: relative;
+  top: 2px;
+}
+#envelope-path{
+  fill: $green-link;
+}
+.more-arrow{
+  width: 15px;
+  height: 15px;
+}
+#more-arrow-path{
+  fill: $white;
+}
+
+/* Header
 ================================ */
+
+// Nav
+
 .nav-wrap{
   background-color: $black;
   padding: .5em;
@@ -59,70 +107,6 @@ article, header, nav, section {
      -o-transform:translateY(-100%);
         transform:translateY(-100%);
 }
-
-.primary-header{
-  @include width(4);
-  @include min-width(4);
-  margin: auto;
-}
-
-.masthead{
-  margin-top: 3em;
-  border: none;
-  border-bottom: 1px solid $black;
-  hr{
-    border: 0;
-    border-bottom: 3px solid $black;
-    margin: 0 0 .2em 0;
-
-  }
-}
-header{
-  border-bottom: 1px solid $black;
-}
-.tagline{
-  padding: .5em 0;
-  .tag{
-    display: block;
-    float: left;
-  }
-  .button{
-    visibility: hidden;
-    display: block;
-    float: right;
-    position: relative;
-    top: -1px;
-  }
-  .ss-icon{
-    position: relative;
-    top: 2px;
-  }
-}
-
-.wrap{
-  margin: auto;
-  overflow: hidden;
-  @include width(4);
-  @include min-width(4);
-}
-.footer-wrap{
-  background-color: $black;
-  min-height: 5em;
-}
-.footer{
-  @include width(4);
-  @include min-width(4);
-  margin: auto;
-  color: $nav-blue;
-  // padding: 1em 0 1em 0;
-}
-section{
-  margin-bottom: 8em;
-}
-
-/* Page Sections */
-
-// Nav
 .utility-nav{
   @include min-width(5);
   ul{
@@ -137,70 +121,88 @@ section{
     color: $nav-gray;
     a{
       color: $nav-gray;
+      background: none;
+    }
+    a:hover{
+      color: $white;
     }
     .is-current-page{
       color: $white;
     }
+    .is-current-page:hover{
+      color: $white;
+    }
   }
-}
-.ss-icon{
-  position: relative;
-  top:2px;
-}
-/* Content */
-section hr{
-  border: 0;
-  border-bottom: 1px solid $nav-gray;
-}
-#daideas{
-  display: block;
-  padding-top: .6em;
-  padding-left: .4em;
-  padding-bottom: .6em;
-  background-color: $green-link;
-  color: white !important;
-  font-weight: 400;
-  a{
-    color: white !important;
-  }
-}
-.daideas-mast{
-  display: block;
-  padding-top: .6em;
-  padding-left: .4em;
-  padding-bottom: .6em;
-  background-color: $green-link;
-  color: white !important;
-  font-weight: 400;
-  a{
-    color: white !important;
-  }
-}
-#developments{
-  font-weight: 900;
-  a{
-    color: $black;
-  }
-}
-#devalts{
-  font-weight: 300;
-  line-height: .8em;
-  a{
-    color: $black;
-  }
-}
-.pubsheader, .postheader{
-  margin: .5em 0 .5em 0;
-}
-.readmore{
-  text-align: right;
-  margin-top: 0;
 }
 
-.subpage-menu a{
-  display: inline-block;
-  margin-right: 15px;
+// Masthead
+
+.primary-header{
+  @include width(4);
+  @include min-width(4);
+  margin: auto;
 }
+.masthead{
+  margin-top: 3em;
+  border: none;
+  border-bottom: 1px solid $black;
+  hr{
+    border: 0;
+    border-bottom: 3px solid $black;
+    margin: 0 0 .2em 0;
+
+  }
+  a{
+    background: none;
+  }
+}
+header{
+  border-bottom: 1px solid $black;
+}
+.tagline{
+  padding: .5em 0;
+  .tag{
+    display: block;
+    float: left;
+    a{
+      background: none;
+      color: $green-link;
+    }
+    a:hover{
+      color: darken($green-link, 10%);
+    }
+  }
+  .button{
+    visibility: hidden;
+    display: block;
+    float: right;
+    position: relative;
+    top: -1px;
+    a{
+      background: none;
+      color: $green-link;
+    }
+    a:hover{
+      color: darken($green-link, 10%);
+    }
+  }
+}
+
+/* Body-Default
+================================ */
+
+.wrap{
+  margin: auto;
+  overflow: hidden;
+  @include width(4);
+  @include min-width(4);
+}
+
+/* Body-Article
+================================ */
+
+// Mastheads
+
 .masthead-title-developments{
   font-weight: 900;
   a{
@@ -214,11 +216,20 @@ section hr{
     color: $black;
   }
 }
-// Article Pages
+
+// Details
+
 .issue{
-  margin-top: 0;
+  margin: 0;
   color: lighten($black, 40%);
 }
+span.tags::after{
+    content: " \00a0 ";
+    margin-left: .2em;
+}
+
+// Article-Content
+
 .content ul{
   list-style-position: outside;
   padding-left: 1.5em;
@@ -226,24 +237,15 @@ section hr{
     margin-bottom: .8em;
   }
 }
-.issue{
-  margin: 0;
-}
-span.tags::after{
-    content: " | ";
-    margin-left: .2em;
-}
-span.tags:last-child::after{
-    content: " "
-}
-header{
-  padding-top: 1em;
-}
 img.author{
   float: left;
   margin-right: $gutter;
 }
-// Issue Pages
+
+/* Body-Issue
+================================ */
+
+// Featured Items
 
 .feature{
   position: relative;
@@ -290,26 +292,97 @@ img.author{
     }
   }
 }
-// SVGs
-.envelope{
-  height: 15px;
-  width: 15px;
-  position: relative;
-  top: 2px;
+
+/* Body-Archive
+================================ */
+
+// Mastheads
+
+#daideas{
+  display: block;
+  padding-top: .6em;
+  padding-left: .4em;
+  padding-bottom: .6em;
+  background-color: $green-link;
+  color: white !important;
+  font-weight: 400;
+  a{
+    color: white !important;
+  }
 }
-#envelope-path{
-  fill: $green-link;
+.daideas-mast{
+  display: block;
+  padding-top: .6em;
+  padding-left: .4em;
+  padding-bottom: .6em;
+  background-color: $green-link;
+  color: white !important;
+  font-weight: 400;
+  a{
+    color: white !important;
+  }
 }
-.more-arrow{
-  width: 15px;
-  height: 15px;
+#developments{
+  font-weight: 900;
+  a{
+    color: $black;
+  }
 }
-#more-arrow-path{
-  fill: $green-link;
+#devalts{
+  font-weight: 300;
+  line-height: .8em;
+  a{
+    color: $black;
+  }
 }
-//—————————————————————//
-//****Media Queries****//
-//—————————————————————//
+.pubsheader, .postheader{
+  margin: .5em 0 .5em 0;
+  a{
+    background: none;
+  }
+}
+.postheader a{
+  color: $black;
+}
+.postheader-issue{
+  a{
+    color: $green-link;
+  }
+  a:hover{
+    color: darken($green-link, 10%);
+  }
+}
+
+// Details
+
+.readmore{
+  text-align: right;
+  margin-top: 0;
+}
+
+/* Footer
+================================ */
+
+.footer-wrap{
+  background-color: $black;
+  min-height: 5em;
+  a{
+    background: none;
+  }
+}
+.footer{
+  @include width(4);
+  @include min-width(4);
+  margin: auto;
+  color: $nav-blue;
+  // padding: 1em 0 1em 0;
+}
+
+/*
+================================
+==========Media Queries==========
+================================ */
+
 /*
   Mobile layout
   240–479 px
@@ -351,6 +424,9 @@ img.author{
   }
   .feature{
     height: 273px;
+  }
+  iframe{
+    height: 18em;
   }
 }
 /*
@@ -421,6 +497,9 @@ img.author{
   }
   .feature{
     @include width(6);
+  }
+  iframe{
+    height: 26em;
   }
 }
 /* I got 99 problems, but this last line ain't one */

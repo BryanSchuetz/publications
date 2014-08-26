@@ -64,7 +64,7 @@
   function isDOMElement(obj) {
     return obj && typeof window !== 'undefined' && (obj === window || obj.nodeType);
   }
- 
+
   /**
    * Helper function for extending objects
    */
