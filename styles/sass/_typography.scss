@@ -11,7 +11,7 @@
 ================================ */
 
 a{
-  color: white;
+  color: $white;
   background-color: lighten($green-link, 10%);
   padding: 2px 4px;
   text-decoration: none;

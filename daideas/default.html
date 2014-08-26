@@ -1,12 +1,13 @@
 {% capture content %}
     <section class="content">
       {{body}}
-    <h3>Full Article Archive:</h3>
-      {% for post in site.pages.articles.posts limit:4 %}
-        {% if post.meta.publication == 'daideas' %}
-        {% include 'includes/article' %}
-        {% endif %}
-      {% endfor %}
+      <hr>
+      <h3>Full Article Archive:</h3>
+        {% for post in site.pages.articles.posts limit:4 %}
+          {% if post.meta.publication == 'daideas' %}
+          {% include 'includes/article' %}
+          {% endif %}
+        {% endfor %}
     </section><!-- /content -->
 {% endcapture %}
 {% include 'layouts/default' %}
