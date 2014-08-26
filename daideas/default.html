@@ -4,7 +4,7 @@
       <hr>
       <h3>Full Article Archive:</h3>
         {% for post in site.pages.articles.posts limit:4 %}
-          {% if post.meta.publication == 'daideas' %}
+          {% if post.meta.publication == 'DAIdeas' %}
           {% include 'includes/article' %}
           {% endif %}
         {% endfor %}
