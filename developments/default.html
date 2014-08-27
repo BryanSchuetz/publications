@@ -26,7 +26,10 @@
             <span class="tags"><a class="tags" href="{{ tag.url }} ">{{ tag.value }} </a></span>
             {% endfor %} </span>
             </span>
-            <div class="article-lead">{{ post.excerpt }}</div>
+            <div class="article-lead">
+              {{ post.body | truncatewords: 500  }}
+              <p class="readmore details"><a href="{{ post.url }}"><svg class="more-arrow" viewBox="0 0 247 185" preserveAspectRatio="xMinYMax"><use xlink:href="#more-arrow"></use></svg> Read More</a></p>
+            </div>
             <hr>
             </article>
           {% endif %}
@@ -41,18 +44,12 @@
             {% endfor %} </span>
             </span>
             {{ post.excerpt }}
+            <p class="readmore details"><a href="{{ post.url }}"><svg class="more-arrow" viewBox="0 0 247 185" preserveAspectRatio="xMinYMax"><use xlink:href="#more-arrow"></use></svg> Read More</a></p>
             <hr>
             </article>
           {% endunless %}
         {% endif %}
       {% endfor %}
     </div>
-    <!-- <hr>
-    {% for page in site.pages.developments.pages %}
-      <h2 class="postheader"><a href="{{ page.url }}">{{ page.title }}</a></h2>
-    <hr>
-    {% endfor %}
-    <p class="readmore details"><a href="/developments/archive"><span class="ss-icon ss-standard"> &#x21AA; </span> Full Article Archive</a></p>
-    </section> -->
 {% endcapture %}
 {% include 'layouts/default' %}

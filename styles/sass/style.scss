@@ -70,7 +70,7 @@ blockquote{
   height: 15px;
 }
 #more-arrow-path{
-  fill: $white;
+  fill: $green-link;
 }
 
 /* Header
@@ -123,6 +123,7 @@ blockquote{
       color: $nav-gray;
       background: none;
       padding: 0;
+      border-bottom: 0;
     }
     a:hover{
       color: $white;
@@ -156,6 +157,7 @@ blockquote{
   a{
     background: none;
     padding: 0;
+    border-bottom: 0;
   }
 }
 header{
@@ -170,6 +172,7 @@ header{
       background: none;
       color: $green-link;
       padding: 0;
+      border-bottom: 0;
     }
     a:hover{
       color: darken($green-link, 10%);
@@ -185,6 +188,7 @@ header{
       background: none;
       color: $green-link;
       padding: 0;
+      border-bottom: 0;
     }
     a:hover{
       color: darken($green-link, 10%);
@@ -243,7 +247,13 @@ span.tags::after{
 }
 img.author{
   float: left;
-  margin-right: $gutter;
+  margin-right: 1em;
+  margin-bottom: 0;
+}
+aside{
+  padding: 1em;
+  background-color: $background-gray;
+  border: 1px solid $nav-gray;
 }
 
 /* Body-Issue
@@ -261,6 +271,7 @@ img.author{
     color: $white;
     background: none;
     padding: 0;
+    border-bottom: none;
   }
 }
 .feature-odd{
@@ -299,6 +310,7 @@ img.author{
         background: none;
         color: $green-link;
         padding: 0;
+        border-bottom: none;
       }
       a:hover{
         color: darken($green-link, 10%);
@@ -354,6 +366,7 @@ img.author{
   a{
     background: none;
     padding: 0;
+    border-bottom: none;
   }
 }
 .postheader a{
@@ -390,6 +403,7 @@ img.author{
     @include width(3);
     margin-left: auto;
     margin-right: auto;
+    border-bottom: none;
   }
   .logo{
     height: 60px;
@@ -494,12 +508,16 @@ img.author{
     float: right;
   }
   .article-lead{
+    padding-top: 1em;
     -moz-columns: 2;
     -webkit-columns: 2;
     columns: 2;
     -webkit-column-gap: $gutter;
     -moz-column-gap: $gutter;
     column-gap: $gutter;
+    p:first-of-type{
+      margin-top: 0;
+    }
   }
 }
 /*

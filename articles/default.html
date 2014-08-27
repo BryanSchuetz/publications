@@ -1,11 +1,20 @@
 {% capture content %}
     <section class="content">
       <article>
-        <p class="details issue"><strong>{{ meta.issue }}</strong></p>
+        <p class="details issue"><strong>
+          {% if meta.publication == 'Developments' or meta.publication == 'Developing Alternatives' %}
+            <a href="/{{ meta.publication | downcase }}/{{ meta.issue | downcase | split: " " | join: "-" }}">{{ meta.issue }}</a>
+          {% else %}
+            {{ date | date: "%B %Y" }}
+          {% endif %}
+          </strong></p>
         <h2>{{ title }} </h2>
         <span class="postDetails clearfix">
-          <span class="details byline">By <strong>{{ meta.author }} </strong></span>
-          <br><span class="tagLinks details">Article Topics:
+          {% if meta.author %}
+            <span class="details byline">By <strong>{{ meta.author }} </strong></span>
+            <br>
+          {% endif %}
+          <span class="tagLinks details">Article Topics:
           {% for tag in taxonomy['tags'] %}
               <span class="tags"><a class="tags" href="{{ tag.url }} ">{{ tag.value }} </a></span>
           {% endfor %}
@@ -14,14 +23,16 @@
         {{body}}
       </article>
       <hr>
-      <div class="author-block">
-      {% for asset in assets %}
-        {% if asset.meta.author? %}
-          <img class="author" src="{{ asset.url }}" alt="Photo of {{ meta.author }}" />
-        {% endif %}
-      {% endfor %}
-      <p>{{ meta.author-bio | markdown }}</p>
-      </div>
+      {% if meta.author %}
+        <div class="author-block">
+        {% for asset in assets %}
+          {% if asset.meta.author? %}
+            <img class="author" src="{{ asset.url }}" alt="Photo of {{ meta.author }}" />
+          {% endif %}
+        {% endfor %}
+          <p>{{ meta.author-bio | markdown }}</p>
+        </div>
+      {% endif %}
     </section><!-- /content -->
 {% endcapture %}
 {% include 'layouts/post' %}
