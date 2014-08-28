@@ -235,8 +235,11 @@ header{
   border-bottom: 0;
 }
 span.tags::after{
-    content: " \00a0 ";
+    content: "/";
     margin-left: .2em;
+}
+span.tags:last-of-type::after{
+  content: "";
 }
 
 // Article-Content
@@ -524,6 +527,10 @@ aside{
     p:first-of-type{
       margin-top: 0;
     }
+  }
+  .more-arrow{
+    height: 15px;
+    width: 15px;
   }
 }
 /*
