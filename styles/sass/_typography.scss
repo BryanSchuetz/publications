@@ -16,23 +16,21 @@ a{
   border-bottom: 2px solid $green-link;
   padding-bottom: 2px;
   padding: 1px 3px;
-  transition:background-color 0.2s linear;
-  transition:border-radius 0.2s linear;
-  #more-arrow-path{
-    fill: $green-link;
-  }
+  -webkit-transition:border-bottom 0.2s linear;
+  -moz-transition:border-bottom 0.2s linear;
+  -o-transition:border-bottom 0.2s linear;
+  transition:border-bottom 0.2s linear;
 }
 a:hover{
   color: $white;
   background-color: lighten($green-link, 15%);
-  transition:delay 0.1s;
-  transition:background-color 0.2s linear;
   padding: 1px 3px;
   border-radius:5px;
   border-bottom: none;
-  #more-arrow-path{
-    fill: $white;
-  }
+  -webkit-transition:background-color 0.1s linear;
+  -moz-transition:background-color 0.1s linear;
+  -o-transition:background-color 0.1s linear;
+  transition:background-color 0.1s linear;
 }
 
 /* Header
