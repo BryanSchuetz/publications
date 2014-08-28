@@ -231,6 +231,9 @@ header{
   margin: 0;
   color: lighten($black, 40%);
 }
+.issue-link{
+  border-bottom: 0;
+}
 span.tags::after{
     content: " \00a0 ";
     margin-left: .2em;

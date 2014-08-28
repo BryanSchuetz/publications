@@ -3,7 +3,7 @@
       <article>
         <p class="details issue"><strong>
           {% if meta.publication == 'Developments' or meta.publication == 'Developing Alternatives' %}
-            <a href="/{{ meta.publication | downcase }}/{{ meta.issue | downcase | split: " " | join: "-" }}">{{ meta.issue }}</a>
+            <a class="issue-link" href="/{{ meta.publication | downcase }}/{{ meta.issue | downcase | split: " " | join: "-" }}">{{ meta.issue }}</a>
           {% else %}
             {{ date | date: "%B %Y" }}
           {% endif %}
