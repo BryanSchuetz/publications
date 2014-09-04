@@ -72,7 +72,15 @@ blockquote{
 #more-arrow-path{
   fill: $green-link;
 }
-
+.up{
+  height: 15px;
+  width: 15px;
+}
+.nav-up{
+  display: block;
+  float: right;
+  margin-right: $gutter;
+}
 /* Header
 ================================ */
 
@@ -108,7 +116,8 @@ blockquote{
         transform:translateY(-100%);
 }
 .utility-nav{
-  @include min-width(5);
+  @include min-width(4);
+  float: left;
   ul{
     list-style-type: none;
     margin: 0 0 0 1em;
@@ -443,6 +452,9 @@ aside{
   height: 10px;
   width: 10px;
 }
+.nav-up{
+  display:none;
+}
 }
 /*
   Wide mobile layout
@@ -476,6 +488,9 @@ aside{
   }
   iframe{
     height: 18em;
+  }
+  .nav-up{
+    display: block;
   }
 }
 /*
