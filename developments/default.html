@@ -16,7 +16,7 @@
     <div class="features-story">
       {% for post in site.pages.articles.posts %}
         {% if post.meta.publication == current.meta.publication  and post.meta.issue == current.meta.issue %}
-          {% if forloop.first %}
+          {% if forloop.first == true %}
             <article class="post-preview titles">
             <h2 class="postheader"><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <span class="postDetails clearfix">
@@ -32,8 +32,7 @@
             </div>
             <hr>
             </article>
-          {% endif %}
-          {% unless forloop.first %}
+          {% else %}
             <article class="post-preview titles">
             <h2 class="postheader"><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <span class="postDetails clearfix">
@@ -47,7 +46,7 @@
             <p class="readmore details"><a href="{{ post.url }}"><svg class="more-arrow" viewBox="0 0 247 185" preserveAspectRatio="xMinYMax"><use xlink:href="#more-arrow"></use></svg> Read More</a></p>
             <hr>
             </article>
-          {% endunless %}
+          {% endif %}
         {% endif %}
       {% endfor %}
     </div>
