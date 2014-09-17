@@ -16,7 +16,7 @@
     <div class="features-story">
       {% for post in site.pages.articles.posts %}
         {% if post.meta.publication == current.meta.publication  and post.meta.issue == current.meta.issue %}
-          {% if forloop.first == true %}
+          {% if post.meta.featured? %}
             <article class="post-preview titles">
             <h2 class="postheader"><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <span class="postDetails clearfix">
