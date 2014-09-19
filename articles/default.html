@@ -9,7 +9,17 @@
           {% endif %}
           </strong></p>
         <h2>{{ title }} </h2>
-        <span class="postDetails clearfix">
+        <div class="postDetails clearfix">
+          {% if meta.author %}
+            <p class="details byline">By <strong>{{ meta.author }}</strong></p>
+          {% endif %}
+          <p class="details tagLinks">Article Topics:
+            {% for tag in taxonomy.tags %}
+              <span class="tags"><a href="{{ tag.url }}" class="tags">{{ tag.value }}</a></span>
+            {% endfor %}
+          </p>
+        </div>
+        <!-- <span class="postDetails clearfix">
           {% if meta.author %}
             <span class="details byline">By <strong>{{ meta.author }} </strong></span>
             <br>
@@ -19,7 +29,7 @@
               <span class="tags"><a class="tags" href="{{ tag.url }} ">{{ tag.value }} </a></span>
           {% endfor %}
           </span>
-        </span>
+        </span> -->
         {{body}}
       </article>
       <hr>

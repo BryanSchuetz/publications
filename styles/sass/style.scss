@@ -1,5 +1,3 @@
-@import "ss-standard";
-@import "ss-social-circle";
 @import "grid";
 @import "reset";
 @import "variables";
@@ -241,7 +239,7 @@ header{
 // Details
 
 .issue{
-  margin: 0;
+  margin: .5em 0;
   color: lighten($black, 40%);
 }
 .issue-link{
@@ -254,7 +252,14 @@ span.tags::after{
 span.tags:last-of-type::after{
   content: "";
 }
-
+.postDetails{
+  margin-top: .4em;
+  padding-left: .4em;
+  border-left: solid 1px $nav-gray;
+  p.details{
+    margin: 0 0 -.4em;
+  }
+}
 // Article-Content
 
 .content ul{
