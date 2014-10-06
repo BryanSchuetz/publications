@@ -32,7 +32,9 @@ a:hover{
   -o-transition:background-color 0.1s linear;
   transition:background-color 0.1s linear;
 }
-
+html{
+  line-height: 23px;
+}
 /* Header
 ================================ */
 h1{
@@ -49,4 +51,8 @@ h2{
 .postheader{
   font-size: 2rem;
   line-height: 2.3rem;
+}
+sup{
+  vertical-align: top;
+  font-size: .8em;
 }

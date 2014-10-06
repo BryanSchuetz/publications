@@ -10,7 +10,7 @@
 
 html{
   font-size: 12px;
-  line-height: 21px;
+  line-height: 23px;
 }
 body{
   font-family: 'proxima-nova-1', Helvetica, Arial, sans-serif;
@@ -189,9 +189,8 @@ header{
       color: darken($green-link, 10%);
     }
   }
-  .button{
-    visibility: hidden;
-    display: block;
+  .foo{
+    display: none;
     float: right;
     position: relative;
     top: -1px;
@@ -279,7 +278,6 @@ aside{
   background-color: $background-gray;
   border: 1px solid $nav-gray;
 }
-
 /* Body-Issue
 ================================ */
 
@@ -330,6 +328,30 @@ aside{
     margin-top: 0;
     li{
       min-height: 3em;
+      a{
+        background: none;
+        color: $green-link;
+        padding: 0;
+        border-bottom: none;
+      }
+      a:hover{
+        color: darken($green-link, 10%);
+      }
+    }
+  }
+}
+.also-features-alternatives{
+  -moz-columns: 2;
+  -webkit-columns: 2;
+  columns: 2;
+  -webkit-column-gap: $gutter;
+  -moz-column-gap: $gutter;
+  column-gap: $gutter;
+  ul{
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+    li{
       a{
         background: none;
         color: $green-link;
@@ -464,6 +486,11 @@ aside{
 .nav-up{
   display:none;
 }
+.tagline{
+  .foo{
+    display: none;
+  }
+}
 }
 /*
   Wide mobile layout
@@ -481,8 +508,8 @@ aside{
     @include width(6);
   }
   .tagline{
-    .button{
-      visibility: visible;
+    .foo{
+      display: block;
     }
   }
   html{
