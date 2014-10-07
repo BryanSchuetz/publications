@@ -1,14 +1,12 @@
 {% capture content %}
     <section class="content">
     <h3>{{ title }}</h3>
-    <div class="features">
+    <div class="alt-features">
       {% for asset in current.assets %}
-        <div class="feature {% cycle 'feature-odd', 'feature-even' %}" style="background-image: url({{ asset.url }}); ">
-          <p class="feature-link"><a href="{{ asset.meta.link }}">{{ asset.meta.title }}</a></p>
-        </div>
+        <img src="{{ asset.url }}" alt="feature-image" />
       {% endfor %}
     </div>
-    <p><strong>Also Featured:</strong></p>
+    <p><strong>Featured:</strong></p>
     <div class="also-features-alternatives">
       {{ body }}
     </div>
