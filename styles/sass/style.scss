@@ -38,7 +38,9 @@ section{
   display: block;
   margin-bottom: 8em;
 }
-
+#featured-issues{
+  display:none;
+}
 // Misc Components
 
 section hr{
@@ -51,7 +53,22 @@ blockquote{
   border-left: .4em solid $black;
 
 }
-
+.featured-issue{
+  padding: 0;
+  display: block;
+  float: left;
+  width: 122px;
+  img{
+    border: 1px solid $nav-gray;
+  }
+}
+.first-featured{
+  margin-right: 10px;
+}
+.featured-issue:hover{
+  background: none;
+  padding:0;
+}
 // SVGs
 
 .envelope{
@@ -597,24 +614,28 @@ aside{
   Zoomed in above 912 px
 */
 @media screen and (min-width: 57em){
-  .primary-header{
+  #main-wrap{
     @include width(12);
+    margin: auto;
+  }
+  .primary-header{
+    @include width(8);
+    float: right;
   }
   .wrap{
-    @include width(12);
+    @include width(8);
+    float: right;
   }
   .footer{
     @include width(12);
   }
-  html{
-    font-size: 18px;
-    line-height: 30px;
-  }
-  .feature{
-    @include width(6);
-  }
-  iframe{
-    height: 26em;
+  #featured-issues{
+    display: block;
+    @include width(4);
+    float: left;
+    margin-right: $gutter;
+    margin-top: 5em;
+    position: fixed;
   }
 }
 /* I got 99 problems, but this last line ain't one */

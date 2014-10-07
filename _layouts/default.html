@@ -3,10 +3,13 @@
 {% include 'includes/head' %}
 <body id="body" onload="headroom.init()">
   {% include 'includes/nav' %}
-  {% include 'includes/header' %}
-  <div class="wrap">
-    {{ content }}
-  </div><!-- /wrap -->
+  <div id="main-wrap" class="cf">
+    {% include 'includes/featured-issues' %}
+    {% include 'includes/header' %}
+    <div class="wrap cf">
+      {{ content }}
+    </div><!-- /wrap -->
+  </div>
   {% include 'includes/footer' %}
 </body>
 </html>
