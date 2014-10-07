@@ -6,6 +6,8 @@
         <h1 class="masthead-title-developments"><a href="/developments">DEVELOPMENTS</a></h1>
       {% elsif url contains '/developing-alternatives' %}
         <h1 class="masthead-title-developing-alternatives"><a href="/developing-alternatives">DEVELOPING ALTERNATIVES</a></h1>
+      {% elsif url contains '/tags/' %}
+      <h1 class="masthead-topic">Article Topics</h1>
       {% else %}
         <h1 class="masthead-title">{{title}}</h1>
     {% endif %}

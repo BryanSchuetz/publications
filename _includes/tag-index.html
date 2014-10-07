@@ -1,0 +1,32 @@
+<article class="post-preview titles">
+<h3 class="postheader"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+
+<div class="postDetails clearfix">
+  {% if post.meta.author %}
+    <p class="details byline">By <strong>{{ post.meta.author }}</strong></p>
+  {% endif %}
+  <p class="details tagLinks">Article Topics:
+    {% for tag in post.taxonomy.tags %}
+      <span class="tags"><a href="{{ tag.url }}" class="tags">{{ tag.value }}</a></span>
+    {% endfor %}
+  </p>
+  {% if post.meta.issue %}
+    <p class="details">{{ post.meta.issue }}</p>
+  {% endif %}
+</div>
+
+<!-- <span class="postDetails clearfix">
+  {% if post.meta.author %}
+    <span class="details byline">By <strong>{{ post.meta.author }} </strong></span>
+    <br>
+  {% endif %}
+  <time datetime="{{post.date}}" class="date details">{{ post.date | date: "%B %Y" }} </time> - <span class="tagLinks details">Topics:
+{% for tag in post.taxonomy['tags'] %}
+<span class="tags"><a class="tags" href="{{ tag.url }} ">{{ tag.value }} </a></span>
+{% endfor %} </span>
+</span> -->
+
+{{ post.excerpt | truncatewords: 30 }}
+<p class="readmore details"><a href="{{ post.url }}"><svg class="more-arrow" viewBox="0 0 247 185" preserveAspectRatio="xMinYMax"><use xlink:href="#more-arrow"></use></svg> Read More</a></p>
+<hr>
+</article>

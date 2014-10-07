@@ -1,0 +1,10 @@
+{% capture content %}
+    <section class="content">
+    <h2 class="tag-header">#{{ current.title }}</h2>
+    <hr>
+    {% for post in posts %}
+      {% include 'includes/tag-index' %}
+    {% endfor %}
+    </section><!-- /content -->
+{% endcapture %}
+{% include 'layouts/default' %}
