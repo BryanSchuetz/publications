@@ -38,11 +38,50 @@ section{
   display: block;
   margin-bottom: 8em;
 }
+
+// Misc Components
 #featured-issues{
   display:none;
 }
-// Misc Components
-
+.issued{
+  display: block;
+  width: 120px;
+  height: 150px;
+  border: 1px solid $nav-gray;
+  background-image: url(/assets/featured_issues-1.jpg);
+  background-color: none;
+  float: left;
+  margin-bottom: 10px;
+  border-radius:5px;
+}
+.issued:hover{
+  background-image: url(/assets/featured_issues-1.jpg);
+  opacity: 0.7;
+  padding: 0;
+  border: 1px solid $nav-gray;
+  background-color: none;
+}
+.odd-issue{
+  margin-right: 10px;
+}
+#summer2014{
+  background-position: 129px 162px;
+}
+#resilience{
+  background-position: 129px 482px;
+}
+#winter2013{
+  background-position: 258px 161px;
+}
+#summer2013{
+  background-position: 129px 321px;
+}
+#financialiclusion{
+  background-position: 258px 482px;
+}
+#spring2013{
+  background-position: 258px 321px;
+}
 section hr{
   border: 0;
   border-bottom: 1px solid $nav-gray;
@@ -52,22 +91,6 @@ blockquote{
   padding-left: 1em;
   border-left: .4em solid $black;
 
-}
-.featured-issue{
-  padding: 0;
-  display: block;
-  float: left;
-  width: 122px;
-  img{
-    border: 1px solid $nav-gray;
-  }
-}
-.first-featured{
-  margin-right: 10px;
-}
-.featured-issue:hover{
-  background: none;
-  padding:0;
 }
 // SVGs
 
