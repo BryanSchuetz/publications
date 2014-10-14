@@ -55,11 +55,7 @@ section{
   border-radius:5px;
 }
 .issued:hover{
-  background-image: url(/assets/featured_issues-1.jpg);
   opacity: 0.7;
-  padding: 0;
-  border: 1px solid $nav-gray;
-  background-color: none;
 }
 .odd-issue{
   margin-right: 10px;
@@ -108,7 +104,7 @@ blockquote{
   height: 15px;
 }
 #more-arrow-path{
-  fill: $white;
+  fill: $green-link;
 }
 .up{
   height: 15px;

@@ -5,11 +5,7 @@
   {% if post.meta.author %}
     <p class="details byline">By <strong>{{ post.meta.author }}</strong></p>
   {% endif %}
-  <p class="details tagLinks">Article Topics:
-    {% for tag in post.taxonomy.tags %}
-      <span class="tags"><a href="{{ tag.url }}" class="tags">{{ tag.value }}</a></span>
-    {% endfor %}
-  </p>
+  <p class="details">{{ post.meta.publication }}</p>
   {% if post.meta.issue %}
     <p class="details">{{ post.meta.issue }}</p>
   {% endif %}

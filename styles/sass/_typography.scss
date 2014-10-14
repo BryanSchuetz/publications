@@ -13,24 +13,9 @@
 a{
   color: $green-link;
   text-decoration: none;
-  // border-bottom: 2px solid $green-link;
-  padding-bottom: 2px;
-  padding: 1px 3px;
-  -webkit-transition:border-bottom 0.2s linear;
-  -moz-transition:border-bottom 0.2s linear;
-  -o-transition:border-bottom 0.2s linear;
-  transition:border-bottom 0.2s linear;
 }
 a:hover{
-  color: $white;
-  background-color: lighten($green-link, 15%);
-  padding: 1px 3px;
-  border-radius:5px;
-  border-bottom: none;
-  -webkit-transition:background-color 0.1s linear;
-  -moz-transition:background-color 0.1s linear;
-  -o-transition:background-color 0.1s linear;
-  transition:background-color 0.1s linear;
+  color: darken($green-link, 15%);
 }
 html{
   line-height: 23px;
