@@ -127,7 +127,7 @@
   }
   Headroom.prototype = {
     constructor : Headroom,
-
+ 
     /**
      * Initialises the widget
      */
