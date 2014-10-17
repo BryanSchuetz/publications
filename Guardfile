@@ -1,6 +1,6 @@
 guard 'sass', :input => 'styles/sass', :output => 'styles/css', :style => :compressed
 
-guard :concat, type: "js", files: %w(primary), input_dir: "js/includes", output: "js/site"
+guard :concat, type: "js", files: %w(primary respond), input_dir: "js/includes", output: "js/site"
 
 guard 'livereload' do
   watch(%r{.+\.(html|liquid)$})
