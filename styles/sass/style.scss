@@ -356,18 +356,11 @@ aside{
   margin-bottom: 0;
 }
 .also-features{
-  -moz-columns: 2;
-  -webkit-columns: 2;
-  columns: 2;
-  -webkit-column-gap: $gutter;
-  -moz-column-gap: $gutter;
-  column-gap: $gutter;
   ul{
     list-style-type: none;
     padding-left: 0;
     margin-top: 0;
     li{
-      min-height: 3em;
       a{
         background: none;
         color: $green-link;
@@ -550,6 +543,16 @@ aside{
   .footer{
     @include width(6);
   }
+  .also-features li:nth-child(even){
+	  @include width(3);
+	  float: left;
+	  margin-right: $gutter;
+  }
+  .also-features li:nth-child(odd){
+	  @include width(3);
+	  float: right;
+    clear: right;
+  }
   .tagline{
     .foo{
       display: block;
@@ -586,6 +589,12 @@ aside{
   }
   .footer{
     @include width(8);
+  }
+  .also-features li:nth-child(even){
+	  @include width(4);
+  }
+  .also-features li:nth-child(odd){
+	  @include width(4);
   }
   html{
     font-size: 17px;
