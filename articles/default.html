@@ -1,10 +1,10 @@
 {% capture content %}
-    <section class="content">
+    <section class="content"> 
       <article>
         <p class="details issue"><strong>
           {% if meta.publication == 'Developments' or meta.publication == 'Developing Alternatives' %}
             <a class="issue-link" href="/{{ meta.publication | downcase }}/{{ meta.issue | downcase | split: " " | join: "-" }}">{{ meta.issue }}</a>
-          {% else %}
+          {% else %} 
             {{ date | date: "%B %Y" }}
           {% endif %}
           </strong></p>
