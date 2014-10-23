@@ -16,7 +16,12 @@ body{
   font-family: 'proxima-nova-1', Helvetica, Arial, sans-serif;
   margin: 0;
   color: $black;
+  visibility: hidden;
 }
+.wf-active body{
+  visibility: visible;
+}
+
 *{
   box-sizing: border-box;
 }
