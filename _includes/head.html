@@ -1,7 +1,11 @@
 <head>
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <title>{{site.title}} | {{title}}</title>
+  <meta name="description" content="DAI works on the frontlines of international development. Transforming ideas into action—action into impact. We are committed to shaping a more livable world. | {{ taxonomy.tags }}">
+  {% if taxonomy.tags %}
+    <meta name="keywords" content="{{ taxonomy.tags }}">
+    <title>{{site.title}} | {{title}}</title>
+  {% endif %}
   <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
   <link rel="stylesheet" type="text/css" href="/styles/css/style.css" />
   <link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
