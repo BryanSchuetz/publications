@@ -9,6 +9,23 @@
   {% endif %}
   <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
   <link rel="stylesheet" type="text/css" href="/styles/css/style.css" />
+  <style type="text/css" media="print">
+    .main-wrap{
+      margin-top: 15px;
+    }
+    .nav-wrap, .footer-wrap{
+      display: none;
+    }
+    .primary-header, .wrap{
+      width: 540px;
+      margin: auto;
+    }
+
+    h1{
+      font-size: 5rem;
+      margin-top: 0px;
+    }
+  </style>
   <link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
   <link href="/images/favicon.png" rel="apple-touch-icon" type="image/png" />
   <script type="text/javascript" src="/js/site.js"></script>
