@@ -649,15 +649,16 @@ aside{
     margin: auto;
   }
   .primary-header{
-    @include width(8);
-    float: right;
+    @include width(9);
   }
   .wrap{
-    @include width(8);
-    float: right;
+    @include width(9);
   }
   .footer{
     @include width(12);
+  }
+  .feature{
+    @include width(4.5);
   }
   #featured-issues{
     display: block;
