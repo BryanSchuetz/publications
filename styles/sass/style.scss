@@ -576,6 +576,9 @@ aside{
   .nav-up{
     display: block;
   }
+  iframe{
+    height: 235px;
+  }
 }
 /*
   Tablet layout
@@ -637,6 +640,9 @@ aside{
     height: 15px;
     width: 15px;
   }
+  iframe{
+    height: 320px;
+  }
 }
 /*
   Widescreen layout
@@ -667,6 +673,9 @@ aside{
     margin-right: $gutter;
     margin-top: 5em;
     position: fixed;
+  }
+  iframe{ 
+    height: 350px
   }
 }
 /* I got 99 problems, but this last line ain't one */
