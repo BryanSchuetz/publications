@@ -478,9 +478,7 @@ aside{
 ================================ */
 
 .footer-wrap{
-  background-color: $background-gray;
-  padding-top: 1.3em;
-  border-top: 1px solid $nav-gray;
+  padding-top: 3em;
   a{
     display: block;
     background: none;
@@ -655,17 +653,17 @@ aside{
     margin: auto;
   }
   .primary-header{
-    @include width(9);
+    @include width(8);
+    float: right;
   }
   .wrap{
-    @include width(9);
+    @include width(8);
+    float: right;
   }
   .footer{
     @include width(12);
   }
-  .feature{
-    @include width(4.5);
-  }
+
   #featured-issues{
     display: block;
     @include width(4);
@@ -674,8 +672,44 @@ aside{
     margin-top: 5em;
     position: fixed;
   }
-  iframe{ 
+  iframe{
     height: 350px
+  }
+  .header-logo{
+    width: 75%;
+    margin-top: .3rem;
+  }
+  .featured-list{
+    list-style-type: none;
+    padding-left: 0;
+    li{
+      line-height: 1.2em;
+      margin-top: 1em;
+    }
+  }
+}
+/*
+  Ultra-Widescreen layout
+  ultra-wide: 65em; //12bits
+*/
+@media screen and (min-width: 65em){
+  #main-wrap{
+    @include width(14);
+    margin: auto;
+  }
+  .primary-header{
+    @include width(10);
+    float: right;
+  }
+  .feature{
+    @include width(5);
+  }
+  .wrap{
+    @include width(10);
+    float: right;
+  }
+  .footer{
+    @include width(14);
   }
 }
 /* I got 99 problems, but this last line ain't one */
