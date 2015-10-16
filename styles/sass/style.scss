@@ -671,6 +671,9 @@ aside{
     margin-right: $gutter;
     margin-top: 5em;
     position: fixed;
+    p{
+      margin-top: 0px;
+    }
   }
   iframe{
     height: 350px
