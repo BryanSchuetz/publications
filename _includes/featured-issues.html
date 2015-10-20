@@ -2,17 +2,10 @@
 <a href="http://dai.com"><svg class="logo header-logo" viewBox="0 0 665 238" preserveAspectRatio="xMinYMax meet"><use xlink:href="#logo"></use></svg></a>
 <p><strong>Featured Content:</strong><br></p>
 <ul class="featured-list">
-  <li><a href="http://dai-global-developments.com/articles/growing-a-global-network-of-microfinance-practitioners">Growing a Global Network of Microfinance Practitioners</a></li>
-  <li><a href="http://dai-global-developments.com/articles/building-community-climate-stories-and-adaptation-plans-from-the-ground-up">Building Community Climate Stories and Adaptation Plans from the Ground Up</a></li>
-  <li><a href="http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming">Market Systems Development: A Primer on Pro-Poor Programming</a></li>
-  <li><a href="http://dai-global-developments.com/articles/climate-resilient-city">The Climate-Resilient City</a></li>
+  {% for post in site.pages.articles.posts limit:5 %}
+    {% if post.id != current.id %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
 </ul>
 </div>
-
-
-<!-- <a class="featured-issue first-featured" href="/developments/summer-2014"><img src="/assets/summer 2014.jpg" alt="Issue cover" /></a>
-  <a class="featured-issue" href="/developing-alternatives/winter-2013"><img src="/assets/resilence.jpg" alt="/Issue cover" /></a>
-  <a class="featured-issue first-featured" href="/developments/winter-2013"><img src="/assets/winter2013.jpg" alt="Issue cover"/></a>
-  <a class="featured-issue" href="/developments/summer-2013"><img src="/assets/summer2013-1.jpg" alt="Issue cover"/></a>
-  <a class="featured-issue first-featured" href="developments/financial-inclusion"><img src="/assets/financial_inclusion.jpg" alt="Issue cover"/></a>
-  <a class="featured-issue" href="developments/spring-2013"><img src="/assets/spring2013.jpg" alt="Issue cover" /></a> -->
