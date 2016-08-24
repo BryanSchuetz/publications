@@ -44,6 +44,15 @@ section{
 }
 
 // Misc Components
+.erg{
+  display: block;
+  background-color: #36444D;
+  color: white;
+  a{
+    color: white;
+    font-weight: bold;
+  }
+}
 #featured-issues{
   display:none;
 }
