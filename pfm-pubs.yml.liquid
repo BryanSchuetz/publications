@@ -1,4 +1,5 @@
-{% for post in site.posts | limit:30 %}
+{% for post in site.posts %}
+{% if post.taxonomy.tags contains 'public-financial-management' %}
 - title: |
     {{ post.title | strip_html | strip_newlines }}
   pub: "{{ post.meta.publication }}"
@@ -7,4 +8,4 @@
   summary: |
     {{ post.excerpt | strip_html | strip_newlines }}
   tags:{% for tag in post.taxonomy.tags %}
-    - {{ tag.value | rstrip }}{% endfor %}{% endfor %}
+    - {{ tag.value | rstrip }}{% endfor %}{% endif %}{% endfor %}
