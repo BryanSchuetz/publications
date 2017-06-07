@@ -1,4 +1,4 @@
-{% for post in site.posts %}{% for tag in post.taxonomy.tags %}{% if tag == 'public-financial-management' %}
+{% for post in site.posts | limit: 30 %}{% for tag in post.taxonomy.tags %}{% if tag == 'public-financial-management' %}
 - title: |
     {{ post.title | strip_html | strip_newlines }}
   pub: "{{ post.meta.publication }}"
