@@ -3,7 +3,7 @@
     {{ post.title | strip_html | strip_newlines }}
   pub: "{{ post.meta.publication }}"
   date: {{ post.date | date: "%F" }}
-  link: "{{ post.permalink }}"
+  link: "{{ post.permalink }}?utm_source=daidotcom"
   summary: |
     {{ post.excerpt | strip_html | strip_newlines }}
   tags:{% for tag in post.taxonomy.tags %}
