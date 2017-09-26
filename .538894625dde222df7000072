@@ -1,0 +1,3105 @@
+---
+time: 1506460350
+inventory:
+  "/publications/index.html":
+    md5: 8ae553ee416e6a88f61db2ee09958bd6
+    time: 1506459746
+  "/index.html":
+    md5: 8ae553ee416e6a88f61db2ee09958bd6
+    time: 1506459746
+  "/articles/index.html":
+    md5: 2c6024315ede8634cafc7cef2a1f5d1c
+    time: 1506459746
+  ? "/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change/index.html"
+  : md5: 25fc83ed553def025e66a8f033425362
+    time: 1506459746
+  ? "/articles/messe-frankfurts-purchase-of-source-africa-trade-show-exemplifies-the-potential-of-market-systems-development/index.html"
+  : md5: 390406ed3ba2b0a205228d0c1e90e70f
+    time: 1506459746
+  ? "/articles/qa-assisting-mozambiques-rural-poor-to-build-stability-and-economic-opportunity-through-digital-financial-inclusion/index.html"
+  : md5: a66b10543918e855d77c30645cdad74b
+    time: 1506459747
+  ? "/articles/its-not-all-about-the-app-narrowing-the-digital-gender-gap-usaid-program-propels-cambodia-girls-into-global-technology-contest-finals/index.html"
+  : md5: e9aadfe96f43b8c61663db7a2e07222e
+    time: 1506459747
+  "/articles/qa-barry-finette-on-the-hopes-and-challenges-for-thinkmds-life-saving-mhealth-platform/index.html":
+    md5: 8e687009dc60feb90a117d4489ff9638
+    time: 1506459747
+  "/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq/index.html":
+    md5: 265fc386bb632afdcd919fd8b78d84a9
+    time: 1506459747
+  "/articles/the-proliferation-of-cold-storage-in-uzbekistan/index.html":
+    md5: b89387864e4cf6e13bb612c36673a6a1
+    time: 1506459747
+  "/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/index.html":
+    md5: ad0cdade8592800f7e44d57fb2db0c4e
+    time: 1506459747
+  "/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate/index.html":
+    md5: 64321c0a92bc19ae550da6bc2ebaf9fe
+    time: 1506459747
+  "/articles/philippines-increases-tax-collections-by-11-billion-year-over-yearwithout-raising-rates/index.html":
+    md5: b583fbd0ef5415484f14a5d9317f0f45
+    time: 1506459747
+  "/articles/making-land-rights-real/index.html":
+    md5: 913409ea58b3d99f7c564890c336962c
+    time: 1506459747
+  "/articles/using-mobile-technology-for-first-registration-of-land-lessons-learned-in-tanzania/index.html":
+    md5: 3595595fa4eef43d4188c03215761a86
+    time: 1506459747
+  "/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce/index.html":
+    md5: 0fff2295336e617ac65bea217fe2339a
+    time: 1506459748
+  "/articles/83-million-grain-deal-between-east-african-countries-demonstrates-how-east-africa-can-feed-itself/index.html":
+    md5: 436a148e98d7494aec69f916dd005bf9
+    time: 1506459748
+  "/articles/from-land-tenure-regularisation-to-a-sustainable-land-register/index.html":
+    md5: 239e5373de7d771c955355f41bf023a8
+    time: 1506459748
+  "/articles/dialogue-and-development-in-ghanas-oil-and-gas-region/index.html":
+    md5: 93dccea35a61436e74dd7a162fdf1c73
+    time: 1506459748
+  "/articles/the-whole-spectrum-a-holistic-approach-to-climate-resilience/index.html":
+    md5: 3c60d19006acf90c9d3ef13a622832dc
+    time: 1506459748
+  "/articles/how-tax-assistance-from-usaid-dfid-helps-developing-countries-to-manage-money-and-help-themselves/index.html":
+    md5: dcd9fbb4f1da46fc39aa1cf8fef25f20
+    time: 1506459748
+  "/articles/public-private-partnerships-for-land-administration-can-it-work-in-cabo-verde/index.html":
+    md5: 1ee3751106e7d73ce82c0579c5bbb96c
+    time: 1506459748
+  "/articles/despite-regional-instability-lebanons-honey-sector-reaches-new-heights/index.html":
+    md5: ece57155662783e41922a184bb283acd
+    time: 1506459749
+  ? "/articles/unlocking-capital-across-kenya-how-usaid-firm-pushed-the-frontier-of-financial-services-and-built-a-foundation-for-economic-growth/index.html"
+  : md5: dbce5d814966af9af8244d4e02c8b6e7
+    time: 1506459749
+  "/articles/doubling-access-to-safe-drinking-water-how-four-african-countries-did-it-and-how-others-can-too/index.html":
+    md5: 182be3080a97672f69ce797235595c04
+    time: 1506459749
+  "/articles/a-call-to-arms/index.html":
+    md5: c45aa23b20ff1287a968ba3e6b5592f3
+    time: 1506459749
+  "/articles/ethiopia-land-registration-ready-for-lift-off-now-what/index.html":
+    md5: c99cb9d974b0c7dfba713caacadb915a
+    time: 1506459749
+  "/articles/the-law-of-the-land-recent-cases-show-legal-support-for-local-people/index.html":
+    md5: 8e065e572f9201909a587bb49d122e78
+    time: 1506459749
+  "/articles/legitimate-land-tenure-and-property-rights-fostering-compliance-and-development-outcomes/index.html":
+    md5: b95cca1128a5dade25c257e60fd44bb7
+    time: 1506459749
+  "/articles/enhancing-women-and-girls-land-rights-in-rural-sierra-leone/index.html":
+    md5: a23d5f4f5f8d02b74db025ef54e5452e
+    time: 1506459749
+  "/articles/afghan-municipalities-raise-more-revenues-deliver-better-services-enhance-stability/index.html":
+    md5: 90b271a119d4e5ebd251b72e07ed5b5b
+    time: 1506459749
+  "/articles/investing-leasing-land-and-compensating-landowners-the-addax-bioenergy-experience-in-sierra-leone/index.html":
+    md5: 2fa79d35774945f3da977e9e62ebe9a4
+    time: 1506459749
+  "/articles/delivering-large-scale-land-certification-programmes-lessons-from-rwanda/index.html":
+    md5: 986efa12f48013839667b10607396b78
+    time: 1506459749
+  "/articles/mitigating-instability-in-central-america/index.html":
+    md5: 41d1abe0f8ae804f0dbf22c25bb96ff2
+    time: 1506459750
+  "/articles/law-to-criminalize-sexual-harassment-passed-by-afghan-parliament-awaits-presidents-approval/index.html":
+    md5: ea43541dead8b1c8d773b1826132802a
+    time: 1506459750
+  "/articles/place-more-women-on-the-frontlines-of-the-global-war-on-hunger/index.html":
+    md5: 1612f2bc13f7ed914c80091560503998
+    time: 1506459750
+  "/articles/dreams-come-true-as-onshore-fish-farms-emerge-in-gaza/index.html":
+    md5: 955cdc6be2e3aa36ffd7bb745a655cc1
+    time: 1506459750
+  "/articles/simple-solutions-nutrition-and-kitchen-gardens-in-afghanistan/index.html":
+    md5: 51ef8cb95fa6645b642a403f602901d1
+    time: 1506459750
+  "/articles/market-systems-development-boosts-farming-nutrition-in-bangladeshs-southern-delta/index.html":
+    md5: abccb2a16f4597f292d799054259695b
+    time: 1506459751
+  "/articles/climate-adaptation-success-achieved-by-bridging-climate-science-with-local-realities-in-the-lower-mekong/index.html":
+    md5: 8e80a9fe3c34ba32c9557309a3b574b7
+    time: 1506459751
+  "/articles/before-breaking-ground-mining-companies-and-startup-partners-should-begin-developing-local-content/index.html":
+    md5: 41f053f62bb11e622116750a31cfed41
+    time: 1506459751
+  "/articles/learning-from-local-content-policies-insights-from-a-study-of-five-resource-rich-countries/index.html":
+    md5: 2808484f17a8053aa29169a32867cc1d
+    time: 1506459751
+  "/articles/applying-market-systems-approaches-to-financial-inclusion-projects/index.html":
+    md5: 22e613563135043a471982974dc546db
+    time: 1506459751
+  "/articles/tapping-climate-change-adaptation-financing-for-the-benefit-of-the-rural-poor-of-the-mekong-basin/index.html":
+    md5: 86ac2ef949268491fd4eec213a954fa1
+    time: 1506459751
+  "/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/index.html":
+    md5: bf0be70dcc53b3daee0f3617118f7884
+    time: 1506459751
+  "/articles/unveiling-a-new-methodology-for-measuring-development-impact-on-market-systems/index.html":
+    md5: c1219f35ab533a1c40369527b7fd33d3
+    time: 1506459752
+  "/articles/new-opportunities-emerge-to-support-meaningful-reform-in-sri-lanka/index.html":
+    md5: 05970df9b3e234d7ba546b0ebde0e597
+    time: 1506459752
+  "/articles/agriculture-goes-prime-time-entertaining-a-tv-audience-of-future-farmers-1/index.html":
+    md5: 9293adc0c0bff30d0b2015796831bb2f
+    time: 1506459752
+  "/articles/long-term-fiscal-reform-takes-root-in-el-salvador-and-elsewhere/index.html":
+    md5: bf6a3c81c638d48e4c6bb3081e3c014b
+    time: 1506459752
+  "/articles/big-data-and-domestic-resource-mobilization-how-donors-can-help-developing-countries-increase-revenue/index.html":
+    md5: 19e60c8b0d0e39b29841e5aad29f11f5
+    time: 1506459752
+  "/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/index.html":
+    md5: de8ce23643f0b871faaffe17f60e75e2
+    time: 1506459752
+  "/articles/plugging-in-to-jordans-rising-demand-for-electric-cars/index.html":
+    md5: eecd55025c0d3413aad4413c155cdee7
+    time: 1506459752
+  "/articles/zika-and-the-americasa-call-to-action-for-surveillance-and-preparedness/index.html":
+    md5: 5b82d97be54c77a0fcf43db445ebb340
+    time: 1506459752
+  "/articles/usaid-backed-fellow-inspires-malaysian-renewable-energy-policy/index.html":
+    md5: ec57621037df7afef772238c5386a95f
+    time: 1506459753
+  "/articles/clean-water-for-all-by-2030-no-really/index.html":
+    md5: c6f1710c714f2f809ccb2d952557e2a3
+    time: 1506459753
+  "/articles/servir-demand-activity-a-key-link-in-connecting-space-to-village/index.html":
+    md5: 2f365fa6d88a81f029f29e7f790612c0
+    time: 1506459753
+  "/articles/a-good-use-of-us-taxpayer-money-helping-other-countries-mobilize-their-own-domestic-resources/index.html":
+    md5: 33709e4e69f229df11724841cf2bb75e
+    time: 1506459753
+  "/articles/when-tax-reform-leads-to-increased-funding-for-health-services/index.html":
+    md5: 9a93d33e5d20e7d0fa92a10241f6e604
+    time: 1506459753
+  "/articles/energizing-the-support-network-for-people-with-disabilities-in-vietnam/index.html":
+    md5: d2b50aab0c399ff3d6737570a4b12a42
+    time: 1506459753
+  "/articles/positively-mobilizing-urban-communities-for-wash/index.html":
+    md5: 3f5b80d25e8e7d888e7a297581b10c14
+    time: 1506459753
+  "/articles/scaling-up-mobile-health-services-to-expectant-and-new-mothers-in-cambodia/index.html":
+    md5: 548fe6db8b35b5946602605c4a1f9ece
+    time: 1506459753
+  "/articles/including-men-and-farmers-to-promote-nutrition-change-behaviors/index.html":
+    md5: e247746fcabe0806aa2c129c77c4e338
+    time: 1506459753
+  "/articles/breaking-a-wooden-box-under-a-mango-tree/index.html":
+    md5: bc491a83e1492ee836f6f643af808eb6
+    time: 1506459754
+  "/articles/spurring-the-malawi-judiciary-to-rehear-death-sentence-cases-free-prisoners-unjustly-held/index.html":
+    md5: 8dfa32ce474c88a92210d5b2cb275d9f
+    time: 1506459754
+  "/articles/insights-on-how-savings-groups-assist-the-poor-and-support-broader-development-goals/index.html":
+    md5: 96b3f0dce1f7d729b35f2f5d8ade582a
+    time: 1506459754
+  "/articles/innovation-into-action-challenge/index.html":
+    md5: b9d040e2dbc5976bb84f174482d5762a
+    time: 1506459754
+  "/articles/feed-the-future-project-builds-freekeh-industry-in-lebanon/index.html":
+    md5: a1ce78c916688f92d0bb67d66133be48
+    time: 1506459754
+  "/articles/usaid-sapan-program-energized-thailands-civil-society/index.html":
+    md5: 0977027260efa877e376171cb218d915
+    time: 1506459754
+  "/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia/index.html":
+    md5: 1248e3ed6c58b5522dfd8a4cdc290237
+    time: 1506459754
+  "/articles/indigenous-gardens-improving-nutrition-while-easing-the-load/index.html":
+    md5: 1f72d6bbef3a172b9603d18792d1772c
+    time: 1506459754
+  "/articles/the-future-of-mobile-money-big-banks-b2b-and-the-users-perspective/index.html":
+    md5: f9c14ad25d44e5cb771f3ea27a8c9362
+    time: 1506459754
+  "/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities/index.html":
+    md5: 24315a7473921c7bef9aa354dbc1c844
+    time: 1506459754
+  "/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/index.html":
+    md5: 592387f981fb4c9ca58859c8c097f9dc
+    time: 1506459755
+  "/articles/nurturing-a-culture-of-law-and-justice-in-the-drc/index.html":
+    md5: bc9f740003dd59eb8e313e8e7804905f
+    time: 1506459755
+  "/articles/getting-back-to-business-in-post-conflict-gaza/index.html":
+    md5: 042b8fc3696939bded9cc01f68ffa3e3
+    time: 1506459755
+  "/articles/growing-a-global-network-of-microfinance-practitioners/index.html":
+    md5: 979602cfd3d430a4e9da0a82fdb591b1
+    time: 1506459755
+  "/articles/building-community-climate-stories-and-adaptation-plans-from-the-ground-up/index.html":
+    md5: d94d22fcbdeeff94060168f59806b078
+    time: 1506459755
+  "/articles/filling-cambodias-video-void/index.html":
+    md5: fb99f76b64500a75f14dbf544cbee879
+    time: 1506459755
+  "/articles/philippines-experiences-major-increase-in-electronic-tax-filing/index.html":
+    md5: c36efe37129bd2dd772a2923a54d5eea
+    time: 1506459755
+  "/articles/market-systems-development-a-primer-on-pro-poor-programming/index.html":
+    md5: 11bd3c6bf033a427946e4828e56584ec
+    time: 1506459755
+  "/articles/measuring-the-effectiveness-of-government-in-thailands-provinces/index.html":
+    md5: 6009b2957186a4403bf2359280fc8cbd
+    time: 1506459756
+  "/articles/from-desert-mountain-and-plain-afghanistans-first-ever-nomad-gathering/index.html":
+    md5: 4c439d9943876e77bdcea1cfc3320b9e
+    time: 1506459756
+  "/articles/interview-with-joel-o-carter-ceo-of-the-afghanistan-agricultural-development-fund/index.html":
+    md5: 834c593d50cf342ab180ef0d1028be07
+    time: 1506459756
+  "/articles/uniting-tajikistans-farmers-to-fix-broken-irrigation-systems/index.html":
+    md5: 618c3b637c7fe7b3389687b3a176e176
+    time: 1506459756
+  "/articles/in-sierra-leone-enhancing-traditional-law-and-justice-services-for-rural-people/index.html":
+    md5: 30afac1b0ba10df6fa7f2ef119d9a64e
+    time: 1506459756
+  "/articles/the-birth-of-a-new-credit-culture-in-afghanistan/index.html":
+    md5: 1af2f550fa081b61de56e318ecdae357
+    time: 1506459756
+  "/articles/building-trust-while-rebuilding-somalia/index.html":
+    md5: 166e778f8cd9a05b2cd6dd494d5b2729
+    time: 1506459756
+  "/articles/speed-invigorated-business-reform-in-resource-rich-mozambique/index.html":
+    md5: 4eca88fcc5b5a49f682466ebe816f5cb
+    time: 1506459756
+  "/articles/serving-the-missing-middle-creating-access-to-finance-for-female-owned-small-businesses-in-ethiopia/index.html":
+    md5: 61284e18da8ef4d915410c485c28261c
+    time: 1506459756
+  "/articles/fiscal-reform-and-the-struggle-for-stability-in-jordan-1/index.html":
+    md5: c7069e2bcd66dcba6a548908a144983c
+    time: 1506459756
+  "/articles/working-together-were-working-on-it/index.html":
+    md5: 76036c90f1c74aeea958c79c71243c73
+    time: 1506459756
+  "/articles/improved-pig-pens-help-northern-thailand-communities-brace-for-effects-of-climate-change/index.html":
+    md5: 8c1684c5ec77e3959a1528242a11d383
+    time: 1506459756
+  "/articles/women-in-development-an-inside-view/index.html":
+    md5: 3935693c02365798812665b4b2225ec2
+    time: 1506459756
+  "/articles/women-in-development-intissar-hemim/index.html":
+    md5: 5106a299243d45fd022979796f878b7c
+    time: 1506459757
+  "/articles/women-in-development-dr-endah-agustiana/index.html":
+    md5: 0feb6eba002b04311ee3bb257fe5316c
+    time: 1506459757
+  "/articles/women-in-development-ruba-alzubi/index.html":
+    md5: 03e20539641a370df96a188f6ffa2e6e
+    time: 1506459757
+  "/articles/jessica-heinzelman/index.html":
+    md5: 8c020ca71b30c051829dcb2d5387c614
+    time: 1506459757
+  "/articles/alia/index.html":
+    md5: 8466bcf2d865e03e0677d6031b171dad
+    time: 1506459757
+  "/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs/index.html":
+    md5: 8de27f30a4eec125a2f231964006c4eb
+    time: 1506459757
+  "/articles/getting-the-message-bonding-suppliers-and-farmers-via-sms/index.html":
+    md5: 62e7e6b886afdd1443eaf33d0d583116
+    time: 1506459757
+  "/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/index.html":
+    md5: e1697b8fb27545fd59f6f83f23bd37ca
+    time: 1506459757
+  "/articles/sustaining-the-facebook-revolution-social-media-in-political-transition/index.html":
+    md5: bc8d1812f3022c280591be75b0c9059c
+    time: 1506459757
+  "/articles/monitoring-our-assumptions/index.html":
+    md5: 6569e1e2f32349ac19d2fee8a667c280
+    time: 1506459757
+  "/articles/community-savings-groups-in-tanzania-provide-locally-managed-safety-nets/index.html":
+    md5: ad932b7a83da5670b47bc15b4e5af5aa
+    time: 1506459757
+  "/articles/the-phantom-team-leader/index.html":
+    md5: 309b17a6329d2a4b79a26c55fffb0869
+    time: 1506459757
+  "/articles/stepping-up-to-the-innovation-challenge/index.html":
+    md5: 32e893a6999d4f33bfee05be8c5a6b09
+    time: 1506459758
+  "/articles/dais-2014-innovation-challenge-lessons-and-legacy/index.html":
+    md5: ea738564091a7c9a1a9ab79a3d667b0d
+    time: 1506459758
+  "/articles/is-everyone-really-innovating/index.html":
+    md5: 398f462e4fbcfdea33d43c01b2715336
+    time: 1506459758
+  "/articles/innovations-missing-link/index.html":
+    md5: 083126897437d9dab77d6e7de6717d66
+    time: 1506459758
+  "/articles/can-the-development-set-reinvent-itself/index.html":
+    md5: 471cee1f3880274feda6b2fceaf5dbb1
+    time: 1506459758
+  "/articles/disruption-for-good/index.html":
+    md5: 9f462ba0e3c34a185dbe67ae72409ac1
+    time: 1506459758
+  "/articles/humanitarians-in-the-sky/index.html":
+    md5: efe52466c0f2c5114d13651881b9a577
+    time: 1506459758
+  "/articles/drones-for-development/index.html":
+    md5: 1027c826e3f12511956d440194cdc3ba
+    time: 1506459758
+  "/articles/we-need-disruption-in-financial-inclusion/index.html":
+    md5: ba7d40a0bb33c17bddd448faf062de71
+    time: 1506459758
+  "/articles/an-innovation-in-governance/index.html":
+    md5: c8638811f7afc1256a301487f137cc6f
+    time: 1506459758
+  "/articles/failing-fast/index.html":
+    md5: e9890204d8321f75ed02fc4f3819f974
+    time: 1506459758
+  "/articles/design-thinking-and-development/index.html":
+    md5: 86f7ec1759677f27803ffd32acbc125e
+    time: 1506459758
+  "/articles/big-data-for-impact/index.html":
+    md5: 673090d58b53c2b00498c2874228d897
+    time: 1506459758
+  "/articles/made-in-africa/index.html":
+    md5: 29a88ce93ec6fd28700247ec4eaf494f
+    time: 1506459758
+  "/articles/diy-development/index.html":
+    md5: ca8b57a1a141556c6f1626810a768077
+    time: 1506459758
+  "/articles/self-examining-practitioners/index.html":
+    md5: 5dcfc37be61ee5d8cb88b20f2122c794
+    time: 1506459759
+  "/articles/financial-services-via-mobile/index.html":
+    md5: 0fcf9ead55286f351c7c730935a6ef83
+    time: 1506459759
+  "/articles/text-messages-empower-kenya/index.html":
+    md5: c1df1634a4c052c1596731ffe9e36b84
+    time: 1506459759
+  "/articles/nutrition-agriculture-and-resilience/index.html":
+    md5: 626204e2deffd01a44531111353390c4
+    time: 1506459759
+  "/articles/improving-resilience-of-the-hiv-affectede280a8/index.html":
+    md5: 9a7f3ae47b0e67b4c9facabea16d3f64
+    time: 1506459759
+  "/articles/customary-land-tenure/index.html":
+    md5: 4550df634d251ef554c7649090d30595
+    time: 1506459759
+  "/articles/climate-resilient-city/index.html":
+    md5: f941519e880ce74912def3409f13e467
+    time: 1506459759
+  "/articles/womens-inclusion-and-empowerment/index.html":
+    md5: dbaeff19fae301fa37711b5400cb2d78
+    time: 1506459759
+  "/articles/fragility-resilience-and-libya-after-the-revolution/index.html":
+    md5: 3c8d350919679f8a46b1de9e73b23eaf
+    time: 1506459759
+  "/articles/how-peace-was-won-in-el-wak/index.html":
+    md5: ba1faa40e3830479247b5852c1ffdbbf
+    time: 1506459759
+  "/articles/connecting-communities/index.html":
+    md5: ab69282f659e630d69387444b2528687
+    time: 1506459759
+  "/articles/resilience-development-fad-concept-with-staying-power/index.html":
+    md5: 05c284601e5c52e5c6447918c2812ac0
+    time: 1506459759
+  "/articles/building-disaster-response-capacity-and-resilience-in-fragile-states/index.html":
+    md5: 933647695e337c9b7182f87311501452
+    time: 1506459759
+  "/articles/pro-poor-business-law-and-regulatory-reform/index.html":
+    md5: 3080c896f8b54bf28bda7eb75147cae4
+    time: 1506459759
+  "/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers/index.html":
+    md5: 52b65a995788a2f5906eb582dc5a1f97
+    time: 1506459760
+  "/articles/market-trends-and-resilience/index.html":
+    md5: 60c15b61c5670b3b6ff7ffef4d25af6c
+    time: 1506459760
+  "/articles/afterword/index.html":
+    md5: ab85fb703c8261af84a9e09739579911
+    time: 1506459760
+  "/articles/macroeconomic-resilience-of-nations/index.html":
+    md5: aee955071505de4dc39669a43bb12828
+    time: 1506459760
+  "/articles/timorese-farmers-high-value-produce/index.html":
+    md5: 7ed4364ce1d7ab8ca15afe88c08da486
+    time: 1506459760
+  "/articles/supporting-the-transition-to-peace-in-sri-lanka/index.html":
+    md5: 7a7a2f90394c2c25c20eed50399deecd
+    time: 1506459760
+  "/articles/supporting-active-citizenship-across-pakistan/index.html":
+    md5: 05f5d53cc17cf452963e465f6d18a010
+    time: 1506459760
+  "/articles/solutions-thinking-outside-organizational-box/index.html":
+    md5: 97c8398406817e70235f74bb1df299b9
+    time: 1506459760
+  "/articles/reforming-business-policy-mozambique/index.html":
+    md5: 5304e9bd2ba0567c7dc5288a5c491758
+    time: 1506459760
+  "/articles/innovative-fund-enables-philippine-water-utilities-to-invest/index.html":
+    md5: 442a350edd4a5c0a62a15a68c0fd4a8f
+    time: 1506459760
+  "/articles/poverty-partnership-pursuit-innovation/index.html":
+    md5: e7e670b1d9d1f4f5ae6d3a67ce48d84b
+    time: 1506459760
+  "/articles/calculating-syrian-refugee-crisis-fiscal-crisis/index.html":
+    md5: 63fc88ff928e81f75680808c39629ae0
+    time: 1506459760
+  "/articles/fertilizing-method-delivers-results-for-liberian-rice-farmers/index.html":
+    md5: bf41fabce37008314ec5d6685cd7b052
+    time: 1506459760
+  "/articles/going-soical-on-avian-influenza/index.html":
+    md5: 12a7f5d722dc2bf7b4170a5b72687708
+    time: 1506459760
+  "/articles/to-the-partnership-fund/index.html":
+    md5: 41f47a88dd3368d9f4a91f966b182b85
+    time: 1506459761
+  "/articles/dfid-project-assists-pakistani-boys-and-girls/index.html":
+    md5: dd82486952386cef8cca8fdcc45a82f1
+    time: 1506459761
+  "/articles/natural-resource-conservation-through-electronic-hotel-reservations/index.html":
+    md5: de5e57d6edc85f609b6dfb38920edf9b
+    time: 1506459761
+  "/articles/fiscal-project-helps-jordan-issue-bond/index.html":
+    md5: 0ab42cd20758fb5cb1e03b3331fb8307
+    time: 1506459761
+  "/articles/incentive-for-moroccan-farmers-to-conserve-water/index.html":
+    md5: 65aeaeee0b4ea1dd7a8d037e50a93f7b
+    time: 1506459761
+  "/articles/mining-for-answers/index.html":
+    md5: a485d8dba4c5be2e7bb159da0249d81c
+    time: 1506459761
+  "/articles/philippine-townhtml/index.html":
+    md5: 69464a585921db4bd6f6a1cf30f43a91
+    time: 1506459761
+  "/articles/building-back-better/index.html":
+    md5: 1dcdaae107a98d07cc62924678c39c0e
+    time: 1506459761
+  "/articles/evidence-kits-turning-the-tide-on-sexual-violence/index.html":
+    md5: b1b9122c6aa32f04ad1cab5a56f00802
+    time: 1506459761
+  "/articles/to-unlock-job-growth-in-egypt-fix-the-micro-bee/index.html":
+    md5: 1d47c35f12939e9862211d0a6009aa8b
+    time: 1506459761
+  "/articles/in-sub-saharan-africa-its-time-to-recognize-customary-land-rights/index.html":
+    md5: 599c69ea61b3a12acd524b3452ed9804
+    time: 1506459761
+  "/articles/bottom-up-decentralization-new-local-autonomy-kickstarts-community-governing-in-the-drc-3/index.html":
+    md5: fe0ce0b65fb3fa7a84e7365970d7aaa9
+    time: 1506459761
+  "/articles/ensuring-that-forest-communities-own-redd-projectse28089-e28089not-the-other-way-around/index.html":
+    md5: c4f0bb3718f3a993c3bc2068258eb91e
+    time: 1506459761
+  "/articles/three-things-that-really-mattered-to-developing-the-youth-workforce-in-serbias-down-economyhtml/index.html":
+    md5: 6903c7840352ed2a3bc7c9cb0e890981
+    time: 1506459761
+  "/articles/foreseeing-a-grave-crisis-will-india-e280a8embrace-greater-water-use-efficiency/index.html":
+    md5: 4af8e9b8f9169ee15fd027e05ca6dfe1
+    time: 1506459761
+  "/articles/competitiveness-driven-growth-ciber-process-breaks-barriers-for-moldovan-entrepreneurs/index.html":
+    md5: 991a4d634626cd7b18a9230c530acf32
+    time: 1506459761
+  "/articles/financial-inclusion/index.html":
+    md5: e36e1b3d3123f079666b6a2d9452b9af
+    time: 1506459762
+  "/articles/microinsurance-does-it-pay-off-for-the-poor/index.html":
+    md5: c0ff7d30a1d2582b24cb08a54aa8dd5f
+    time: 1506459762
+  "/articles/mobile-services-for-the-unbanked-finding-a-viable-commercial-model/index.html":
+    md5: d9ae9729554481fd50c384d25de46732
+    time: 1506459762
+  "/articles/savings-groups-and-financial-inclusion/index.html":
+    md5: c45c8e4da6074acf2ffb7a18ac1f0f87
+    time: 1506459762
+  "/articles/how-to-unlock-the-potential-of-mobile-money/index.html":
+    md5: 777391945b17fec729ebdcf2be4c80ce
+    time: 1506459762
+  "/articles/the-service-provider-spectrum-from-microfinance-to-financial-inclusion/index.html":
+    md5: 74e21f7f0388bafba4932f6be85e3d98
+    time: 1506459762
+  "/articles/financial-education-time-for-a-re-think/index.html":
+    md5: 91e7c6a918937575415eed6acd69aa93
+    time: 1506459762
+  "/articles/does-microfinance-work/index.html":
+    md5: d731bfee6ae94eba9cfc3e25c441d00d
+    time: 1506459762
+  "/articles/beyond-financial-inclusion/index.html":
+    md5: 98c60ec5d7dcabb4e258a38381e02772
+    time: 1506459762
+  "/articles/benefits-of-bringing-mobile-banking-to-the-unbanked/index.html":
+    md5: bdfb20925478f0b35854df59b9e41cf4
+    time: 1506459762
+  "/articles/are-the-pacific-islands-ripe-for-mobile-money/index.html":
+    md5: be914666f77c883a5287bedd17ee8e74
+    time: 1506459762
+  "/articles/agricultural-credit-delivering-the-development-promise-in-afghanistan/index.html":
+    md5: c088464ca3c798aa69d5c9466c0423ae
+    time: 1506459762
+  "/articles/a-new-financial-model-putting-the-individual-at-the-centre/index.html":
+    md5: 86119f860e4bc260b61f505ef29e0c21
+    time: 1506459762
+  "/articles/a-cash-lite-world-safe-cheap-and-convenient-payments-for-all/index.html":
+    md5: 1f0fea7a51c9b0e3148fd68a275c585b
+    time: 1506459763
+  "/articles/rwandan-national-park-project-honored-as-worlds-best-by-british-travel-writers/index.html":
+    md5: f2f35e9990359fbf442ee741ad0017c5
+    time: 1506459763
+  "/articles/philippine-city-launches-mobile-payment-pilot/index.html":
+    md5: 7d67c4d05d8b1a51f0d37b4152a180e7
+    time: 1506459763
+  "/articles/one-million-cambodians-reache/index.html":
+    md5: b7c014d6f189f76df9f2a4122a958f0c
+    time: 1506459763
+  "/articles/using-hard-data-to-inform-hivaids-interventions-for-economic-strengthening/index.html":
+    md5: da15f482db032b5cc1f88f1b3db88a86
+    time: 1506459763
+  "/articles/linking-soldiers-civilians-across-west-central-africa-to-increase-stability-security/index.html":
+    md5: eeb08736abfd7b12c53c33f35861c860
+    time: 1506459763
+  "/articles/inexpensive-mobile-platform-connects-agribusinesses-to-work-together-better/index.html":
+    md5: 65348b0a5514cb25f56721eb766d7082
+    time: 1506459763
+  "/articles/great-expectations/index.html":
+    md5: a353ca07df60ceb328225225afd19731
+    time: 1506459763
+  "/articles/development-insights-on-the-frontlines-of-asymmetric-warfare/index.html":
+    md5: 22266d592209b4808b285106a9b89b64
+    time: 1506459763
+  "/articles/business-booms-for-farmers-who-solved-supply-problem-for-top-regional-business/index.html":
+    md5: 39f0b7b530577449001e7499bde5fa19
+    time: 1506459763
+  "/articles/youth-music-and-popular-voice-in-the-democratic-republic-of-the-congo/index.html":
+    md5: 73f68adc2f6f0ab00e60670cfdfca502
+    time: 1506459763
+  "/articles/ways-to-help-women-reclaim-their-roles-in-afghanistans-economic-growth/index.html":
+    md5: c87637e4265b7ba6df63bc12ce612fdf
+    time: 1506459763
+  "/articles/usaid-star-project-helped-propel-vietnam-into-the-global-economy/index.html":
+    md5: 4f6f85b8a289ace0292eb30f9dcc1347
+    time: 1506459764
+  "/articles/thousands-worldwide-find-environmental-solutions-at-frameweb/index.html":
+    md5: 3fd555dc19666dee04f99a0c652fd559
+    time: 1506459764
+  "/articles/supplier-development/index.html":
+    md5: 51d891afb62ba92c57fc42e566cb3229
+    time: 1506459764
+  "/articles/-providing-an-afghan-village-with-lights-and-electricity/index.html":
+    md5: c7391580767b71492912df40a7b44ef4
+    time: 1506459764
+  "/articles/in-arid-jordan-idara-motivated-citizens-government-to-conserve-precious-water/index.html":
+    md5: 42e0f2faf2f61425828144d495237d9c
+    time: 1506459764
+  "/articles/herat-economic-corridor-could-catalyze-growth-in-western-afghanistan/index.html":
+    md5: c5d437c028b22c982a8560b6d859abc4
+    time: 1506459764
+  "/articles/helping-a-south-african-mining-giant-invest-for-results-in-its-local-communities/index.html":
+    md5: 75dbb269976c4332bff54109d9b7863c
+    time: 1506459764
+  "/articles/dai-security-chief-discusses-importance-of-local-security-and-training/index.html":
+    md5: 0ec7d4fa2873c6e9d0be7e7caa9f9fb2
+    time: 1506459764
+  "/articles/competitiveness-initiative-simplifies-business-in-vietnam/index.html":
+    md5: bc73e823645b8194cb3bff01d6d95aea
+    time: 1506459764
+  "/articles/project-improves-business-environment-in-morocco-in-midst-of-political-upheaval/index.html":
+    md5: 1ad0193d757540bac0d75295e6b87cf3
+    time: 1506459764
+  "/articles/project-helps-vietnam-cut-red-tape-hone-competitiveness-and-boost-economic-growth/index.html":
+    md5: 9f4f4996d4c285edcde98bffb075139d
+    time: 1506459764
+  "/articles/doing-more-with-doing-business-vietnam-provincial-competitiveness-index/index.html":
+    md5: 36afc007c87b63a49745eeaca3429376
+    time: 1506459764
+  "/articles/rethinking-participatory-development-from-critique-to-better-practice/index.html":
+    md5: eecbbb428451803e04ff679dffa79f3b
+    time: 1506459764
+  "/articles/amplifying-the-voice-of-business-to-drive-policy-reform-in-a-difficult-environment/index.html":
+    md5: 5d463832157909ca62eb1be46674abaf
+    time: 1506459764
+  "/articles/science-into-action-turning-climate-studies-into-decision-making-tools/index.html":
+    md5: 533114c2c5815c19281c8ac4fe055d18
+    time: 1506459764
+  "/articles/daideas-innovation-in-action-chevron/index.html":
+    md5: 49acb668b2c82cab27dc2f1de3700231
+    time: 1506459765
+  "/articles/haitian-farmers-see-increased-income-while-better-managing-their-natural-resources/index.html":
+    md5: f00d91ed1ad87afbd1fe6db51114d4db
+    time: 1506459765
+  "/articles/afghan-farmers-investing-in-livelihoods/index.html":
+    md5: 69c50af1f8878e9f0d1afe8cb51ada97
+    time: 1506459765
+  "/articles/project-brings-together-divergent-ethnic-groups-in-sri-lanka/index.html":
+    md5: 533d96c74ab30dfe5f8d179514c90d95
+    time: 1506459765
+  "/articles/market-driven-approach-delivers-far-reaching-results-in-burundi/index.html":
+    md5: 1b1add9631e5d9b961790ecc7f23d3df
+    time: 1506459765
+  "/articles/the-re-greening-of-iraq-restoring-marshlands/index.html":
+    md5: 69ff6bb0c33cd22e474b9e94754258d7
+    time: 1506459765
+  "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
+    md5: b9a29d3e0d5381bd2f7aaf60ee90a20a
+    time: 1506459765
+  "/articles/enhancing-productivity-in-nigerian-aquaculture/index.html":
+    md5: 4d660d72658b1bf9e89d9c3a4d8b48f1
+    time: 1506459765
+  "/articles/growing-the-lesotho-garment-industry/index.html":
+    md5: 2bcc5efd0f8868a8a2c272c36e108298
+    time: 1506459765
+  "/articles/archive/index.html":
+    md5: 1f456f0f3c1b4b2d2b7839942280c410
+    time: 1506459765
+  "/articles/tags/index.html":
+    md5: 94ba13f0d901165469ef9eecd219435d
+    time: 1506459765
+  "/articles/tags/environment-and-energy/index.html":
+    md5: 07adbf023d85109469b44fadb9c643c1
+    time: 1506459765
+  "/articles/tags/governance/index.html":
+    md5: f8fc69ebd5aba5acd185240453b81782
+    time: 1506459766
+  "/articles/tags/economic-growth/index.html":
+    md5: b2d24aeb56c9903a309e0aed063c2230
+    time: 1506459766
+  "/articles/tags/ict/index.html":
+    md5: 932fbedb34d8ae1da41efcabdeaa8ce3
+    time: 1506459766
+  "/articles/tags/stability/index.html":
+    md5: 7955cc6bcf63ea7bf1e5a49c58045dcf
+    time: 1506459766
+  "/articles/tags/gender/index.html":
+    md5: e323530e1513a9cf91e051a8b036fe04
+    time: 1506459766
+  "/articles/tags/health/index.html":
+    md5: d1b8c4baa182f668de65ee232e50058f
+    time: 1506459766
+  "/articles/tags/innovation/index.html":
+    md5: 7777b305452f1ce5c0f255ffedeb90bb
+    time: 1506459767
+  "/articles/tags/agriculture/index.html":
+    md5: 6e0e829ea287dd8c4c2e094fd177d0e8
+    time: 1506459767
+  "/articles/tags/finance/index.html":
+    md5: 1979283f97da37b313ba51e5022b58a8
+    time: 1506459767
+  "/articles/tags/sustainable-business/index.html":
+    md5: 1e33c9e488ada606c02ab2ca72a57d30
+    time: 1506459767
+  "/articles/tags/public-financial-management/index.html":
+    md5: 177675e1e546b3bd9ddb30ba6289da51
+    time: 1506459767
+  "/articles/tags/land/index.html":
+    md5: 96ec39636bd217780d294ace9687362e
+    time: 1506459767
+  "/articles/tags/energy-and-resources/index.html":
+    md5: 9850777804ff2e7ce8d6722f641d9502
+    time: 1506459767
+  "/articles/tags/resilience/index.html":
+    md5: 7c4618a8ed4032ae6304f1ccd12f5576
+    time: 1506459767
+  "/articles/tags/fragile-states/index.html":
+    md5: 4e0c4e43dbd9ec86b6f385b7268c6bb5
+    time: 1506459767
+  "/articles/tags/dai/index.html":
+    md5: e647a03ba69691262eb38f1ae03c430e
+    time: 1506459767
+  "/articles/tags/leadership/index.html":
+    md5: 08641af986d61d79c53e63dc97912279
+    time: 1506459767
+  "/articles/tag-set-name/index.html":
+    md5: 3fdfd16eb6f8e6ef37851275aa788fd6
+    time: 1506459767
+  "/articles/energy-and-resources/index.html":
+    md5: ede3dc07423cb9ab11a6fe79092d73aa
+    time: 1506459767
+  "/topics/index.html":
+    md5: 965e0db787afd4b7c3b2714857ed0183
+    time: 1506459768
+  "/about/index.html":
+    md5: f17d2ef71fa8c89f71a24fdc9f830212
+    time: 1506459768
+  "/developments/index.html":
+    md5: 57798adcf0c204e853e0646fe1adbe90
+    time: 1506459768
+  "/daideas/index.html":
+    md5: 704c969f1a39bc51eab8d0e81f156e00
+    time: 1506459768
+  "/developing-alternatives/index.html":
+    md5: 7679f9d04d55c925bc156c0481d7c857
+    time: 1506459768
+  "/developments/full-archive/index.html":
+    md5: 1c394210e8c7107eac76f5387f0f3819
+    time: 1506459769
+  "/developments/summer-2017/index.html":
+    md5: ffc161af9bc6541cc6d66650f90a0d4b
+    time: 1506459769
+  "/developments/spring-2017/index.html":
+    md5: 17cd7f119de22546c35dc6bf63b0f879
+    time: 1506459769
+  "/developments/summer-2016/index.html":
+    md5: af5591d3ca463a1035eb04d5e0bf0c7d
+    time: 1506459769
+  "/developments/winter-2015/index.html":
+    md5: e5cd142969d245a320a20dd18241c1ef
+    time: 1506459769
+  "/developments/fall-2015/index.html":
+    md5: d3b0715f64685f4fe235078dac79abfb
+    time: 1506459769
+  "/developments/summer-2015/index.html":
+    md5: 1f528250d36f78793235be10f50d5071
+    time: 1506459769
+  "/developments/spring-2015/index.html":
+    md5: 2dbdd12a89330450a56ba64af0d7cf21
+    time: 1506459769
+  "/developments/innovation/index.html":
+    md5: c0a233584de356cb7a45ece2e02bb8c8
+    time: 1506459770
+  "/developments/summer-2014/index.html":
+    md5: a39726fcf446f937e8486411369f4d2e
+    time: 1506459770
+  "/developments/winter-2013/index.html":
+    md5: 7baf2d963d8f21cd3779d6ba8e650568
+    time: 1506459770
+  "/developments/summer-2013/index.html":
+    md5: f9a5ae58b27796d4990cfadb2ed6603b
+    time: 1506459770
+  "/developments/financial-inclusion/index.html":
+    md5: 1c3e72b4b012f72aa979b3ffa36540e8
+    time: 1506459770
+  "/developments/spring-2013/index.html":
+    md5: be3478b6050d32dff3563d22971deb8f
+    time: 1506459770
+  "/developments/summer-2012/index.html":
+    md5: b3667ea3d2f1c2c1ce4682c428097e04
+    time: 1506459770
+  "/developing-alternatives/land-rights/index.html":
+    md5: a3bad8c3d18ca7b3974772a0eac96659
+    time: 1506459770
+  "/developing-alternatives/winter-2013/index.html":
+    md5: a486bd4dd633e87a788ecb19b7b68bd9
+    time: 1506459770
+  "/developing-alternatives/full-archive/index.html":
+    md5: b451cd648a02eb3d13f7e6763f6d8859
+    time: 1506459771
+  "/CNAME":
+    md5: 8742a8035cae6ce7e3a22bce455df4d4
+    time: 1506459771
+  "/sitemap.xml":
+    md5: 8a4ca7949b7bddc9dbdfef532897efbc
+    time: 1506459771
+  "/feed.xml":
+    md5: d91e17439b828386f9a5c5b5a794252f
+    time: 1506459771
+  "/assets/aawaz-2.jpg":
+    md5: 00e8809ab80cc1ac00191abad2c8b150
+    time: 1506459771
+  "/assets/jim.jpg":
+    md5: b7c83ec80d69deea804e518e944498b5
+    time: 1506459772
+  "/assets/vnci1.jpg":
+    md5: 93aca9731e2289a8a01d3b94fe864ee9
+    time: 1506459772
+  "/assets/ideas1.jpg":
+    md5: a0ec8c9eff69de6881ff71a73119eaef
+    time: 1506459772
+  "/assets/barry.jpg":
+    md5: 7f856963b251b07c0fc3b67b9f726684
+    time: 1506459772
+  "/assets/moodilar.jpg":
+    md5: 52e698e0a0493d1bee3ec94eaa839c8f
+    time: 1506459772
+  "/assets/fischer.jpg":
+    md5: 0070fcc144cb0901e806535a3795d5b9
+    time: 1506459772
+  "/assets/weaver.jpg":
+    md5: fbd865d5ec9cee119ba4f26662843c46
+    time: 1506459772
+  "/assets/hydro1.jpg":
+    md5: 11a653514d879a8e62852e93f4a4e45a
+    time: 1506459772
+  "/assets/claudia.jpg":
+    md5: 852a45500f8bdc42c797cf0d6e8db345
+    time: 1506459772
+  "/assets/carmen.jpg":
+    md5: 255fb2bb022d01df4577c7de9a15b8fd
+    time: 1506459772
+  "/assets/us1.jpg":
+    md5: 791ea85fb8b7cff82b4e5c4a0924bf78
+    time: 1506459773
+  "/assets/afg-women1.jpg":
+    md5: d12bab8202045981cec3337a83699203
+    time: 1506459773
+  "/assets/rackley.jpg":
+    md5: a23d014c9adc975286e732e19f5aad37
+    time: 1506459773
+  "/assets/ym2-1.jpg":
+    md5: b075765af394578e1dfa24b31d4b0022
+    time: 1506459773
+  "/assets/booms1.jpg":
+    md5: f96bf1e8f473e97b1144e5d7a398d0f2
+    time: 1506459773
+  "/assets/ideas4.jpg":
+    md5: d9e7a401d9b04e90b79d782c8e034119
+    time: 1506459773
+  "/assets/asym1.jpg":
+    md5: d530f51e8923e76d6fb08dce10cb1c47
+    time: 1506459773
+  "/assets/julian1.jpg":
+    md5: 296020ea7c342655c4c98c74d9c2bfb4
+    time: 1506459773
+  "/assets/chuck1-2.jpg":
+    md5: 04664c1f8eb487b730ee1848fa9cf934
+    time: 1506459773
+  "/assets/tss1.jpg":
+    md5: 0fc65da2806957c5177305f1fc1762e8
+    time: 1506459774
+  "/assets/msme.jpg":
+    md5: 7152f5479976b92b6d0d314b1aeb7459
+    time: 1506459774
+  "/assets/chuck1-3.jpg":
+    md5: 04664c1f8eb487b730ee1848fa9cf934
+    time: 1506459774
+  "/assets/park.jpg":
+    md5: 2526f4f4423cada23043dd084828e9c8
+    time: 1506459774
+  "/assets/colleen.jpg":
+    md5: a3cda37c5fc32b5cd0340fdfaf04c92b
+    time: 1506459774
+  "/assets/farmer1-1.jpg":
+    md5: 2578f6a53074dbbe49945bdc1212320c
+    time: 1506459774
+  "/assets/hotspotmap.jpg":
+    md5: 2a750fd0a0d21e98ab74ca6a43e65d4f
+    time: 1506459774
+  "/assets/dodds.png":
+    md5: 26299836c8e1cc6c6408058e6fe371f8
+    time: 1506459774
+  "/assets/whiteafrican.jpg":
+    md5: 1bc68d045c3f03feb732883f0d9d6693
+    time: 1506459774
+  "/assets/monique.jpg":
+    md5: 1b12641f9159202ca13710aa3511a410
+    time: 1506459774
+  "/assets/juan.jpg":
+    md5: 479c088a44e7335d6b384f1d0b5331de
+    time: 1506459775
+  "/assets/kiwanja-1.jpg":
+    md5: 6446a3105fc6f76917b65575ed3b2bb2
+    time: 1506459775
+  "/assets/brigit.jpg":
+    md5: 7d714bae012e4e07d2319c3038f3daa7
+    time: 1506459775
+  "/assets/david1.jpg":
+    md5: b1cf14264adbe307a2e1959ca9830960
+    time: 1506459775
+  "/assets/micro.jpg":
+    md5: a35b8419df7ff81e1aa40ba1a0e2cf9b
+    time: 1506459775
+  "/assets/womensworldbanking.jpg":
+    md5: 9b968fcc9f26fbcf19c05850ef3e6ec7
+    time: 1506459775
+  "/assets/mckaysavage1.jpg":
+    md5: 92cbf24a54acf1b6057c1a2f6ffa0012
+    time: 1506459775
+  "/assets/whiteafrican-3.jpg":
+    md5: 1bc68d045c3f03feb732883f0d9d6693
+    time: 1506459775
+  "/assets/paud.jpg":
+    md5: b0ffff68c7085b17a69da4f6827a1940
+    time: 1506459776
+  "/assets/prateek.jpg":
+    md5: e3a5908dcc2b5300d5677578de03399a
+    time: 1506459776
+  "/assets/barbara.jpg":
+    md5: 40fb5765879d4871e6c9cc596d114dbe
+    time: 1506459776
+  "/assets/kiwanja-2.jpg":
+    md5: 6446a3105fc6f76917b65575ed3b2bb2
+    time: 1506459776
+  "/assets/nicholbrummer-1.jpg":
+    md5: 6b3b7a1dc0529e23699d0f939be12da4
+    time: 1506459776
+  "/assets/risen.jpg":
+    md5: 9c9e67ecac7ac5b595dd42abb72fbe0c
+    time: 1506459776
+  "/assets/epic.jpg":
+    md5: b5577257f4f8e97b22cfede789c4b451
+    time: 1506459776
+  "/assets/weaver-1.jpg":
+    md5: fbd865d5ec9cee119ba4f26662843c46
+    time: 1506459776
+  "/assets/ppes1.jpg":
+    md5: 045f0ad475c959b222aac07f4cb43c51
+    time: 1506459776
+  "/assets/forbes.jpg":
+    md5: 2f6e69e6276db6471c750dac286a2cc8
+    time: 1506459776
+  "/assets/congoinner.jpg":
+    md5: 5b60bbc561f2b77781f3e0f9f692c6cb
+    time: 1506459777
+  "/assets/lawry.jpg":
+    md5: a9baaf31b2322fbb113565c44c0bc4cf
+    time: 1506459777
+  "/assets/bremer.jpg":
+    md5: 3a47a762219c9d6321b812f5835b9150
+    time: 1506459777
+  "/assets/risen-1.jpg":
+    md5: 9c9e67ecac7ac5b595dd42abb72fbe0c
+    time: 1506459777
+  "/assets/mccluskey.jpg":
+    md5: d3c890cc755274e522555441473b658a
+    time: 1506459777
+  "/assets/kaplan.jpg":
+    md5: d1180f1f8d301903103c4da81379fa56
+    time: 1506459777
+  "/assets/watson.jpg":
+    md5: 12189d7fd649473f80ecc9911fa7cd4d
+    time: 1506459777
+  "/assets/jordan-1.jpg":
+    md5: 80b3493990f5fa37736fa405344f54b0
+    time: 1506459777
+  "/assets/gabriel.jpg":
+    md5: cc88bdd6eeaa62ad35a0d2ba29901912
+    time: 1506459777
+  "/assets/hamid.jpg":
+    md5: 85c2e4531f64e637fdd47a1059b28263
+    time: 1506459778
+  "/assets/raheem.jpg":
+    md5: e1c1481803d2556238073210bc9832bb
+    time: 1506459778
+  "/assets/dfid-2-1.jpg":
+    md5: 7c78a3e032b84c31a815f8b856a8f9c3
+    time: 1506459778
+  "/assets/busquets.jpg":
+    md5: e5c348cf5c6d30d37f6768c8ac655caf
+    time: 1506459778
+  "/assets/fed_signing.png":
+    md5: 02e440135eef8ef03105d5c4ad285f44
+    time: 1506459778
+  "/assets/chuck1-1-1.jpg":
+    md5: 04664c1f8eb487b730ee1848fa9cf934
+    time: 1506459778
+  "/assets/alma.jpg":
+    md5: b54458a234faed218f061968640f5f80
+    time: 1506459778
+  "/assets/jimb.jpg":
+    md5: 92ea14e544550cfcbdedf52657d77a4b
+    time: 1506459778
+  "/assets/mozam-2.jpg":
+    md5: 0bf19f253414f50e6e62ca4e2cfae1de
+    time: 1506459778
+  "/assets/jim-1.jpg":
+    md5: b7c83ec80d69deea804e518e944498b5
+    time: 1506459779
+  "/assets/aawaz-3.jpg":
+    md5: 496938e59a7c176e321431b56706db7f
+    time: 1506459779
+  "/assets/sri_lanka.jpg":
+    md5: 73395419f07fdafb931671ac4d87d5c9
+    time: 1506459779
+  "/assets/cjohnson.jpg":
+    md5: 800e8ee5ba082f63b1144750e990b5be
+    time: 1506459779
+  "/assets/diane.jpg":
+    md5: 96e749edf4370e7b3399c024c1866bb3
+    time: 1506459779
+  "/assets/lauer.jpg":
+    md5: 3ca2f6cc15a6c41761f0e90e5bd0ee20
+    time: 1506459779
+  "/assets/macroeconomic.jpg":
+    md5: b24268cba811306bd9eb2d407dfe813d
+    time: 1506459779
+  "/assets/marina.jpg":
+    md5: 51fb594b4a2de52d354eb788ca654166
+    time: 1506459779
+  "/assets/grant.jpg":
+    md5: 92d660daa3ed892e4dfb1b47b3f3d681
+    time: 1506459779
+  "/assets/remy.jpg":
+    md5: 2613594083a5932896d481d341afbd23
+    time: 1506459779
+  "/assets/rackley-1.jpg":
+    md5: cdb50dd221a354d3e8456db880f8a9b0
+    time: 1506459780
+  "/assets/doxtater.jpg":
+    md5: b21c3fce9870ffd0102d3181ce3d1199
+    time: 1506459780
+  "/assets/vishalini-map.jpg":
+    md5: f5a8f9d7fcb7395852ec3d27963b40ad
+    time: 1506459780
+  "/assets/hunter.jpg":
+    md5: 20ba001ac734adb36eaa9b3e5d553d81
+    time: 1506459780
+  "/assets/benton-1.jpg":
+    md5: 318cd00cc64118d32d2bf145a4b4ec98
+    time: 1506459780
+  "/assets/city.jpg":
+    md5: f6bea02c92ffbdb9415d8f1e6c35ce80
+    time: 1506459780
+  "/assets/lawry-1.jpg":
+    md5: 41b9597f7435cea0f53a0eb038b44867
+    time: 1506459780
+  "/assets/hiv-1.jpg":
+    md5: 491e6f6be9561d797697d626e4105dc3
+    time: 1506459780
+  "/assets/kurz.jpg":
+    md5: 40302d1d2b6032e38d6be46e7e0788cb
+    time: 1506459781
+  "/assets/heinzelman-graphic.jpg":
+    md5: 74738eb6a542ba28186ddcc3ad9a9a0c
+    time: 1506459781
+  "/assets/jepsen-1.jpg":
+    md5: ca57d0527314570dc2f6c320352ee2bf
+    time: 1506459781
+  "/assets/resilience.jpg":
+    md5: 15986366e57c3ab77a94cac13c41a68c
+    time: 1506459781
+  "/assets/summer 2014.jpg":
+    md5: b5e191c5dd52f907bd0de70d5e087aa2
+    time: 1506459781
+  "/assets/resilence.jpg":
+    md5: 2ffe8518ce783640682e841d5f455a80
+    time: 1506459781
+  "/assets/summer2013.jpg":
+    md5: 8557eb363c0419a34c0ec0da62a9f679
+    time: 1506459781
+  "/assets/summer2013-1.jpg":
+    md5: bd1967b55d0f6132f16cdf7036d2bfc4
+    time: 1506459781
+  "/assets/winter2013.jpg":
+    md5: 2891afee69d0afecce61490bcd3c4a6f
+    time: 1506459781
+  "/assets/financial_inclusion.jpg":
+    md5: 1de1af3d5f66850910fdec2464cad800
+    time: 1506459781
+  "/assets/spring2013.jpg":
+    md5: adbf6ac2d882cf0ed58bf0512d5968e4
+    time: 1506459781
+  "/assets/featured_issues.jpg":
+    md5: 813c66ed33e77295e2146caad7179fbd
+    time: 1506459782
+  "/assets/featured_issues-1.jpg":
+    md5: 813c66ed33e77295e2146caad7179fbd
+    time: 1506459782
+  "/assets/pic1.jpg":
+    md5: e3e67e06a33cde656eee01e066fa013c
+    time: 1506459782
+  "/images/favicon.ico":
+    md5: ef02652fe3bcd63e8fb579be87e094db
+    time: 1506459782
+  "/images/favicon.png":
+    md5: 466b80f964de76b8874781118b5d19c4
+    time: 1506459782
+  "/images/logo.png":
+    md5: d88873dbad5f5f9c3e816f8238c3c465
+    time: 1506459782
+  "/punchlist.md":
+    md5: 11bb88f5775b3e657e2392924129f83f
+    time: 1506459782
+  "/assets/pic1-1.jpg":
+    md5: e3e67e06a33cde656eee01e066fa013c
+    time: 1506459783
+  "/assets/ticehurst-1.jpg":
+    md5: 245ffa64bfcf6b4b06d95b28f9ff2093
+    time: 1506459783
+  "/js/includes/primary.js":
+    md5: f8622439f302d78809549d1d55e6e824
+    time: 1506459783
+  "/js/includes/respond.js":
+    md5: a2684e9b8fa50d6d11c56a9ada068528
+    time: 1506459783
+  "/js/site.js":
+    md5: 9106aa8c415e29769e27d68f1d761b2b
+    time: 1506459783
+  "/assets/pic1-2.jpg":
+    md5: e3e67e06a33cde656eee01e066fa013c
+    time: 1506459783
+  "/assets/figure_1.jpg":
+    md5: bcfa1650418d753c2490aa5e24d6502a
+    time: 1506459783
+  "/assets/pubs-story.jpg":
+    md5: 91d58557921e7e664891e2f4fbea4fd9
+    time: 1506459783
+  "/assets/brigit-2.jpg":
+    md5: 5c5aabf63ab4e37aaad71e83e4ad475f
+    time: 1506459783
+  "/assets/pubs-story-3.jpg":
+    md5: 2c2784fb6c96303dc118c6be11fffd98
+    time: 1506459783
+  "/assets/pubs-story-4.jpg":
+    md5: 590c45c6ca32968d91906200d991eb3e
+    time: 1506459783
+  "/assets/brigit-3.jpg":
+    md5: 5c5aabf63ab4e37aaad71e83e4ad475f
+    time: 1506459784
+  "/assets/pubs-story-6.jpg":
+    md5: 4c113045ed587e9e81b7f05da5b758a8
+    time: 1506459785
+  "/assets/pubs-story-7.jpg":
+    md5: bdec2e70379e2351ff4bb9ff8e8de86d
+    time: 1506459785
+  "/assets/pubs-story-8.jpg":
+    md5: 8000bdd1706dba8c3bb998670eab4164
+    time: 1506459785
+  "/assets/pubs-story-9.jpg":
+    md5: a1e5b7499dadbdff8e475eed056a1752
+    time: 1506459785
+  "/assets/pubs-story-10.jpg":
+    md5: c11929669295b5a42e1a2d47b22fd541
+    time: 1506459785
+  "/assets/pubs-author-5.jpg":
+    md5: aa87c839d34d134167fa8c2b9dd90212
+    time: 1506459785
+  "/assets/pubs-story-12.jpg":
+    md5: 3b8d2ae9e95d15ce196013739f6cde91
+    time: 1506459786
+  "/assets/pubs-author-6.jpg":
+    md5: 6d78d97ee336255532a5f34e5ce7c275
+    time: 1506459786
+  "/assets/pubs-story-14.jpg":
+    md5: eb262daa40df5e168e04edde87d51dae
+    time: 1506459786
+  "/assets/pubs-author-8.jpg":
+    md5: f86601725b09e95286edccb4d06a5f37
+    time: 1506459786
+  "/assets/pubs-author-8-1.jpg":
+    md5: f86601725b09e95286edccb4d06a5f37
+    time: 1506459786
+  "/assets/piercey-pic-4.jpg":
+    md5: c939327e3119863dc14a47588520203b
+    time: 1506459786
+  "/assets/PolSEFF-pic-1.jpg":
+    md5: 20b3ae8f01d98dfb63255aa167e329ae
+    time: 1506459786
+  "/assets/ColleenGreen.jpg":
+    md5: dcc39cfc1d9eaaa77baff6f9f5875c6f
+    time: 1506459786
+  "/assets/naughton-pic-1.jpg":
+    md5: c70b9b8e090c65bc5e2485f556dcf20b
+    time: 1506459787
+  "/assets/IDEA-NEW-Heinzelman-1.jpg":
+    md5: b0ecea85cc8e3b1eb4586e75da9bdaf7
+    time: 1506459787
+  "/assets/naughton-pic-1-1.jpg":
+    md5: c70b9b8e090c65bc5e2485f556dcf20b
+    time: 1506459787
+  "/assets/Devs-Alia-1.jpg":
+    md5: dc5bcd202fe124d8006c3343bce462b6
+    time: 1506459787
+  "/assets/Devs-Jessica-1-new.jpg":
+    md5: e9b6898659ac4c69399c09338b0a901e
+    time: 1506459787
+  "/assets/Devs-Ruba-1.jpg":
+    md5: b3dceabdda375c56f70d52a96139720e
+    time: 1506459787
+  "/assets/Devs eAugustiana 1.jpg":
+    md5: bb9e34a25d48df11979ce91e6b21aa16
+    time: 1506459787
+  "/assets/Devs Intissar 1.jpg":
+    md5: 93227a42a3194fdea084ab6bbed788e0
+    time: 1506459788
+  "/assets/Devs-Helmstadter-pic-1.jpg":
+    md5: d301f6073129cd22814b43f05e531d0a
+    time: 1506459788
+  "/assets/Devs-Hall-Jordan-map.jpg":
+    md5: f228206713def79f539aa7ea054fdb3a
+    time: 1506459788
+  "/assets/Devs-PEPE-PIC-1.jpg":
+    md5: 63a1245591f619b235d051db5a631af6
+    time: 1506459788
+  "/assets/Devs-SPEED-pic-1.jpg":
+    md5: 36830549ef73d8855cfa46c8ebc0ad25
+    time: 1506459788
+  "/assets/Devs-TIS-Dr.-Ayub-Stadium-Baidoa.jpg":
+    md5: cb03a42d49ca2cc66c2fc02c9064a765
+    time: 1506459789
+  "/assets/ASJP-pic-2.jpg":
+    md5: e3f6fb94269f0dab8007eaf6998e355f
+    time: 1506459789
+  "/assets/Tajik-FFP-4.jpg":
+    md5: 99a79fb34cc848de63e14026db12d326
+    time: 1506459789
+  "/assets/Devs----Joel-Carter.jpg":
+    md5: 33f0fdf8fafaa9d21d691ae4a562bbd4
+    time: 1506459789
+  "/assets/somalia.jpg":
+    md5: 6044a24f6bcce4dd97b0a66b201f5562
+    time: 1506459790
+  "/assets/Devs-ACE-closedown-1.jpg":
+    md5: 8f8b5ed224f9ecd76d80cc6e13ca341e
+    time: 1506459790
+  "/assets/converge.jpg":
+    md5: 28501790d84cf4afdf5310d7faad2d31
+    time: 1506459790
+  "/assets/newbilly.jpg":
+    md5: b4ac435f470e9215b3034e28547e7282
+    time: 1506459790
+  "/assets/newbilly-2.jpg":
+    md5: b4ac435f470e9215b3034e28547e7282
+    time: 1506459790
+  "/assets/sapan-w.jpg":
+    md5: 1fd941666a3bd972ecb7bbe222b71ad2
+    time: 1506459790
+  "/assets/Devs----Gaza-pic-2.jpg":
+    md5: 7417ee66bcd34183fec5cea21ea8e195
+    time: 1506459790
+  "/assets/Devs----Kitain-pic.jpg":
+    md5: 503f6c9e3f8bb237213600177e2947ae
+    time: 1506459790
+  "/assets/Devs----Low-Fuss-Media-pic-1.jpg":
+    md5: d16633fb45371b2260d95b5067b4e63e
+    time: 1506459791
+  "/assets/Devs----Mekong-ARCC-pic-3.jpg":
+    md5: 67fc3d6e8c3370c1a658e6df9861b507
+    time: 1506459791
+  "/assets/Devs----ACP-EU-pic-1.jpg":
+    md5: da73d5bb4d4732c0bd0e7ae36d020d1d
+    time: 1506459791
+  "/404.html":
+    md5: 9cd38e94c009d0c1b122fafbbcd50ea6
+    time: 1506459791
+  "/assets/practitioners.jpg":
+    md5: be31d723eb9bc0dfa68d147496ce0796
+    time: 1506459791
+  "/assets/Devs----Naughton-pic-2.jpg":
+    md5: 34404d911340fbc07e642a6430786f6b
+    time: 1506459791
+  "/assets/Devs----Khmer-keyboard-pic.jpg":
+    md5: a0e7a1fd810d3cfe2c4be12a969c23b8
+    time: 1506459792
+  "/assets/Devs----SSAPR-3.jpg":
+    md5: d03a1593d001c60357538281c1dea8b4
+    time: 1506459792
+  "/assets/Mark-Rasmuson.jpg":
+    md5: 931901d271c1b971e2b399b1f99cad1a
+    time: 1506459792
+  "/assets/Devs----Helms-1.jpg":
+    md5: bf61bb981aa11490bdaad36528b797f3
+    time: 1506459792
+  "/assets/Devs----INVC-pic-3.jpg":
+    md5: bff293227b08a4138b63d0afd32a3fea
+    time: 1506459792
+  "/assets/5654c3e858f39e53e1000040.jpg":
+    md5: a0e7a1fd810d3cfe2c4be12a969c23b8
+    time: 1506459792
+  "/assets/Devs-Sapan-Buapan-9.jpg":
+    md5: eefd13613372f0d247d4d63df17a68d7
+    time: 1506459793
+  "/assets/Devs----Jean-Gilson-large.jpg":
+    md5: 63c57b6fff4039925d5afd00cad9f306
+    time: 1506459793
+  "/assets/Devs----Jepsen-Savings-Groups-4.jpg":
+    md5: c7a4aa0f32a717d964b817f8217c30e4
+    time: 1506459793
+  "/assets/Alice-Kaunda----Tilitonse.jpg":
+    md5: 1c0ef20e5a983c13500e1b25f08f5c60
+    time: 1506459793
+  "/assets/Devs----Malawi-INVC-care-groups-2.jpg":
+    md5: 8762df8d0c4067dce8da414c198282e0
+    time: 1506459793
+  "/assets/Devs----Bhairav-Raja-pic-1.jpg":
+    md5: 93679e6ff2d8eedf9d2298523d2c8339
+    time: 1506459793
+  "/assets/Devs----Vibol-Theng.jpg":
+    md5: 62b03eac8ae461c34dc527162c4295f1
+    time: 1506459793
+  "/assets/Devs----Louis-O'Brien-pic.jpg":
+    md5: ad09fb2a136009c1f5234f9c3f34500e
+    time: 1506459793
+  "/assets/Devs----PDSP-1.jpg":
+    md5: 99c4a1d0c0ee9cb1406de4ce1bf62a94
+    time: 1506459794
+  "/assets/Devs----Eunice-HFG-graph-3.jpg":
+    md5: 1d1230b6ce46bb71462088be68196506
+    time: 1506459794
+  "/assets/Brian-Portal.jpg":
+    md5: 0595600b0a7e855662b33b2ae9a882fc
+    time: 1506459794
+  "/assets/Devs----water-4.jpg":
+    md5: b77f71f5b29790aa06c7ec30d4a16294
+    time: 1506459794
+  "/assets/Devs----ASEAN-pic-1.jpg":
+    md5: b5d77d304b3047f35f471cfa8d227ba6
+    time: 1506459794
+  "/assets/Elizabeth-Elfman-Devs.jpg":
+    md5: 183bc91d915bac0b4f13ca7c2811034c
+    time: 1506459794
+  "/assets/Devs----El-Salvador-DRM.jpg":
+    md5: 0f103c5145c07ad3326ef1710dc1c916
+    time: 1506459794
+  "/assets/Devs----JCP-cars-4.jpg":
+    md5: a3d5e145dcc32260968fcc7b045b6b0f
+    time: 1506459795
+  "/assets/Devs----DAIdeas-pic-2.jpg":
+    md5: 527e45b4f4755c4fca75a7b2a8a67663
+    time: 1506459795
+  "/assets/Devs----Gallagher-4.jpg":
+    md5: 0d1a70164c9c6c2ebc3bf1b3ecbe5865
+    time: 1506459795
+  "/assets/Devs----ALII-TV-pic-2.jpg":
+    md5: c1d897b53fc28a8180422ab3b58758ec
+    time: 1506459795
+  "/assets/Devs----NDPI-7.jpg":
+    md5: cc84447e1148e9bd50540f755d0e4786
+    time: 1506459795
+  "/assets/Devs----Chuck-mug-1.jpg":
+    md5: b27829cc0f8e44f5a588458e5f6c9e1a
+    time: 1506459795
+  "/assets/Devs----Sri-Lanka-4.jpg":
+    md5: 6f344ceb03c5c332506ae7223bd5285b
+    time: 1506459795
+  "/assets/Devs----El-Salvador-DRM-4.jpg":
+    md5: 0f103c5145c07ad3326ef1710dc1c916
+    time: 1506459796
+  "/assets/Devs----Climate-Finance-1.jpg":
+    md5: 2982b2b3552060681c9c6cf4f6b54932
+    time: 1506459796
+  "/assets/Devs----Lebanon-apples-3.jpg":
+    md5: 99e8b0b884243ab001e44502432d76cb
+    time: 1506459797
+  "/styles/css/style.css":
+    md5: 18921caf7d371b3c82946e28f61b3f53
+    time: 1506459797
+  "/assets/Screenshot 2016-08-23 20.28.57.png":
+    md5: 8beb4bc04e84f42b38543b514857b74e
+    time: 1506459797
+  "/assets/Devs----Jepsen-Raja-graphic-new.jpg":
+    md5: 4f8a05016991aa1fec8cb0e433ef31c9
+    time: 1506459797
+  "/assets/Devs----Emily-Foster.jpg":
+    md5: 4ab40960b5aed7c497e033e29f0c059e
+    time: 1506459797
+  "/assets/Warwick-Strong-devs-pic.jpg":
+    md5: 2dd8f993eb8c26c514a4d9539c771d96
+    time: 1506459797
+  "/assets/Devs----Mekong-ARCC-4.jpg":
+    md5: 24c50bf92950ed6c2b0292814dee3c7a
+    time: 1506459797
+  "/assets/Devs----Mekong-ARCC-closedown-2-1.jpg":
+    md5: a8c27ac69e7819910f352676b8a60ab3
+    time: 1506459797
+  "/assets/Devs----AVC-3.jpg":
+    md5: e9144f958e5c8c78ccc578e3d3c048ba
+    time: 1506459798
+  "/assets/Devs----RADP-North-4.jpg":
+    md5: 6de849e7b9981a582f7523cc3fb89bcf
+    time: 1506459798
+  "/assets/Devs----Gaza-fish-7.jpg":
+    md5: 0790ee00564594644906bc9a9db4e18b
+    time: 1506459798
+  "/assets/Devs----Alia-Afshar-mug.jpg":
+    md5: bdda14c7263d289c1a6ece5c5042bc63
+    time: 1506459798
+  "/assets/DEVS----ALBA-5-.jpg":
+    md5: a0ed7b40886a9a4903a6f65ce6d10170
+    time: 1506459798
+  "/assets/Liz Profile in Somalia.JPG":
+    md5: 8d638ee7608bb7f92e119e5c15f7da3c
+    time: 1506459798
+  "/assets/Elizabeth Drachman Devs.jpg":
+    md5: 8784be4fb4b99d65e8657bf897bf24fc
+    time: 1506459798
+  "/assets/Elizabeth Drachman Devs-1.jpg":
+    md5: 8784be4fb4b99d65e8657bf897bf24fc
+    time: 1506459798
+  "/assets/Elizabeth Drachman Devs-2.jpg":
+    md5: 8784be4fb4b99d65e8657bf897bf24fc
+    time: 1506459798
+  "/assets/Elizabeth Drachman Devs-3.jpg":
+    md5: 8784be4fb4b99d65e8657bf897bf24fc
+    time: 1506459798
+  "/assets/Elizabeth Drachman Devs-4.jpg":
+    md5: 8784be4fb4b99d65e8657bf897bf24fc
+    time: 1506459799
+  "/assets/Elizabeth Drachman Devs-5.jpg":
+    md5: 8784be4fb4b99d65e8657bf897bf24fc
+    time: 1506459799
+  "/assets/Devs----Costenbader-pic-5.jpg":
+    md5: 9c0a5e526d4e627ca70d438177b406ad
+    time: 1506459799
+  "/assets/Devs----SHAHAR-pic-1.jpg":
+    md5: 468c91a73112d8ec0e90a8fdd7fe437a
+    time: 1506459799
+  "/assets/Richard-Baldwin-DA.jpg":
+    md5: 2d02b888bf82e244d7feb043039ed93c
+    time: 1506459799
+  "/assets/SarahMaguireInner.jpg":
+    md5: 95fc5644451a4107793521ffc0752b07
+    time: 1506459799
+  "/assets/Richard-BaldwinInner.jpg":
+    md5: 5b450fbf4069e1b2396c59d7065e8273
+    time: 1506459799
+  "/assets/Karol headshot small.jpg":
+    md5: 7be64f3a2c766265a8544aa674340164
+    time: 1506459799
+  "/assets/CliveEnglishInner.jpg":
+    md5: e32e28dfb6f69db7e347556fe6f7e952
+    time: 1506459799
+  "/assets/Devs----LIVCD-Honey-pic-2.jpg":
+    md5: 99b9ea6772f482f5b0c24057b8aafd07
+    time: 1506459799
+  "/assets/jLeckie-INNER.jpg":
+    md5: dbdc438a6fb71b1adec0d4b483c9e7f5
+    time: 1506459800
+  "/assets/loop-gif.gif":
+    md5: f5f15f5ba3e9de0b9b4dcd9581b5716e
+    time: 1506459800
+  "/assets/Devs----Rapier-Water-pic-2.jpg":
+    md5: ac57c583f5d97385a8d988495ea6af31
+    time: 1506459800
+  "/assets/Devs----Kenya-FIRM-pic-4.jpg":
+    md5: cd3973bcf7a0ea2c412ab0211013a65d
+    time: 1506459800
+  "/assets/download-2.jpg":
+    md5: b81f65fcff73a933fe47c5b15c06c2c6
+    time: 1506459800
+  "/assets/Ian Rose in high-rez2.jpg":
+    md5: 1717a50be95f8d857b61dd688a31749b
+    time: 1506459800
+  "/assets/Devs----Taxes-SPARC.jpg":
+    md5: dfc715763e9e9a1d5634a2e0bff15a74
+    time: 1506459801
+  "/assets/randall picture devs.jpg":
+    md5: f2afac574294c6cbf6fc325ead902066
+    time: 1506459801
+  "/assets/Ghana DevAlts.jpg":
+    md5: 80a0b069a23738932a165739b04ab4c9
+    time: 1506459801
+  "/assets/Picture1.png":
+    md5: 784f7dda5837c71d507a88015e0d6941
+    time: 1506459801
+  "/assets/DAI-News----EATIH-grains-pic-4.jpg":
+    md5: 8b268a990f7a841d61d381a424d02f59
+    time: 1506459801
+  "/assets/Devs----Afgh-WIE-4.jpg":
+    md5: 878fe0df2fadc501da9e5b89ac2d146a
+    time: 1506459801
+  "/assets/clive.jpg":
+    md5: 7dcd985dc27b6f792148a58a3ca1e313
+    time: 1506459801
+  "/assets/Devs----Roberto-Toso-mug.jpg":
+    md5: 60a7bce9dd08617676395f30f4febc32
+    time: 1506459801
+  "/assets/Devs----Uzbek-cold-chain-2.jpg":
+    md5: 4aadad101b2a9b59069023942cf3e284
+    time: 1506459801
+  "/assets/Devs----Anne-Sofia-Holmberg.jpg":
+    md5: e6cc5dc0c10fe01f54ff63d41c2bf320
+    time: 1506459802
+  "/pfm-pubs.yml":
+    md5: 5fe3a8998a4940496a4cd36f9d30e6b9
+    time: 1506459802
+  "/assets/Devs----Blended-pic-5.jpg":
+    md5: 47c1772f2e1a0eabd6f2c782309ebf68
+    time: 1506459802
+  "/pubs.yml":
+    md5: dcfd6fa58e1d660da0991a92aa0cdc11
+    time: 1506459802
+  "/assets/Devs----Summer-2017-2.jpg":
+    md5: d39da3447931d070d0501c00a7a08ceb
+    time: 1506459802
+  "/assets/5941804494de10574cfd3221.jpg":
+    md5: da2f58c028948d50c1067c585478104a
+    time: 1506459802
+  "/assets/Devs----Lister-2.jpg":
+    md5: 6284c1601ed2157293e2f45e63f7e965
+    time: 1506459802
+  "/assets/Devs----Finette-QA-1.jpg":
+    md5: 9e4e2f4cb213ec91b0c48025ec60606e
+    time: 1506459802
+  "/assets/Devs----Kate-Heuisler-mug.jpg":
+    md5: 942bf51f7408024bc8a334ce13444721
+    time: 1506459802
+  "/assets/Devs----FSDMoz-3.jpg":
+    md5: c8ba6de6a469cd846926f90708faf911
+    time: 1506459803
+  "/assets/Devs----Bill-Grant-mug.jpg":
+    md5: 1b4d6b7ea784538870ec4d29984109dd
+    time: 1506459803
+  "/assets/Devs----Sherry-Youssef-mug.jpg":
+    md5: 418c78804f2202acc81cc505b3559cc0
+    time: 1506459803
+  "/assets/Devs----Clima-East-2.jpg":
+    md5: 9af9faba6640efd050f7e8f974acfefe
+    time: 1506459803
+  "/assets/safe.jpg":
+    md5: c28673d80ceb2684449d1685544d4908
+    time: 1506459803
+  "/assets/vnci.jpg":
+    md5: 60d5b3d2476c055cf371d78ddbbf7434
+    time: 1506459803
+  "/assets/chuck1.jpg":
+    md5: 04664c1f8eb487b730ee1848fa9cf934
+    time: 1506459803
+  "/assets/ideas2.jpg":
+    md5: 53e549460407c7b413115bd063c6260c
+    time: 1506459803
+  "/assets/ha1.jpg":
+    md5: 8ccb0593c6f0555134318a0f490f40b3
+    time: 1506459803
+  "/assets/herat1.jpg":
+    md5: 730fb87650a13e27a5211a95d2ea65f6
+    time: 1506459803
+  "/assets/ia1.jpg":
+    md5: a131f92611130131bd858726484ca296
+    time: 1506459804
+  "/assets/claudia-1.jpg":
+    md5: dc62fe87a1058d42914edf93421f3f72
+    time: 1506459804
+  "/assets/fw1.jpg":
+    md5: 1c7be2986086a637468fedbd182889a2
+    time: 1506459804
+  "/assets/us2.jpg":
+    md5: a141ef7d1e2674342ab9a9781ae28e67
+    time: 1506459804
+  "/assets/afg-women2.jpg":
+    md5: 5d3a5c37efe5fff97196aed1e8d15e62
+    time: 1506459804
+  "/assets/ym1.jpg":
+    md5: 19551b11a5531bfe575a9c68fc6d5b64
+    time: 1506459804
+  "/assets/us1-1.jpg":
+    md5: 791ea85fb8b7cff82b4e5c4a0924bf78
+    time: 1506459804
+  "/assets/booms2.jpg":
+    md5: 15590e738077f1e9d8bbbeac01a7311a
+    time: 1506459805
+  "/assets/ideas5.jpg":
+    md5: 819a99f9fe9f0836228cf897acf59017
+    time: 1506459805
+  "/assets/heidi.jpg":
+    md5: 9cf18ce4ab63d8f3f152ad0648dda52c
+    time: 1506459805
+  "/assets/julian.jpg":
+    md5: be5ca2f76c92e56a48e19ff00e767d2f
+    time: 1506459805
+  "/assets/farmer1.jpg":
+    md5: 2578f6a53074dbbe49945bdc1212320c
+    time: 1506459805
+  "/assets/liz.jpg":
+    md5: bb6b7006318e832f3a0824ee29da52e6
+    time: 1506459805
+  "/assets/david.jpg":
+    md5: d76464c70aaaab06bddee8375774a3f8
+    time: 1506459805
+  "/assets/simm.jpg":
+    md5: fb5ae5eb1b71b4b28bcc872ac70a709a
+    time: 1506459806
+  "/assets/seyler.jpg":
+    md5: c4503090a77bf75688d2d02ca12ad1c8
+    time: 1506459806
+  "/assets/imarisha1.jpg":
+    md5: 40155fa979c29fcead143894b6215ecd
+    time: 1506459806
+  "/assets/park-1.jpg":
+    md5: 2526f4f4423cada23043dd084828e9c8
+    time: 1506459806
+  "/assets/zone-chart.jpg":
+    md5: 18b6095875011f7e2a84b040f879df72
+    time: 1506459806
+  "/assets/farmers.png":
+    md5: b3ae7fb1ebfca7c48d955c9d4a047a77
+    time: 1506459806
+  "/assets/kiwanja.jpg":
+    md5: 6446a3105fc6f76917b65575ed3b2bb2
+    time: 1506459806
+  "/assets/fish-farming.jpg":
+    md5: 6d8fb8ae0a98d1c374c6964ab29e9f67
+    time: 1506459806
+  "/assets/machine.jpg":
+    md5: 423e3b5def4581fc550ffdd6176172d2
+    time: 1506459807
+  "/assets/whiteafrican-1.jpg":
+    md5: 1bc68d045c3f03feb732883f0d9d6693
+    time: 1506459807
+  "/assets/whiteafrican-2.jpg":
+    md5: 1bc68d045c3f03feb732883f0d9d6693
+    time: 1506459807
+  "/assets/johnpamowens.jpg":
+    md5: 22327f5d16a8865d75cb8c67e6cfac41
+    time: 1506459807
+  "/assets/noramorgan-1.jpg":
+    md5: a04195e36b95fbefe6df79cfb36894d0
+    time: 1506459807
+  "/assets/mckaysavage.jpg":
+    md5: e0714437859005f8bd0b57091a338735
+    time: 1506459807
+  "/assets/austinevan.jpg":
+    md5: 741337872b012c904b44bff631b685ab
+    time: 1506459807
+  "/assets/mckaysavage-1.jpg":
+    md5: e0714437859005f8bd0b57091a338735
+    time: 1506459807
+  "/assets/womensworldbanking-1.jpg":
+    md5: 9b968fcc9f26fbcf19c05850ef3e6ec7
+    time: 1506459807
+  "/assets/johnpamowens-1.jpg":
+    md5: 22327f5d16a8865d75cb8c67e6cfac41
+    time: 1506459807
+  "/assets/90412460@N00.jpg":
+    md5: ed14acbeb244a5b8feaaf2bfc509c8ae
+    time: 1506459808
+  "/assets/johnpamowens-2.jpg":
+    md5: 22327f5d16a8865d75cb8c67e6cfac41
+    time: 1506459808
+  "/assets/90412460@N00-1.jpg":
+    md5: ed14acbeb244a5b8feaaf2bfc509c8ae
+    time: 1506459808
+  "/assets/india.jpg":
+    md5: a6fea1c8336d56d63e33a70e8bf281d3
+    time: 1506459808
+  "/assets/redd.jpg":
+    md5: bf77db884559d2fd6b840773a18aae72
+    time: 1506459808
+  "/assets/map.jpg":
+    md5: 1687258f87ad47265691df0499d7ad6e
+    time: 1506459808
+  "/assets/landscapes.jpg":
+    md5: 5507cf7cfeea8f986f62c05ce70339f4
+    time: 1506459808
+  "/assets/egypt.jpg":
+    md5: 5cabe54e2bb945cdcd5f114a6db5fae2
+    time: 1506459808
+  "/assets/landscapes-1.jpg":
+    md5: 5507cf7cfeea8f986f62c05ce70339f4
+    time: 1506459809
+  "/assets/building_back_better.jpg":
+    md5: 25920139c195e443ea1adfe8f0ca6ea6
+    time: 1506459809
+  "/assets/mining-2.jpg":
+    md5: eb8cbed77a1d755ef20983e20cd9ed1e
+    time: 1506459809
+  "/assets/conservation.jpg":
+    md5: 7bdbee7fccc5e69199f56279ba1b5bb8
+    time: 1506459809
+  "/assets/chuck1-4.jpg":
+    md5: 04664c1f8eb487b730ee1848fa9cf934
+    time: 1506459809
+  "/assets/planturismo.jpg":
+    md5: af5d066c63570a200226c2897fa68910
+    time: 1506459809
+  "/assets/dfid-1.jpg":
+    md5: 904a2e72ee5b57171c7eef627781c8fe
+    time: 1506459809
+  "/assets/partnership-1.jpg":
+    md5: 1c2407d2772db8def4cbb63c2a6df3ff
+    time: 1506459809
+  "/assets/partnership-2-2.jpg":
+    md5: ec392c3b0756550437bafe50c33678f0
+    time: 1506459810
+  "/assets/safe-1.jpg":
+    md5: c28673d80ceb2684449d1685544d4908
+    time: 1506459810
+  "/assets/fed_seasonal.jpg":
+    md5: cf2bfcacf8d3d02c84428fb887432791
+    time: 1506459810
+  "/assets/jordan_refugees.jpg":
+    md5: 39165579d2eca1d0a4f74944bf3f236f
+    time: 1506459810
+  "/assets/pwrf_fountain.jpg":
+    md5: ec9d65309f8c1a14de756334f102c539
+    time: 1506459810
+  "/assets/jimb-1.jpg":
+    md5: 004ac211a481340ead7427e912bd2211
+    time: 1506459810
+  "/assets/mozam-1.jpg":
+    md5: f53ce27846ee2cd1f60bc87a851dde74
+    time: 1506459810
+  "/assets/jimw.jpg":
+    md5: d75897700b3db22b2b1adcdfc7eb9fdf
+    time: 1506459810
+  "/assets/aawaz-2-1.jpg":
+    md5: 00e8809ab80cc1ac00191abad2c8b150
+    time: 1506459811
+  "/assets/timor_farmer.jpg":
+    md5: 73d07ee10cadd1d3a741c1d65e8b43d6
+    time: 1506459811
+  "/assets/training.jpg":
+    md5: 15f2e6c3e61ff0bd5b4750a4db7fd988
+    time: 1506459811
+  "/assets/bamboo.jpg":
+    md5: 5b3841971e3a82bb45b079ec2a0763fc
+    time: 1506459811
+  "/assets/gallagher-1.jpg":
+    md5: 970922407279ab9fd81ce1c276374317
+    time: 1506459811
+  "/assets/cows.jpg":
+    md5: 013b22f7173f023da971d67965005174
+    time: 1506459811
+  "/assets/kormos-2.jpg":
+    md5: e095abaa5f5a2b91cf76578a95b19ca9
+    time: 1506459812
+  "/assets/rackley-2.jpg":
+    md5: e204480e3abe08d94818048c6fdded24
+    time: 1506459812
+  "/assets/doxtater-1.jpg":
+    md5: 30014259cad3d8e94fe90b5ef47f5243
+    time: 1506459812
+  "/assets/vishalini-story.jpg":
+    md5: d951c30c966ac67e0afb0776b715aaef
+    time: 1506459812
+  "/assets/cirte.jpg":
+    md5: c2af3250852c2b0b330a6d9a70bbc729
+    time: 1506459812
+  "/assets/benton-2.jpg":
+    md5: 56f18b100b91f6100e78ed800a270433
+    time: 1506459812
+  "/assets/city-1.jpg":
+    md5: 28b3d28dde03608769e5e76286614289
+    time: 1506459812
+  "/assets/hiv-2.jpg":
+    md5: cf1a90ea114893a4fd02cf15d0cb7624
+    time: 1506459812
+  "/assets/heinzelman.jpg":
+    md5: f0b1dd3c4a571d07f44ae0a9c62a7a02
+    time: 1506459812
+  "/assets/Jepsen_Inner-1.jpg":
+    md5: 84ebcda71d68350d0ef718486dda19fe
+    time: 1506459812
+  "/assets/pic3.jpg":
+    md5: 450e32b9162ea7d7bdf75ae9f1d7617f
+    time: 1506459813
+  "/assets/pic2-1.jpg":
+    md5: 92edaa997137095b71c0035579b1708e
+    time: 1506459813
+  "/assets/pubs-author.jpg":
+    md5: 91fa287d3b9357baf8d992b44068cfd5
+    time: 1506459813
+  "/assets/pubs-story-2.jpg":
+    md5: 8ba5816806da7558f5ddbffabfb4af4a
+    time: 1506459813
+  "/assets/pubs-author-1.jpg":
+    md5: 0f2644615bdc5b2a8de1c0775f6def01
+    time: 1506459813
+  "/assets/pubs-author-2.jpg":
+    md5: 26e456af56c41e40cc8a475977b6a5a1
+    time: 1506459813
+  "/assets/pubs-story-5.jpg":
+    md5: 7ce5524364360dd5eff3d1b34ac21e5f
+    time: 1506459813
+  "/assets/pubs-author-3.jpg":
+    md5: 3027a0c94e3cec2e33d0115cb9482940
+    time: 1506459813
+  "/assets/pubs-author-4.jpg":
+    md5: aa87c839d34d134167fa8c2b9dd90212
+    time: 1506459814
+  "/assets/pubs-story-11.jpg":
+    md5: 456821189cadff3563671be7c30cff6e
+    time: 1506459814
+  "/assets/pubs-story-2-1.jpg":
+    md5: 8ba5816806da7558f5ddbffabfb4af4a
+    time: 1506459814
+  "/assets/pubs-story-13.jpg":
+    md5: 6b7f0e5529a3050bd27a79395a75ef89
+    time: 1506459814
+  "/assets/pubs-author-7.jpg":
+    md5: ad323f215af1b8d858fa3efc8852de61
+    time: 1506459814
+  "/assets/pubs-story-15.jpg":
+    md5: d9eeee11e017c2a75a5149945a566322
+    time: 1506459814
+  "/assets/chart.jpg":
+    md5: 191549f36b932e22c460c3a01793fb4b
+    time: 1506459815
+  "/assets/piercey-pic-2.jpg":
+    md5: dbd0fc04f5a5b05c873d70ee075bc7e2
+    time: 1506459815
+  "/assets/polseff-pic-4.jpg":
+    md5: 80cafd711def56be4be8b1d02f058d4d
+    time: 1506459815
+  "/assets/HEA results small.jpg":
+    md5: 2d14f77b9e84c2ccdf2e6a62fffd57fe
+    time: 1506459815
+  "/assets/Naughton-HSNP-screenshot.jpg":
+    md5: 4d4e5076e3e640388fb3cf59aaa4f86f
+    time: 1506459815
+  "/assets/Heinzelman-pic-2.jpg":
+    md5: e76bf3ab35b310f51b5e5561e63f57b5
+    time: 1506459815
+  "/assets/chart-1.jpg":
+    md5: 191549f36b932e22c460c3a01793fb4b
+    time: 1506459815
+  "/assets/Devs-Alia-2.jpg":
+    md5: 784910602f23f74882d242c30044de9c
+    time: 1506459815
+  "/assets/Devs-Jessica-2.jpg":
+    md5: 485fc006ee1df003470d70dd32b4852e
+    time: 1506459815
+  "/assets/Devs-Ruba-2.jpeg":
+    md5: f5344f965da51132bbb0f5e94b2fea4a
+    time: 1506459816
+  "/assets/Devs-eAgustiana-2.jpg":
+    md5: 49929bd739dac05960a417f94ff83f59
+    time: 1506459816
+  "/assets/Devs-Intissar-2.jpg":
+    md5: df166b6d98cf200a49fd4151ce47827f
+    time: 1506459816
+  "/assets/Pic_SLehman.jpg":
+    md5: daca07502ab9e758f7a3abf4b5a05344
+    time: 1506459816
+  "/assets/Devs-Helmstadter-graphic-1.jpg":
+    md5: 508e86b437973a4bba7f21a893a753a7
+    time: 1506459816
+  "/assets/Devs-Hall-Jordan-FRPII-tax-fraud-seminar.jpg":
+    md5: 6efdad5a80cbfabcdc1814e9f23a250a
+    time: 1506459816
+  "/assets/Devs-PEPE-pic-2.jpg":
+    md5: 8fd200cf529f2734d1209740f3144a1e
+    time: 1506459816
+  "/assets/SPEED-PIC-1-Seed-conference.jpg":
+    md5: f7f4d4fb4f149acd1ed1a295fce5014f
+    time: 1506459816
+  "/assets/Devs----TIS-1.jpg":
+    md5: ca4053107f3a9a712193c2266740c8e2
+    time: 1506459816
+  "/assets/Tajik-FFP-1.jpg":
+    md5: 22a6c71709abc03ba72f9fa74bc293c3
+    time: 1506459816
+  "/assets/Devs-ACE-3.jpg":
+    md5: 5791a7e765fc370600cca6c68f0e10a8
+    time: 1506459817
+  "/assets/ASJP-pic-2-2.jpg":
+    md5: e3f6fb94269f0dab8007eaf6998e355f
+    time: 1506459817
+  "/assets/m4p.jpg":
+    md5: 0ce5f5436e6998cf688ab97f71bab6c6
+    time: 1506459817
+  "/assets/juan-1.jpg":
+    md5: 7167bd90fb238cb56d3cf8ad5549ef64
+    time: 1506459817
+  "/assets/newbilly-1.jpg":
+    md5: b4ac435f470e9215b3034e28547e7282
+    time: 1506459817
+  "/assets/sapan-x.jpg":
+    md5: 61eaaa50c55c2505addfcd0fc583c02b
+    time: 1506459817
+  "/assets/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg":
+    md5: 7f3133cc954e58754d6e717d31e2e031
+    time: 1506459817
+  "/assets/Devs----Kitain-side-by-side.jpg":
+    md5: d9a360d32a2e7eb11cd9beaccb6d3242
+    time: 1506459817
+  "/assets/Devs----Low-Fuss-Media-pic-2.jpg":
+    md5: a0828cf5183ab21bf4eab73dc4cbbc2d
+    time: 1506459818
+  "/assets/Devs----ARCC-pic-7.jpg":
+    md5: 48e7d37148cc7f127027a466255c2ada
+    time: 1506459818
+  "/assets/Devs----ACP-EU-pic-2.jpg":
+    md5: 4d01e70eddbe8859e6047b40e934f89f
+    time: 1506459818
+  "/assets/practitioners-1.jpg":
+    md5: e5fbd88167a37c9a739030ff3420c012
+    time: 1506459819
+  "/assets/Devs----SSAPR-4.jpg":
+    md5: 7f35bc937f1c18230f7a4a80b2a65e4c
+    time: 1506459819
+  "/assets/Devs----Khmer-Smart-Keyboard-5.jpg":
+    md5: 915ad2cc2a6e25f584152475b1d22c7b
+    time: 1506459819
+  "/assets/Devs----PDSP-pic-1-Disability-Day-2015.jpg":
+    md5: 14004089c2baaf3a9c74a140327a1163
+    time: 1506459819
+  "/assets/Devs----Helms-2.jpg":
+    md5: 390a5a3badcdb90c954bd9d44eba876e
+    time: 1506459819
+  "/assets/Devs -- Naughton 1.jpg":
+    md5: 026a68f005e628d70150fbcdf5639a78
+    time: 1506459819
+  "/assets/Devs----INVC-pic-2.jpg":
+    md5: 8726a0e80e5145b9d58444828da90d52
+    time: 1506459819
+  "/assets/566077c53fcbeb53d7000015.jpg":
+    md5: e79b3505d05c87607b11c92a67ab8da2
+    time: 1506459820
+  "/assets/Devs-Sapan-Buapan-13.jpg":
+    md5: e31ffe8aa0ef8e5b7202256736f2c7af
+    time: 1506459820
+  "/assets/Devs----Jepsen-Savings-Group-3.jpg":
+    md5: fff6486cb9072399a3448b93789e6a41
+    time: 1506459820
+  "/assets/Devs----Tilitonse-3.jpg":
+    md5: 641cb2a4a51414d4503dcc6f9dfe41bf
+    time: 1506459820
+  "/assets/Devs----INVC-Care-Groups-1.jpg":
+    md5: 3af5b9e440c30aa7a450b139a86ba777
+    time: 1506459820
+  "/assets/Devs----Bhairav-Raja-pic-2.jpg":
+    md5: e23f7d52c68a0665daee8556374c0e79
+    time: 1506459820
+  "/assets/Devs----James-Happell.jpg":
+    md5: 3df284c16a264a05514bd37433ce60f2
+    time: 1506459820
+  "/assets/Devs----IUWASH-pic-2.jpg":
+    md5: 746ebbf176fde598250589e5c662fdb6
+    time: 1506459821
+  "/assets/Devs----PDSP-3.jpg":
+    md5: 58bd516b5c20e479a1e3bf1ff6d3086a
+    time: 1506459821
+  "/assets/Devs----Eunice-HFG-graph-2-new.jpg":
+    md5: 9d83333cf8233af909e106d1b3a80feb
+    time: 1506459821
+  "/assets/taxes_2.jpg":
+    md5: f972d2a893612cca3f391cd562041d10
+    time: 1506459821
+  "/assets/Devs----SERVIR-Nepal----.jpg":
+    md5: 79cacf35260f1f4b10a2f7abcb04ee71
+    time: 1506459821
+  "/assets/Devs-mug----Coon-.jpg":
+    md5: 72ea3e110c45636a7322d5cde8923798
+    time: 1506459821
+  "/assets/Devs----Brian-McMahon-mug.jpg":
+    md5: d9bd45b0565d9abfc22358b0c9a1b518
+    time: 1506459821
+  "/assets/Devs----Enrique-Giraldo-mug.jpg":
+    md5: 6751e5fb5aee0d4a6919a4947292b8f4
+    time: 1506459821
+  "/assets/Devs----Zika-5.jpg":
+    md5: fdb1c89130198274e3f356390a904448
+    time: 1506459821
+  "/assets/Devs----JCP-cars-8.jpg":
+    md5: ec28cb0465becb8f590b82474a2087f0
+    time: 1506459821
+  "/assets/DAIdeas-9.jpg":
+    md5: f5be48ec57f04de97243213b3daa7ec6
+    time: 1506459821
+  "/assets/Mark-Gallagher-mug.jpg":
+    md5: 83551a0e0f9cca92c57155258948ccdb
+    time: 1506459822
+  "/assets/Devs----ALII-TV-pic-1.jpg":
+    md5: 0e9dfac21838008693c39a905ab900ec
+    time: 1506459822
+  "/assets/Devs----NDPI-side-1.jpg":
+    md5: 72c402999846c65629ae147c2a73a80e
+    time: 1506459822
+  "/assets/Devs----for-web-NDPI-6.jpg":
+    md5: 44d6eaacff4dbd7eaf2b23b8bb30dd29
+    time: 1506459822
+  "/assets/Devs----Dimitroff-mug.jpg":
+    md5: dca587ee538faab5952a1d0e4800a672
+    time: 1506459822
+  "/assets/Unknown.jpeg":
+    md5: a2a78897db4b5eeadacd59933290e521
+    time: 1506459822
+  "/assets/Devs----McCluskey-mug.jpg":
+    md5: f8aa2188e70739bdb869de9d2508e161
+    time: 1506459822
+  "/assets/Devs----Lebanon-apples-2.jpg":
+    md5: f4dc7dec5823afb6ca24bc5ac34f6a16
+    time: 1506459823
+  "/assets/SIMM-pic-3-1.jpg":
+    md5: e1a9daddf67a40336cb8bac9ab8be48e
+    time: 1506459823
+  "/assets/DAIdeas----Emily-pic-1.jpg":
+    md5: 47d747db99ffc24427741ef44231c7b0
+    time: 1506459823
+  "/assets/Devs----Mekong-ARCC-closedown-4.jpg":
+    md5: 21c65125e12af904de4985ea69a6b197
+    time: 1506459823
+  "/assets/Devs----Mekong-ARCC-closedown-3-1.jpg":
+    md5: 59b2f97380d2e1ea108e715cdab6742d
+    time: 1506459823
+  "/assets/Devs----AVC-2.jpg":
+    md5: ca6321779e0dcb6126171287c5100fb9
+    time: 1506459824
+  "/assets/Devs----Alia-Women-in-Ag-5.jpg":
+    md5: b724b95fd53ee27131665880570f4a87
+    time: 1506459824
+  "/assets/Devs----RADP-North-5.jpg":
+    md5: 27225ed2138e7cea8a920ef5adc4a78f
+    time: 1506459824
+  "/assets/Devs----Gaza-fish-3jpg.jpg":
+    md5: 63d5d190e41438bc2b18ed3a44d3e99e
+    time: 1506459824
+  "/assets/DEVS----ALBA-6.jpg":
+    md5: 2d13dc48a631d2832d22fd81a8986f8e
+    time: 1506459825
+  "/assets/Country-of-Origin-of-Children.jpg":
+    md5: 0301c9ec1c43594b4d3da0ae086a4d08
+    time: 1506459825
+  "/assets/Devs----SHAHAR-pic-2.jpg":
+    md5: f729bb3ebd54a63d60711b86deaf35b2
+    time: 1506459825
+  "/assets/Owen.jpg":
+    md5: eb8bfed51de113723961d240cc659b23
+    time: 1506459825
+  "/assets/Ebola meeting with chiefs (from Creative Commons).jpg":
+    md5: 5370e3814d63192bd358e448316bcaeb
+    time: 1506459825
+  "/assets/Devs----Nadine-Chemali-LIVCD-pic-.jpg":
+    md5: f9f1361c24e05e5ac08ba7e0db056751
+    time: 1506459825
+  "/assets/DSCN0438.JPG":
+    md5: 1a9a7c974f921e2ad49387efe25b8964
+    time: 1506459826
+  "/assets/LIFT 1.jpg":
+    md5: 7cf7a594b19fb162d30868eeeaa55578
+    time: 1506459826
+  "/assets/sarah.jpg":
+    md5: 5944812ff9c45dbed460fd5c5258c4f2
+    time: 1506459826
+  "/assets/ABSL 1.JPG":
+    md5: 10fa82bff890ab310e0e281fb89a6e19
+    time: 1506459826
+  "/assets/Devs----Rapier-Water-pic-1.jpg":
+    md5: 6d209850c9fbecdc696c3fa3bb651382
+    time: 1506459827
+  "/assets/Devs----Kenya-FIRM-pic-6.jpg":
+    md5: 7fed33c0e02329041fbecd899ebc324d
+    time: 1506459827
+  "/assets/Devs----Kenya-FIRM-pic-8-1.jpg":
+    md5: af3821a4148bb665b71e57671bb94b58
+    time: 1506459827
+  "/assets/Gain Share.jpg":
+    md5: c3ec3201d854949d7e38224ed9d9708b
+    time: 1506459827
+  "/assets/Devs -- Taxes FPEMP.jpg":
+    md5: fabceda6d7879d44ae66e43e87024601
+    time: 1506459827
+  "/assets/LAND Diagram 2 Land Rights - f2v1[3].png":
+    md5: 0f70e85ea30d157267a33046e1ee609b
+    time: 1506459827
+  "/assets/Felicity Buckle Devs.jpg":
+    md5: cef38354ff0fd0fa8aeefd61bc414c99
+    time: 1506459827
+  "/assets/Devs----Afgh-WIE-5.jpg":
+    md5: ac049a9f9d16ea53c09313417d227d6a
+    time: 1506459827
+  "/assets/Devs----Yohannes-Assefi-EATIH.jpg":
+    md5: b057274b1bcb0c9fbdaf533bd30af37e
+    time: 1506459828
+  "/assets/pic.jpg":
+    md5: 9727d39f0d010f69be075c7c19140213
+    time: 1506459828
+  "/assets/Devs----Coon-mug-1.jpg":
+    md5: 6085a170563234ce709d1872c0f18e6d
+    time: 1506459828
+  "/assets/Devs----Uzbek-cold-chain-3.jpg":
+    md5: ca262821edea97d6b03ae010dbf055b3
+    time: 1506459828
+  "/assets/Mine_Master_conultant_1.jpg":
+    md5: 624f72acd39397536ff41645afd1ba73
+    time: 1506459828
+  "/assets/Devs----Blended-pic-7.jpg":
+    md5: f4a7db0831367ffe495886a9c8a63f52
+    time: 1506459828
+  "/assets/Devs----Summer-2017-1.jpg":
+    md5: da2f58c028948d50c1067c585478104a
+    time: 1506459828
+  "/assets/5941855294de105748b305a4.jpg":
+    md5: d39da3447931d070d0501c00a7a08ceb
+    time: 1506459829
+  "/assets/Devs----Lister-1.jpg":
+    md5: 0bf656ece9b03f010aef5ea51dbac3cc
+    time: 1506459829
+  "/assets/Devs----Finette-QA-2.jpg":
+    md5: 21f62eabc7ebfd13b82ce5cdd2de3a99
+    time: 1506459829
+  "/assets/Devs----Technovation-2.jpg":
+    md5: 8c88e11592a9dbea295671470e3f9a81
+    time: 1506459830
+  "/assets/Devs----FSD-Moz-new-pic.jpg":
+    md5: e4687eff67bce6d8b3f934ccb7a8a129
+    time: 1506459830
+  "/assets/Devs----Source-Africa-1.jpg":
+    md5: b154e3254a8c01fc52744d51ed7a7a68
+    time: 1506459830
+  "/assets/Devs----Elizabeth-Drachman-mug.jpg":
+    md5: 1c66a47f4f2105e9f0d65013372ec2b0
+    time: 1506459830
+  "/assets/Devs----Clima-East-3.jpg":
+    md5: 9b3e613f2186d10cde7bdc9c2a56c02b
+    time: 1506459830
+  "/assets/ideas3.jpg":
+    md5: 5869875bac75d11a2a5004eb586d0793
+    time: 1506459830
+  "/assets/herat2.jpg":
+    md5: 8386e41748e0171288fc6b6c73b92021
+    time: 1506459831
+  "/assets/ia2.jpg":
+    md5: b98f290e03b5b54b290cea1530d15dd2
+    time: 1506459831
+  "/assets/us3.jpg":
+    md5: f5c0dcb6687be456a469ed5da493f41f
+    time: 1506459831
+  "/assets/afg-women3.jpg":
+    md5: 4c4c3bf8e5d282e61f4069844b440cba
+    time: 1506459831
+  "/assets/ym4.jpg":
+    md5: 7862f4fadbe0abdd58fe6adb60eb2172
+    time: 1506459831
+  "/assets/sydney.jpg":
+    md5: bd78ef35aa683024ca585d72289ef2bf
+    time: 1506459831
+  "/assets/farmer2.jpg":
+    md5: da1db759c0fe6c03e2bba32694cbb0d9
+    time: 1506459831
+  "/assets/imarisha2.jpg":
+    md5: 27bcae042755723f148f0a2fc32df7ce
+    time: 1506459831
+  "/assets/rainfall.jpg":
+    md5: 40db0ee67fb746e4c0fc6fb39c4e2faa
+    time: 1506459831
+  "/assets/noramorgan.jpg":
+    md5: a04195e36b95fbefe6df79cfb36894d0
+    time: 1506459831
+  "/assets/farmer.jpg":
+    md5: df99275309d23dc4ef5bdcb6bfe92efd
+    time: 1506459832
+  "/assets/nicholbrummer.jpg":
+    md5: 6b3b7a1dc0529e23699d0f939be12da4
+    time: 1506459832
+  "/assets/34639780@N07.jpg":
+    md5: f975def5412f3145e7b97fe5b321b208
+    time: 1506459832
+  "/assets/joanna.jpg":
+    md5: a8d3853e121bbabd03a95eac029117ad
+    time: 1506459832
+  "/assets/brigit-1.jpg":
+    md5: 7d714bae012e4e07d2319c3038f3daa7
+    time: 1506459832
+  "/assets/mckaysavage-2.jpg":
+    md5: e0714437859005f8bd0b57091a338735
+    time: 1506459832
+  "/assets/diagram.jpg":
+    md5: d7f4d81697cacd67826aed447a230520
+    time: 1506459832
+  "/assets/Jepsen_Inner.jpg":
+    md5: 84ebcda71d68350d0ef718486dda19fe
+    time: 1506459832
+  "/assets/chadskeers.jpg":
+    md5: 5103ab011ebd835b012662ba3ffbf445
+    time: 1506459832
+  "/assets/mining-3.jpg":
+    md5: 236604472dcd7cb517281a6edcd3a72a
+    time: 1506459833
+  "/assets/conservation2.jpg":
+    md5: b360418597f2b5223c8c4454298e24a8
+    time: 1506459833
+  "/assets/dfid-2.jpg":
+    md5: 7c78a3e032b84c31a815f8b856a8f9c3
+    time: 1506459833
+  "/assets/partnership-2.jpg":
+    md5: ec392c3b0756550437bafe50c33678f0
+    time: 1506459833
+  "/assets/fed_conference.jpg":
+    md5: 81cc5600293fa32b98d3f51e4708bc1d
+    time: 1506459833
+  "/assets/jordan_refugees2.jpg":
+    md5: 365c859d5f647774ee6a9a98b2538052
+    time: 1506459833
+  "/assets/pwrf_chart.jpg":
+    md5: acf346c8b3aacf4fc81eec07d15d57c1
+    time: 1506459833
+  "/assets/timor_farmer2.png":
+    md5: 5958b9244759f8f7a7c19930cab18eb0
+    time: 1506459833
+  "/assets/kyrg.jpg":
+    md5: bbf5534bbaa56df32b2daad4dd515f60
+    time: 1506459833
+  "/assets/bamboo2.jpg":
+    md5: 7f5e0ba434faa3bdfa7628369127eaf8
+    time: 1506459834
+  "/assets/gallagher-2.jpg":
+    md5: 7c1d5c0277d26895da451838d8e66d16
+    time: 1506459834
+  "/assets/grant-1.jpg":
+    md5: 2cd15a1cf2506360a61666499aaee814
+    time: 1506459834
+  "/assets/kormos-1.png":
+    md5: b28e0559b9e7e334c53815372ff624c7
+    time: 1506459834
+  "/assets/rackley-3.jpg":
+    md5: a23d014c9adc975286e732e19f5aad37
+    time: 1506459834
+  "/assets/libya-graffiti.jpg":
+    md5: 2e2c3adf2bb1d514dd61b5d2141c3e20
+    time: 1506459834
+  "/assets/ticehurst.jpg":
+    md5: 245ffa64bfcf6b4b06d95b28f9ff2093
+    time: 1506459834
+  "/assets/pic3-1.jpg":
+    md5: 450e32b9162ea7d7bdf75ae9f1d7617f
+    time: 1506459834
+  "/assets/pubs-story-1.jpg":
+    md5: 3b8d2ae9e95d15ce196013739f6cde91
+    time: 1506459835
+  "/assets/pubs-story-16.jpg":
+    md5: d32d56159477e321bc321f75e2916f82
+    time: 1506459835
+  "/assets/piercey-pic-3.jpg":
+    md5: 4283979cd609687de5ec5f522566fe74
+    time: 1506459835
+  "/assets/HEA-results-full.jpg":
+    md5: 6783079c2080317b0908ab8551605cc8
+    time: 1506459835
+  "/assets/naughton-pic-2.jpg":
+    md5: ac55eb18e488fbc1bd15d378c2afd1bc
+    time: 1506459835
+  "/assets/JessicaHeinzelman.jpg":
+    md5: 5acb50c06a3238572390e7f2d66c3c21
+    time: 1506459835
+  "/assets/Devs-Alia-3.jpg":
+    md5: 39f488f993b8a481249948504c9cf571
+    time: 1506459835
+  "/assets/Devs-Jessica-3":
+    md5: 8ae8f40ff9ef59b2e173fc8b259a7ed8
+    time: 1506459835
+  "/assets/Devs-Ruba-3.jpg":
+    md5: f8740e4e69b511015839edd8afec9fd4
+    time: 1506459835
+  "/assets/SPEED-pic-2.jpg":
+    md5: 6cafe6159f0dbec2b74f2d6af98176bb
+    time: 1506459836
+  "/assets/Devs----Vishalini.jpg":
+    md5: 516cd52dba0ccc79dd59d4cf92856324
+    time: 1506459836
+  "/assets/Tajik-FFP-2.jpg":
+    md5: 1c4830b05931c878382ff5f31c66bff0
+    time: 1506459836
+  "/assets/Devs-ACE-4.jpg":
+    md5: 0ce3d2f780e1cea2a1467bdb8cceb7f3
+    time: 1506459836
+  "/assets/value-chains.jpg":
+    md5: 6fb834033a222339eff6133ac222b013
+    time: 1506459836
+  "/assets/Marjan-Pic.jpg":
+    md5: e23302840a281edf869ba94092261bbd
+    time: 1506459836
+  "/assets/Screen-Shot-2015-08-20-at-12.59.59-PM.jpg":
+    md5: 8c890e88e89875900110c8f0b30cf82f
+    time: 1506459836
+  "/assets/Devs----Low-Fuss-Media-pic-3.jpg":
+    md5: 713a111e67f297ad82615a9d6817c640
+    time: 1506459837
+  "/assets/Devs----ARCC-pic-8-1.jpg":
+    md5: 9e7440f2758b46c6b3d5cbb81bc0faee
+    time: 1506459837
+  "/assets/Devs----ACP-EU-pic-3.jpg":
+    md5: 054d83b60fc81461aeed8ff255074737
+    time: 1506459837
+  "/assets/Devs----SSAPR-pic-1.jpg":
+    md5: 3af68b2b4f8a55b1f2e52ea050a3c674
+    time: 1506459837
+  "/assets/Devs----Naughton-PIMS-1.jpg":
+    md5: 8329776dfe46c55f7c5295ce602ed957
+    time: 1506459837
+  "/assets/Devs----new-Buapun---KKU.jpg":
+    md5: 1d188529dc4d86fb44b173d56f762875
+    time: 1506459837
+  "/assets/Devs -- Khmer Smart pic 1.jpg":
+    md5: fe8c361df58853c9c24c7da4cf77ef57
+    time: 1506459837
+  "/assets/Devs----PDSP-pic-2-classroom.jpg":
+    md5: e79b3505d05c87607b11c92a67ab8da2
+    time: 1506459837
+  "/assets/Devs----Helms-e-Pesa.jpg":
+    md5: 4c93697d83674182b6a07ca7cca17a6b
+    time: 1506459837
+  "/assets/Devs----INVC-pic-1.jpg":
+    md5: ebb4c080e70e89b3027c9fedf9541055
+    time: 1506459838
+  "/assets/Devs----Jepsen-Savings-Groups-2.jpg":
+    md5: 6ee04e1291f00ff16238dece864492d7
+    time: 1506459838
+  "/assets/Devs----Tilitonse-2.jpg":
+    md5: 83d1c841f3cd940be545813ef4ee1101
+    time: 1506459838
+  "/assets/Devs----Bhairav-Raja-3.jpg":
+    md5: 05e98ff484b0c807bb222ae9d135f5be
+    time: 1506459838
+  "/assets/Robert-Chizimba.jpg":
+    md5: fd9335ce28ce2176e79fa6ccd506d07f
+    time: 1506459838
+  "/assets/Devs----Cambodia-mHealth-2.jpg":
+    md5: d2577e3a069ce49dc49764d834d8611c
+    time: 1506459838
+  "/assets/Elfman-pic.jpg":
+    md5: 75233ff6ae78608fb8b0a1374dc870ac
+    time: 1506459838
+  "/assets/USAID Persons with Disabilities Support Program Booklet.pdf":
+    md5: 3410f51ec8d9abcf611f1bc22f313e39
+    time: 1506459839
+  "/assets/Devs----Eunice-HFG-2.jpg":
+    md5: 01e5131eb6dc5d0bebac39fb00505af4
+    time: 1506459839
+  "/assets/taxes_1.jpg":
+    md5: 1690c708bdebc40d4399000afb993ed2
+    time: 1506459839
+  "/assets/Devs----SERVIR-Bolden.jpg":
+    md5: 866d6c0b7b5babfdf585200df71e1dd0
+    time: 1506459839
+  "/assets/Devs----water-3.jpg":
+    md5: 9310086bfa3cc20d190a1b30842b8582
+    time: 1506459839
+  "/assets/Devs----Kirsten-Weeks.jpg":
+    md5: 8397106a788adf89b09f87a69228b078
+    time: 1506459839
+  "/assets/Devs----El-Salvador-DRM-2.jpg":
+    md5: ac3ca639e4dcf4c63a35ed64281885b4
+    time: 1506459839
+  "/assets/Devs----Jcp-cars-1.jpg":
+    md5: 5b555afde9eb30eace72d6887ccf3dbb
+    time: 1506459840
+  "/assets/DAIdeas-6.jpg":
+    md5: 9150c902d9b00f40a3ac89736132c82a
+    time: 1506459840
+  "/assets/Gallagher-8.jpg":
+    md5: 88efefac687c468bd68fdf75d5c9d890
+    time: 1506459840
+  "/assets/Devs----Steve-Smith.jpg":
+    md5: 9af199d8889b1d90ee00f7fcf59e3932
+    time: 1506459840
+  "/assets/Devs----NDPI-5.jpg":
+    md5: 80e2f6e3a95f2cb1171f8f8126caf977
+    time: 1506459840
+  "/assets/Devs----Dimitroff-1--.jpg":
+    md5: 70095092ec78c30665b3abb14db8f57a
+    time: 1506459840
+  "/assets/Devs----Climate-Finance-graphic-new.jpg":
+    md5: b7ddb382b9d8f44a9da68fb57a1961c6
+    time: 1506459840
+  "/assets/Devs----Lebanon-apples-1.jpg":
+    md5: 4dca648687d466cfa9b360e5df173c4b
+    time: 1506459840
+  "/assets/Devs----Jepsen-Raja-pic-3.jpg":
+    md5: 7a5fed33b30ff358a4fc04c1e61b00dd
+    time: 1506459841
+  "/assets/DAIdeas-Emily-Foster-3.jpg":
+    md5: 44ada80d8509c1243fb8e7c5517080bb
+    time: 1506459841
+  "/assets/Devs----Mekong-ARCC-closedown-2.jpg":
+    md5: a8c27ac69e7819910f352676b8a60ab3
+    time: 1506459841
+  "/assets/Devs----Mekong-ARCC-4-1.jpg":
+    md5: 24c50bf92950ed6c2b0292814dee3c7a
+    time: 1506459841
+  "/assets/Devs----Bang-AVC-5.jpg":
+    md5: 3045d7738884b931761327e77baacd7b
+    time: 1506459841
+  "/assets/Devs----Afshar-Women-in-Ag-1.jpg":
+    md5: d3743a229d37fa70d19357e3192b0724
+    time: 1506459841
+  "/assets/Devs----RADP-North-1.jpg":
+    md5: f8b799d905c7adb6d679b21e69691445
+    time: 1506459841
+  "/assets/Devs----Gaza-fish-11.jpg":
+    md5: 88eb2bb831ca6c8b3904524f17343383
+    time: 1506459841
+  "/assets/Devs----Dennis-Duncan-ALBA-mug.jpg":
+    md5: 349f54ed459ef0d0eb4087742d3f394a
+    time: 1506459842
+  "/assets/Devs----Costenbader-Coffee-Cloud.jpg":
+    md5: 25eb58a2c62ddda785ce6222a0f5c66a
+    time: 1506459842
+  "/assets/Devs----SHAHAR-pic-4.jpg":
+    md5: fc98676ee395f817eeead95c366cdc6c
+    time: 1506459842
+  "/assets/mapping in field 1-1.jpg":
+    md5: 77b26614c7c17c3fbacd0790d7222ad2
+    time: 1506459842
+  "/assets/Devs----LIVCD-Honey-pic-4.jpg":
+    md5: 2b7e64dfac561a1423dd95d3e4c9da87
+    time: 1506459842
+  "/assets/Land mapping.jpg":
+    md5: 81f9d86f56aa1bac38afe8840a7c3153
+    time: 1506459842
+  "/assets/LIFT-2.jpg":
+    md5: f3c79f1723ec5076fdc14e357382420a
+    time: 1506459842
+  "/assets/graeme.jpg":
+    md5: 104a27de51766945caa0b09189ffa524
+    time: 1506459842
+  "/assets/ABSL view.jpg":
+    md5: b757e7af9db1f18f62ba994523ee035d
+    time: 1506459843
+  "/assets/Devs----Rapier-Water-pic-3.jpg":
+    md5: b81f65fcff73a933fe47c5b15c06c2c6
+    time: 1506459843
+  "/assets/Screenshot 2017-04-11 at 12.42.45 PM.png":
+    md5: 540d702cce342463f6b95dbb0eb840a5
+    time: 1506459843
+  "/assets/Devs -- Taxes FPI Fiscal Space .jpg":
+    md5: 1bf16e1776536c1db17be99e952dd2c2
+    time: 1506459844
+  "/assets/LAND Diagram 3.png":
+    md5: 3849aa44d13e93ad60452beda16266d4
+    time: 1506459844
+  "/assets/Bernice.png":
+    md5: 66c7c982f409d2114c367b1c93ef817c
+    time: 1506459844
+  "/assets/Devs----EATIH-grain-2.jpg":
+    md5: fcf45beee7b0e8c83def4d04fb2415fd
+    time: 1506459844
+  "/assets/DSCN0568.JPG":
+    md5: 1c4a1fe752eaa9f7de37cf10ea5ab0dd
+    time: 1506459844
+  "/assets/Devs----FPI-e-filing-v-tax-revenue.jpg":
+    md5: c97a01ec300885aff8a721f614041ade
+    time: 1506459844
+  "/assets/PH_Jarex.jpg":
+    md5: aa3e06dab3acbc3e2e68a874d16b8fbe
+    time: 1506459844
+  "/assets/Devs--Robin-Young-mug-1.jpg":
+    md5: 913caaf6882463a3836933334318a39c
+    time: 1506459845
+  "/assets/Devs----Uzbek-Richard-Tracy.jpg":
+    md5: 70027a2763238992b7261f7fc014e321
+    time: 1506459845
+  "/assets/Devs----Lister-3.jpg":
+    md5: d2f3b290ca9a011effd1375c0b7e146e
+    time: 1506459845
+  "/assets/Devs----Barry-pic.jpg":
+    md5: 8dd2cfca7a32b844938dd25c12091733
+    time: 1506459845
+  "/assets/Devs----FSD-Moz-5.jpg":
+    md5: 09995d1718f5c21a1a3b03ee2814c2df
+    time: 1506459845
+  "/assets/Devs----Source-Africa-2.jpg":
+    md5: 6f04d7271554b3703f7ac1952d0f21a6
+    time: 1506459845
+  "/assets/Devs----Clima-East-4.jpg":
+    md5: 9ea169a02384eced5c8282198d084a35
+    time: 1506459846
+  "/assets/Devs----AWEF-RADP-N-female-paravet.jpg":
+    md5: 233b0089caa7a039340a18e09508ec1d
+    time: 1506459846
+  "/assets/estrada.jpg":
+    md5: 100d24764a531509af4c9cd2db8d55a6
+    time: 1506459846
+  "/assets/chuck1-1.jpg":
+    md5: 04664c1f8eb487b730ee1848fa9cf934
+    time: 1506459846
+  "/assets/ym2.jpg":
+    md5: b075765af394578e1dfa24b31d4b0022
+    time: 1506459846
+  "/assets/imarisha3.jpg":
+    md5: c9bd842747a465b154c7d386d4d78f7c
+    time: 1506459846
+  "/assets/audience.jpg":
+    md5: 781fccd5e1811af3cee1813ab8e1d281
+    time: 1506459846
+  "/assets/authors.jpg":
+    md5: a72780e0bdfa58248156752dc739fc6b
+    time: 1506459846
+  "/assets/grant-2.jpg":
+    md5: 2867c9b97fa6dca0e14d00d605fa85b0
+    time: 1506459846
+  "/assets/graffiti.jpg":
+    md5: 7311fd85d80b9abf6df9803732d42379
+    time: 1506459847
+  "/assets/pic2.jpg":
+    md5: 92edaa997137095b71c0035579b1708e
+    time: 1506459847
+  "/assets/ticehurst-2.jpg":
+    md5: 245ffa64bfcf6b4b06d95b28f9ff2093
+    time: 1506459847
+  "/assets/cpars_guidance.pdf":
+    md5: bf8ad119a9972e40575de691920471b1
+    time: 1506459847
+  "/assets/piercey-pic-1.jpg":
+    md5: 09b62d87b886fa23eac91c629847f29d
+    time: 1506459847
+  "/assets/IMARISHA-1.jpg":
+    md5: 4d2fd7f66049ea5abaa6ea246096f658
+    time: 1506459847
+  "/assets/DEVS-SPEED-Rosario-pic.jpg":
+    md5: b5ef3d8f58cb06f0442ee907ad419895
+    time: 1506459847
+  "/assets/Tajik-FFP-3.jpg":
+    md5: bc1939c58b7c3025369211a158a0cfef
+    time: 1506459848
+  "/assets/Devs-ACE-1.jpg":
+    md5: cf7166dbf85b7db1d1c74b17b4c33cde
+    time: 1506459848
+  "/assets/context.jpg":
+    md5: 32129701002bb285fa0eb8292186f650
+    time: 1506459848
+  "/assets/Mira-Nasser-Personal-Photo.jpg":
+    md5: cae118853801e4ef8a64e4825d0cc757
+    time: 1506459848
+  "/assets/Devs -- Mekong ARCC pic 5.jpg":
+    md5: a19ecf2a9e80425b7d48fefc78059ead
+    time: 1506459848
+  "/assets/Heuisler_Inner.jpg":
+    md5: 8c0408d7455eed9d544608974da3cb0e
+    time: 1506459848
+  "/assets/Devs----Mathilde-Gaston-Mathe.jpg":
+    md5: 2fdddfc4aa68c3323d07e0fb8c33d4f1
+    time: 1506459848
+  "/assets/Devs----SSAPR-pic-2.jpg":
+    md5: 4dddc01138f56728b832a38285b08c99
+    time: 1506459848
+  "/assets/Devs----Khmer-Smart-Vanna-pic-3.jpg":
+    md5: 8450daf9acebcb36e61f1d3acb3a2734
+    time: 1506459848
+  "/assets/Devs----PDSP-pic.jpg":
+    md5: 3b69738ebf6b0caa2a592427a52e7706
+    time: 1506459849
+  "/assets/SIMM-pic-3.jpg":
+    md5: e1a9daddf67a40336cb8bac9ab8be48e
+    time: 1506459849
+  "/assets/Devs -- Naughton 2.jpg":
+    md5: deaa0e9db99b6545c3a659eba822c2bc
+    time: 1506459849
+  "/assets/Devs----INVC-Isaac-Masingati.jpg":
+    md5: 633aeb3d93f0785b6de8d38517cdc821
+    time: 1506459849
+  "/assets/Devs-Sapan-Buapan-11.jpg":
+    md5: 131d3cfbd3c6524f0b4b3eb90428d1a1
+    time: 1506459849
+  "/assets/Devs----Jepsen-Savings-Group-1.jpg":
+    md5: 3cd7d8558bde1b1da9189b4fbbafee06
+    time: 1506459849
+  "/assets/Devs----Tilitonse-1.jpg":
+    md5: 8f20816a76e2ce1f29ce29446c1108bc
+    time: 1506459850
+  "/assets/Devs----Fongyen.jpg":
+    md5: d20d2c97dae92c63448411b2176b202a
+    time: 1506459850
+  "/assets/Devs----Bhairav-Raja-pic-3.jpg":
+    md5: f2f6f19d6155b8c854db14a5d3558d39
+    time: 1506459850
+  "/assets/Devs----Cambodia-mHealth-1.jpg":
+    md5: 4467a469de07b29a7d61f9bb6507f5b7
+    time: 1506459850
+  "/assets/Devs----IUWASH-pic-3.jpg":
+    md5: 3322dc654e7564a249a36f9a02a06d25
+    time: 1506459850
+  "/assets/Devs----PDSP-4.jpg":
+    md5: c984334d72bcaa03eb2f9152985e500d
+    time: 1506459850
+  "/assets/Devs----Eunice-3.jpg":
+    md5: 1d5c76df262ccf59f0348ea41c535fbb
+    time: 1506459850
+  "/assets/stephen.jpg":
+    md5: 4ef6300a04931b923da71a9bb4fc43e1
+    time: 1506459851
+  "/assets/Devs----water-2.jpg":
+    md5: 04265a168483a42e2e974e9416153aca
+    time: 1506459851
+  "/assets/Devs----Zika-Thai.jpg":
+    md5: 298e6fa2a0e855c58231b0a2088c2b0a
+    time: 1506459851
+  "/assets/Devs----El-Salvador-DRM-3.jpg":
+    md5: 37e91391f72fe5933fc88a9445ee6eff
+    time: 1506459851
+  "/assets/Devs----JCP-cars-7.jpg":
+    md5: 496ead8bdc89a3c34daa444d3ddd2d86
+    time: 1506459851
+  "/assets/DAIdeas-pic-4.jpg":
+    md5: 53951208642cdff245e5c60e2670c965
+    time: 1506459851
+  "/assets/Gallagher-6.jpg":
+    md5: 59e20502683c313f9785865aaec58e31
+    time: 1506459851
+  "/assets/Devs----ALII-TV-pic-3.jpg":
+    md5: 5c934bc2f2e4190eed22c8e612f352d5
+    time: 1506459851
+  "/assets/Devs----Chuck-mug.jpg":
+    md5: 7b95e4be714fa4dc65b80fab60f3baf3
+    time: 1506459852
+  "/assets/Devs----Dimitroff-3-for-web.jpg":
+    md5: 292071b710238bf0eca37128e0c9e000
+    time: 1506459852
+  "/assets/Devs----Climate-Finance-3.jpg":
+    md5: 4c64b8e8b682e09b8fc3fea02d1ea420
+    time: 1506459852
+  "/assets/Devs----Jepsen-Raja-pic-2.jpg":
+    md5: 5b5412c83e1aa8b66d3d6e0985880703
+    time: 1506459852
+  "/assets/Devs----Mekong-ARCC-closedown-3.jpg":
+    md5: 59b2f97380d2e1ea108e715cdab6742d
+    time: 1506459852
+  "/assets/Devs----Mekong-ARCC-closedown-6-1.jpg":
+    md5: c74303d48f9071df5469518a2595b57a
+    time: 1506459852
+  "/assets/DEVS----PIC-4.jpg":
+    md5: 78086d84afa1aa1fa3641aa7f1ebf23a
+    time: 1506459852
+  "/assets/Devs-Alia-Women-in-Ag-2.jpg":
+    md5: 1159bd33b1994a24907a9a9972bf684a
+    time: 1506459852
+  "/assets/Devs----RADP-North-pic-2.jpg":
+    md5: 553cff6b12a199d121ca332f67955fe1
+    time: 1506459852
+  "/assets/Devs----Sami-Alalul-mug.jpg":
+    md5: 38794e3b4b018d5e379b71383a931899
+    time: 1506459853
+  "/assets/Devs----ALBA-Duncan.jpg":
+    md5: 9765afa7bf7176a83e9abad5e6b78521
+    time: 1506459853
+  "/assets/Devs----Costenbader-pineapples.jpg":
+    md5: 39e1d97db6b2104c629853a6d05f8171
+    time: 1506459853
+  "/assets/Devs----SHAHAR-pic-3.jpg":
+    md5: 9e8c303fec2b0f3cd2130d42f509ede5
+    time: 1506459853
+  "/assets/Devs----Mounia-Barakat-LIVCD.jpg":
+    md5: 3fd90903f9b14d27a1cc74a2ed9c99e0
+    time: 1506459853
+  "/assets/HaitiParliament.jpg":
+    md5: a57842fe7f775a48a26db51d62ec1a2a
+    time: 1506459853
+  "/assets/Devs----Rapier-Water-pic-4.jpg":
+    md5: 41645dd1b88e74406f400ecfcd0befff
+    time: 1506459853
+  "/assets/Devs----Kenya-FIRM-pic-7.jpg":
+    md5: 395b86b162fc586044cdce642f8d2e76
+    time: 1506459854
+  "/assets/verde.jpg":
+    md5: f61c416b8606eb115e8f8d2ba0c687bf
+    time: 1506459854
+  "/assets/Devs----Taxes-Liberia.jpg":
+    md5: b645e0aa06fe1aa7af59ee5b1b14245e
+    time: 1506459854
+  "/assets/LAND Diagram 4 Land Beyond LTR v3.png":
+    md5: 5655fc0708bb50404c62bcb7735576a8
+    time: 1506459854
+  "/assets/WB_Bernice_1.jpg":
+    md5: 3cf2f68b406b8422b87f6d53310e2bca
+    time: 1506459854
+  "/assets/Devs----Michelle-Morgan-Afgh-WIE.jpg":
+    md5: ec850d9eacd8d9587707652ad7209ac5
+    time: 1506459854
+  "/assets/pic 1.jpg":
+    md5: daebf098bd4d7048aeede33af2e6d933
+    time: 1506459854
+  "/assets/Devs----Blended-pic-1.jpg":
+    md5: 883ea728547512678f8627f6d73a767a
+    time: 1506459854
+  "/assets/Devs----Uzbek-Joel-Taylor.jpg":
+    md5: aafb1a28f3f7685adba0377eb0b09220
+    time: 1506459855
+  "/assets/john.jpg":
+    md5: 10aa53b9250ae74640e9b7ea1482643e
+    time: 1506459855
+  "/assets/Devs----Finette-QA-3.jpg":
+    md5: 089af486aff7a9601226d6cd315d90cd
+    time: 1506459855
+  "/assets/Devs----Bhairav-FSD-Moz.jpg":
+    md5: 4f60ddb2821276143a14049750eb13e1
+    time: 1506459855
+  "/assets/Devs----Source-Africa-graphic.jpg":
+    md5: 411c68ee0e7661196ce5edd9e855ca2f
+    time: 1506459855
+  "/assets/Devs----Clima-East-5.jpg":
+    md5: db1522799dd13411406a3f763506727c
+    time: 1506459855
+  "/assets/IMG_8165.JPG":
+    md5: 78877c320a272441cbb2e883e2f19e31
+    time: 1506459855
+  "/assets/ym3.jpg":
+    md5: b1cb5272388f580762cfdadde63e9d6f
+    time: 1506459856
+  "/assets/libya-vote.jpg":
+    md5: 03c389c934bdac70491996368b49055e
+    time: 1506459856
+  "/assets/piercey-video-pic-1.jpg":
+    md5: b7a221f76bbadb1fa1b0a743bf3dce4f
+    time: 1506459856
+  "/assets/Community Savings Groups Paper for Arusha - DAI- Final.docx":
+    md5: 75675bff3f550b35aa2f1b95ce85538a
+    time: 1506459857
+  "/assets/Devs-Alia-4-new.jpg":
+    md5: 6ad3b585792dd8e5a913593e37bca4ce
+    time: 1506459857
+  "/assets/Devs -- Tajik FFP Campbell.jpg":
+    md5: 9926bcf3e954c1b9fe83ee7d1f127dfc
+    time: 1506459857
+  "/assets/Devs-ACE-2.jpg":
+    md5: 17bd41bc697349e4dd8b3a02d609cbaa
+    time: 1506459857
+  "/assets/newbilly-3.jpg":
+    md5: b4ac435f470e9215b3034e28547e7282
+    time: 1506459857
+  "/assets/Devs----Gaza-pic-1.jpg":
+    md5: 3b42d674d15216de1b3a56eb64f9b6d2
+    time: 1506459857
+  "/assets/Devs----Mekong-ARCC-pic-1.jpg":
+    md5: 656a64546bdb67557eb0aac08875250d
+    time: 1506459857
+  "/assets/Devs----EmanuelMoyart.jpg":
+    md5: 8d3aef1d7c9c8e754771b15cc64977a5
+    time: 1506459858
+  "/assets/Devs----SSAPR-pic-3.jpg":
+    md5: 9d5ce7c3ab884026e273518a7b59070b
+    time: 1506459858
+  "/assets/Devs----Khmer-Smart-screenshot.jpg":
+    md5: 3fa689d6e836963b17a32fd01903e64f
+    time: 1506459858
+  "/assets/USAID-and-Valenzuela-City-signing.jpg":
+    md5: 308aef9465deea97429325907e5cdd26
+    time: 1506459858
+  "/assets/Naughton-pic.jpg":
+    md5: 431372d2483bfc109cc0086f2322f36d
+    time: 1506459858
+  "/assets/Devs-Sapan-Buapan-10.jpg":
+    md5: e72e4ba74481515d78cd0f26491c5c54
+    time: 1506459858
+  "/assets/Devs----Jepsen-mug.jpg":
+    md5: 51ba2e4e9d4b5ede8c1ea1298e7d04b1
+    time: 1506459858
+  "/assets/Devs----IUWASH-4.jpg":
+    md5: 854afde3e39156b3dfbbed81feb465d9
+    time: 1506459859
+  "/assets/Devs----Mark-Rasmuson-new.jpg":
+    md5: 6455f3dafb71a57902be3901541a7d1d
+    time: 1506459859
+  "/assets/Devs----Eunice-HFG-graph-1-new.jpg":
+    md5: 02b3e2bea64a207510ebc381e8f3b446
+    time: 1506459859
+  "/assets/Devs----water-1.jpg":
+    md5: 668090c8f31387b7d48270637ed694c6
+    time: 1506459859
+  "/assets/Devs----Zika-2.jpg":
+    md5: 97071de4975cf3d243a85441a9dd1e9b
+    time: 1506459859
+  "/assets/Devs----JCP-cars-6.jpg":
+    md5: a2a78897db4b5eeadacd59933290e521
+    time: 1506459859
+  "/assets/dipika-mug.jpg":
+    md5: de6839b17298882b8883a0018cd284c1
+    time: 1506459859
+  "/assets/Gallagher-1.jpg":
+    md5: b5fd378019df59901db055f731a2e275
+    time: 1506459859
+  "/assets/Devs----ALII-TV-pic-4.jpg":
+    md5: 53effa2d1a17fbc1a5143c827e54e773
+    time: 1506459860
+  "/assets/Devs----NDPI-1-.jpg":
+    md5: e168eb80a8f98853bb1cc81b2fd2b582
+    time: 1506459860
+  "/assets/Devs----Dimitroff-4.jpg":
+    md5: 4776cb5479a4daced0f0be3c1faac8c2
+    time: 1506459860
+  "/assets/Devs----Climate-Finance-2.jpg":
+    md5: 62ad46e73931ab11ce644841ac2f3a35
+    time: 1506459860
+  "/assets/Devs----Jepsen-Raja-pic-4.jpg":
+    md5: faa2055fe2d516f11784d6c547d2c493
+    time: 1506459860
+  "/assets/Devs----Shannon-Dugan-pic.jpg":
+    md5: f053f0f32bfe73d77e110274d0b7a1b0
+    time: 1506459860
+  "/assets/Devs----Mekong-ARCC-closedown-6.jpg":
+    md5: c74303d48f9071df5469518a2595b57a
+    time: 1506459861
+  "/assets/Devs----AVC-1.jpg":
+    md5: 6f4cde82830203fde5cec813d2618207
+    time: 1506459861
+  "/assets/Devs----Kirsten-Weeks-1.jpg":
+    md5: d269ae3a417f5dc8618860c4f9260380
+    time: 1506459861
+  "/assets/Devs----RADP-North-pic-3.jpg":
+    md5: 0c9bb6ce2d31023fc3fb34bc34bd60da
+    time: 1506459861
+  "/assets/Devs----Gaza-fish-4.jpg":
+    md5: 239fc8b047b3ccc278e154b3101e499b
+    time: 1506459861
+  "/assets/Devs----ALBA-Duncan-3.jpg":
+    md5: 20c8b06d0a3ce779d6be0aeeec155f2f
+    time: 1506459861
+  "/assets/Devs----Costenbader-pic-1.jpg":
+    md5: d04e0954cbdfcd5c7df3af354622fc99
+    time: 1506459861
+  "/assets/DEVS----Ramon-Hagad-pic.jpg":
+    md5: b6666ddd8f65a9537649f3466e75f46d
+    time: 1506459862
+  "/assets/Devs----LIVCD-Honey-pic-1.jpg":
+    md5: 8299c7e267e47c681e5561c7fb56323b
+    time: 1506459862
+  "/assets/PakistanPLSP.jpg":
+    md5: ea318c39a1b64939f6ad57b236bac7aa
+    time: 1506459862
+  "/assets/Devs----Richard-Rapier-mug.jpg":
+    md5: a4fcca3580c38e74f9edc669af6f9780
+    time: 1506459862
+  "/assets/Devs----Kenya-FRM-pic-2-.jpg":
+    md5: 7d33d2bb9d5617ac65f645e110004ddb
+    time: 1506459862
+  "/assets/SAM_1806.jpg":
+    md5: b2dab03ed3ae45486e27243a7c098bde
+    time: 1506459862
+  "/assets/Devs----SHAHAR-pic-1-1.jpg":
+    md5: 468c91a73112d8ec0e90a8fdd7fe437a
+    time: 1506459862
+  "/assets/Richard-BaldwinInner Devs.jpg":
+    md5: 5ed662116fda4ee914a44f38dc51c108
+    time: 1506459862
+  "/assets/Devs----Mare-Elston-mug-Afgh-WIE.jpg":
+    md5: d5e88e6ba2e9ab6aaf14795dfe02dd9e
+    time: 1506459863
+  "/assets/pic 1-1.jpg":
+    md5: daebf098bd4d7048aeede33af2e6d933
+    time: 1506459863
+  "/assets/PolSEFF_award.jpg":
+    md5: bdd6055bd71644dd9d927af8be2d465f
+    time: 1506459863
+  "/assets/Devs----Blended-pic-2.jpg":
+    md5: 8447fd0ce5c45efea9b514f05cb921b9
+    time: 1506459863
+  "/assets/saladdin.jpg":
+    md5: 94a0cb99f73ee9dbca7736c2e198a4c2
+    time: 1506459863
+  "/assets/Devs----Finette-QA-4.jpg":
+    md5: 5cc70a52aeb3a41f75e541f2b35b09cf
+    time: 1506459863
+  "/assets/Devs -- Bhairav Raja mug.jpg":
+    md5: ad306ad13f9f5caf618cb8ff8db943c3
+    time: 1506459863
+  "/assets/Why Trade Shows May 2015.pdf":
+    md5: 3d2f4798e648e60568d287249ddc73e6
+    time: 1506459864
+  "/assets/Devs----Clima-East-1.jpg":
+    md5: 035444196a0f24cd8c7001720be5f08a
+    time: 1506459864
+  "/assets/IMG_0039.JPG":
+    md5: 31e3e4496e721dca37da11fd487f5d29
+    time: 1506459864
+  "/assets/Devs-Tajik-Karchner-pic-2.jpg":
+    md5: f08e2f1a12dae1334071bf96eeee0e03
+    time: 1506459864
+  "/assets/Devs----PMDP-Gaza-pic-3.jpg":
+    md5: 2c6f4ffa0e96fad7726e986d5b14b6d4
+    time: 1506459864
+  "/assets/coon-125-mug.jpg":
+    md5: e884699d8d275bea721d405dc8cd6f5d
+    time: 1506459864
+  "/assets/Devs----Mekong-ARCC-pic-6.jpg":
+    md5: 1ee78796352fe55a2ac77c7d4206420d
+    time: 1506459864
+  "/assets/_Victoria-Bullock-1.jpg":
+    md5: 39d19221dded0dd39a8d1fe5b0d79e87
+    time: 1506459864
+  "/assets/Devs----Khmer-keyboard-launch-party.jpg":
+    md5: 9bcf9ea7d2bb4edadcbf4504629d77fe
+    time: 1506459864
+  "/assets/Jepsen,-John.jpg":
+    md5: 499910ebca5dcc42fea0929e4cca436f
+    time: 1506459865
+  "/assets/Devs-Sapan-Buapan-6.jpg":
+    md5: 8213215ea9368b1c7b0194fa309d55d8
+    time: 1506459865
+  "/assets/Devs----Colleen-Green-pic.jpg":
+    md5: 874d67617db14d82f1b20779a2c05b98
+    time: 1506459865
+  "/assets/Devs----IUWASH-3.jpg":
+    md5: d9fc877b903427023421277b46a4a425
+    time: 1506459865
+  "/assets/Devs-Eunice-mug-new.jpg":
+    md5: 4dc51017a3a86dbfbc6912ee384119f1
+    time: 1506459865
+  "/assets/Devs----JCP-cars-2.jpg":
+    md5: e2ce3a8cfbfd7c72de82c131d310287b
+    time: 1506459865
+  "/assets/Devs----Warwick-mug.jpg":
+    md5: d5ba3b524c30a0b609a3b15414a76770
+    time: 1506459865
+  "/assets/gallagher-2-1.jpg":
+    md5: 75d39a41cf0745fe2947df55b3594e21
+    time: 1506459866
+  "/assets/Devs----NDPI-3.jpg":
+    md5: 0539cc4e5e5f690f188687d16ef2b759
+    time: 1506459866
+  "/assets/Devs----Climate-Finance-graphic-3.jpg":
+    md5: 365b0510c2addbb7d45a80004aeaeaf9
+    time: 1506459866
+  "/assets/Devs----Jepsen-Raja-pic-1.jpg":
+    md5: 411c144be6c5ad0688d8b5a4d5ce7e61
+    time: 1506459867
+  "/assets/Devs----Mekong-ARCC-closedown-4-1.jpg":
+    md5: 21c65125e12af904de4985ea69a6b197
+    time: 1506459867
+  "/assets/Devs -- Michael Field mug.jpg":
+    md5: b4313a190d6400439b5c455fe3c57892
+    time: 1506459867
+  "/assets/Devs----Alia-Women-in-Ag-4.jpg":
+    md5: f056ea416007da6e16dda891cf3ea7e2
+    time: 1506459867
+  "/assets/Devs----RADP-North-6.jpg":
+    md5: 54530e4c260b93c56dfec77d1d68e394
+    time: 1506459867
+  "/assets/Devs----Gaza-fish-2.jpg":
+    md5: cfe156393219efa3361d76d5d27acc42
+    time: 1506459868
+  "/assets/Devs----ALBA-Duncan-4.jpg":
+    md5: c02081d3cdde65eeecb9d058b88ac0f5
+    time: 1506459868
+  "/assets/Devs----Costenbader-pic-3.jpg":
+    md5: a02e7c535ea071c87e99d04a03c105cf
+    time: 1506459868
+  "/assets/Devs----Van-James-mug.jpg":
+    md5: 451c1917283e4af20d3745e8ece9c207
+    time: 1506459868
+  "/assets/Devs----LIVCD-Honey-pic-3.jpg":
+    md5: 005f725bf9483054339f1062ecedc25b
+    time: 1506459868
+  "/assets/Devs----Kenya-FIRM-pic-8.jpg":
+    md5: af3821a4148bb665b71e57671bb94b58
+    time: 1506459868
+  "/assets/rtk gnss antenna sm.jpg":
+    md5: 099a9555965103c7ce73c71d96cba1e5
+    time: 1506459868
+  "/assets/Devs -- Brian McMahon mug.jpg":
+    md5: 992fb33a9138e2d45c8984a97ffda91a
+    time: 1506459868
+  "/assets/CliveEnglishInnerdevs.jpg":
+    md5: 7dcd985dc27b6f792148a58a3ca1e313
+    time: 1506459869
+  "/assets/Devs----Afgh-WIE-3.jpg":
+    md5: 48ba8834a9b3e54efdb15677b32df222
+    time: 1506459869
+  "/assets/ID.jpg":
+    md5: f7425b08f8212a954651f86bce6fc79b
+    time: 1506459869
+  "/assets/Devs----Blended-pic-4.jpg":
+    md5: 899388de101cbb80d50ea5eff07b1544
+    time: 1506459869
+  "/assets/quadissya.jpg":
+    md5: bb284441a4c776c302a2a0fcc1407b7d
+    time: 1506459869
+  "/assets/Devs----FSD-Moz-2-pics.jpg":
+    md5: eedc1a8f712f8f51dc21d19ae47a622a
+    time: 1506459869
+  "/assets/Devs----Donald-Lunan-mug.jpg":
+    md5: 0d93788c3b35da2d2adb701e4c3dba13
+    time: 1506459869
+  "/assets/Devs----Mekong-ARCC-pic-2.jpg":
+    md5: af9f8547ad33cee3046322570fccfba4
+    time: 1506459869
+  "/assets/Devs----IUWASH-pic-1.jpg":
+    md5: 8084cac1c672722a625aae67f939249b
+    time: 1506459870
+  "/assets/Devs----Wissam-Rabadi-mug.jpg":
+    md5: 7e953b2c86d49764a3fa3e0a51ceb618
+    time: 1506459870
+  "/assets/Gallagher-5.jpg":
+    md5: 7ee2c24ba7f29b4b9e840d5e3f3ab05f
+    time: 1506459870
+  "/assets/Devs----Climate-Finance-4.jpg":
+    md5: 19ff577c42034bfa483757c1ec8c3161
+    time: 1506459870
+  "/assets/Devs----John-Jepsen.jpg":
+    md5: a51fe0337dada188653216bfb2440ffd
+    time: 1506459870
+  "/assets/Devs----Paul-Hartman-pic.jpg":
+    md5: 8775a6aad2741f6876f1505f08d81c2a
+    time: 1506459870
+  "/assets/Devs----Sarah-Wall-pic.jpg":
+    md5: 128e7d670a6cc858e663139f04e1efa5
+    time: 1506459870
+  "/assets/Devs----Alia-Women--in-Ag-3.jpg":
+    md5: 487d3015b40b688d1956056e464cd2ec
+    time: 1506459870
+  "/assets/Devs----Jessica-Melton-mug.jpg":
+    md5: 64ab9ad985a7a1eae3926977da1111f3
+    time: 1506459870
+  "/assets/Devs----Gaza-Fish-pic-10.jpg":
+    md5: a229e79838596610f111916a2b9b8bf8
+    time: 1506459871
+  "/assets/devs----alba-7.jpg":
+    md5: af4cd7053074f1abcd09c448a38f0e41
+    time: 1506459871
+  "/assets/Devs----Costenbader-pic-4.jpg":
+    md5: ef6f88a13f6410156ebcc2c778979447
+    time: 1506459871
+  "/assets/Devs----Kenya-FIRM-pic-5.jpg":
+    md5: 6ef2056e3639c743540256b42b8dae2c
+    time: 1506459871
+  "/assets/Devs----Taxes-FPI.jpg":
+    md5: 44671ad19f1ebf01e4b3dce311cc6d5f
+    time: 1506459871
+  "/assets/Gavin A.png":
+    md5: 567b03739bedbc281987113d4908c1fe
+    time: 1506459871
+  "/assets/Devs----Afgh-WIE-1.jpg":
+    md5: c84b535e1be5a12ed5770f4e228b849a
+    time: 1506459871
+  "/assets/ID-1.jpg":
+    md5: c31133912e63fe20fc2fbd9407139490
+    time: 1506459871
+  "/assets/Devs----Blended-7.jpg":
+    md5: e492d798cfbf4b8680b4a06e703b4d62
+    time: 1506459872
+  "/assets/Devs----FSDMoz-1.jpg":
+    md5: 087f4bdfe58065f725a80c4ee9ffccbf
+    time: 1506459872
+  "/assets/Devs----Mekong-ARCC-pic-4.jpg":
+    md5: 390f1f9cc5d31c53a1d7b74f0cdd5ea3
+    time: 1506459872
+  "/assets/Devs----IUWASH-pic-4.jpg":
+    md5: 69a29045c11358cbc84862aec898f56d
+    time: 1506459872
+  "/assets/Devs----Shada-El-Sharif-mug.jpg":
+    md5: 65c954f55de95667c83d727ca3729e1b
+    time: 1506459872
+  "/assets/Devs----Ornasaran-Manuamorn-mug-.jpg":
+    md5: eb559ffcc7627df7dde4526f1add62f8
+    time: 1506459872
+  "/assets/Devs----Bhairav-Raja-4.jpg":
+    md5: f3faff4259331949f7945374e4bf8f09
+    time: 1506459872
+  "/assets/Devs----T.J.-Bradley.jpg":
+    md5: 22cbd2b1661f2d7de345c25ad5a3e34c
+    time: 1506459872
+  "/assets/Devs----Gaza-fish-8.jpg":
+    md5: e243d8c5b0c0f1ec6b1ad93c42e9f65c
+    time: 1506459873
+  "/assets/Devs---Costenbader-pic-2.jpg":
+    md5: 2c59a8107d0bcc70af3a3f664a8d7aac
+    time: 1506459873
+  "/assets/Devs----Mark-Rostal.jpg":
+    md5: f4b76c4b745000d716bbf6e33271548b
+    time: 1506459873
+  "/assets/Liberia.jpg":
+    md5: 0d5a0fee44592220feb12db2e0139f3a
+    time: 1506459873
+  "/assets/Graphic land.jpg":
+    md5: 39295ef6fce0b358e264f29bc8e65e28
+    time: 1506459873
+  "/assets/Devs----Afgh-WIE-6.jpg":
+    md5: ae23b9861296e5a6f0d7089ed8be84ba
+    time: 1506459873
+  "/assets/ID (1).jpg":
+    md5: fd2dd6f1a40cc5c4af98c03140c5b799
+    time: 1506459873
+  "/assets/Devs----FSDMoz-2.jpg":
+    md5: 690df5b1b5ef00136434d02432e35f67
+    time: 1506459873
+  "/assets/Devs----Shannon-Dugan.jpg":
+    md5: 09d32ad5d9f848f77e600ae233692fc0
+    time: 1506459873
+  "/assets/Devs----Jepsen-Raja-pic-5.jpg":
+    md5: 6cca165398cddd38986a7694b4c877a6
+    time: 1506459874
+  "/assets/Devs----Gaza-fish-1.jpg":
+    md5: b2a135f4bbbcdef79f954c3c07bb17b2
+    time: 1506459874
+  "/assets/Devs----Coon-mug.jpg":
+    md5: 6085a170563234ce709d1872c0f18e6d
+    time: 1506459874
+  "/assets/Devs----John-Jepsen-mug.jpg":
+    md5: 557831f02c6c7356503d7cff14eef076
+    time: 1506459874
+  "/assets/billboards.jpg":
+    md5: c206a842d1445bf6c57184d6ce3cc17d
+    time: 1506459874
+  "/assets/DEVS----Afgh-WIE-2.jpg":
+    md5: 97f3da769e7b7974d57f30d5179b149e
+    time: 1506459874
+  "/assets/Devs----Paul-Hartman.jpg":
+    md5: 9d1d78c60374b8848b8a3476eea050fe
+    time: 1506459874
+  "/assets/Devs----Gaza-fish-5.jpg":
+    md5: 0ec6f705da94f41946f088ccf84621d1
+    time: 1506459874
+  "/assets/Devs----Costenbader-mug.jpg":
+    md5: a764ff33ef13f0a9deb9c9faf919ce21
+    time: 1506459874
+  "/assets/Liberia laptop.jpg":
+    md5: 9ee0f85e6891b4def7da6d22f9ea9040
+    time: 1506459874
+  "/assets/Devs----Gaza-fish-9.jpg":
+    md5: 0b146e4e9631d4f4c3c683939dde7aff
+    time: 1506459875
+  "/assets/Devs--Robin-Young-mug.jpg":
+    md5: 65325b3b962546c52e3194cc5cda2a5f
+    time: 1506459875
+  "/assets/Devs----Gaza-fish-6.jpg":
+    md5: d0c2103b01029b52e20259af59e9412c
+    time: 1506459875
