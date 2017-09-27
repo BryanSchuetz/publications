@@ -1,5 +1,5 @@
 ---
-time: 1506522454
+time: 1506522514
 inventory:
   "/publications/index.html":
     md5: 767b745b8bff8104ebeb1fc930db1eee
@@ -11,8 +11,8 @@ inventory:
     md5: 065d73c42c44d5f0187703f749780db4
     time: 1506522319
   "/articles/turning-social-norms-in-the-middle-east-into-job-opportunities-for-women/index.html":
-    md5: 3e8c1b56853c7e5e87aedff7afd6e854
-    time: 1506522319
+    md5: 6a84b44241de190f935bb35a41753555
+    time: 1506522486
   ? "/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change/index.html"
   : md5: a17e54d5d13c6a0874467218b688c918
     time: 1506522319
@@ -725,8 +725,8 @@ inventory:
     md5: 3d308ca39ffd19d611b46dd2cd8349c2
     time: 1506522340
   "/developments/full-archive/index.html":
-    md5: ff865da68327be28ac9785ddf8d1fe16
-    time: 1506522340
+    md5: e78cf4aef6e6c137462c81e07e99618e
+    time: 1506522507
   "/developments/summer-2017/index.html":
     md5: 45cbb6890484a1e6f87c22b5f1f3ad9c
     time: 1506522340
@@ -782,11 +782,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f889792d12fb289d562a8cc3360821d3
-    time: 1506522342
+    md5: 3e3453ede9748d998ddb2cef0d428751
+    time: 1506522509
   "/feed.xml":
-    md5: fa3025a258bef254bbefb390561db925
-    time: 1506522343
+    md5: 03b416f5e2f381c5f3a6a8b7836687f2
+    time: 1506522509
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1490,8 +1490,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: ae82ac9da7c4d57fb3a4333e92594ce2
-    time: 1506522343
+    md5: ea2a0fb2183fd16e759181ef7f820d44
+    time: 1506522509
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
