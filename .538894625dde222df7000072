@@ -1,5 +1,5 @@
 ---
-time: 1507835501
+time: 1508261677
 inventory:
   "/publications/index.html":
     md5: 767b745b8bff8104ebeb1fc930db1eee
@@ -149,8 +149,8 @@ inventory:
     md5: d9a99c5eba48a08753587ec09fd18d72
     time: 1507835357
   "/articles/long-term-fiscal-reform-takes-root-in-el-salvador-and-elsewhere/index.html":
-    md5: de0af010f6b9a79e2292ca555da6236c
-    time: 1507835358
+    md5: 74e6712192c023f636d94e27c303f18f
+    time: 1508261657
   "/articles/big-data-and-domestic-resource-mobilization-how-donors-can-help-developing-countries-increase-revenue/index.html":
     md5: 250ad59d2a310075fee68d74ca345b5b
     time: 1507835358
@@ -785,11 +785,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 407c26f4f85bf97f1b8212f9ec7c6724
-    time: 1507835374
+    md5: def91cea3a953b9b0c4ecd069fbd1e12
+    time: 1508261673
   "/feed.xml":
-    md5: 126096de1d62571d755bcda692085a0b
-    time: 1507835375
+    md5: d1ef1730acc91b321d1b8138ca6365d5
+    time: 1508261673
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
