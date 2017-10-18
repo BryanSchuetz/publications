@@ -1,5 +1,5 @@
 ---
-time: 1508343682
+time: 1508344070
 inventory:
   "/publications/index.html":
     md5: 767b745b8bff8104ebeb1fc930db1eee
@@ -26,8 +26,8 @@ inventory:
   : md5: 87da044934d7e6208f54d0961a972ecf
     time: 1508343649
   "/articles/qa-barry-finette-on-the-hopes-and-challenges-for-thinkmds-life-saving-mhealth-platform/index.html":
-    md5: 22cd4f3663f71a4fa34e3c2cb0a41445
-    time: 1507835353
+    md5: e542d0ef07cd0edb0ce902d905da7c8a
+    time: 1508344013
   "/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq/index.html":
     md5: 06af1afd5db7fddbd3ef29a317dcd220
     time: 1507835353
@@ -671,17 +671,17 @@ inventory:
     md5: 2c041ba7b729afc8b0d32b358740c4d2
     time: 1508343666
   "/articles/tags/ict/index.html":
-    md5: 7b80134ec608873f4f288b8856c73af2
-    time: 1508343666
+    md5: 6eca473fc404746bd520b7ea50c51566
+    time: 1508344052
   "/articles/tags/stability/index.html":
     md5: 817e250a438ede02b7845e55594d2ea3
     time: 1508343666
   "/articles/tags/health/index.html":
-    md5: 9ea1eafb7d2fad40317d4e420ce789e7
-    time: 1507835371
+    md5: 2e1e700a4ca646a5ba1f72491130583c
+    time: 1508344052
   "/articles/tags/innovation/index.html":
-    md5: 62f0ee1fb51e7d6cb80f410df2822f68
-    time: 1507835371
+    md5: 8982ce77f16c3ddf0674761620038342
+    time: 1508344052
   "/articles/tags/finance/index.html":
     md5: 4dd8fc2c2b8018b83aaef306aa4c2d41
     time: 1507835371
@@ -728,8 +728,8 @@ inventory:
     md5: 3d308ca39ffd19d611b46dd2cd8349c2
     time: 1507835372
   "/developments/full-archive/index.html":
-    md5: 07281a55a2dd0a36f32ef17e97d73a9c
-    time: 1508343668
+    md5: 22ab39a8e0fe97b353140ec3d381ed54
+    time: 1508344054
   "/developments/summer-2017/index.html":
     md5: 45cbb6890484a1e6f87c22b5f1f3ad9c
     time: 1507835373
@@ -785,11 +785,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 777f8fa0486bd0f3bbaffbc542df2b19
-    time: 1508343669
+    md5: e91059ace24b9fa7270271491f8ada04
+    time: 1508344058
   "/feed.xml":
-    md5: 5dd70ce54c87ee8c84b6cedc6ebd358e
-    time: 1508343670
+    md5: b546d694b1b57f98c4b176289586a196
+    time: 1508344058
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
