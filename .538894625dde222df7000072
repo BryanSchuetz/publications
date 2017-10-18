@@ -1,5 +1,5 @@
 ---
-time: 1508261995
+time: 1508343682
 inventory:
   "/publications/index.html":
     md5: 767b745b8bff8104ebeb1fc930db1eee
@@ -11,20 +11,20 @@ inventory:
     md5: 065d73c42c44d5f0187703f749780db4
     time: 1507835352
   "/articles/turning-social-norms-in-the-middle-east-into-job-opportunities-for-women/index.html":
-    md5: 2705e4f9675fc4fde3fb52b3db2c219d
-    time: 1507835352
+    md5: ccbdf15d5fd30a316a8d0b1ccdfd2014
+    time: 1508343649
   ? "/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change/index.html"
-  : md5: a17e54d5d13c6a0874467218b688c918
-    time: 1507835353
+  : md5: 11dc3fb5a8ebacb7e41e000007809baa
+    time: 1508343649
   ? "/articles/messe-frankfurts-purchase-of-source-africa-trade-show-exemplifies-the-potential-of-market-systems-development/index.html"
-  : md5: 31a25220b3838217c9830478fdcda24c
-    time: 1507835353
+  : md5: b650178111d663246e3aca4bb2ac8c76
+    time: 1508343649
   ? "/articles/qa-assisting-mozambiques-rural-poor-to-build-stability-and-economic-opportunity-through-digital-financial-inclusion/index.html"
-  : md5: e740a632160f75b0a0ccb9e9f1628140
-    time: 1507835353
+  : md5: fe2af06c55f3fd512e57a453d2814296
+    time: 1508343649
   ? "/articles/its-not-all-about-the-app-narrowing-the-digital-gender-gap-usaid-program-propels-cambodia-girls-into-global-technology-contest-finals/index.html"
-  : md5: 963034ff7bb0c10fce4fb242601dce77
-    time: 1507835353
+  : md5: 87da044934d7e6208f54d0961a972ecf
+    time: 1508343649
   "/articles/qa-barry-finette-on-the-hopes-and-challenges-for-thinkmds-life-saving-mhealth-platform/index.html":
     md5: 22cd4f3663f71a4fa34e3c2cb0a41445
     time: 1507835353
@@ -653,29 +653,29 @@ inventory:
     md5: 0e262780d2b48845c39c4e2ca1876752
     time: 1507835370
   "/articles/tags/gender/index.html":
-    md5: 1d39ca6110b070feded45fca25e8177a
-    time: 1507835370
+    md5: 6c6665c2009e360852ba6d3c4c49e357
+    time: 1508343665
   "/articles/tags/resilience/index.html":
-    md5: 6c834132f51d594a6bdbeb5339447daa
-    time: 1507835370
+    md5: 805db072dfb0babdd9147241b6fe056a
+    time: 1508343665
   "/articles/tags/agriculture/index.html":
-    md5: 2195a425f5c5593b51e10babe6e70596
-    time: 1507835370
+    md5: b4fd445a5474b777450241f6fd7d9333
+    time: 1508343666
   "/articles/tags/environment-and-energy/index.html":
-    md5: 96daf39a99aebb071c0f0fc4242244b2
-    time: 1507835370
+    md5: 5fd690171f637c0dcc30b50477ee0684
+    time: 1508343666
   "/articles/tags/governance/index.html":
-    md5: 734c7fa80015f72d7220b416ae32fabd
-    time: 1507835371
+    md5: 651489d302e68b182a672f8378a5eb93
+    time: 1508343666
   "/articles/tags/economic-growth/index.html":
-    md5: e9fe8ea11bed2d5c769d4e71775c097f
-    time: 1507835371
+    md5: 2c041ba7b729afc8b0d32b358740c4d2
+    time: 1508343666
   "/articles/tags/ict/index.html":
-    md5: 2488d095a06584eeaa4ddeb1b90a8214
-    time: 1507835371
+    md5: 7b80134ec608873f4f288b8856c73af2
+    time: 1508343666
   "/articles/tags/stability/index.html":
-    md5: 35d0e6b1f1d59e22aa19ac4aaa403c8d
-    time: 1507835371
+    md5: 817e250a438ede02b7845e55594d2ea3
+    time: 1508343666
   "/articles/tags/health/index.html":
     md5: 9ea1eafb7d2fad40317d4e420ce789e7
     time: 1507835371
@@ -728,8 +728,8 @@ inventory:
     md5: 3d308ca39ffd19d611b46dd2cd8349c2
     time: 1507835372
   "/developments/full-archive/index.html":
-    md5: e78cf4aef6e6c137462c81e07e99618e
-    time: 1507835372
+    md5: 07281a55a2dd0a36f32ef17e97d73a9c
+    time: 1508343668
   "/developments/summer-2017/index.html":
     md5: 45cbb6890484a1e6f87c22b5f1f3ad9c
     time: 1507835373
@@ -785,11 +785,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: d5c283c8d9f6895ae8643c15c79d799d
-    time: 1508261990
+    md5: 777f8fa0486bd0f3bbaffbc542df2b19
+    time: 1508343669
   "/feed.xml":
-    md5: 425a834e3eec7a0ecca864c4a6190dd5
-    time: 1508261991
+    md5: 5dd70ce54c87ee8c84b6cedc6ebd358e
+    time: 1508343670
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1525,6 +1525,12 @@ inventory:
   "/assets/Devs----Robin-Young-mug.jpg":
     md5: 53502d18b1eea99fe195ffaeb6f7456b
     time: 1507833632
+  "/assets/DEVS----Mira-Nasser-2.jpg":
+    md5: 2c8eb4e04b7bfd8d81bc6b25af4d5c3e
+    time: 1508343670
+  "/assets/Devs----Source-Africa-2-1.jpg":
+    md5: 6f04d7271554b3703f7ac1952d0f21a6
+    time: 1508343670
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2113,6 +2119,12 @@ inventory:
   "/assets/Devs----Clima-East-3.jpg":
     md5: 9b3e613f2186d10cde7bdc9c2a56c02b
     time: 1506459830
+  "/assets/Devs----Mira-Nasser-3.jpg":
+    md5: 1bf858e259c4607e8e5736e747ffd460
+    time: 1508343670
+  "/assets/Devs----Clima-East-2-1.jpg":
+    md5: 9af9faba6640efd050f7e8f974acfefe
+    time: 1508343671
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -2467,6 +2479,9 @@ inventory:
   "/assets/Devs----AWEF-RADP-N-female-paravet.jpg":
     md5: 233b0089caa7a039340a18e09508ec1d
     time: 1506459846
+  "/assets/Devs----Mira-Nasser-IT-PMDP-1.jpg":
+    md5: e8688ce5c014c0073b4872bb9d60bbaa
+    time: 1508343671
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -2692,6 +2707,9 @@ inventory:
   "/assets/IMG_8165.JPG":
     md5: 78877c320a272441cbb2e883e2f19e31
     time: 1506459855
+  "/assets/Mira-Nasser-new.jpg":
+    md5: 79e8b7303c1b6361b46cc17cc8dba016
+    time: 1508343671
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
