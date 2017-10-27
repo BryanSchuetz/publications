@@ -1,5 +1,5 @@
 ---
-time: 1508344070
+time: 1509128808
 inventory:
   "/publications/index.html":
     md5: 767b745b8bff8104ebeb1fc930db1eee
@@ -719,8 +719,8 @@ inventory:
     md5: e01fc7986de5fc266e5a1c9ad6a82441
     time: 1507835372
   "/developments/index.html":
-    md5: a1587f00f8a976532047f38ff337bb8d
-    time: 1507835372
+    md5: 44bdf21ee51cd087fcfa810b8fc306ee
+    time: 1509128799
   "/daideas/index.html":
     md5: 57c057a8f3eb8e466ee47918366bb81a
     time: 1507835372
@@ -772,6 +772,9 @@ inventory:
   "/developments/summer-2012/index.html":
     md5: 2bbca4ea0790a362c316aa30a363578f
     time: 1507835374
+  "/developments/autumn-2017/index.html":
+    md5: 837a21fcebe8746c4def284153dadffe
+    time: 1509128803
   "/developing-alternatives/land-rights/index.html":
     md5: 2aebc35f5dfbfd171e4c69fbc51417a9
     time: 1507835374
@@ -788,8 +791,8 @@ inventory:
     md5: e91059ace24b9fa7270271491f8ada04
     time: 1508344058
   "/feed.xml":
-    md5: b546d694b1b57f98c4b176289586a196
-    time: 1508344058
+    md5: 6117f33dc484ae8fcdb147cfa2240665
+    time: 1509128804
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
