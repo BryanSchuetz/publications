@@ -1,5 +1,5 @@
 ---
-time: 1509372958
+time: 1509373012
 inventory:
   "/publications/index.html":
     md5: 569ff63e1619adbdbf13d1825aa416d1
@@ -11,8 +11,8 @@ inventory:
     md5: 89327a2654d42c6946d3c2e5d373c982
     time: 1509372371
   "/articles/sourcing-the-wadi-training-palestinian-workers-to-fill-niche-need-in-israel-it/index.html":
-    md5: 7a99125e0e4adfbb49bd8369ca9443c0
-    time: 1509372706
+    md5: b0723ec0f6a84161b7d3cdfb269f0cc6
+    time: 1509372984
   "/articles/turning-social-norms-in-the-middle-east-into-job-opportunities-for-women/index.html":
     md5: bc4ad0bfb78ba9d346075478ad6c753c
     time: 1509372372
@@ -653,11 +653,11 @@ inventory:
     md5: af5e91c94c1c4108404d849e8e877f48
     time: 1509372389
   "/articles/tags/economic-growth/index.html":
-    md5: 8b69fe714e086a9bb92979f87f6d15eb
-    time: 1509372390
+    md5: 319ae1474bcba68070fef12e46632d78
+    time: 1509373002
   "/articles/tags/ict/index.html":
-    md5: e882fe6da082a03deb78261d78be9a19
-    time: 1509372390
+    md5: d8bb9be9a80b6aa7a5f1f4620885b4d1
+    time: 1509373002
   "/articles/tags/gender/index.html":
     md5: 128f583e3dbd9fb54dc9f8f0211d7a7f
     time: 1509372390
@@ -728,11 +728,11 @@ inventory:
     md5: bdc6cc784b2dfceb04f16ff4c3477b8f
     time: 1509372392
   "/developments/full-archive/index.html":
-    md5: ae706b6c10f3097f3e5dd143f776aa1f
-    time: 1509372725
+    md5: 4039042d1e8e0feaf50bf50ae635c8dd
+    time: 1509373004
   "/developments/fall-2017/index.html":
-    md5: c86d2cc21d3cebf551c3b5d13768dc66
-    time: 1509372952
+    md5: dff1f15b40aaddfabc889c9be4471ed7
+    time: 1509373004
   "/developments/summer-2017/index.html":
     md5: d17deff4cf777803d2ff59851a2238b8
     time: 1509372392
@@ -788,11 +788,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 718c164ab8dc9418bb0b45c6856b36e8
-    time: 1509372726
+    md5: af102e92794c6c0762040f41f7f663e7
+    time: 1509373006
   "/feed.xml":
-    md5: ac7303fffa85a1457e49a2d99636ef1a
-    time: 1509372954
+    md5: eae8ec05cbb40ee41551e389035bce91
+    time: 1509373006
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
