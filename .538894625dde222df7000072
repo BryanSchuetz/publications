@@ -1,5 +1,5 @@
 ---
-time: 1509400985
+time: 1509460560
 inventory:
   "/publications/index.html":
     md5: 9de24314d3200de9f2b50f454f99ffc9
@@ -11,8 +11,8 @@ inventory:
     md5: 738ddc38ff3c720d99792a9f06ff6f6d
     time: 1509400787
   "/articles/sourcing-the-wadi-training-palestinian-workers-to-fill-niche-need-in-israel-it/index.html":
-    md5: 1f7337031ae8c163540873d714054ae9
-    time: 1509400787
+    md5: 1fb6d30672a02fbc9c5ab0d9aeb527d8
+    time: 1509460534
   "/articles/turning-social-norms-in-the-middle-east-into-job-opportunities-for-women/index.html":
     md5: a82688f86e836b1f55ee5c0914282bfd
     time: 1509400787
@@ -788,11 +788,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 021ac1ce41c0734304a5bb090d2565e4
-    time: 1509400809
+    md5: f51633565b05ac7b8a792b080a36f759
+    time: 1509460555
   "/feed.xml":
-    md5: 2cef05a4db1302c1fc7241ebd388bae0
-    time: 1509400981
+    md5: 1ab9b8ec5df0329684777973416f4a0f
+    time: 1509460556
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
