@@ -1,5 +1,5 @@
 ---
-time: 1509462106
+time: 1509638284
 inventory:
   "/publications/index.html":
     md5: 70b928bb82f0f04782d86647e2ab019a
@@ -164,8 +164,8 @@ inventory:
     md5: 91c840a50ae347bcfb6b2b3ab8acbe0b
     time: 1509461962
   "/articles/zika-and-the-americasa-call-to-action-for-surveillance-and-preparedness/index.html":
-    md5: 15563467070048d4affb8d06bd8dbc30
-    time: 1509461962
+    md5: 4b427fcb64b40af1be5eec052bc05fd4
+    time: 1509638261
   "/articles/usaid-backed-fellow-inspires-malaysian-renewable-energy-policy/index.html":
     md5: 0bbfe11e7ba84978419e0cc4f0aa7873
     time: 1509461962
@@ -788,11 +788,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: e9efb4f24ff48d935ebf0403a76fa45c
-    time: 1509461978
+    md5: 1ec06d845d53fa2eb359d272a15aa8d3
+    time: 1509638279
   "/feed.xml":
-    md5: 0fcaed52c13395dc3ef9042ec3e27a49
-    time: 1509461979
+    md5: 5f1abc9b3ed831bbeef4fe4d867ba478
+    time: 1509638280
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
