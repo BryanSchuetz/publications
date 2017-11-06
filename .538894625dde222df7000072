@@ -1,5 +1,5 @@
 ---
-time: 1510000915
+time: 1510002838
 inventory:
   "/publications/index.html":
     md5: 834be90de9d979b3828622776bc228ab
@@ -11,8 +11,8 @@ inventory:
     md5: 2a2dea584f1ed9fc6ba7cc21fd46e78c
     time: 1510000780
   "/articles/qa-with-dais-susan-scribner-about-preparedness-response-and-global-health-security/index.html":
-    md5: 9123ce0e6f02e91ff22ef7c6a73dcb99
-    time: 1510000780
+    md5: 0fdaf0e8217b4c0d4c083e116b40eab2
+    time: 1510002811
   "/articles/sourcing-the-wadi-training-palestinian-workers-to-fill-niche-need-in-israel-it/index.html":
     md5: 421038e86ede7aa7ff96d1ec38394263
     time: 1510000780
@@ -731,8 +731,8 @@ inventory:
     md5: 6c600cbb2b18060f2d67742cd3e409be
     time: 1510000799
   "/developments/full-archive/index.html":
-    md5: f4e6591478f29d664d3f49b1410d25f9
-    time: 1510000800
+    md5: 620fff83a87b413dec50202afd4f0483
+    time: 1510002831
   "/developments/fall-2017/index.html":
     md5: 7dcfbc440e690c99d2bec739b759f3d8
     time: 1510000800
@@ -791,11 +791,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 5de936161eb713b4c5eca881ac8c27ea
-    time: 1510000801
+    md5: 81eba0286277011d5629dae7db75a5cc
+    time: 1510002832
   "/feed.xml":
-    md5: 9dee90dea1af30eff4b9862e0de4605b
-    time: 1510000802
+    md5: 85ca2a5555ade742b73d50361465d94b
+    time: 1510002833
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1499,8 +1499,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 824a59e772ee803c1d2ee0e96faeb239
-    time: 1510000802
+    md5: cca736526a30fe450df58a8f40b02aa4
+    time: 1510002833
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
