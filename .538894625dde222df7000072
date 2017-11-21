@@ -1,5 +1,5 @@
 ---
-time: 1510002838
+time: 1511288118
 inventory:
   "/publications/index.html":
     md5: 834be90de9d979b3828622776bc228ab
@@ -41,8 +41,8 @@ inventory:
     md5: 8a536d1cbfd2c30c5014f8bc344d97ee
     time: 1510000781
   "/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/index.html":
-    md5: f6ea937b646ce8ac75a33ec2ccf8c705
-    time: 1510000781
+    md5: 945b9473b864d8bd5f4a887c614c389c
+    time: 1511288084
   "/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate/index.html":
     md5: 69709b76fe7d5737f88762115e795b42
     time: 1510000781
@@ -791,11 +791,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 81eba0286277011d5629dae7db75a5cc
-    time: 1510002832
+    md5: f44e159373890114b0ac68f660078b9c
+    time: 1511288105
   "/feed.xml":
-    md5: 85ca2a5555ade742b73d50361465d94b
-    time: 1510002833
+    md5: 27340beb41885e19556fed81f8ab5ec7
+    time: 1511288106
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1540,6 +1540,9 @@ inventory:
   "/assets/Devs----Scribner-4-1.jpg":
     md5: 1818cd6c1906a33f4cb0ab53537481fc
     time: 1509656476
+  "/assets/Devs----TEP-1.jpg":
+    md5: 21227d79011a5d8695e7559fafafc4f3
+    time: 1511288106
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2137,6 +2140,9 @@ inventory:
   "/assets/Devs----Scribner-2.jpg":
     md5: 3d9aff6831a66d1b454dcfa7027128bb
     time: 1509656476
+  "/assets/Devs----TEP-5.jpg":
+    md5: 594fb83161fe30fa3cb39d606f2dbfe1
+    time: 1511288106
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -2497,6 +2503,9 @@ inventory:
   "/assets/Devs----Scribner-3.jpg":
     md5: c45c688d66b3191dcabf09b3101ff50f
     time: 1509656476
+  "/assets/DEVS----4.jpg":
+    md5: 07b26c87d44bbe63903989d94d65ca1f
+    time: 1511288107
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -2728,6 +2737,9 @@ inventory:
   "/assets/Devs----Scribner-4.jpg":
     md5: 099bbe44cccaa702bc43bc667a2eac0c
     time: 1509656476
+  "/assets/DEVS----TEP-3.jpg":
+    md5: 9494acc57265b4dee2fd0e2d28874afc
+    time: 1511288107
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
@@ -2899,6 +2911,9 @@ inventory:
   "/assets/Devs----Scribner-pic-1.jpg":
     md5: a7712219f02acfb6dce07612de74ddf6
     time: 1509656476
+  "/assets/Devs----TEP-2.jpg":
+    md5: 670fe548791cff609ece8cd23e62c243
+    time: 1511288107
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
     time: 1506459864
@@ -3007,6 +3022,9 @@ inventory:
   "/assets/Devs----Donald-Lunan-mug.jpg":
     md5: 0d93788c3b35da2d2adb701e4c3dba13
     time: 1506459869
+  "/assets/Devs----Mosharraf-thinner.jpg":
+    md5: d10da777d0613d3aee38bdd05665d08f
+    time: 1511288107
   "/assets/Devs----Mekong-ARCC-pic-2.jpg":
     md5: af9f8547ad33cee3046322570fccfba4
     time: 1506459869
@@ -3067,6 +3085,9 @@ inventory:
   "/assets/Devs----FSDMoz-1.jpg":
     md5: 087f4bdfe58065f725a80c4ee9ffccbf
     time: 1506459872
+  "/assets/Devs----Harry-Wynne-Williams.jpg":
+    md5: 9d88306c9b806ef9128a5a9572f0c36f
+    time: 1511288108
   "/assets/Devs----Mekong-ARCC-pic-4.jpg":
     md5: 390f1f9cc5d31c53a1d7b74f0cdd5ea3
     time: 1506459872
@@ -3109,6 +3130,9 @@ inventory:
   "/assets/Devs----FSDMoz-2.jpg":
     md5: 690df5b1b5ef00136434d02432e35f67
     time: 1506459873
+  "/assets/Devs----Joel-Down.jpg":
+    md5: a44e07953d177f50518df3d47b698050
+    time: 1511288108
   "/assets/Devs----Shannon-Dugan.jpg":
     md5: 09d32ad5d9f848f77e600ae233692fc0
     time: 1506459873
@@ -3130,6 +3154,9 @@ inventory:
   "/assets/DEVS----Afgh-WIE-2.jpg":
     md5: 97f3da769e7b7974d57f30d5179b149e
     time: 1506459874
+  "/assets/Harry-Wynne-Williams.jpg":
+    md5: 9901364267bd7761210dd7195426cbde
+    time: 1511288108
   "/assets/Devs----Paul-Hartman.jpg":
     md5: 9d1d78c60374b8848b8a3476eea050fe
     time: 1506459874
@@ -3142,6 +3169,9 @@ inventory:
   "/assets/Liberia laptop.jpg":
     md5: 9ee0f85e6891b4def7da6d22f9ea9040
     time: 1506459874
+  "/assets/Joel-Down.jpg":
+    md5: 46574dee678988b990923678a32290fa
+    time: 1511288108
   "/assets/Devs----Gaza-fish-9.jpg":
     md5: 0b146e4e9631d4f4c3c683939dde7aff
     time: 1506459875
