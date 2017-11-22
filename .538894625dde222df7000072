@@ -1,5 +1,5 @@
 ---
-time: 1511347938
+time: 1511353078
 inventory:
   "/publications/index.html":
     md5: 834be90de9d979b3828622776bc228ab
@@ -641,8 +641,8 @@ inventory:
     md5: 5578cb470f9ed5947a35fdc577490f10
     time: 1511347809
   "/articles/eu-launches-26-billion-fund-to-attract-investment-in-the-european-neighbourhood-and-africas-fragile-states/index.html":
-    md5: 6a1f308fab13a9f074794d5fb8167d09
-    time: 1511347809
+    md5: 2d4f896fe89ca04e6a2db3339bf21e53
+    time: 1511353068
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
     md5: 64753a3da036866f93c49226005588ff
     time: 1511347809
@@ -797,8 +797,8 @@ inventory:
     md5: f44e159373890114b0ac68f660078b9c
     time: 1511347814
   "/feed.xml":
-    md5: 2afd2d61fd81fc96189b61f964d9687c
-    time: 1511347815
+    md5: ba69c2c97bf8240e087f3f4e3c1b55d7
+    time: 1511353073
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
