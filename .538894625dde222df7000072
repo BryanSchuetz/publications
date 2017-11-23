@@ -1,5 +1,5 @@
 ---
-time: 1511447193
+time: 1511448191
 inventory:
   "/publications/index.html":
     md5: ddfa989b1d12a2189155f2e4f7e19fe0
@@ -11,8 +11,8 @@ inventory:
     md5: 121443411d46229de0132862fc36766e
     time: 1511446234
   "/articles/eu-launches-26-billion-fund-to-attract-investment-in-the-european-neighbourhood-and-africas-fragile-states/index.html":
-    md5: 4cfd3d3e184c9918ae7086928bf74baf
-    time: 1511447168
+    md5: 0e4bdea743107ae814197fad35f845fc
+    time: 1511448164
   "/articles/qa-with-dais-susan-scribner-about-preparedness-response-and-global-health-security/index.html":
     md5: 20fcc3994947e7e5ef8deb31c33f6c90
     time: 1511446234
@@ -794,11 +794,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 9c975d764648fbd7616787596f939854
-    time: 1511447189
+    md5: 9c64bb955280c57dab65a2cf8531038e
+    time: 1511448185
   "/feed.xml":
-    md5: 62ada6feb4ae42a63bb25fd5cabf8da0
-    time: 1511447189
+    md5: ba603f2ab498e09606b23dd5ce0e4623
+    time: 1511448186
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
