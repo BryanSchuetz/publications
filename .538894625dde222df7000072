@@ -1,5 +1,5 @@
 ---
-time: 1511883923
+time: 1511884203
 inventory:
   "/publications/index.html":
     md5: ddfa989b1d12a2189155f2e4f7e19fe0
@@ -11,8 +11,8 @@ inventory:
     md5: 121443411d46229de0132862fc36766e
     time: 1511446234
   "/articles/eu-launches-26-billion-fund-to-attract-investment-in-the-european-neighbourhood-and-africas-fragile-states/index.html":
-    md5: f3269612b09506e58b2d289de0833200
-    time: 1511883895
+    md5: ed712f0b3822681fd212de9ba858fa7b
+    time: 1511884174
   "/articles/qa-with-dais-susan-scribner-about-preparedness-response-and-global-health-security/index.html":
     md5: 20fcc3994947e7e5ef8deb31c33f6c90
     time: 1511446234
@@ -659,14 +659,14 @@ inventory:
     md5: 265565f76c6210266f216869cd0eaaaf
     time: 1511446251
   "/articles/tags/economic-growth/index.html":
-    md5: 4a2c5ad1d36db7c3665a946132d5a23f
-    time: 1511446252
+    md5: 78ce939b8c176f94ee8471d78446c688
+    time: 1511884192
   "/articles/tags/finance/index.html":
-    md5: 618b806a4556cd9169a330bb95da303c
-    time: 1511446252
+    md5: c2ad406aaa112c34c534d131a553e73f
+    time: 1511884192
   "/articles/tags/fragile-states/index.html":
-    md5: 85b89ce2248fb1102172fa75565963d7
-    time: 1511446252
+    md5: 2915cdefa424e8dc1fa3b6333c4d21e5
+    time: 1511884192
   "/articles/tags/health/index.html":
     md5: 06b6cd8fa5d83fb860e20659061d49b8
     time: 1511446252
@@ -734,8 +734,8 @@ inventory:
     md5: 2e0da0872b535147a803061b309104c7
     time: 1511446254
   "/developments/full-archive/index.html":
-    md5: 44ff3811d5ef88f1b605500143004385
-    time: 1511787956
+    md5: 03448dfd6fe1a23a2ed8b8e434f02e28
+    time: 1511884194
   "/developments/fall-2017/index.html":
     md5: 7b3e786a6d18c676bd955587d5026e50
     time: 1511446254
@@ -794,11 +794,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f4279201f1c5057dd3361bd361aa5a5a
-    time: 1511883919
+    md5: 6bf445226f5e81e8996ff3320b6caed9
+    time: 1511884196
   "/feed.xml":
-    md5: eab68ffb8e5f4916578c279780e00ffa
-    time: 1511883919
+    md5: f1a6c97fb019fda829fdfa223f81cf9c
+    time: 1511884197
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
