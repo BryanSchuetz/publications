@@ -1,5 +1,5 @@
 ---
-time: 1511891340
+time: 1512138456
 inventory:
   "/publications/index.html":
     md5: ddfa989b1d12a2189155f2e4f7e19fe0
@@ -38,8 +38,8 @@ inventory:
     md5: fc884676407b51a54e0a7209e0f056d9
     time: 1511446235
   "/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq/index.html":
-    md5: cd2fa12e103ab1db88c9b98498f9acbb
-    time: 1511446235
+    md5: cf625d2a9bc703009dcf4a68d4942f2f
+    time: 1512138429
   "/articles/the-proliferation-of-cold-storage-in-uzbekistan/index.html":
     md5: 7f50b337d704259283b579797db8c829
     time: 1511446235
@@ -794,11 +794,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 3194ca4e570a674a7e48e093b0dce1dc
-    time: 1511891336
+    md5: 948e569b80a2af2de32e79121db7180c
+    time: 1512138452
   "/feed.xml":
-    md5: fd92888c625808ae47e3b8bb0b178116
-    time: 1511891336
+    md5: 18f7e0e870190eb6760e229d6f4f7002
+    time: 1512138452
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
