@@ -1,5 +1,5 @@
 ---
-time: 1512138456
+time: 1512599663
 inventory:
   "/publications/index.html":
     md5: ddfa989b1d12a2189155f2e4f7e19fe0
@@ -1549,6 +1549,9 @@ inventory:
   "/assets/DEVS----EIP-4.jpg":
     md5: 7cac7a8d27c185258c9f7d806a26929f
     time: 1511304920
+  "/assets/Devs----OCSP1.jpg":
+    md5: 8f000e5c7aa0e12eaca3a4cfaf86ed88
+    time: 1512599659
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2152,6 +2155,9 @@ inventory:
   "/assets/Devs----EIP-5.jpg":
     md5: b95c0daefc96fa240856a8ef9a8d12d4
     time: 1511304920
+  "/assets/Devs----OCSP2.jpg":
+    md5: 69fca306317292344c98bb8462bae975
+    time: 1512599659
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
