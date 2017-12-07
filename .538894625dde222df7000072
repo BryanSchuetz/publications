@@ -1,5 +1,5 @@
 ---
-time: 1512658643
+time: 1512659112
 inventory:
   "/publications/index.html":
     md5: ddfa989b1d12a2189155f2e4f7e19fe0
@@ -1366,9 +1366,6 @@ inventory:
   "/assets/Devs----Lebanon-apples-3.jpg":
     md5: 99e8b0b884243ab001e44502432d76cb
     time: 1506459797
-  "/styles/css/style.css":
-    md5: 18921caf7d371b3c82946e28f61b3f53
-    time: 1506459797
   "/assets/Screenshot 2016-08-23 20.28.57.png":
     md5: 8beb4bc04e84f42b38543b514857b74e
     time: 1506459797
@@ -1552,6 +1549,9 @@ inventory:
   "/assets/Devs----OCSP-3.jpg":
     md5: febf2649af39d0fbc45c5336969ba3f9
     time: 1512658639
+  "/styles/css/style.css":
+    md5: eb5aa7ea6033ee193e39f16888b9c508
+    time: 1512659109
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
