@@ -1,5 +1,5 @@
 ---
-time: 1512665142
+time: 1512666025
 inventory:
   "/publications/index.html":
     md5: 515bdc2d55a5d9ed08ae83b01af3b990
@@ -11,8 +11,8 @@ inventory:
     md5: 4466f00efe841d89ca5ec63e314c6204
     time: 1512664163
   "/articles/new-orangutan-species-discovered-in-forest-block-saved-by-usaid-conservation-program/index.html":
-    md5: f06af6720da5dd4100b332049b605c02
-    time: 1512665114
+    md5: 3b3110bae10bb8210730ea6015a46fcc
+    time: 1512665998
   "/articles/eu-launches-26-billion-fund-to-attract-investment-in-the-european-neighbourhood-and-africas-fragile-states/index.html":
     md5: 7d1e9c28a44e758d81afe6e11512a485
     time: 1512664164
@@ -797,11 +797,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 86c59605da8d6e4d81a5ab4e6643a39b
-    time: 1512665136
+    md5: bcdc26ad63bba3c0732bd8baf2934d9f
+    time: 1512666020
   "/feed.xml":
-    md5: 81aa44a580fa1aad4e41a385b54eadc8
-    time: 1512665137
+    md5: 973653d7182e07ede2fecf742fe1a316
+    time: 1512666021
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
