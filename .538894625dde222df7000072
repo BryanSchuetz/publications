@@ -1,5 +1,5 @@
 ---
-time: 1513180101
+time: 1513182410
 inventory:
   "/publications/index.html":
     md5: 6b7fab1a8a5c8eec4d9b95b03bc111b1
@@ -11,8 +11,8 @@ inventory:
     md5: 4360da4942b449821e1516e9137f7629
     time: 1513179938
   "/articles/to-realize-the-promise-of-renewables-address-the-concerns-of-local-people/index.html":
-    md5: 5d586deeb8fe513ee284f968ff434888
-    time: 1513179938
+    md5: 05f841e116594825793375c0fa979959
+    time: 1513182383
   "/articles/new-orangutan-species-discovered-in-forest-block-saved-by-usaid-conservation-program/index.html":
     md5: 3e2e29176f5ed0c00936c9935e087704
     time: 1513179938
@@ -803,11 +803,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 6af147c52668333dc10211f54eaa6691
-    time: 1513179962
+    md5: c72131e42f0b810dd99a1238a9240713
+    time: 1513182405
   "/feed.xml":
-    md5: e75d809d01ada1e06585efd8bbb93d13
-    time: 1513179962
+    md5: 421764fe287189e542c1a09421e0fda6
+    time: 1513182406
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
