@@ -1,5 +1,5 @@
 ---
-time: 1513619728
+time: 1513619795
 inventory:
   "/publications/index.html":
     md5: c9929e0b5f4c8ac0d969bb9e23641760
@@ -14,8 +14,8 @@ inventory:
     md5: c6b204a827fccae36e0b2cfc494e6c02
     time: 1513619698
   "/articles/to-realize-the-promise-of-renewables-address-the-concerns-of-local-people/index.html":
-    md5: 68db657a32f5f144b4b075293d863b5d
-    time: 1513381596
+    md5: 7348e79bb955ac45d80fd1e6390b7632
+    time: 1513619766
   "/articles/new-orangutan-species-discovered-in-forest-block-saved-by-usaid-conservation-program/index.html":
     md5: 58ae535f3ab834aa3c97bc2bb6c05951
     time: 1513381596
@@ -677,14 +677,14 @@ inventory:
     md5: 057505a334552b743309c4a843b4b7cf
     time: 1513619717
   "/articles/tags/environment-and-energy/index.html":
-    md5: 47238815b0083b842666bef9ee727a0a
-    time: 1513381615
+    md5: 9cc45f9e428a6f5446aaf1aa2ad31c7e
+    time: 1513619784
   "/articles/tags/renewables/index.html":
-    md5: 66f297fddd4e1df50c320dc129a6fbd3
-    time: 1513381615
+    md5: d150f6335279a51a57ecc915feeb30b6
+    time: 1513619784
   "/articles/tags/energy-and-resources/index.html":
-    md5: 1cf59d3f697f6e3b48b4b352db95c0dd
-    time: 1513381615
+    md5: d1a2bb13b8dbc8b8b8716218983bd864
+    time: 1513619784
   "/articles/tags/economic-growth/index.html":
     md5: 57208996e051b2af1f7e8b9662e09786
     time: 1513381615
@@ -746,8 +746,8 @@ inventory:
     md5: c6b2ddbc0f009c0ce2f96e369b776032
     time: 1513381616
   "/developments/full-archive/index.html":
-    md5: 0f8d47396c506ed7bb36ec61379e7cf3
-    time: 1513619719
+    md5: 6f7a80de62ec79bc73cdf3839cae82dd
+    time: 1513619786
   "/developments/fall-2017/index.html":
     md5: 377eadf0a8f6bd11bdb24387541902d1
     time: 1513381617
@@ -806,11 +806,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 18506e47ffe31704884febc052b49672
-    time: 1513619721
+    md5: c21584ab1f3364942716caad1419ee83
+    time: 1513619788
   "/feed.xml":
-    md5: f1af88d6ed5a05100e88d217ecdc5076
-    time: 1513619721
+    md5: 78d99c3adea6a7f6d56e433a85d2d701
+    time: 1513619789
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
