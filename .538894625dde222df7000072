@@ -1,5 +1,5 @@
 ---
-time: 1513381734
+time: 1513619728
 inventory:
   "/publications/index.html":
     md5: c9929e0b5f4c8ac0d969bb9e23641760
@@ -11,8 +11,8 @@ inventory:
     md5: 170ac0df148e3c8e6d90ce03b317d5f5
     time: 1513381596
   "/articles/marshaling-the-evidence-to-better-help-developing-countries-improve-and-afford-their-health-services/index.html":
-    md5: 459d8504823b2c5f20fc55516b30ebbf
-    time: 1513381596
+    md5: c6b204a827fccae36e0b2cfc494e6c02
+    time: 1513619698
   "/articles/to-realize-the-promise-of-renewables-address-the-concerns-of-local-people/index.html":
     md5: 68db657a32f5f144b4b075293d863b5d
     time: 1513381596
@@ -668,14 +668,14 @@ inventory:
     md5: 4d4d34db6b2dbd7e06ae7e901779b149
     time: 1513381614
   "/articles/tags/governance/index.html":
-    md5: 95cab885bd25109a1e58f50a8f97a578
-    time: 1513381614
+    md5: 412b3380aafb8b14121c2a0604cea693
+    time: 1513619717
   "/articles/tags/health/index.html":
-    md5: 5efd815da13bbb3ae188f0d4dedc1ecf
-    time: 1513381614
+    md5: 9fde5b5307012fc7382b22fbd72f89e6
+    time: 1513619717
   "/articles/tags/finance/index.html":
-    md5: 6d8d325448da5e2d83b2c8235bf3abd2
-    time: 1513381614
+    md5: 057505a334552b743309c4a843b4b7cf
+    time: 1513619717
   "/articles/tags/environment-and-energy/index.html":
     md5: 47238815b0083b842666bef9ee727a0a
     time: 1513381615
@@ -746,8 +746,8 @@ inventory:
     md5: c6b2ddbc0f009c0ce2f96e369b776032
     time: 1513381616
   "/developments/full-archive/index.html":
-    md5: 806df6f202b40223618cd7518c33cc5e
-    time: 1513381617
+    md5: 0f8d47396c506ed7bb36ec61379e7cf3
+    time: 1513619719
   "/developments/fall-2017/index.html":
     md5: 377eadf0a8f6bd11bdb24387541902d1
     time: 1513381617
@@ -806,11 +806,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 39ee1baf6ad834a1e719c5b1411692b6
-    time: 1513381618
+    md5: 18506e47ffe31704884febc052b49672
+    time: 1513619721
   "/feed.xml":
-    md5: ddda5aba257a4515811cce0d43634e08
-    time: 1513381619
+    md5: f1af88d6ed5a05100e88d217ecdc5076
+    time: 1513619721
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1570,6 +1570,9 @@ inventory:
   "/assets/Devs----DRM-Health-2.jpg":
     md5: 6e904a1e7c0ae2bc73e8188dd60cc2f5
     time: 1513179963
+  "/assets/Devs----Winter-2017-new-1.jpg":
+    md5: 78c775578ada2330b293746fbdcc0543
+    time: 1513619722
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2182,6 +2185,9 @@ inventory:
   "/assets/Devs----DRM-Health-3.jpg":
     md5: 664e5fed639bd2d4a4f3cf46d7d92c36
     time: 1513179963
+  "/assets/Devs----Winter-2017-2-new.jpg":
+    md5: 68ba51575fdcc2730c3e98aa09df574d
+    time: 1513619722
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
