@@ -1,5 +1,5 @@
 ---
-time: 1513619795
+time: 1513620994
 inventory:
   "/publications/index.html":
     md5: c9929e0b5f4c8ac0d969bb9e23641760
@@ -11,20 +11,20 @@ inventory:
     md5: 170ac0df148e3c8e6d90ce03b317d5f5
     time: 1513381596
   "/articles/marshaling-the-evidence-to-better-help-developing-countries-improve-and-afford-their-health-services/index.html":
-    md5: c6b204a827fccae36e0b2cfc494e6c02
-    time: 1513619698
+    md5: 615a85dbdc2f05470f93a4ee36c08159
+    time: 1513620963
   "/articles/to-realize-the-promise-of-renewables-address-the-concerns-of-local-people/index.html":
     md5: 7348e79bb955ac45d80fd1e6390b7632
     time: 1513619766
   "/articles/new-orangutan-species-discovered-in-forest-block-saved-by-usaid-conservation-program/index.html":
-    md5: 58ae535f3ab834aa3c97bc2bb6c05951
-    time: 1513381596
+    md5: 415550e49871a56705c6e7d3928ffa36
+    time: 1513620963
   "/articles/eu-launches-26-billion-fund-to-attract-investment-in-the-european-neighbourhood-and-africas-fragile-states/index.html":
-    md5: 59243bfe1a4f5faa643d305e5a3ba2dc
-    time: 1513381596
+    md5: fd2ad5f1d503c8f4a91ce675a2bcd173
+    time: 1513620963
   "/articles/qa-with-dais-susan-scribner-about-preparedness-response-and-global-health-security/index.html":
-    md5: d4415719912222fcaf741610ad9066e4
-    time: 1513381596
+    md5: 3a67690fe771189d994f4d508aacf707
+    time: 1513620963
   "/articles/sourcing-the-wadi-training-palestinian-workers-to-fill-niche-need-in-israel-it/index.html":
     md5: f27271fa55220a3a15f9d9d630cce16f
     time: 1513381596
@@ -668,17 +668,17 @@ inventory:
     md5: 4d4d34db6b2dbd7e06ae7e901779b149
     time: 1513381614
   "/articles/tags/governance/index.html":
-    md5: 412b3380aafb8b14121c2a0604cea693
-    time: 1513619717
+    md5: 74c0e4e71e9f8de382ff921ae4cc3e13
+    time: 1513620981
   "/articles/tags/health/index.html":
-    md5: 9fde5b5307012fc7382b22fbd72f89e6
-    time: 1513619717
+    md5: 18d2480f761bb2683387061ada833751
+    time: 1513620982
   "/articles/tags/finance/index.html":
-    md5: 057505a334552b743309c4a843b4b7cf
-    time: 1513619717
+    md5: 4dde99a6ceff2a22816d2522e4f01b5d
+    time: 1513620982
   "/articles/tags/environment-and-energy/index.html":
-    md5: 9cc45f9e428a6f5446aaf1aa2ad31c7e
-    time: 1513619784
+    md5: f23846073b3929390159fa78f321ce01
+    time: 1513620982
   "/articles/tags/renewables/index.html":
     md5: d150f6335279a51a57ecc915feeb30b6
     time: 1513619784
@@ -686,11 +686,11 @@ inventory:
     md5: d1a2bb13b8dbc8b8b8716218983bd864
     time: 1513619784
   "/articles/tags/economic-growth/index.html":
-    md5: 57208996e051b2af1f7e8b9662e09786
-    time: 1513381615
+    md5: 69e72de88c416cc71e0f093ad35c2bce
+    time: 1513620982
   "/articles/tags/fragile-states/index.html":
-    md5: 1021973b2660a39818e67905cb2f1924
-    time: 1513381615
+    md5: 55de7033d909b1770d12cf70dd4e96b2
+    time: 1513620982
   "/articles/tags/ict/index.html":
     md5: 0bb01a1cb7ba3288b1d026bc479d3281
     time: 1513381615
@@ -746,8 +746,8 @@ inventory:
     md5: c6b2ddbc0f009c0ce2f96e369b776032
     time: 1513381616
   "/developments/full-archive/index.html":
-    md5: 6f7a80de62ec79bc73cdf3839cae82dd
-    time: 1513619786
+    md5: c3e8772a165c6615208e3042c3953720
+    time: 1513620984
   "/developments/fall-2017/index.html":
     md5: 377eadf0a8f6bd11bdb24387541902d1
     time: 1513381617
@@ -806,11 +806,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c21584ab1f3364942716caad1419ee83
-    time: 1513619788
+    md5: 1123f29284ade1d9d54093b97c7b2052
+    time: 1513620986
   "/feed.xml":
-    md5: 78d99c3adea6a7f6d56e433a85d2d701
-    time: 1513619789
+    md5: 74b87ba6bec250d1eebbc32603dc1e5a
+    time: 1513620986
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
