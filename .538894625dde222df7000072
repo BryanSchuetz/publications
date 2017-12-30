@@ -1,5 +1,5 @@
 ---
-time: 1513620994
+time: 1514650460
 inventory:
   "/publications/index.html":
     md5: c9929e0b5f4c8ac0d969bb9e23641760
@@ -737,8 +737,8 @@ inventory:
     md5: 2c157b558339ae6a1ef4c49d350dcc7b
     time: 1513381616
   "/developments/index.html":
-    md5: b14bd62ab6653a024bd80bf6a8e44a91
-    time: 1513381616
+    md5: d7d56883a149262e3e61a1626f30e407
+    time: 1514650449
   "/daideas/index.html":
     md5: e776d85d484e4441b5a682cb7b789837
     time: 1513381616
@@ -748,6 +748,9 @@ inventory:
   "/developments/full-archive/index.html":
     md5: c3e8772a165c6615208e3042c3953720
     time: 1513620984
+  "/developments/winter-2017/index.html":
+    md5: cf4f30d20ac4b37fad14bfc552c0aefb
+    time: 1514650450
   "/developments/fall-2017/index.html":
     md5: 377eadf0a8f6bd11bdb24387541902d1
     time: 1513381617
@@ -809,8 +812,8 @@ inventory:
     md5: 1123f29284ade1d9d54093b97c7b2052
     time: 1513620986
   "/feed.xml":
-    md5: 74b87ba6bec250d1eebbc32603dc1e5a
-    time: 1513620986
+    md5: bc950e4014169d5fcb4c820527df89b7
+    time: 1514650452
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1573,6 +1576,9 @@ inventory:
   "/assets/Devs----Winter-2017-new-1.jpg":
     md5: 78c775578ada2330b293746fbdcc0543
     time: 1513619722
+  "/assets/Andrew Smith DA.jpg":
+    md5: 6bc1371c052d64e73d4f3893afb68d67
+    time: 1514650453
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2170,9 +2176,6 @@ inventory:
   "/assets/Devs----Scribner-2.jpg":
     md5: 3d9aff6831a66d1b454dcfa7027128bb
     time: 1509656476
-  "/assets/Devs----TEP-5.jpg":
-    md5: 594fb83161fe30fa3cb39d606f2dbfe1
-    time: 1511288106
   "/assets/Devs----EIP-5.jpg":
     md5: b95c0daefc96fa240856a8ef9a8d12d4
     time: 1511304920
@@ -2188,6 +2191,12 @@ inventory:
   "/assets/Devs----Winter-2017-2-new.jpg":
     md5: 68ba51575fdcc2730c3e98aa09df574d
     time: 1513619722
+  "/assets/LIFT pic.jpg":
+    md5: 2b1c2a548756637a184ce986c2470fce
+    time: 1514650453
+  "/assets/Devs----TEP-graphic-2-new.jpg":
+    md5: d6dfff3cc8b3d1effe714ecf52c9e568
+    time: 1514650453
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -2548,9 +2557,6 @@ inventory:
   "/assets/Devs----Scribner-3.jpg":
     md5: c45c688d66b3191dcabf09b3101ff50f
     time: 1509656476
-  "/assets/DEVS----4.jpg":
-    md5: 07b26c87d44bbe63903989d94d65ca1f
-    time: 1511288107
   "/assets/Devs----Mathilde-Gaston-Mathe-1.jpg":
     md5: f4cfe743b264850202fcfc177f09a140
     time: 1511883919
@@ -2563,6 +2569,12 @@ inventory:
   "/assets/Devs----Annie-Baldridge-mug.jpg":
     md5: e1c582b7ae77b8e4f9c53b88b2f3791e
     time: 1513179963
+  "/assets/lift-pie.jpg":
+    md5: bdcc4ff99e3f589ffd60dec7fa31ca76
+    time: 1514650453
+  "/assets/Devs----TEP-graphic-1-new.jpg":
+    md5: 73a6b06f349de9e5dfd0d6b34f300147
+    time: 1514650453
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -2794,9 +2806,9 @@ inventory:
   "/assets/Devs----Scribner-4.jpg":
     md5: 099bbe44cccaa702bc43bc667a2eac0c
     time: 1509656476
-  "/assets/DEVS----TEP-3.jpg":
-    md5: 9494acc57265b4dee2fd0e2d28874afc
-    time: 1511288107
+  "/assets/Devs----TEP-5.jpg":
+    md5: 594fb83161fe30fa3cb39d606f2dbfe1
+    time: 1511288106
   "/assets/Devs----Brian-McMahon-mug-1.jpg":
     md5: 14a59308c7603e5e1844e7e6127dead5
     time: 1511304920
@@ -2980,8 +2992,8 @@ inventory:
   "/assets/Devs----Scribner-pic-1.jpg":
     md5: a7712219f02acfb6dce07612de74ddf6
     time: 1509656476
-  "/assets/Devs----TEP-2.jpg":
-    md5: 670fe548791cff609ece8cd23e62c243
+  "/assets/DEVS----4.jpg":
+    md5: 07b26c87d44bbe63903989d94d65ca1f
     time: 1511288107
   "/assets/Devs----EIP-1.jpg":
     md5: 4d842aa2b47e2e20520ebd9395d75fb3
@@ -3103,8 +3115,8 @@ inventory:
   "/assets/Devs----Donald-Lunan-mug.jpg":
     md5: 0d93788c3b35da2d2adb701e4c3dba13
     time: 1506459869
-  "/assets/Devs----Mosharraf-thinner.jpg":
-    md5: d10da777d0613d3aee38bdd05665d08f
+  "/assets/DEVS----TEP-3.jpg":
+    md5: 9494acc57265b4dee2fd0e2d28874afc
     time: 1511288107
   "/assets/Devs----EIP-2.jpg":
     md5: 1dbb587c9c76efd97c867349fd88fb30
@@ -3172,9 +3184,9 @@ inventory:
   "/assets/Devs----FSDMoz-1.jpg":
     md5: 087f4bdfe58065f725a80c4ee9ffccbf
     time: 1506459872
-  "/assets/Devs----Harry-Wynne-Williams.jpg":
-    md5: 9d88306c9b806ef9128a5a9572f0c36f
-    time: 1511288108
+  "/assets/Devs----TEP-2.jpg":
+    md5: 670fe548791cff609ece8cd23e62c243
+    time: 1511288107
   "/assets/Devs----EIP-3.jpg":
     md5: 0605a71f8d315182ddefee825615dce4
     time: 1511304920
@@ -3223,9 +3235,9 @@ inventory:
   "/assets/Devs----FSDMoz-2.jpg":
     md5: 690df5b1b5ef00136434d02432e35f67
     time: 1506459873
-  "/assets/Devs----Joel-Down.jpg":
-    md5: a44e07953d177f50518df3d47b698050
-    time: 1511288108
+  "/assets/Devs----Mosharraf-thinner.jpg":
+    md5: d10da777d0613d3aee38bdd05665d08f
+    time: 1511288107
   "/assets/Devs----Shannon-Dugan.jpg":
     md5: 09d32ad5d9f848f77e600ae233692fc0
     time: 1506459873
@@ -3247,8 +3259,8 @@ inventory:
   "/assets/DEVS----Afgh-WIE-2.jpg":
     md5: 97f3da769e7b7974d57f30d5179b149e
     time: 1506459874
-  "/assets/Harry-Wynne-Williams.jpg":
-    md5: 9901364267bd7761210dd7195426cbde
+  "/assets/Devs----Harry-Wynne-Williams.jpg":
+    md5: 9d88306c9b806ef9128a5a9572f0c36f
     time: 1511288108
   "/assets/Devs----Paul-Hartman.jpg":
     md5: 9d1d78c60374b8848b8a3476eea050fe
@@ -3262,8 +3274,8 @@ inventory:
   "/assets/Liberia laptop.jpg":
     md5: 9ee0f85e6891b4def7da6d22f9ea9040
     time: 1506459874
-  "/assets/Joel-Down.jpg":
-    md5: 46574dee678988b990923678a32290fa
+  "/assets/Devs----Joel-Down.jpg":
+    md5: a44e07953d177f50518df3d47b698050
     time: 1511288108
   "/assets/Devs----Gaza-fish-9.jpg":
     md5: 0b146e4e9631d4f4c3c683939dde7aff
@@ -3271,6 +3283,12 @@ inventory:
   "/assets/Devs--Robin-Young-mug.jpg":
     md5: 65325b3b962546c52e3194cc5cda2a5f
     time: 1506459875
+  "/assets/Harry-Wynne-Williams.jpg":
+    md5: 9901364267bd7761210dd7195426cbde
+    time: 1511288108
   "/assets/Devs----Gaza-fish-6.jpg":
     md5: d0c2103b01029b52e20259af59e9412c
     time: 1506459875
+  "/assets/Joel-Down.jpg":
+    md5: 46574dee678988b990923678a32290fa
+    time: 1511288108
