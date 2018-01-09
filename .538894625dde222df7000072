@@ -1,5 +1,5 @@
 ---
-time: 1515515334
+time: 1515515597
 inventory:
   "/publications/index.html":
     md5: 21c03cec18f0c40fb1e49810e7f4857f
@@ -11,8 +11,8 @@ inventory:
     md5: a30145dc195037d93c4019ed42644d47
     time: 1515515192
   "/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia/index.html":
-    md5: 101488e3e81899e84e838047053ebaf6
-    time: 1515515192
+    md5: 4d309f85a7641e328400bae1aee383a3
+    time: 1515515570
   "/articles/marshaling-the-evidence-to-better-help-developing-countries-improve-and-afford-their-health-services/index.html":
     md5: 5d8ecea601ef5015a29488528bea0f22
     time: 1515515192
@@ -812,11 +812,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 38384188397d7606127fb91991f924a4
-    time: 1515515215
+    md5: af88a218b301027cba549214a577d5e5
+    time: 1515515593
   "/feed.xml":
-    md5: c87bc765d6df28d8469192d728ab95f5
-    time: 1515515216
+    md5: bbeeb5502ebb27b9d9ef5f999f406489
+    time: 1515515593
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
