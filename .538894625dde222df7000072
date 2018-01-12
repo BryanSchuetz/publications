@@ -1,5 +1,5 @@
 ---
-time: 1515793156
+time: 1515793866
 inventory:
   "/publications/index.html":
     md5: d3c3dc4ebd55a9a6a69abba4ee20929b
@@ -11,8 +11,8 @@ inventory:
     md5: 0fb16dd72e6d700e92384a69fc0056b5
     time: 1515792479
   "/articles/liberia-moves-to-reduce-donor-dependence-by-improving-its-ability-to-invest-in-itself/index.html":
-    md5: d95f6d9169c3714ae4c9c243481377ef
-    time: 1515793127
+    md5: 8086dde0c640f6dec84889480e739e17
+    time: 1515793839
   "/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia/index.html":
     md5: a0c8e768bc3d8c74158d02190c3a1db2
     time: 1515792479
@@ -815,11 +815,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 0f629f52265898ef9f673991b8de939a
-    time: 1515793150
+    md5: fa2e4eec53f09ba5601838328c4e5511
+    time: 1515793861
   "/feed.xml":
-    md5: 05ac234ffdc9f273f78de946ad1ed7b9
-    time: 1515793150
+    md5: 669db02867ad3e254d30d2401879c922
+    time: 1515793862
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
