@@ -1,5 +1,5 @@
 ---
-time: 1515801759
+time: 1516114769
 inventory:
   "/publications/index.html":
     md5: d3c3dc4ebd55a9a6a69abba4ee20929b
@@ -11,8 +11,8 @@ inventory:
     md5: 0fb16dd72e6d700e92384a69fc0056b5
     time: 1515792479
   "/articles/liberia-moves-to-reduce-donor-dependence-by-improving-its-ability-to-invest-in-itself/index.html":
-    md5: 6be8c80bff4cb9342c4b07154c89f36c
-    time: 1515801730
+    md5: bbc538cec0baac43b06bd794568c07be
+    time: 1516114740
   "/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia/index.html":
     md5: a0c8e768bc3d8c74158d02190c3a1db2
     time: 1515792479
@@ -674,11 +674,11 @@ inventory:
     md5: 5a1d9aa10366151a27d95604e0554bae
     time: 1515792497
   "/articles/tags/governance/index.html":
-    md5: 2f19160c6739cf2b9c3cfb465ab638c9
-    time: 1515801749
+    md5: 43a16769dee209922f7a625a74cd5adb
+    time: 1516114759
   "/articles/tags/finance/index.html":
-    md5: 88f60710f531c683a5a92c64925ca500
-    time: 1515801749
+    md5: baf47ff19f8d46f38ded9d9cc4dc96df
+    time: 1516114759
   "/articles/tags/land/index.html":
     md5: 8e2061ae63cd9e9ccb8424aeaf47dd48
     time: 1515792498
@@ -752,11 +752,11 @@ inventory:
     md5: 44f34926f9a6bd6dcc4076a2844f4c70
     time: 1515792500
   "/developments/full-archive/index.html":
-    md5: c8b07a859fe333173b2a1ac0a0dfea4f
-    time: 1515801751
+    md5: 2236248b4e72e392bc82fda479f479ac
+    time: 1516114761
   "/developments/winter-2017/index.html":
-    md5: 9b202813a6599f578794e682a95393a3
-    time: 1515792501
+    md5: 52a6a5fa28fcc4accdfcdcaa2e098fa6
+    time: 1516114761
   "/developments/fall-2017/index.html":
     md5: 19a1333efb25062f4847e3dcbd8a4a94
     time: 1515792501
@@ -815,11 +815,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: ff9c0db28f9a4b2058749e57c267f2d2
-    time: 1515801753
+    md5: f32c57eb63d5b4968e65643e92413c1c
+    time: 1516114763
   "/feed.xml":
-    md5: d657ccc99e0208aa362530e598d650d4
-    time: 1515801753
+    md5: efa329741368a1f7645ba8724a17cfce
+    time: 1516114763
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
