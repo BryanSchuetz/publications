@@ -1,5 +1,5 @@
 ---
-time: 1516213147
+time: 1516312854
 inventory:
   "/publications/index.html":
     md5: d3c3dc4ebd55a9a6a69abba4ee20929b
@@ -215,8 +215,8 @@ inventory:
     md5: 3baba4b80776718a36cd690db7b80fa3
     time: 1515792486
   "/articles/breaking-a-wooden-box-under-a-mango-tree/index.html":
-    md5: ca507060bf434c777175af391f43dcf9
-    time: 1515792486
+    md5: fe2ef9d2e969426788b2877b6453633c
+    time: 1516312835
   "/articles/spurring-the-malawi-judiciary-to-rehear-death-sentence-cases-free-prisoners-unjustly-held/index.html":
     md5: 9699ad205275478f871c645bddf347c4
     time: 1515792487
@@ -815,11 +815,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 8c17ac52d996543932efbf5d523e11ff
-    time: 1516213143
+    md5: 51242b74b025dd98e1a60832a3db1953
+    time: 1516312850
   "/feed.xml":
-    md5: 99b9e17e5b56815d7ea0f0b956397778
-    time: 1516213143
+    md5: 2b6d645b1705c4926c5aef91fe1d21e1
+    time: 1516312850
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
