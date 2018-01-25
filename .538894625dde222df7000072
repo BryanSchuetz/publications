@@ -1,5 +1,5 @@
 ---
-time: 1516732535
+time: 1516892860
 inventory:
   "/publications/index.html":
     md5: 3a6920b881d88b2046a0a30122c00f07
@@ -11,8 +11,8 @@ inventory:
     md5: a7326e23ff729fe17bf254d8400d97d5
     time: 1516729415
   "/articles/with-elections-looming-can-pakistan-fulfill-its-education-promise-to-unschooled-children/index.html":
-    md5: 16c8e89baf910e799c6a0b4bfea3afce
-    time: 1516732507
+    md5: e8ca4d2830512710a651818254dae6be
+    time: 1516892832
   "/articles/liberia-moves-to-reduce-donor-dependence-by-improving-its-ability-to-invest-in-itself/index.html":
     md5: 036e2096b0617dc0eda87de18b7da7dd
     time: 1516729415
@@ -818,11 +818,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 149c05bef813f144592e5a9425719709
-    time: 1516732529
+    md5: ad2990e44b22b6023f8817437a97148c
+    time: 1516892856
   "/feed.xml":
-    md5: a512ab106367bf34e72eda8b85fe761f
-    time: 1516732530
+    md5: a2d3fe31d0739b4e40738f237f433cba
+    time: 1516892856
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
