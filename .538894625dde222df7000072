@@ -1,5 +1,5 @@
 ---
-time: 1517409970
+time: 1517425537
 inventory:
   "/publications/index.html":
     md5: 8d45c764436b53fc08dd2d1f28df75b4
@@ -11,8 +11,8 @@ inventory:
     md5: baf3fb9e3e6367d85406c01f27cba75b
     time: 1517409824
   "/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey/index.html":
-    md5: 9d4be2e56b884e0f5d39f93a21a31ad1
-    time: 1517409824
+    md5: 7d37d456511dea11da8ba7380c683e28
+    time: 1517425510
   "/articles/with-elections-looming-can-pakistan-fulfill-its-education-promise-to-unschooled-children/index.html":
     md5: bca80f32d750243f3e5fd86f8b4959ee
     time: 1517409824
@@ -821,11 +821,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 973f7b522a2af42013b26ddd36bba24c
-    time: 1517409848
+    md5: 5bac58210fff70f53a4c03ab23a5e545
+    time: 1517425533
   "/feed.xml":
-    md5: 833385703fb6464702dd3dc2896ab032
-    time: 1517409848
+    md5: 8805ab8b7d91e0db2ffd6337e71874a3
+    time: 1517425533
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
