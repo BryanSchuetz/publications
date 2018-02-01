@@ -1,5 +1,5 @@
 ---
-time: 1517425537
+time: 1517497161
 inventory:
   "/publications/index.html":
     md5: 8d45c764436b53fc08dd2d1f28df75b4
@@ -664,6 +664,9 @@ inventory:
   "/articles/the-re-greening-of-iraq-restoring-marshlands/index.html":
     md5: 1def6e18d9f56fc6f0ba123ab1747171
     time: 1517409842
+  "/articles/philippines-new-tax-bill-promises-more-revenue-for-social-programs-infrastructure/index.html":
+    md5: 655907e179d171a2d0f0a96e44970bf6
+    time: 1517497152
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
     md5: 5674881dbfb759a179fea0a62cd98253
     time: 1517409842
@@ -824,8 +827,8 @@ inventory:
     md5: 5bac58210fff70f53a4c03ab23a5e545
     time: 1517425533
   "/feed.xml":
-    md5: 8805ab8b7d91e0db2ffd6337e71874a3
-    time: 1517425533
+    md5: 8cd5d30108414786a47a086930d87e8c
+    time: 1517497157
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -2224,6 +2227,9 @@ inventory:
   "/assets/Devs----Van-James-mug-1.jpg":
     md5: 451c1917283e4af20d3745e8ece9c207
     time: 1517409849
+  "/assets/philippines.jpg":
+    md5: b5d61e2cb5bcf336a818513efedd7bc6
+    time: 1517497157
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
