@@ -1,5 +1,5 @@
 ---
-time: 1517498675
+time: 1517597016
 inventory:
   "/publications/index.html":
     md5: 01bc7c871d99d84e81f11ee377bd1ba6
@@ -284,8 +284,8 @@ inventory:
     md5: 65f8f320a8fec1fc54670eb118001a81
     time: 1517498518
   "/articles/interview-with-joel-o-carter-ceo-of-the-afghanistan-agricultural-development-fund/index.html":
-    md5: 4fa0d57183e08897dc0f456e2f9b2c76
-    time: 1517498518
+    md5: c7112b1d8a01492312b1e17a7ee9adec
+    time: 1517596995
   "/articles/uniting-tajikistans-farmers-to-fix-broken-irrigation-systems/index.html":
     md5: ba441e870d5d7bc467539879eba407c3
     time: 1517498518
@@ -761,8 +761,8 @@ inventory:
     md5: 863b54d86ca99b57c8991cb3885922d4
     time: 1517498530
   "/developments/full-archive/index.html":
-    md5: cb3476e1ec01cc915f463ac475df125a
-    time: 1517498530
+    md5: dade2418b874618f29b78359e3037fd7
+    time: 1517597006
   "/developments/winter-2017/index.html":
     md5: e181108c6d364843d9bc2229432281de
     time: 1517498530
@@ -785,8 +785,8 @@ inventory:
     md5: c4999904690f30455733cfb3ec892086
     time: 1517498531
   "/developments/summer-2015/index.html":
-    md5: 00831815dd44812cfabc478dafc4631a
-    time: 1517498531
+    md5: c37ea76d657a431d1568979491a75487
+    time: 1517597007
   "/developments/spring-2015/index.html":
     md5: 800959ccfa64eb44feccc6fb66e444f4
     time: 1517498531
@@ -824,11 +824,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 0d764932d63c1f475e4b0ee2a76c57fa
-    time: 1517498532
+    md5: ff66f3da45f98e4eae0db737eda6e1b2
+    time: 1517597008
   "/feed.xml":
-    md5: a0ebeeead6e6b3f2f6bf35c0140008dd
-    time: 1517498532
+    md5: 03e58c6344a27571b0bcbec4f3587d94
+    time: 1517597009
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1603,6 +1603,9 @@ inventory:
   "/assets/map-of-afghan-cities-in-survey.jpg":
     md5: 8a0c1776edd8b77722ddf680105b16de
     time: 1517409849
+  "/assets/Catherine-Wallis-INNER.jpg":
+    md5: 7fc9f36af40d724dd205e866904da3b5
+    time: 1517597009
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2230,6 +2233,9 @@ inventory:
   "/assets/philippines.jpg":
     md5: b5d61e2cb5bcf336a818513efedd7bc6
     time: 1517497157
+  "/assets/Devs----Wallis-pic-2.jpg":
+    md5: e9d78b07cdcc17594064f832c2474e4a
+    time: 1517597009
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -2611,6 +2617,9 @@ inventory:
   "/assets/ElizabethDrachman Devs.jpg":
     md5: ce06695724e72aa3a10a6d7456795210
     time: 1517409849
+  "/assets/Devs----Wallis-pic-1.jpg":
+    md5: a6dac1155878eb4a9a5723e66c6a1f7b
+    time: 1517597009
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
