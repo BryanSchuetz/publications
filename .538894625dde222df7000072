@@ -1,5 +1,5 @@
 ---
-time: 1518015394
+time: 1518015536
 inventory:
   "/publications/index.html":
     md5: b3cda48c8517e72c8bbaa342e3572009
@@ -11,8 +11,8 @@ inventory:
     md5: 4b18ab9ab0c157c6e277d3bf02bac0b7
     time: 1518015248
   "/articles/new-zealand-aid-helps-rwandan-farmers-reduce-losses-sell-more-maize-to-producer-of-maternal-infant-foods/index.html":
-    md5: 42db423e5fe2a24e51247fdede7e1829
-    time: 1518015248
+    md5: 2737dc84e275873a7438ae9a660068dc
+    time: 1518015507
   "/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey/index.html":
     md5: c4cd8ff0b39a589aa05a2622c786e9d9
     time: 1518015248
@@ -764,8 +764,8 @@ inventory:
     md5: 2315c664685cc73c690ed0ddd73724d8
     time: 1518015269
   "/developments/full-archive/index.html":
-    md5: e2bd67d0c84a4f116f5b65998c4813d0
-    time: 1518015270
+    md5: 63bcf7564936aed70ac2cef7158c7d53
+    time: 1518015528
   "/developments/winter-2017/index.html":
     md5: 957241a7b966f523e9373600bdd2d631
     time: 1518015270
@@ -827,11 +827,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: b83575a19ea811fb8aa7d4b55e3c4a3e
-    time: 1518015271
+    md5: e507c4a91dd523faa9a0beae9a605cac
+    time: 1518015530
   "/feed.xml":
-    md5: 4800edb9dffce167c015862961b8d631
-    time: 1518015272
+    md5: 7bb898e9e0aa0ffaf97b9d7462828ebb
+    time: 1518015531
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1532,8 +1532,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 593684f6ef11bcdd2819a7597d21cfd4
-    time: 1518015272
+    md5: 1339d0fd6542d1b590dbe1e01396f5fb
+    time: 1518015531
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
