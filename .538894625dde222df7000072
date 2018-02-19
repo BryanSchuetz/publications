@@ -1,5 +1,5 @@
 ---
-time: 1518710342
+time: 1519073594
 inventory:
   "/publications/index.html":
     md5: f8830f8b8bc81368a5b89a5ad527d136
@@ -17,8 +17,8 @@ inventory:
     md5: f855af8a87ae415b7ad4cd65657771b1
     time: 1518710177
   "/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey/index.html":
-    md5: ab75fd0940feee0a6734808f2e9cc62a
-    time: 1518710177
+    md5: 7295e4e3fbe55b5b5868552e14264785
+    time: 1519073564
   "/articles/philippines-new-tax-bill-promises-more-revenue-for-social-programs-infrastructure/index.html":
     md5: 36f4b304fe70f91979c60770cad6ba33
     time: 1518710177
@@ -830,11 +830,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: fee75a05b7a0384fbe6b54d76e2afdef
-    time: 1518710201
+    md5: 20a1ae65fcceef5ea604a1613290b6d5
+    time: 1519073587
   "/feed.xml":
-    md5: 317a09544fa533c82da4e88690823ad8
-    time: 1518710201
+    md5: d78bb17d1f9842c158567c4e4edde645
+    time: 1519073588
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
