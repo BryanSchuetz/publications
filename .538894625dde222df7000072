@@ -1,5 +1,5 @@
 ---
-time: 1519847044
+time: 1519847159
 inventory:
   "/publications/index.html":
     md5: dc8527416550f29c9ce660adc4c3b7c5
@@ -11,8 +11,8 @@ inventory:
     md5: 72349ad0eb3d0e86b96e2a8dcca49132
     time: 1519846885
   "/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/index.html":
-    md5: dfcde93b0a4df58e4dd93484b2790a00
-    time: 1519846885
+    md5: 9275d3dc983993a9f05b87c62654b65e
+    time: 1519847129
   "/articles/ec-helps-position-the-southern-africa-development-community-for-21st-century-success/index.html":
     md5: 219e96e1112525560c2cd2bbf80c3955
     time: 1519846885
@@ -770,8 +770,8 @@ inventory:
     md5: 2c4b1e495ef678a97de5d9690dab0c55
     time: 1519846908
   "/developments/full-archive/index.html":
-    md5: e229380a53ae66c2671a25c76750a0ea
-    time: 1519846909
+    md5: fbf516aed474c99dc2c6eb87c373d23f
+    time: 1519847152
   "/developments/winter-2017/index.html":
     md5: c1573259d3306d026eae4428ce3f325d
     time: 1519846909
@@ -833,11 +833,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 899bc14af823f06e23e56a5b8c57e798
-    time: 1519846912
+    md5: a90ed14f5eb4e7f8233a2ac0f42723a3
+    time: 1519847154
   "/feed.xml":
-    md5: 4651c219384bfbc12884dcff6d96a4f3
-    time: 1519846913
+    md5: e0e297bad279fe6b4e973d869b8fc387
+    time: 1519847154
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1538,8 +1538,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: db1ba525c1b764018bc1e625fa5534c4
-    time: 1519846914
+    md5: 104ddf705868f07aa37346db62a138f1
+    time: 1519847155
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
