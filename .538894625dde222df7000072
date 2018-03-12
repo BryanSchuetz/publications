@@ -1,5 +1,5 @@
 ---
-time: 1520863254
+time: 1520863712
 inventory:
   "/publications/index.html":
     md5: be676843712d79963f645fe87b291961
@@ -11,8 +11,8 @@ inventory:
     md5: 9fe20a59abd3635d48efefbfc200e83f
     time: 1520860132
   "/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience/index.html":
-    md5: d3bc5933fd6a1be99b36b89a4c580f5c
-    time: 1520863224
+    md5: c49d2628ca97ea722467c751564aaa8b
+    time: 1520863683
   "/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/index.html":
     md5: 21b946dd5f59816e77641157effa7bc3
     time: 1520860132
@@ -836,11 +836,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: a57608930f2daa69334e567027671b63
-    time: 1520863247
+    md5: f5ac042f7df1c9b8313100966048853f
+    time: 1520863706
   "/feed.xml":
-    md5: 6edfce6b4a51b20e84eb93b9766393ce
-    time: 1520863248
+    md5: 23ddf5bc3a86560e78cc3f2a965507e3
+    time: 1520863707
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -2662,9 +2662,9 @@ inventory:
   "/assets/Devs----Nebil-6.jpg":
     md5: 8ec256aea3520c82adf5a911fd81e35f
     time: 1520860159
-  "/assets/chart.png":
-    md5: a8f584335a9c4d3ceaeca621cd75a1df
-    time: 1520863248
+  "/assets/Moz image copy.png":
+    md5: a276192a43bda7de3053fc0a210e0050
+    time: 1520863707
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
