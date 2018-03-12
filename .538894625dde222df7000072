@@ -1,5 +1,5 @@
 ---
-time: 1520860289
+time: 1520863254
 inventory:
   "/publications/index.html":
     md5: be676843712d79963f645fe87b291961
@@ -11,8 +11,8 @@ inventory:
     md5: 9fe20a59abd3635d48efefbfc200e83f
     time: 1520860132
   "/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience/index.html":
-    md5: 2befd6ae398cd7cb679757d0e7b1808a
-    time: 1520860132
+    md5: d3bc5933fd6a1be99b36b89a4c580f5c
+    time: 1520863224
   "/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/index.html":
     md5: 21b946dd5f59816e77641157effa7bc3
     time: 1520860132
@@ -824,8 +824,8 @@ inventory:
     md5: 30f97e0c6a0d9e406d98f5297157d6a2
     time: 1520860157
   "/developing-alternatives/land-rights/index.html":
-    md5: 61d777bf382d92a706b99509d41b66c1
-    time: 1520860158
+    md5: ff2b3aaf0fc953e0eb310abfa02a8f4f
+    time: 1520863247
   "/developing-alternatives/winter-2013/index.html":
     md5: 5a0366e6abe8d77d76543c774174cada
     time: 1520860158
@@ -836,11 +836,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 7d885cb3fbb973efb91c56c8136f5c7f
-    time: 1520860158
+    md5: a57608930f2daa69334e567027671b63
+    time: 1520863247
   "/feed.xml":
-    md5: 1d74f34466e9752986744625fafb0a37
-    time: 1520860158
+    md5: 6edfce6b4a51b20e84eb93b9766393ce
+    time: 1520863248
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -2662,9 +2662,9 @@ inventory:
   "/assets/Devs----Nebil-6.jpg":
     md5: 8ec256aea3520c82adf5a911fd81e35f
     time: 1520860159
-  "/assets/Moz image.png":
-    md5: d00f2bf9b62f9ba6abd5e4222abd8dce
-    time: 1520860160
+  "/assets/chart.png":
+    md5: a8f584335a9c4d3ceaeca621cd75a1df
+    time: 1520863248
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
