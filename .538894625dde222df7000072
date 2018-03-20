@@ -1,5 +1,5 @@
 ---
-time: 1521482395
+time: 1521546302
 inventory:
   "/publications/index.html":
     md5: 7e4a3c5fdad572036a9e36fb0ded27e6
@@ -11,8 +11,8 @@ inventory:
     md5: 2183742c55c104e5107ceb969caeb508
     time: 1521482235
   "/articles/lta-program-shows-benefit-of-truly-participatory-approach/index.html":
-    md5: a0ec368a89badae0677111f038975a31
-    time: 1521482235
+    md5: 07679c95df4be955a887faa8afedd808
+    time: 1521546271
   "/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience/index.html":
     md5: 35245df5431052a5b6df29dd2651b13f
     time: 1521482235
@@ -698,14 +698,14 @@ inventory:
     md5: 3b5e4675ca41a002f386a29dbdf43d62
     time: 1521482257
   "/articles/tags/land/index.html":
-    md5: d32aa8203bd49453f639dab5bb6ac6a7
-    time: 1521482257
+    md5: 7e3bb32dad40e49683d7625c0d4509ef
+    time: 1521546291
   "/articles/tags/governance/index.html":
-    md5: 3fc7be0d288c77b5e6a439e4781e8032
-    time: 1521482257
+    md5: 4053583bb9fa2aa252c3bebc8cdaac78
+    time: 1521546291
   "/articles/tags/land-rights/index.html":
-    md5: c253ddbf99f4d325786ebdb094cb8372
-    time: 1521482257
+    md5: 3c79ae0835bd831aa159763eaf4c53d5
+    time: 1521546291
   "/articles/tags/economic-growth/index.html":
     md5: 7bb8cd969085ca7d1b188ee58d1255ac
     time: 1521482258
@@ -830,23 +830,23 @@ inventory:
     md5: e2435c9c3bad36965634e1906980a7d9
     time: 1521482262
   "/developing-alternatives/land-rights/index.html":
-    md5: 1a76439267587800073e1366bccecbe8
-    time: 1521482262
+    md5: d9b428e9596775928d7778d7fca21524
+    time: 1521546295
   "/developing-alternatives/winter-2013/index.html":
     md5: 41e6a97cd9e9581c0052ae5d33bf0076
     time: 1521482262
   "/developing-alternatives/full-archive/index.html":
-    md5: 3c063dbff34c5d2a1b4aec831897d550
-    time: 1521482262
+    md5: 95ac42b1368a3e9d50e37b9236066890
+    time: 1521546295
   "/CNAME":
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 2a378f5b2985a7667b6043491a1b7f41
-    time: 1521482262
+    md5: 5025b808fe9c56f186d379b81b4e7396
+    time: 1521546295
   "/feed.xml":
-    md5: 38b80684c1d4e51e81045ec2c608b7ce
-    time: 1521482262
+    md5: 71144369dfb597f86704abce961d6b5c
+    time: 1521546295
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1547,8 +1547,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 71afcd6236dafd6d441b8bd32cc379db
-    time: 1521482263
+    md5: 11bebc5c6b1c1578000e69e044b78530
+    time: 1521546296
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
