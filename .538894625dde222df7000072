@@ -1,5 +1,5 @@
 ---
-time: 1521554560
+time: 1521556145
 inventory:
   "/publications/index.html":
     md5: 7e4a3c5fdad572036a9e36fb0ded27e6
@@ -137,8 +137,8 @@ inventory:
     md5: 474e754be84d9ff230ba6d444b6abf28
     time: 1521482240
   "/articles/legitimate-land-tenure-and-property-rights-fostering-compliance-and-development-outcomes/index.html":
-    md5: 09cc56390c59c86783833c33bda03389
-    time: 1521482240
+    md5: 6bf44b4690b353d8cd132419689ea339
+    time: 1521556120
   "/articles/enhancing-women-and-girls-land-rights-in-rural-sierra-leone/index.html":
     md5: 9cc7b1aa5a996d4c4d42783a379ff0cf
     time: 1521482240
@@ -698,11 +698,11 @@ inventory:
     md5: 3b5e4675ca41a002f386a29dbdf43d62
     time: 1521482257
   "/articles/tags/land/index.html":
-    md5: 7e3bb32dad40e49683d7625c0d4509ef
-    time: 1521546291
+    md5: 6cb074c915a9f9d8dd7e5921795cb56b
+    time: 1521556134
   "/articles/tags/governance/index.html":
-    md5: 4053583bb9fa2aa252c3bebc8cdaac78
-    time: 1521546291
+    md5: 309213754b5134311e46fcce73e5e012
+    time: 1521556135
   "/articles/tags/land-rights/index.html":
     md5: 3c79ae0835bd831aa159763eaf4c53d5
     time: 1521546291
@@ -830,23 +830,23 @@ inventory:
     md5: e2435c9c3bad36965634e1906980a7d9
     time: 1521482262
   "/developing-alternatives/land-rights/index.html":
-    md5: ca322b6f9ba5d17b4d607e5dcd73817d
-    time: 1521554555
+    md5: 063e3729e6210ea3df18ecc1ba40d7cc
+    time: 1521556139
   "/developing-alternatives/winter-2013/index.html":
     md5: 41e6a97cd9e9581c0052ae5d33bf0076
     time: 1521482262
   "/developing-alternatives/full-archive/index.html":
-    md5: 95ac42b1368a3e9d50e37b9236066890
-    time: 1521546295
+    md5: 8f783cd58119307e3bfb58c182d2448a
+    time: 1521556139
   "/CNAME":
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 5025b808fe9c56f186d379b81b4e7396
-    time: 1521546295
+    md5: f5170338d3adb14b728def6304710d78
+    time: 1521556139
   "/feed.xml":
-    md5: 6cf64b633eab9c65171c7157e9106c66
-    time: 1521554556
+    md5: 902764fb081536cc7a347558826a65b8
+    time: 1521556140
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
