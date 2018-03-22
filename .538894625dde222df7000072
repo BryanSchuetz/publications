@@ -1,5 +1,5 @@
 ---
-time: 1521728822
+time: 1521733827
 inventory:
   "/publications/index.html":
     md5: 7e4a3c5fdad572036a9e36fb0ded27e6
@@ -14,8 +14,8 @@ inventory:
     md5: 07679c95df4be955a887faa8afedd808
     time: 1521546271
   "/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience/index.html":
-    md5: 44c77f4c6e7323a29136bc143c37d4eb
-    time: 1521728788
+    md5: d88e4fbc4937bdb5cae9745996c4a86d
+    time: 1521733795
   "/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/index.html":
     md5: 5d264fde068b2778e4404c8924a6b6cd
     time: 1521482236
@@ -842,11 +842,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 01affd470bde5d1f517c06f5f153cbca
-    time: 1521728813
+    md5: 2d4ff0e434275fab69499fbc4d23f1c6
+    time: 1521733820
   "/feed.xml":
-    md5: e398bd807a2cc2d97223c48b7820f1cf
-    time: 1521728814
+    md5: f025a4f943e7c34ce741906a420f8624
+    time: 1521733820
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1642,6 +1642,9 @@ inventory:
   "/assets/DSCN8551.JPG":
     md5: c3b0157d97154636fe7fc63a87384d49
     time: 1521482263
+  "/assets/SATIH Infographic.pdf":
+    md5: 21766750c235e38f388e05073a254818
+    time: 1521733821
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2287,6 +2290,9 @@ inventory:
   "/assets/Devs----Spring-2018-pic-1.jpg":
     md5: cab837fec3f282fe08febb81854384f2
     time: 1521482263
+  "/assets/Devs----EIB-ASIF-1.jpg":
+    md5: 6af3607f9f0dbff54498fe1fb5334898
+    time: 1521733821
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
