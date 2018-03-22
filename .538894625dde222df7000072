@@ -1,5 +1,5 @@
 ---
-time: 1521556145
+time: 1521728597
 inventory:
   "/publications/index.html":
     md5: 7e4a3c5fdad572036a9e36fb0ded27e6
@@ -14,8 +14,8 @@ inventory:
     md5: 07679c95df4be955a887faa8afedd808
     time: 1521546271
   "/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience/index.html":
-    md5: 35245df5431052a5b6df29dd2651b13f
-    time: 1521482235
+    md5: d24ddb8563050eae3c4fa409f124ba46
+    time: 1521728567
   "/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/index.html":
     md5: 5d264fde068b2778e4404c8924a6b6cd
     time: 1521482236
@@ -842,11 +842,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f5170338d3adb14b728def6304710d78
-    time: 1521556139
+    md5: 09cc0965603e67f8466a1e46fed31df5
+    time: 1521728592
   "/feed.xml":
-    md5: 902764fb081536cc7a347558826a65b8
-    time: 1521556140
+    md5: 5633e9c11f05bab10d2f01c2ee5939fb
+    time: 1521728593
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
