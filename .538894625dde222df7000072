@@ -1,5 +1,5 @@
 ---
-time: 1522238140
+time: 1522248121
 inventory:
   "/publications/index.html":
     md5: 44efb131b7adb88e940cb0042e780f5d
@@ -11,8 +11,8 @@ inventory:
     md5: f935bdd34895ba56b2b37d6c1e61a026
     time: 1522237845
   "/articles/36-million-investment-facility-finances-warehouses-in-malawi-to-improve-food-security/index.html":
-    md5: a70b41ed7c07b397ef4eea199589a590
-    time: 1522238108
+    md5: 246867c57fd5cb1bee99158572576da2
+    time: 1522248088
   "/articles/lta-program-shows-benefit-of-truly-participatory-approach/index.html":
     md5: 18b404da222f550e0333fff9b3ba87ee
     time: 1522237845
@@ -701,14 +701,14 @@ inventory:
     md5: 8b415e4c1e063fb341ddd67264421cd8
     time: 1522237865
   "/articles/tags/economic-growth/index.html":
-    md5: 9c285b3a4a30748ef69c8dab676c2972
-    time: 1522237866
+    md5: 62e16eb700cdd7fe7b4a45f82675945a
+    time: 1522248109
   "/articles/tags/agriculture/index.html":
-    md5: 9cf731289a191b4386af7e2f7fc33d0e
-    time: 1522237866
+    md5: 844f9425795ea0e749e3f6a7a0e99d7a
+    time: 1522248109
   "/articles/tags/resilience/index.html":
-    md5: 6fd405215ff0b920d3f88f201e056b6c
-    time: 1522237866
+    md5: 4423447d10cb277d639eea032f3118db
+    time: 1522248109
   "/articles/tags/land/index.html":
     md5: 09ebbb8c711d574013550bc3d631b019
     time: 1522237866
@@ -782,8 +782,8 @@ inventory:
     md5: bb39fe82297a87e500dc1e9d6b206d32
     time: 1522237869
   "/developments/full-archive/index.html":
-    md5: 41fd5d407086f7d551eab6f8b2a22ffe
-    time: 1522238133
+    md5: 1d75bd4bc3da33057d053a5c3dc6947f
+    time: 1522248112
   "/developments/winter-2017/index.html":
     md5: b2da6540aa3038928023720d3f9e780f
     time: 1522237869
@@ -845,11 +845,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 979000496610795d7dcb1f08813bc33b
-    time: 1522238135
+    md5: dceda5730ccdd9cdb6df554032f22884
+    time: 1522248114
   "/feed.xml":
-    md5: 38d5b4c4259ef510dbacd94d9be056c3
-    time: 1522238135
+    md5: 8617e8ac7122e901d517f62e114d3ead
+    time: 1522248115
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1550,8 +1550,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 4ddec3d5c6bd768d1f3c329f0819d2ba
-    time: 1522238135
+    md5: 664b0ab676a777f0bebc043690adf626
+    time: 1522248115
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
