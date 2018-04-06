@@ -1,5 +1,5 @@
 ---
-time: 1522961492
+time: 1523037326
 inventory:
   "/publications/index.html":
     md5: 7de9651e875ed396ffc8c481ed74bf69
@@ -1550,8 +1550,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 6f05023c5794cff9602274ac8acdce33
-    time: 1522252962
+    md5: 9df8e3a7ac42c5db85b0ce3722eff448
+    time: 1523037320
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
@@ -1648,6 +1648,9 @@ inventory:
   "/assets/SATIH Infographic.pdf":
     md5: 21766750c235e38f388e05073a254818
     time: 1521733821
+  "/assets/Fatima Adamu devs.jpg":
+    md5: e5e4b09df66c924da8fb6f823f44a8dc
+    time: 1523037320
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2296,6 +2299,9 @@ inventory:
   "/assets/Devs----SATIH-EIB-Malawi.jpg":
     md5: b42fa35a7bcd6b517f418340c7ef6ffc
     time: 1522237873
+  "/assets/At graduation Devs.jpg":
+    md5: 20aedc38b912ba0960bbb4099271d1d3
+    time: 1523037321
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -2692,6 +2698,9 @@ inventory:
   "/assets/Devs----EIB-ASIF-1.jpg":
     md5: 6af3607f9f0dbff54498fe1fb5334898
     time: 1521733821
+  "/assets/training-1.jpg":
+    md5: 47dadab124248dca83fce1bc7a8d7f1b
+    time: 1523037321
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -2956,6 +2965,9 @@ inventory:
   "/assets/Devs----SATIH-EIB-1.jpg":
     md5: 11d8892bd872633063a4649caed8253e
     time: 1522237873
+  "/assets/Legislators.jpg":
+    md5: ec16e625c5fb817f4c22869335deb647
+    time: 1523037321
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
