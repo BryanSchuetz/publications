@@ -1,5 +1,5 @@
 ---
-time: 1523481931
+time: 1523482007
 inventory:
   "/publications/index.html":
     md5: 495d9fa7275465f8092baf43dc54ec7c
@@ -38,8 +38,8 @@ inventory:
     md5: 77766c3f67e900f8627aa0d0dfc52724
     time: 1523481900
   "/articles/philippines-new-tax-bill-promises-more-revenue-for-social-programs-infrastructure/index.html":
-    md5: 3ba3983cb9663fd3f7e0ee943dfe1efd
-    time: 1523282771
+    md5: 64734569165dc1a00943b212c27c1b29
+    time: 1523481977
   "/articles/with-elections-looming-can-pakistan-fulfill-its-education-promise-to-unschooled-children/index.html":
     md5: ce68fddb38f16c336089fe855adfa6a1
     time: 1523282771
@@ -722,8 +722,8 @@ inventory:
     md5: cbbdb7f8b14471b98a1d6ee92ca32f14
     time: 1523282791
   "/articles/tags/governance/index.html":
-    md5: b5562270edda59f772dc535f04f46a4d
-    time: 1523481921
+    md5: 9282598674820ada650107ce8666edd8
+    time: 1523481997
   "/articles/tags/land-rights/index.html":
     md5: 32341ed6990d516c33a642d9a69952ca
     time: 1523282792
@@ -740,8 +740,8 @@ inventory:
     md5: 88a04f18a12d041bd6cd1aaaad5e6f11
     time: 1523481921
   "/articles/tags/finance/index.html":
-    md5: 26993703fb53842bbfaeee3493ea17f7
-    time: 1523282792
+    md5: c6dfd7046c5ab102af23d9d236dada24
+    time: 1523481997
   "/articles/tags/environment-and-energy/index.html":
     md5: 485b3ac518f26022b63e34b5c4b62e1c
     time: 1523282792
@@ -791,8 +791,8 @@ inventory:
     md5: 04a9b5bd7ef17a2a7f4423e73089d330
     time: 1523282794
   "/developments/full-archive/index.html":
-    md5: 443bad67dc14fc24d711f57bbd9f3136
-    time: 1523481922
+    md5: c622ac2db9b589d28891bac18078d79d
+    time: 1523481999
   "/developments/winter-2017/index.html":
     md5: c39907478fd4bdfb5f1bfeb2dcfbcdef
     time: 1523282794
@@ -854,11 +854,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: d532d61423e1abd0be4106bca2713c7a
-    time: 1523481924
+    md5: 40d9b6c77e0c2091388039672a493158
+    time: 1523482001
   "/feed.xml":
-    md5: 591901c87fd12f7656ab85b0bd241589
-    time: 1523481925
+    md5: cde0973e0c5e513751bcea80359b626f
+    time: 1523482001
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
