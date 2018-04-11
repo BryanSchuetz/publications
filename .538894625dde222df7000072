@@ -1,5 +1,5 @@
 ---
-time: 1523481710
+time: 1523481788
 inventory:
   "/publications/index.html":
     md5: 495d9fa7275465f8092baf43dc54ec7c
@@ -29,8 +29,8 @@ inventory:
     md5: 4784f6db3bfac13ef746a68d661c174c
     time: 1523481678
   "/articles/ec-helps-position-the-southern-africa-development-community-for-21st-century-success/index.html":
-    md5: c413c45c88b2be960dbfb1cac43d8dcb
-    time: 1523282770
+    md5: 4ad84f01998889a1e222eade189f8efc
+    time: 1523481756
   "/articles/new-zealand-aid-helps-rwandan-farmers-reduce-losses-sell-more-maize-to-producer-of-maternal-infant-foods/index.html":
     md5: 383e3bcfb8b37391170f6252f0afe5f1
     time: 1523282771
@@ -707,8 +707,8 @@ inventory:
     md5: 3ad30423908560e887c777b4166a97dd
     time: 1523282790
   "/articles/tags/economic-growth/index.html":
-    md5: 1775328ed06b912e81c87b941f894257
-    time: 1523481699
+    md5: 9f3eda2cd6147a88cd44c7e97de0cc4e
+    time: 1523481776
   "/articles/tags/global-health/index.html":
     md5: b6d64f6bee37c814ebe0c94ab0e942d5
     time: 1523481524
@@ -722,8 +722,8 @@ inventory:
     md5: cbbdb7f8b14471b98a1d6ee92ca32f14
     time: 1523282791
   "/articles/tags/governance/index.html":
-    md5: b09979d03fac6a858f84d8fdbfe0d7d0
-    time: 1523481699
+    md5: 71fd217e99c72fb512c7c856456fa393
+    time: 1523481777
   "/articles/tags/land-rights/index.html":
     md5: 32341ed6990d516c33a642d9a69952ca
     time: 1523282792
@@ -731,8 +731,8 @@ inventory:
     md5: 220c0655f44a7d60f3117cf9007b8db5
     time: 1523481700
   "/articles/tags/public-financial-management/index.html":
-    md5: f625983e937a209e4b554d33234c22db
-    time: 1523282792
+    md5: 2e367b98736e1d61db8d306b6102162f
+    time: 1523481777
   "/articles/tags/health/index.html":
     md5: 791b3feb9bf2fd5c7679cf40aeaa0786
     time: 1523282792
@@ -791,8 +791,8 @@ inventory:
     md5: 04a9b5bd7ef17a2a7f4423e73089d330
     time: 1523282794
   "/developments/full-archive/index.html":
-    md5: 59fcdfaa4f59cc6ac89297a8bb9890aa
-    time: 1523481702
+    md5: 1b9eed0d44c3582c1773491b1e756b74
+    time: 1523481779
   "/developments/winter-2017/index.html":
     md5: c39907478fd4bdfb5f1bfeb2dcfbcdef
     time: 1523282794
@@ -854,11 +854,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 8254554cbc8f8ed2fc04306dfc28c9af
-    time: 1523481704
+    md5: 9d34cda6311924f0b8216658a74617ed
+    time: 1523481781
   "/feed.xml":
-    md5: 4521e333eda08db7dbc304ab3b713d60
-    time: 1523481704
+    md5: 8208a8c748f7f97ad4682fa97d8fd360
+    time: 1523481781
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
