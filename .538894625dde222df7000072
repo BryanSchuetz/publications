@@ -1,5 +1,5 @@
 ---
-time: 1523481535
+time: 1523481710
 inventory:
   "/publications/index.html":
     md5: 495d9fa7275465f8092baf43dc54ec7c
@@ -26,8 +26,8 @@ inventory:
     md5: 30ccf69e4b59b981ca73a1bf1b9288a7
     time: 1523282770
   "/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/index.html":
-    md5: 0ddcdc021435931e097625c9a38e08ed
-    time: 1523282770
+    md5: 4784f6db3bfac13ef746a68d661c174c
+    time: 1523481678
   "/articles/ec-helps-position-the-southern-africa-development-community-for-21st-century-success/index.html":
     md5: c413c45c88b2be960dbfb1cac43d8dcb
     time: 1523282770
@@ -707,8 +707,8 @@ inventory:
     md5: 3ad30423908560e887c777b4166a97dd
     time: 1523282790
   "/articles/tags/economic-growth/index.html":
-    md5: ae171fd1b6310434cdae088a92409ca0
-    time: 1523481462
+    md5: 1775328ed06b912e81c87b941f894257
+    time: 1523481699
   "/articles/tags/global-health/index.html":
     md5: b6d64f6bee37c814ebe0c94ab0e942d5
     time: 1523481524
@@ -722,14 +722,14 @@ inventory:
     md5: cbbdb7f8b14471b98a1d6ee92ca32f14
     time: 1523282791
   "/articles/tags/governance/index.html":
-    md5: fca11ae893d4a53860cad02669d0ac51
-    time: 1523282792
+    md5: b09979d03fac6a858f84d8fdbfe0d7d0
+    time: 1523481699
   "/articles/tags/land-rights/index.html":
     md5: 32341ed6990d516c33a642d9a69952ca
     time: 1523282792
   "/articles/tags/stability/index.html":
-    md5: 1664c4c3498410a74ffb2204249594a0
-    time: 1523282792
+    md5: 220c0655f44a7d60f3117cf9007b8db5
+    time: 1523481700
   "/articles/tags/public-financial-management/index.html":
     md5: f625983e937a209e4b554d33234c22db
     time: 1523282792
@@ -791,8 +791,8 @@ inventory:
     md5: 04a9b5bd7ef17a2a7f4423e73089d330
     time: 1523282794
   "/developments/full-archive/index.html":
-    md5: 35e088c37a7ede17599d861fe525f9b6
-    time: 1523481527
+    md5: 59fcdfaa4f59cc6ac89297a8bb9890aa
+    time: 1523481702
   "/developments/winter-2017/index.html":
     md5: c39907478fd4bdfb5f1bfeb2dcfbcdef
     time: 1523282794
@@ -854,11 +854,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: ef712acffb32fc87023fb017360d62a3
-    time: 1523481529
+    md5: 8254554cbc8f8ed2fc04306dfc28c9af
+    time: 1523481704
   "/feed.xml":
-    md5: 766444efdf2da2b5756c1750a82e4d10
-    time: 1523481529
+    md5: 4521e333eda08db7dbc304ab3b713d60
+    time: 1523481704
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
