@@ -1,5 +1,5 @@
 ---
-time: 1523481788
+time: 1523481857
 inventory:
   "/publications/index.html":
     md5: 495d9fa7275465f8092baf43dc54ec7c
@@ -32,8 +32,8 @@ inventory:
     md5: 4ad84f01998889a1e222eade189f8efc
     time: 1523481756
   "/articles/new-zealand-aid-helps-rwandan-farmers-reduce-losses-sell-more-maize-to-producer-of-maternal-infant-foods/index.html":
-    md5: 383e3bcfb8b37391170f6252f0afe5f1
-    time: 1523282771
+    md5: e407ef212831ba0bad1f4069c8537487
+    time: 1523481826
   "/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey/index.html":
     md5: f771076d51d7cc5218ae93cba188286b
     time: 1523282771
@@ -707,14 +707,14 @@ inventory:
     md5: 3ad30423908560e887c777b4166a97dd
     time: 1523282790
   "/articles/tags/economic-growth/index.html":
-    md5: 9f3eda2cd6147a88cd44c7e97de0cc4e
-    time: 1523481776
+    md5: 36c3c4fa501d944b04666730dc7479c5
+    time: 1523481845
   "/articles/tags/global-health/index.html":
     md5: b6d64f6bee37c814ebe0c94ab0e942d5
     time: 1523481524
   "/articles/tags/agriculture/index.html":
-    md5: 5e1a92f329d7df111e58d92172bf7ae5
-    time: 1523282791
+    md5: cf3d3b920ebb2254770694c0cc187bb4
+    time: 1523481846
   "/articles/tags/resilience/index.html":
     md5: b737b577f005c86f8005c18d31c603f7
     time: 1523282791
@@ -734,8 +734,8 @@ inventory:
     md5: 2e367b98736e1d61db8d306b6102162f
     time: 1523481777
   "/articles/tags/health/index.html":
-    md5: 791b3feb9bf2fd5c7679cf40aeaa0786
-    time: 1523282792
+    md5: 5233dc7377ee46a2fe33da3e99f342e5
+    time: 1523481846
   "/articles/tags/fragile-states/index.html":
     md5: f36e543b7afc9c31999322b16e62a0b9
     time: 1523282792
@@ -791,8 +791,8 @@ inventory:
     md5: 04a9b5bd7ef17a2a7f4423e73089d330
     time: 1523282794
   "/developments/full-archive/index.html":
-    md5: 1b9eed0d44c3582c1773491b1e756b74
-    time: 1523481779
+    md5: 2726c6f90d05e239568707cc7dcf70d7
+    time: 1523481848
   "/developments/winter-2017/index.html":
     md5: c39907478fd4bdfb5f1bfeb2dcfbcdef
     time: 1523282794
@@ -854,11 +854,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 9d34cda6311924f0b8216658a74617ed
-    time: 1523481781
+    md5: fe0b36badd58adcf8e01cf9eeb5f7284
+    time: 1523481850
   "/feed.xml":
-    md5: 8208a8c748f7f97ad4682fa97d8fd360
-    time: 1523481781
+    md5: a92b5c2e1bbb548baa54e1ddac5332fe
+    time: 1523481850
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
