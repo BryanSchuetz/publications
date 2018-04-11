@@ -1,5 +1,5 @@
 ---
-time: 1523481857
+time: 1523481931
 inventory:
   "/publications/index.html":
     md5: 495d9fa7275465f8092baf43dc54ec7c
@@ -35,8 +35,8 @@ inventory:
     md5: e407ef212831ba0bad1f4069c8537487
     time: 1523481826
   "/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey/index.html":
-    md5: f771076d51d7cc5218ae93cba188286b
-    time: 1523282771
+    md5: 77766c3f67e900f8627aa0d0dfc52724
+    time: 1523481900
   "/articles/philippines-new-tax-bill-promises-more-revenue-for-social-programs-infrastructure/index.html":
     md5: 3ba3983cb9663fd3f7e0ee943dfe1efd
     time: 1523282771
@@ -722,14 +722,14 @@ inventory:
     md5: cbbdb7f8b14471b98a1d6ee92ca32f14
     time: 1523282791
   "/articles/tags/governance/index.html":
-    md5: 71fd217e99c72fb512c7c856456fa393
-    time: 1523481777
+    md5: b5562270edda59f772dc535f04f46a4d
+    time: 1523481921
   "/articles/tags/land-rights/index.html":
     md5: 32341ed6990d516c33a642d9a69952ca
     time: 1523282792
   "/articles/tags/stability/index.html":
-    md5: 220c0655f44a7d60f3117cf9007b8db5
-    time: 1523481700
+    md5: 6c63e3ef61b787d8bb64d614ce9ef86c
+    time: 1523481921
   "/articles/tags/public-financial-management/index.html":
     md5: 2e367b98736e1d61db8d306b6102162f
     time: 1523481777
@@ -737,8 +737,8 @@ inventory:
     md5: 5233dc7377ee46a2fe33da3e99f342e5
     time: 1523481846
   "/articles/tags/fragile-states/index.html":
-    md5: f36e543b7afc9c31999322b16e62a0b9
-    time: 1523282792
+    md5: 88a04f18a12d041bd6cd1aaaad5e6f11
+    time: 1523481921
   "/articles/tags/finance/index.html":
     md5: 26993703fb53842bbfaeee3493ea17f7
     time: 1523282792
@@ -791,8 +791,8 @@ inventory:
     md5: 04a9b5bd7ef17a2a7f4423e73089d330
     time: 1523282794
   "/developments/full-archive/index.html":
-    md5: 2726c6f90d05e239568707cc7dcf70d7
-    time: 1523481848
+    md5: 443bad67dc14fc24d711f57bbd9f3136
+    time: 1523481922
   "/developments/winter-2017/index.html":
     md5: c39907478fd4bdfb5f1bfeb2dcfbcdef
     time: 1523282794
@@ -854,11 +854,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: fe0b36badd58adcf8e01cf9eeb5f7284
-    time: 1523481850
+    md5: d532d61423e1abd0be4106bca2713c7a
+    time: 1523481924
   "/feed.xml":
-    md5: a92b5c2e1bbb548baa54e1ddac5332fe
-    time: 1523481850
+    md5: 591901c87fd12f7656ab85b0bd241589
+    time: 1523481925
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
