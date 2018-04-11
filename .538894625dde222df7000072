@@ -1,5 +1,5 @@
 ---
-time: 1523282922
+time: 1523481473
 inventory:
   "/publications/index.html":
     md5: 495d9fa7275465f8092baf43dc54ec7c
@@ -11,8 +11,8 @@ inventory:
     md5: 9a5645afd17111a2220589f992e1e79f
     time: 1523282770
   "/articles/ethiopia-stands-poised-to-lead-an-african-industrial-revolution/index.html":
-    md5: 88de0d33aeccf10d7e37cc0c8f6c4bc9
-    time: 1523282770
+    md5: 19f789661239acf658e6555d068b52b4
+    time: 1523481441
   "/articles/young-rural-women-are-crucial-to-advancing-universal-health-coverage-in-northern-nigeria/index.html":
     md5: 171d190bbc60d801d9394b604f19cc80
     time: 1523282770
@@ -707,8 +707,8 @@ inventory:
     md5: 3ad30423908560e887c777b4166a97dd
     time: 1523282790
   "/articles/tags/economic-growth/index.html":
-    md5: b35cf00bb70fd520c5ebfb0466df0d1d
-    time: 1523282791
+    md5: ae171fd1b6310434cdae088a92409ca0
+    time: 1523481462
   "/articles/tags/global-health/index.html":
     md5: 176d73c6cf9de151517f0e25901cf2c9
     time: 1523282791
@@ -791,8 +791,8 @@ inventory:
     md5: 04a9b5bd7ef17a2a7f4423e73089d330
     time: 1523282794
   "/developments/full-archive/index.html":
-    md5: e54229a38979e7eea0954f07d667e30e
-    time: 1523282794
+    md5: e4eb003ba3c8e771518da889754076f2
+    time: 1523481465
   "/developments/winter-2017/index.html":
     md5: c39907478fd4bdfb5f1bfeb2dcfbcdef
     time: 1523282794
@@ -854,11 +854,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 31a6364ed19049e63b1d5fec3af1b9a3
-    time: 1523282796
+    md5: 8c3d1da532fdbfbf3de8fd8e76235073
+    time: 1523481467
   "/feed.xml":
-    md5: 497527da0d8f50af49aa9e292e056d62
-    time: 1523282797
+    md5: d8b5638cb3e001c5eb6c51cf38feb73c
+    time: 1523481467
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
