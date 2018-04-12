@@ -1,12 +1,12 @@
 ---
-time: 1523561711
+time: 1523562174
 inventory:
   "/publications/index.html":
-    md5: 8f469e9d84aa28272196d18adcc7a2d3
-    time: 1523560716
+    md5: ef10b8dc7430171980e16228db2bac6f
+    time: 1523562139
   "/index.html":
-    md5: 8f469e9d84aa28272196d18adcc7a2d3
-    time: 1523560716
+    md5: ef10b8dc7430171980e16228db2bac6f
+    time: 1523562139
   "/articles/index.html":
     md5: 9655885ed53a7bf214e579eae5a1d831
     time: 1523560716
@@ -863,8 +863,8 @@ inventory:
     md5: 262e846ea6a60da5907ae34e48be2e97
     time: 1523561705
   "/feed.xml":
-    md5: e4380206a1cc4b686290287a486c2817
-    time: 1523561705
+    md5: a5300053bc8c5e8702966fcb471a1fab
+    time: 1523562168
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
