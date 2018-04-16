@@ -1,5 +1,5 @@
 ---
-time: 1523562174
+time: 1523887292
 inventory:
   "/publications/index.html":
     md5: ef10b8dc7430171980e16228db2bac6f
@@ -11,8 +11,8 @@ inventory:
     md5: 9655885ed53a7bf214e579eae5a1d831
     time: 1523560716
   "/articles/new-dfid-guidance-aims-to-improve-emergency-schooling-for-millions-of-displaced-children/index.html":
-    md5: 39377dba00b973b8ad65594acbfe3083
-    time: 1523561676
+    md5: 0f36f99d06b5a51aa69d21a055a3b625
+    time: 1523887261
   "/articles/ethiopia-stands-poised-to-lead-an-african-industrial-revolution/index.html":
     md5: 6930886454cee5d5c5263da2923b51bc
     time: 1523560717
@@ -860,11 +860,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 262e846ea6a60da5907ae34e48be2e97
-    time: 1523561705
+    md5: c25d033710bcdc1df8f4d6bc103fafd5
+    time: 1523887287
   "/feed.xml":
-    md5: a5300053bc8c5e8702966fcb471a1fab
-    time: 1523562168
+    md5: c8d13ee32f25d5ad0deb19928f96c1f1
+    time: 1523887287
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
