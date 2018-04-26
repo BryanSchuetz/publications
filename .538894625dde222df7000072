@@ -1,5 +1,5 @@
 ---
-time: 1524074303
+time: 1524706843
 inventory:
   "/publications/index.html":
     md5: ef10b8dc7430171980e16228db2bac6f
@@ -227,8 +227,8 @@ inventory:
     md5: ea9f625bf71cbf3c2643ac144a8b77c5
     time: 1523560725
   "/articles/clean-water-for-all-by-2030-no-really/index.html":
-    md5: fc4814b4e7e94b7b87a8a55942791ce5
-    time: 1523560725
+    md5: 6782f25b103e8e12dbd8117db3afb095
+    time: 1524706821
   "/articles/servir-demand-activity-a-key-link-in-connecting-space-to-village/index.html":
     md5: dabcea0a3ef83eb6326c09f2f6326eba
     time: 1523560725
@@ -860,11 +860,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: a665febb67286478136e9c9d81a8d908
-    time: 1524074298
+    md5: bbed2867904ba9d61066ba767e46768b
+    time: 1524706838
   "/feed.xml":
-    md5: 74cb991d36d593254a266c66b3cbad60
-    time: 1524074298
+    md5: 3fb29d3d4c86aaa69d332e8456bc9957
+    time: 1524706839
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
