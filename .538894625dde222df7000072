@@ -1,5 +1,5 @@
 ---
-time: 1525792220
+time: 1525812863
 inventory:
   "/publications/index.html":
     md5: 3bd07ac4589fb57a38a0991200f53a7b
@@ -11,8 +11,8 @@ inventory:
     md5: 2f2317b09e259c1364e20496f4cdcc6a
     time: 1525792067
   "/articles/with-uk-aid-lebanon-social-enterprise-pilot-new-model-of-development/index.html":
-    md5: 98eace90334cf30e0f33176e4b94f9e0
-    time: 1525792067
+    md5: dc83880297c4378cc27234e2d6ccee16
+    time: 1525812831
   "/articles/new-dfid-guidance-aims-to-improve-emergency-schooling-for-millions-of-displaced-children/index.html":
     md5: a8d684a639acfe124cf85038d55c58ff
     time: 1525792067
@@ -713,14 +713,14 @@ inventory:
     md5: f133026c419c4aaccf053581c9126e1f
     time: 1525792090
   "/articles/tags/economic-growth/index.html":
-    md5: 09fcf3ae7e7b4ec430f162477484bb18
-    time: 1525792091
+    md5: 7440d6e6e86a9a26d98f6b51d718d96e
+    time: 1525812852
   "/articles/tags/stability/index.html":
-    md5: 524d03a81da39b070becacca32c44c3b
-    time: 1525792091
+    md5: 2a0421045eb0f3e054e0f92be217e41e
+    time: 1525812852
   "/articles/tags/ict/index.html":
-    md5: 6d9a70e078d2ba5c6adce1fe4fa4891a
-    time: 1525792091
+    md5: fcc7e3f5a24326c8cdf051794feb1ad6
+    time: 1525812852
   "/articles/tags/fragile-states/index.html":
     md5: 16d676ef4aa22a65e5bd4d5451702e1d
     time: 1525792091
@@ -797,8 +797,8 @@ inventory:
     md5: 089c9d922f6d33c0d53e0956a133ab33
     time: 1525792093
   "/developments/full-archive/index.html":
-    md5: 9c31204ff1691f467b65e6e35eae30c7
-    time: 1525792093
+    md5: 64ea18ac836ed56d84512dc0e6e75d47
+    time: 1525812854
   "/developments/spring-2018/index.html":
     md5: d17e94d62fee9fa3d26fc1c416148be2
     time: 1525792093
@@ -863,11 +863,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 3dc6e7c39504f5259bf021e5e34edf31
-    time: 1525792096
+    md5: 0ba67fb62417682a4568f3f0b9ce729e
+    time: 1525812857
   "/feed.xml":
-    md5: 839e8ee9474c09b2c17371e0050a386d
-    time: 1525792096
+    md5: 3bc0444349c18ea67dac738d08672ba1
+    time: 1525812857
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1568,8 +1568,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 8b7c7af21e1d13381c40677728adc148
-    time: 1525792096
+    md5: 25a66ce31d610d4723188482eadb2855
+    time: 1525812857
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
