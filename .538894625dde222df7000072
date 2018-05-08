@@ -1,5 +1,5 @@
 ---
-time: 1525790975
+time: 1525791111
 inventory:
   "/publications/index.html":
     md5: d739243b2758cc526080a01ed0275eab
@@ -11,8 +11,8 @@ inventory:
     md5: 14d877da39d5f300ff80e045ce2017fc
     time: 1525790820
   ? "/articles/lebanon-code-school-exemplifies-fco-grantees-addressing-workforce-challenges-heightened-by-the-syrian-crisis/index.html"
-  : md5: b90658c135756b1cc16ddd410908829b
-    time: 1525790820
+  : md5: 98eace90334cf30e0f33176e4b94f9e0
+    time: 1525791079
   "/articles/new-dfid-guidance-aims-to-improve-emergency-schooling-for-millions-of-displaced-children/index.html":
     md5: debc1e9fff8246237a1e075b8b41cd09
     time: 1525790821
@@ -797,8 +797,8 @@ inventory:
     md5: ae17da41769c9eeaf6e9c8530bda82f2
     time: 1525790846
   "/developments/full-archive/index.html":
-    md5: d1a6faee09ab3f236c621cd41cde64b7
-    time: 1525790847
+    md5: 63fdaac1dfd9f8058fc095f584de243b
+    time: 1525791103
   "/developments/spring-2018/index.html":
     md5: 9a07d91731e305f3760e9ee585b161eb
     time: 1525790847
@@ -863,11 +863,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f392cc379a66e225ae666f449c7c6936
-    time: 1525790849
+    md5: 16778a64e2ea38230e43b690bee743b9
+    time: 1525791105
   "/feed.xml":
-    md5: 58344f0eb2f1e349e278c61c68cf53d2
-    time: 1525790849
+    md5: d6b2d49aae7601533578ca5c50c716aa
+    time: 1525791106
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1568,8 +1568,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 6422a89602e11bfc118794a8093e81ab
-    time: 1525790850
+    md5: 6a64b892198be986b86f0c987106a3e8
+    time: 1525791106
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
