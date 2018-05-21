@@ -1,5 +1,5 @@
 ---
-time: 1526049577
+time: 1526913355
 inventory:
   "/publications/index.html":
     md5: 4383f4fa97691592a358bb5bb29013bd
@@ -14,8 +14,8 @@ inventory:
     md5: 0f1959e816cb7c722e60179cfd267bfe
     time: 1526049420
   "/articles/global-health-and-tech-thinkers-come-together-at-switchpoint/index.html":
-    md5: 2a33a04fc6d851624bfa755d9acf2220
-    time: 1526049420
+    md5: 2ee65592af6b136ff70c904bc0d88189
+    time: 1526913322
   "/articles/with-uk-aid-lebanon-social-enterprise-pilot-new-model-of-development/index.html":
     md5: a2ff1a9ae8ee2c801a911c0e517b8f68
     time: 1526049420
@@ -803,8 +803,8 @@ inventory:
     md5: 0d7249ec1753c8135b5a69eca7f5c28c
     time: 1526049444
   "/developments/full-archive/index.html":
-    md5: 136c72301821a63d358462ad3195ec1a
-    time: 1526049444
+    md5: 8130dc284cd912425107b247abdb4f23
+    time: 1526913347
   "/developments/spring-2018/index.html":
     md5: e58c380923210c49acc79cd96ce3c5eb
     time: 1526049445
@@ -869,11 +869,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: b527a2b0b9d60ea3244f02547873f81f
-    time: 1526049447
+    md5: 41657aa29f326cc54370937757bbdc6b
+    time: 1526913349
   "/feed.xml":
-    md5: 678047edc95c830dd366739e59447526
-    time: 1526049447
+    md5: 51f95779eed472c889bb2f455a11d5f9
+    time: 1526913350
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1574,8 +1574,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 2d1783773181da1f768ac5a21b841925
-    time: 1526049447
+    md5: 3016d63411d266f8ee88262164b840b5
+    time: 1526913350
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
