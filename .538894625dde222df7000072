@@ -1,5 +1,5 @@
 ---
-time: 1527076148
+time: 1527085267
 inventory:
   "/publications/index.html":
     md5: e7dec74474839aa598de56f5368c96d2
@@ -11,8 +11,8 @@ inventory:
     md5: 310c72f09dc9a70ff9ea2a35b3c4e23b
     time: 1527075991
   "/articles/addressing-jordans-youth-unemployment-bubble-usaid-program-aligns-workforce-with-emerging-opportunities/index.html":
-    md5: 6b27b39d8d97794137d651e0159038a8
-    time: 1527075991
+    md5: 153f987badc2a4b67391ac5dd446b8de
+    time: 1527085236
   "/articles/can-we-keep-the-promisemobilizing-business-on-the-refugee-frontline-in-jordan/index.html":
     md5: 88ef8c1dfeae451fdcb95540225a33ed
     time: 1527075991
@@ -806,8 +806,8 @@ inventory:
     md5: b24a6dc1f2819f8d52267c597cd133e4
     time: 1527076016
   "/developments/full-archive/index.html":
-    md5: a5ff0ec0e2d925f42c15b693efd6cb48
-    time: 1527076016
+    md5: 879dcfe2cb5c28495ae47774b6f69bb5
+    time: 1527085259
   "/developments/spring-2018/index.html":
     md5: 4e4fffae56bb6c0ddf810f76b4a71194
     time: 1527076016
@@ -872,11 +872,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: d4a523627cd64e91f1f8cce5fa4efff1
-    time: 1527076018
+    md5: 76b2e2edced63cdee510e07df100ae97
+    time: 1527085261
   "/feed.xml":
-    md5: 0901d17dd44d03c54d75c20b7149ed00
-    time: 1527076019
+    md5: 1821426f02964d19fa845fb46cab58de
+    time: 1527085262
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1577,8 +1577,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 2c11a5d17702afa867102e056cd36e2f
-    time: 1527076019
+    md5: 9f30d3f7030fc80e15e99c1bd42c1d8f
+    time: 1527085262
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
