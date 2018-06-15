@@ -1,5 +1,5 @@
 ---
-time: 1529001805
+time: 1529073343
 inventory:
   "/publications/index.html":
     md5: 646233071d0857fe9d79e9741c3c880c
@@ -11,8 +11,8 @@ inventory:
     md5: c2d5cebec897583cb6a2bf7b7d457f27
     time: 1529001468
   "/articles/new-generation-of-ec-framework-contracts-offers-agile-programming-for-european-development-aid/index.html":
-    md5: f728eea3f008c56c8857e6320b380904
-    time: 1529001770
+    md5: ce1eb16ee5b1f274ad823bdf640feccf
+    time: 1529073313
   "/articles/addressing-jordans-youth-unemployment-bubble-usaid-program-aligns-workforce-with-emerging-opportunities/index.html":
     md5: c42d714c19652261f67ef19c5ffc74c6
     time: 1529001468
@@ -878,11 +878,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: fc35bc57708eb453c8c2916b8d165549
-    time: 1529001800
+    md5: a63d4d104cf3a02b4379b79b8304f4a0
+    time: 1529073338
   "/feed.xml":
-    md5: fbc4a91ab7b567275bff292a6f552ac4
-    time: 1529001800
+    md5: 846257fe69012c990c801078532a3765
+    time: 1529073339
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
