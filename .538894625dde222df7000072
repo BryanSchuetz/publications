@@ -1,5 +1,5 @@
 ---
-time: 1529615879
+time: 1529616489
 inventory:
   "/publications/index.html":
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
@@ -11,8 +11,8 @@ inventory:
     md5: 4ee264b643ad953d1c47b8f90fa39449
     time: 1529615719
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
-    md5: 4fd9cb5913d0d82132b58502bb1d9707
-    time: 1529615719
+    md5: e890ea75712de899cae92ae2323f7c1d
+    time: 1529616456
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
     md5: 0e0b28cc0debc352dd7540f4f3d87cd2
     time: 1529615719
@@ -824,8 +824,8 @@ inventory:
     md5: 608015127a51e97025535ac49d0ef04b
     time: 1529615745
   "/developments/full-archive/index.html":
-    md5: e5e7059a8b013c45e01bb04336603e21
-    time: 1529615745
+    md5: aea256ef50b8d01b5493f56be98b5a2c
+    time: 1529616481
   "/developments/spring-2018/index.html":
     md5: 9c8b979a3054f7501ed687538f614ad4
     time: 1529615746
@@ -890,11 +890,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 03a19230b6049124d2f9b4fa01d8517c
-    time: 1529615748
+    md5: 52907ac2a4f82eb29ace164ea875b606
+    time: 1529616483
   "/feed.xml":
-    md5: df4a730bd42848f7c78bde8177e5d1eb
-    time: 1529615748
+    md5: e18fb4fec1c0fc6badd8067e205241fb
+    time: 1529616483
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1595,8 +1595,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: c67d2ea854a928c5b4b8b9240c85507e
-    time: 1529615749
+    md5: c04c83558e257428cc056527dea824db
+    time: 1529616484
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
