@@ -1,5 +1,5 @@
 ---
-time: 1529616489
+time: 1529616573
 inventory:
   "/publications/index.html":
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
@@ -8,11 +8,11 @@ inventory:
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
     time: 1529615719
   "/articles/index.html":
-    md5: 4ee264b643ad953d1c47b8f90fa39449
-    time: 1529615719
+    md5: 45da582e5295e2fbfaa95d06001f900b
+    time: 1529616540
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
-    md5: e890ea75712de899cae92ae2323f7c1d
-    time: 1529616456
+    md5: 246c51ff9c39a5453deeb2d40838470a
+    time: 1529616541
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
     md5: 0e0b28cc0debc352dd7540f4f3d87cd2
     time: 1529615719
@@ -730,17 +730,17 @@ inventory:
   "/articles/tags/index.html":
     md5: 7e2632f7b32621c93be0ce1e26151c21
     time: 1529615742
+  "/articles/tags/economic-growth/index.html":
+    md5: 4f354fa65fdb69767110bca9e56e3aac
+    time: 1529616561
+  "/articles/tags/trade/index.html":
+    md5: b69fc1c4f209e27b68f6f6391c4add6b
+    time: 1529616561
+  "/articles/tags/investment/index.html":
+    md5: ade36daade56192c6b8e1cd2e22e12a5
+    time: 1529616561
   "/articles/tags/finance/index.html":
     md5: 52b85dcf0ab9ae2d8387ad3fb427b11c
-    time: 1529615742
-  "/articles/tags/trade/index.html":
-    md5: c9884776e3cb2148fb6f2bd43be7539a
-    time: 1529615742
-  "/articles/tags/investment/index.html":
-    md5: 40e4413ee34b21b07752e39aa202216e
-    time: 1529615742
-  "/articles/tags/economic-growth/index.html":
-    md5: dbdd52fed2551284f0f733ec7429922b
     time: 1529615742
   "/articles/tags/environment-and-energy/index.html":
     md5: 5ad40e2a7bf7d751b14b4d2fba9d2767
@@ -824,8 +824,8 @@ inventory:
     md5: 608015127a51e97025535ac49d0ef04b
     time: 1529615745
   "/developments/full-archive/index.html":
-    md5: aea256ef50b8d01b5493f56be98b5a2c
-    time: 1529616481
+    md5: d74228333594f59fb4a34b8a14bbf2c1
+    time: 1529616563
   "/developments/spring-2018/index.html":
     md5: 9c8b979a3054f7501ed687538f614ad4
     time: 1529615746
@@ -890,11 +890,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 52907ac2a4f82eb29ace164ea875b606
-    time: 1529616483
+    md5: 5d26ed940c3be1a375812b730c5e0a7d
+    time: 1529616566
   "/feed.xml":
-    md5: e18fb4fec1c0fc6badd8067e205241fb
-    time: 1529616483
+    md5: 8962a497e153f96f19eae2663c924bba
+    time: 1529616566
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1595,8 +1595,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: c04c83558e257428cc056527dea824db
-    time: 1529616484
+    md5: ab20a9370438c4efa114a38f76c84346
+    time: 1529616566
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
