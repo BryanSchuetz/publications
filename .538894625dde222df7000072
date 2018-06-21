@@ -1,5 +1,5 @@
 ---
-time: 1529616573
+time: 1529616623
 inventory:
   "/publications/index.html":
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
@@ -11,8 +11,8 @@ inventory:
     md5: 45da582e5295e2fbfaa95d06001f900b
     time: 1529616540
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
-    md5: 246c51ff9c39a5453deeb2d40838470a
-    time: 1529616541
+    md5: 50d2d824c8d77b5977f94b53906c4f61
+    time: 1529616587
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
     md5: 0e0b28cc0debc352dd7540f4f3d87cd2
     time: 1529615719
@@ -731,17 +731,17 @@ inventory:
     md5: 7e2632f7b32621c93be0ce1e26151c21
     time: 1529615742
   "/articles/tags/economic-growth/index.html":
-    md5: 4f354fa65fdb69767110bca9e56e3aac
-    time: 1529616561
+    md5: 7e12f24aa473cfc771f244d73996a433
+    time: 1529616609
   "/articles/tags/trade/index.html":
-    md5: b69fc1c4f209e27b68f6f6391c4add6b
-    time: 1529616561
+    md5: 606d6b4267f39fb043c90dbe05fa6d73
+    time: 1529616609
   "/articles/tags/investment/index.html":
-    md5: ade36daade56192c6b8e1cd2e22e12a5
-    time: 1529616561
+    md5: 7d2b38eaf3e4a2338f00be0147c64e74
+    time: 1529616609
   "/articles/tags/finance/index.html":
-    md5: 52b85dcf0ab9ae2d8387ad3fb427b11c
-    time: 1529615742
+    md5: 4977e1add05102e31966f29e1719e683
+    time: 1529616609
   "/articles/tags/environment-and-energy/index.html":
     md5: 5ad40e2a7bf7d751b14b4d2fba9d2767
     time: 1529615742
@@ -824,8 +824,8 @@ inventory:
     md5: 608015127a51e97025535ac49d0ef04b
     time: 1529615745
   "/developments/full-archive/index.html":
-    md5: d74228333594f59fb4a34b8a14bbf2c1
-    time: 1529616563
+    md5: ff1539e269e1f82dc498aeeeb32c1acd
+    time: 1529616613
   "/developments/spring-2018/index.html":
     md5: 9c8b979a3054f7501ed687538f614ad4
     time: 1529615746
@@ -890,11 +890,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 5d26ed940c3be1a375812b730c5e0a7d
-    time: 1529616566
+    md5: 10201a38572839962c83e79a93ab8684
+    time: 1529616615
   "/feed.xml":
-    md5: 8962a497e153f96f19eae2663c924bba
-    time: 1529616566
+    md5: 8fd4b955d983fff266f587acd1a37881
+    time: 1529616616
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1595,8 +1595,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: ab20a9370438c4efa114a38f76c84346
-    time: 1529616566
+    md5: 29970ef491c610e9938bdc6320dc0f25
+    time: 1529616616
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
