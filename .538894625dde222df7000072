@@ -1,5 +1,5 @@
 ---
-time: 1529678493
+time: 1529687303
 inventory:
   "/publications/index.html":
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
@@ -8,11 +8,11 @@ inventory:
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
     time: 1529615719
   "/articles/index.html":
-    md5: 45da582e5295e2fbfaa95d06001f900b
-    time: 1529616540
+    md5: c50f91d35af8e64afba81a8682f50460
+    time: 1529687269
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
-    md5: f5348f79677f2921ac1c597f1058e18f
-    time: 1529678462
+    md5: 16fee0bf6890047af2324df823a703d0
+    time: 1529687269
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
     md5: 0e0b28cc0debc352dd7540f4f3d87cd2
     time: 1529615719
@@ -731,17 +731,20 @@ inventory:
     md5: 7e2632f7b32621c93be0ce1e26151c21
     time: 1529615742
   "/articles/tags/economic-growth/index.html":
-    md5: 7e12f24aa473cfc771f244d73996a433
-    time: 1529616609
+    md5: 8dbdd8c010875d8c5c97800acde61523
+    time: 1529687291
   "/articles/tags/trade/index.html":
-    md5: 606d6b4267f39fb043c90dbe05fa6d73
-    time: 1529616609
+    md5: 104e4f3b5f8d4398969c34d6e1339bdf
+    time: 1529687291
   "/articles/tags/investment/index.html":
-    md5: 7d2b38eaf3e4a2338f00be0147c64e74
-    time: 1529616609
+    md5: 38269da31387b9e8868dfa8a64dd3852
+    time: 1529687291
   "/articles/tags/finance/index.html":
-    md5: 4977e1add05102e31966f29e1719e683
-    time: 1529616609
+    md5: e3b4462dab37f120f2d1f083571ea1c5
+    time: 1529687291
+  "/articles/tags/agriculture/index.html":
+    md5: 386e3bad71c3a9385bdebf6a6b379966
+    time: 1529687291
   "/articles/tags/environment-and-energy/index.html":
     md5: 5ad40e2a7bf7d751b14b4d2fba9d2767
     time: 1529615742
@@ -772,9 +775,6 @@ inventory:
   "/articles/tags/innovation/index.html":
     md5: 769eb557875a589d854cb9d3ec54f56b
     time: 1529615743
-  "/articles/tags/agriculture/index.html":
-    md5: fe289b044a94cbb3f468a4cec893b9b7
-    time: 1529615744
   "/articles/tags/land/index.html":
     md5: d3e010cef64447de9362d7ae769e170b
     time: 1529615744
@@ -824,8 +824,8 @@ inventory:
     md5: 608015127a51e97025535ac49d0ef04b
     time: 1529615745
   "/developments/full-archive/index.html":
-    md5: ff1539e269e1f82dc498aeeeb32c1acd
-    time: 1529616613
+    md5: 6b5812f6a05f1cb9d193b0203f33a59c
+    time: 1529687293
   "/developments/spring-2018/index.html":
     md5: 9c8b979a3054f7501ed687538f614ad4
     time: 1529615746
@@ -890,11 +890,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 9a446e7f190c0fad457c0af4d6da30ef
-    time: 1529677990
+    md5: f06014c494885f5012b88073d5b84fed
+    time: 1529687295
   "/feed.xml":
-    md5: e320ed6fcdf65e148ae4b45ac073ff85
-    time: 1529678489
+    md5: e948a4b66721d9bd86f8d7b27571efed
+    time: 1529687296
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1595,8 +1595,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 29970ef491c610e9938bdc6320dc0f25
-    time: 1529616616
+    md5: 38da45cfb978e21b425a17276fd650cd
+    time: 1529687296
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
@@ -1720,6 +1720,9 @@ inventory:
   "/assets/Devs----Nigeria-Hawassa.jpg":
     md5: c3181078495dc23c6dc7470247417440
     time: 1529615749
+  "/assets/Dr.-Joe-Abah-2.jpg":
+    md5: bd396d1095aa0b2faba4037ef22f3b53
+    time: 1529687296
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2392,6 +2395,9 @@ inventory:
   "/assets/Dr.-Joe-Abah-1.jpg":
     md5: bd396d1095aa0b2faba4037ef22f3b53
     time: 1529615749
+  "/assets/Devs----Juan-Estrada-mug-1.jpg":
+    md5: 03e52faef2f517581c24205104350b93
+    time: 1529687296
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
