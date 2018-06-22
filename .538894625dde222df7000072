@@ -1,5 +1,5 @@
 ---
-time: 1529687303
+time: 1529696432
 inventory:
   "/publications/index.html":
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
@@ -11,8 +11,8 @@ inventory:
     md5: c50f91d35af8e64afba81a8682f50460
     time: 1529687269
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
-    md5: 16fee0bf6890047af2324df823a703d0
-    time: 1529687269
+    md5: 27181cb126c28a3bf0431c961bbe7202
+    time: 1529696397
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
     md5: 0e0b28cc0debc352dd7540f4f3d87cd2
     time: 1529615719
@@ -731,20 +731,20 @@ inventory:
     md5: 7e2632f7b32621c93be0ce1e26151c21
     time: 1529615742
   "/articles/tags/economic-growth/index.html":
-    md5: 8dbdd8c010875d8c5c97800acde61523
-    time: 1529687291
+    md5: 6e42db543016b75c19e4cb22f2a542bb
+    time: 1529696418
   "/articles/tags/trade/index.html":
-    md5: 104e4f3b5f8d4398969c34d6e1339bdf
-    time: 1529687291
+    md5: c87170974fb1f49f41fc4301c0a6962c
+    time: 1529696418
   "/articles/tags/investment/index.html":
-    md5: 38269da31387b9e8868dfa8a64dd3852
-    time: 1529687291
+    md5: bc11179c0aa23e4b7cc545756f57a78e
+    time: 1529696418
   "/articles/tags/finance/index.html":
-    md5: e3b4462dab37f120f2d1f083571ea1c5
-    time: 1529687291
+    md5: 93d4f10eb394ae730e8ac80d259526cb
+    time: 1529696418
   "/articles/tags/agriculture/index.html":
-    md5: 386e3bad71c3a9385bdebf6a6b379966
-    time: 1529687291
+    md5: 790b64f03b7795c00033b69e5ad59a02
+    time: 1529696418
   "/articles/tags/environment-and-energy/index.html":
     md5: 5ad40e2a7bf7d751b14b4d2fba9d2767
     time: 1529615742
@@ -824,8 +824,8 @@ inventory:
     md5: 608015127a51e97025535ac49d0ef04b
     time: 1529615745
   "/developments/full-archive/index.html":
-    md5: 6b5812f6a05f1cb9d193b0203f33a59c
-    time: 1529687293
+    md5: 11632e34300cf3b52e44b303b2c43454
+    time: 1529696421
   "/developments/spring-2018/index.html":
     md5: 9c8b979a3054f7501ed687538f614ad4
     time: 1529615746
@@ -890,11 +890,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f06014c494885f5012b88073d5b84fed
-    time: 1529687295
+    md5: 2c4f89258cbb837d49a7bf9d6d8407b9
+    time: 1529696423
   "/feed.xml":
-    md5: e948a4b66721d9bd86f8d7b27571efed
-    time: 1529687296
+    md5: 9d7b2d6b04d5a64ada71801489b53512
+    time: 1529696423
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -2395,9 +2395,9 @@ inventory:
   "/assets/Dr.-Joe-Abah-1.jpg":
     md5: bd396d1095aa0b2faba4037ef22f3b53
     time: 1529615749
-  "/assets/Devs----Juan-Estrada-mug-1.jpg":
-    md5: 03e52faef2f517581c24205104350b93
-    time: 1529687296
+  "/assets/Devs----Nigeria-airport.jpg":
+    md5: b051504422174f6d35d7f53181afe7f7
+    time: 1529696423
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -2818,6 +2818,9 @@ inventory:
   "/assets/Devs----Nigeria-KIC.jpg":
     md5: 54103ac536fdb7aafbb9cac7aa92623c
     time: 1529615749
+  "/assets/Devs----Nigeria-ITU.jpg":
+    md5: d84174ecd3fbe0a87fa78ddbc5d3df22
+    time: 1529696424
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -3097,6 +3100,9 @@ inventory:
   "/assets/Devs----Nigeria-grain-trade.jpg":
     md5: ef6510abc9b105bda4e13dd119fcc131
     time: 1529615749
+  "/assets/Devs----Juan-Estrada-mug-1.jpg":
+    md5: 03e52faef2f517581c24205104350b93
+    time: 1529687296
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
@@ -3310,6 +3316,9 @@ inventory:
   "/assets/Devs----Juan-Estrada-mug.jpg":
     md5: 03e52faef2f517581c24205104350b93
     time: 1529678490
+  "/assets/Devs----Nigeria-grain-trade-1.jpg":
+    md5: ef6510abc9b105bda4e13dd119fcc131
+    time: 1529696424
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
     time: 1506459864
@@ -3439,6 +3448,12 @@ inventory:
   "/assets/Devs----Coon-mug (1).jpg":
     md5: 6085a170563234ce709d1872c0f18e6d
     time: 1525980872
+  "/assets/Devs----Nigeria-Hawassa-1.jpg":
+    md5: c3181078495dc23c6dc7470247417440
+    time: 1529696424
+  "/assets/Bill-Grant-mug-1.jpg":
+    md5: 160ca19af470af1c9c92c7a52aadf44e
+    time: 1529696424
   "/assets/Devs----Mekong-ARCC-pic-2.jpg":
     md5: af9f8547ad33cee3046322570fccfba4
     time: 1506459869
@@ -3517,6 +3532,9 @@ inventory:
   "/assets/Devs----Switchpoint-10.jpg":
     md5: c8bf673545b8021cfd35e6f6304b626f
     time: 1525980872
+  "/assets/Devs----Nigeria-KIC-1.jpg":
+    md5: 54103ac536fdb7aafbb9cac7aa92623c
+    time: 1529696424
   "/assets/Devs----Mekong-ARCC-pic-4.jpg":
     md5: 390f1f9cc5d31c53a1d7b74f0cdd5ea3
     time: 1506459872
@@ -3568,6 +3586,9 @@ inventory:
   "/assets/Devs----SwitchPoint-12.jpg":
     md5: 9c4916700c58799c3121b9c07bb9871d
     time: 1525980872
+  "/assets/Bill-Grant-mug.jpg":
+    md5: 160ca19af470af1c9c92c7a52aadf44e
+    time: 1529696424
   "/assets/Devs----Shannon-Dugan.jpg":
     md5: 09d32ad5d9f848f77e600ae233692fc0
     time: 1506459873
