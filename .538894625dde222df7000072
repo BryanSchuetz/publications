@@ -1,5 +1,5 @@
 ---
-time: 1529677995
+time: 1529678493
 inventory:
   "/publications/index.html":
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
@@ -11,8 +11,8 @@ inventory:
     md5: 45da582e5295e2fbfaa95d06001f900b
     time: 1529616540
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
-    md5: e37ee3f0e8b032d59569328c887962d7
-    time: 1529677962
+    md5: f5348f79677f2921ac1c597f1058e18f
+    time: 1529678462
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
     md5: 0e0b28cc0debc352dd7540f4f3d87cd2
     time: 1529615719
@@ -893,8 +893,8 @@ inventory:
     md5: 9a446e7f190c0fad457c0af4d6da30ef
     time: 1529677990
   "/feed.xml":
-    md5: d47dec40376d42c0e873051da548746c
-    time: 1529677990
+    md5: e320ed6fcdf65e148ae4b45ac073ff85
+    time: 1529678489
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -2809,8 +2809,8 @@ inventory:
   "/assets/kanini in action.jpg":
     md5: 88eef8c62645e4988787729d3df21e72
     time: 1529089287
-  "/assets/Juan-Estrada-mug.jpg":
-    md5: af0631c4adc7d5309d47629d0ca5802a
+  "/assets/Devs----Nigeria-KIC.jpg":
+    md5: 54103ac536fdb7aafbb9cac7aa92623c
     time: 1529615749
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
@@ -3088,8 +3088,8 @@ inventory:
   "/assets/Brigit devs.png":
     md5: 8e51b7748192dbd72b1bed994b033530
     time: 1529089287
-  "/assets/Devs----Nigeria-KIC.jpg":
-    md5: 54103ac536fdb7aafbb9cac7aa92623c
+  "/assets/Devs----Nigeria-grain-trade.jpg":
+    md5: ef6510abc9b105bda4e13dd119fcc131
     time: 1529615749
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
@@ -3301,9 +3301,9 @@ inventory:
   "/assets/kanini devs.jpg":
     md5: 224ed3f2b86d991adad005ec37a6e9ea
     time: 1529089287
-  "/assets/Devs----Nigeria-grain-trade.jpg":
-    md5: ef6510abc9b105bda4e13dd119fcc131
-    time: 1529615749
+  "/assets/Devs----Juan-Estrada-mug.jpg":
+    md5: 03e52faef2f517581c24205104350b93
+    time: 1529678490
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
     time: 1506459864
