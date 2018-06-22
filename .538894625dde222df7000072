@@ -1,5 +1,5 @@
 ---
-time: 1529616623
+time: 1529677995
 inventory:
   "/publications/index.html":
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
@@ -11,8 +11,8 @@ inventory:
     md5: 45da582e5295e2fbfaa95d06001f900b
     time: 1529616540
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
-    md5: 50d2d824c8d77b5977f94b53906c4f61
-    time: 1529616587
+    md5: e37ee3f0e8b032d59569328c887962d7
+    time: 1529677962
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
     md5: 0e0b28cc0debc352dd7540f4f3d87cd2
     time: 1529615719
@@ -890,11 +890,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 10201a38572839962c83e79a93ab8684
-    time: 1529616615
+    md5: 9a446e7f190c0fad457c0af4d6da30ef
+    time: 1529677990
   "/feed.xml":
-    md5: 8fd4b955d983fff266f587acd1a37881
-    time: 1529616616
+    md5: d47dec40376d42c0e873051da548746c
+    time: 1529677990
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
