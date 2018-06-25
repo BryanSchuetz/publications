@@ -1,5 +1,5 @@
 ---
-time: 1529696432
+time: 1529943405
 inventory:
   "/publications/index.html":
     md5: d4d1da2d9e5d35b7066624897cb8ff4c
@@ -11,8 +11,8 @@ inventory:
     md5: c50f91d35af8e64afba81a8682f50460
     time: 1529687269
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
-    md5: 27181cb126c28a3bf0431c961bbe7202
-    time: 1529696397
+    md5: b6886482dddd7ce0e016b2bc8643eb0f
+    time: 1529943374
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
     md5: 0e0b28cc0debc352dd7540f4f3d87cd2
     time: 1529615719
@@ -890,11 +890,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 2c4f89258cbb837d49a7bf9d6d8407b9
-    time: 1529696423
+    md5: 9682b47e50441ac26edc44ed1c908b1e
+    time: 1529943399
   "/feed.xml":
-    md5: 9d7b2d6b04d5a64ada71801489b53512
-    time: 1529696423
+    md5: b165e0e72d3ec6c5432a2ea9f1dbfa11
+    time: 1529943400
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -2815,12 +2815,12 @@ inventory:
   "/assets/kanini in action.jpg":
     md5: 88eef8c62645e4988787729d3df21e72
     time: 1529089287
-  "/assets/Devs----Nigeria-KIC.jpg":
-    md5: 54103ac536fdb7aafbb9cac7aa92623c
-    time: 1529615749
   "/assets/Devs----Nigeria-ITU.jpg":
     md5: d84174ecd3fbe0a87fa78ddbc5d3df22
     time: 1529696424
+  "/assets/Devs----Nigeria-airport-1.jpg":
+    md5: 81e53e007aef124e03fafeefc1ae446b
+    time: 1529943400
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -3097,8 +3097,8 @@ inventory:
   "/assets/Brigit devs.png":
     md5: 8e51b7748192dbd72b1bed994b033530
     time: 1529089287
-  "/assets/Devs----Nigeria-grain-trade.jpg":
-    md5: ef6510abc9b105bda4e13dd119fcc131
+  "/assets/Devs----Nigeria-KIC.jpg":
+    md5: 54103ac536fdb7aafbb9cac7aa92623c
     time: 1529615749
   "/assets/Devs----Juan-Estrada-mug-1.jpg":
     md5: 03e52faef2f517581c24205104350b93
@@ -3313,9 +3313,9 @@ inventory:
   "/assets/kanini devs.jpg":
     md5: 224ed3f2b86d991adad005ec37a6e9ea
     time: 1529089287
-  "/assets/Devs----Juan-Estrada-mug.jpg":
-    md5: 03e52faef2f517581c24205104350b93
-    time: 1529678490
+  "/assets/Devs----Nigeria-grain-trade.jpg":
+    md5: ef6510abc9b105bda4e13dd119fcc131
+    time: 1529615749
   "/assets/Devs----Nigeria-grain-trade-1.jpg":
     md5: ef6510abc9b105bda4e13dd119fcc131
     time: 1529696424
@@ -3448,11 +3448,11 @@ inventory:
   "/assets/Devs----Coon-mug (1).jpg":
     md5: 6085a170563234ce709d1872c0f18e6d
     time: 1525980872
+  "/assets/Devs----Juan-Estrada-mug.jpg":
+    md5: 03e52faef2f517581c24205104350b93
+    time: 1529678490
   "/assets/Devs----Nigeria-Hawassa-1.jpg":
     md5: c3181078495dc23c6dc7470247417440
-    time: 1529696424
-  "/assets/Bill-Grant-mug-1.jpg":
-    md5: 160ca19af470af1c9c92c7a52aadf44e
     time: 1529696424
   "/assets/Devs----Mekong-ARCC-pic-2.jpg":
     md5: af9f8547ad33cee3046322570fccfba4
@@ -3534,6 +3534,9 @@ inventory:
     time: 1525980872
   "/assets/Devs----Nigeria-KIC-1.jpg":
     md5: 54103ac536fdb7aafbb9cac7aa92623c
+    time: 1529696424
+  "/assets/Bill-Grant-mug-1.jpg":
+    md5: 160ca19af470af1c9c92c7a52aadf44e
     time: 1529696424
   "/assets/Devs----Mekong-ARCC-pic-4.jpg":
     md5: 390f1f9cc5d31c53a1d7b74f0cdd5ea3
