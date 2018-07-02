@@ -1,5 +1,5 @@
 ---
-time: 1530541721
+time: 1530542339
 inventory:
   "/publications/index.html":
     md5: 08512eaf729aa005b0a4c933ca193593
@@ -11,8 +11,8 @@ inventory:
     md5: f558b8e45070956b249158a5f5ade49b
     time: 1530541554
   "/articles/four-recommendations-for-strengthening-seed-systems/index.html":
-    md5: e99a7d56cfe1bd94b12f89168a6296fd
-    time: 1530541554
+    md5: fda9de2cdd4f0f0e6032eaa512d88dbf
+    time: 1530542304
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
     md5: 5cfeef1d795d88684c0e22cd9aa32c88
     time: 1530541554
@@ -827,8 +827,8 @@ inventory:
     md5: 0deba53715e5fddaf72719f45ccb4c95
     time: 1530541579
   "/developments/full-archive/index.html":
-    md5: 5c934760cf82f9770dd137f3b79ddf6d
-    time: 1530541580
+    md5: 782ed2d13b20b40a025c8d12888bb0ce
+    time: 1530542330
   "/developments/summer-2018/index.html":
     md5: b3f23fa44e3b4b00e53a9a1564b4d0ab
     time: 1530541580
@@ -896,11 +896,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: d28ee6bb963eac25abda2e611c722ff1
-    time: 1530541582
+    md5: 5f7d9e5700ffb364a2c50def964c55f3
+    time: 1530542332
   "/feed.xml":
-    md5: 2c773af19c80bac3184892fe67f2bb90
-    time: 1530541583
+    md5: 82a723a43aafa5f7f12194a40e60e25c
+    time: 1530542333
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1601,8 +1601,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: ccaef9330c7a4d2eb777ff18bc8ede80
-    time: 1530541583
+    md5: c182d45054bec3cdc8ae6346aa59b06b
+    time: 1530542333
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
