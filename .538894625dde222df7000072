@@ -1,5 +1,5 @@
 ---
-time: 1530542339
+time: 1530639724
 inventory:
   "/publications/index.html":
     md5: 08512eaf729aa005b0a4c933ca193593
@@ -818,8 +818,8 @@ inventory:
     md5: 9a3cc022840b9cd9592140ee34c74bba
     time: 1530541579
   "/developments/index.html":
-    md5: 46d0e7c7f1d2af492bc2062efae8683f
-    time: 1530541579
+    md5: 80806d41868953f12a09b9cf6a8d2aaf
+    time: 1530639717
   "/daideas/index.html":
     md5: a5a6be93215ce9f33892135c0214997e
     time: 1530541579
@@ -899,8 +899,8 @@ inventory:
     md5: 5f7d9e5700ffb364a2c50def964c55f3
     time: 1530542332
   "/feed.xml":
-    md5: 82a723a43aafa5f7f12194a40e60e25c
-    time: 1530542333
+    md5: af5f62b84f0e98ef8d6d4334e16c00f1
+    time: 1530639720
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
