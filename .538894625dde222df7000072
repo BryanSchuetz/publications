@@ -1,5 +1,5 @@
 ---
-time: 1530888197
+time: 1530888251
 inventory:
   "/publications/index.html":
     md5: 08512eaf729aa005b0a4c933ca193593
@@ -32,8 +32,8 @@ inventory:
     md5: 69b39c7340177f1519d14a2eb338047c
     time: 1530888164
   "/articles/with-uk-aid-lebanon-social-enterprise-pilot-new-model-of-development/index.html":
-    md5: a2583cba8cecc5e9850c8f3a07046d0f
-    time: 1530541555
+    md5: c49c15b5ae76bb2c0e900fbe9861afb5
+    time: 1530888220
   "/articles/new-dfid-guidance-aims-to-improve-emergency-schooling-for-millions-of-displaced-children/index.html":
     md5: 0fb8c0ffd8ed723900203b9eb46f034d
     time: 1530541555
@@ -734,8 +734,8 @@ inventory:
     md5: 9bc645e3a30ede15b5e83d11c20aa80f
     time: 1530541577
   "/articles/tags/economic-growth/index.html":
-    md5: 97b2c3afb5dc3bc22a9d560c07d0c4e8
-    time: 1530887948
+    md5: f6d08b512fe425d85a7a147659690eb0
+    time: 1530888240
   "/articles/tags/agriculture/index.html":
     md5: 256f4047e70aac210e94774e4413df47
     time: 1530887498
@@ -764,8 +764,8 @@ inventory:
     md5: c395198c1bf9d03858e18a2c8130765c
     time: 1530887732
   "/articles/tags/stability/index.html":
-    md5: 39b33922aa8df270ac88f37738e9504d
-    time: 1530887949
+    md5: ba63709ca1e5f842aa04f19a295e3aaa
+    time: 1530888241
   "/articles/tags/fragile-states/index.html":
     md5: ca8b403025061171e6324589338e7134
     time: 1530887949
@@ -773,8 +773,8 @@ inventory:
     md5: 76506471320deadfa7f058c4c5556a84
     time: 1530888186
   "/articles/tags/ict/index.html":
-    md5: 4becdf83727402ade3821ad9e28f7a6e
-    time: 1530888186
+    md5: 7f94a3e232c1fff64a0ea59fab05c919
+    time: 1530888241
   "/articles/tags/innovation/index.html":
     md5: 5b352ab6478f61fb892516aa1d9fbc7f
     time: 1530888186
@@ -827,11 +827,11 @@ inventory:
     md5: 0deba53715e5fddaf72719f45ccb4c95
     time: 1530541579
   "/developments/full-archive/index.html":
-    md5: dab98fe5bf86e345266d7ce922987e1c
-    time: 1530888187
+    md5: facdb9120ad1d62ec6afdc771186da64
+    time: 1530888242
   "/developments/summer-2018/index.html":
-    md5: fc73960fa0be421ab51381124b67d45e
-    time: 1530888188
+    md5: 3a2157dd28eeb085fa297ad1ed5fa0ec
+    time: 1530888242
   "/developments/spring-2018/index.html":
     md5: 83a350bc77d3e4b9a5776d6ffb405c5a
     time: 1530541580
@@ -896,11 +896,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 0bb38d291f1569675cc38ca1e60ef4dc
-    time: 1530888190
+    md5: 167ddbd591c7ef2fee3c09490c6bfb50
+    time: 1530888244
   "/feed.xml":
-    md5: 241c314eb3e458f35fc72209dcefd396
-    time: 1530888190
+    md5: 96e14b49f9b1b206d304c9c09a4eac98
+    time: 1530888245
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
