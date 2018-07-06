@@ -1,5 +1,5 @@
 ---
-time: 1530887960
+time: 1530888197
 inventory:
   "/publications/index.html":
     md5: 08512eaf729aa005b0a4c933ca193593
@@ -29,8 +29,8 @@ inventory:
     md5: 8060441b138e7999b647ec2ee2820969
     time: 1530887928
   "/articles/global-health-and-tech-thinkers-come-together-at-switchpoint/index.html":
-    md5: ffdf7b3e27f35db42e60ad7faa7f8251
-    time: 1530541555
+    md5: 69b39c7340177f1519d14a2eb338047c
+    time: 1530888164
   "/articles/with-uk-aid-lebanon-social-enterprise-pilot-new-model-of-development/index.html":
     md5: a2583cba8cecc5e9850c8f3a07046d0f
     time: 1530541555
@@ -770,14 +770,14 @@ inventory:
     md5: ca8b403025061171e6324589338e7134
     time: 1530887949
   "/articles/tags/global-health/index.html":
-    md5: 7251c4dfbbce2bf2b71dc3e36f48ca3a
-    time: 1530541578
+    md5: 76506471320deadfa7f058c4c5556a84
+    time: 1530888186
   "/articles/tags/ict/index.html":
-    md5: 430d027bebc800d5ddded9fe153097d4
-    time: 1530541579
+    md5: 4becdf83727402ade3821ad9e28f7a6e
+    time: 1530888186
   "/articles/tags/innovation/index.html":
-    md5: 2c1f36a03ecd1f1d41975177512f0054
-    time: 1530541579
+    md5: 5b352ab6478f61fb892516aa1d9fbc7f
+    time: 1530888186
   "/articles/tags/land/index.html":
     md5: 0c165f534a9c4d802caf65cce6626970
     time: 1530541579
@@ -827,11 +827,11 @@ inventory:
     md5: 0deba53715e5fddaf72719f45ccb4c95
     time: 1530541579
   "/developments/full-archive/index.html":
-    md5: 72f473b25fec835c79fb3f39516c09a5
-    time: 1530887951
+    md5: dab98fe5bf86e345266d7ce922987e1c
+    time: 1530888187
   "/developments/summer-2018/index.html":
-    md5: 35a1701b2d095975364934d8abf35217
-    time: 1530887951
+    md5: fc73960fa0be421ab51381124b67d45e
+    time: 1530888188
   "/developments/spring-2018/index.html":
     md5: 83a350bc77d3e4b9a5776d6ffb405c5a
     time: 1530541580
@@ -896,11 +896,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 5c99a1a0e566466a3fdc1dd0a1cdba03
-    time: 1530887953
+    md5: 0bb38d291f1569675cc38ca1e60ef4dc
+    time: 1530888190
   "/feed.xml":
-    md5: b86fb7a40dd268ba6e9c4c2ef0c4a569
-    time: 1530887953
+    md5: 241c314eb3e458f35fc72209dcefd396
+    time: 1530888190
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
