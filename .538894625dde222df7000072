@@ -1,5 +1,5 @@
 ---
-time: 1530892735
+time: 1531260986
 inventory:
   "/publications/index.html":
     md5: 4405048914722ca1cefe2eb8a71f1da8
@@ -1738,6 +1738,12 @@ inventory:
   "/assets/Devs----Nigeria-airport-3.jpg":
     md5: 81e53e007aef124e03fafeefc1ae446b
     time: 1530541583
+  "/assets/Devs----Trade-Webinar-1.jpg":
+    md5: faabb9a7d0d1479022e159403f86c28c
+    time: 1531260979
+  "/assets/Devs----Kitain-mug.jpg":
+    md5: 1f3052d95061e0bc391419f02b12cd7d
+    time: 1531260979
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2422,6 +2428,9 @@ inventory:
   "/assets/Devs----Summer-2018-cover.jpg":
     md5: 539185376bf2fe8898aadd13a869ecb2
     time: 1530541584
+  "/assets/Devs----Umar-Shavurov.jpg":
+    md5: cb8afb255635aac9a4c221a0bd5f2304
+    time: 1531260979
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -2848,6 +2857,9 @@ inventory:
   "/assets/Devs----Seed-2.jpg":
     md5: 77286478fc8191d7825e10ac2f2b9108
     time: 1530541584
+  "/assets/Devs----Liberia-Mobile-1.jpg":
+    md5: 039fc0e40bd11093e8c5ab4becfa0484
+    time: 1531260979
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -3133,6 +3145,9 @@ inventory:
   "/assets/Devs----Seed-8.jpg":
     md5: 09682c8a33ef20f7f5a8f0586fa68657
     time: 1530541584
+  "/assets/Devs----Liberia-Mobile-4.jpg":
+    md5: 6f76332499eb61820d79001ce555dcd1
+    time: 1531260979
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
@@ -3352,6 +3367,9 @@ inventory:
   "/assets/Devs----Seed-7.jpg":
     md5: d5c60d1516b2c9315bda64308204a90e
     time: 1530541584
+  "/assets/Devs----Liberia-Mobile-5.jpg":
+    md5: d0e3ae678312a6b27732d15128c9989e
+    time: 1531260980
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
     time: 1506459864
