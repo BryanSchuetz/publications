@@ -1,5 +1,5 @@
 ---
-time: 1531751591
+time: 1531769070
 inventory:
   "/publications/index.html":
     md5: d502170c7fdd312dcfaf9a1df38c5645
@@ -11,8 +11,8 @@ inventory:
     md5: bf04cd64ae3d6405c5e129fe98e09d97
     time: 1531739673
   "/articles/africa-trading-five-takeaways-on-trade-based-solutions-for-food-security/index.html":
-    md5: fc22b2e59e0cd0c4773ece30d3e84b6a
-    time: 1531751540
+    md5: 57c4ec2e2f430ddce98f57dfdca2c282
+    time: 1531769034
   "/articles/global-health-and-tech-thinkers-come-together-at-switchpoint/index.html":
     md5: 0dcd142da800be1de91863d27e5e2ba0
     time: 1531739673
@@ -899,11 +899,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 1c3c4cc7ced981e379e0806bf7836c7e
-    time: 1531751578
+    md5: c75c7104e3e1d48b08fc699a0e11f5d1
+    time: 1531769065
   "/feed.xml":
-    md5: f0553dca542c6606a29a5f804e2b411a
-    time: 1531751579
+    md5: ca8d3c6ea013d8803bc863df0379616c
+    time: 1531769066
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
