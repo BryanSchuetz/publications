@@ -1,906 +1,909 @@
 ---
-time: 1531260986
+time: 1531739842
 inventory:
   "/publications/index.html":
-    md5: 4405048914722ca1cefe2eb8a71f1da8
-    time: 1530892579
+    md5: d502170c7fdd312dcfaf9a1df38c5645
+    time: 1531739673
   "/index.html":
-    md5: 4405048914722ca1cefe2eb8a71f1da8
-    time: 1530892579
+    md5: d502170c7fdd312dcfaf9a1df38c5645
+    time: 1531739673
   "/articles/index.html":
-    md5: 33cd2163050c5d9182b80520f8de6fa5
-    time: 1530892579
+    md5: bf04cd64ae3d6405c5e129fe98e09d97
+    time: 1531739673
+  "/articles/africa-trading-five-takeaways-on-trade-based-solutions-for-food-security/index.html":
+    md5: 06f7380aa0828ff08a5be90235881ee2
+    time: 1531739673
   "/articles/global-health-and-tech-thinkers-come-together-at-switchpoint/index.html":
-    md5: 11be18b730d24da18b7ba8c971ce5e7f
-    time: 1530892580
+    md5: 0dcd142da800be1de91863d27e5e2ba0
+    time: 1531739673
   "/articles/four-recommendations-for-strengthening-seed-systems/index.html":
-    md5: 17dc61239d70600541cad4df7d6d1f7f
-    time: 1530892580
+    md5: b3da29a32bb3a6ca43b798c2fedc5c2c
+    time: 1531739673
   "/articles/new-generation-of-ec-framework-contracts-offers-agile-programming-for-european-development-aid/index.html":
-    md5: 757ccef7ef15bd177770de724a2c826d
-    time: 1530892580
+    md5: d56c835e0690f81a731ae933db2fae88
+    time: 1531739673
   "/articles/addressing-jordans-youth-unemployment-bubble-usaid-program-aligns-workforce-with-emerging-opportunities/index.html":
-    md5: 3d099f97394e6cde3ae8c2704aaa4e9d
-    time: 1530892580
+    md5: 9035569d5e48db31b481fb7abd89af75
+    time: 1531739673
   "/articles/can-we-keep-the-promisemobilizing-business-on-the-refugee-frontline-in-jordan/index.html":
-    md5: 9527ef3fccc195eb08cadfcfbad4d4eb
-    time: 1530892580
+    md5: 82ce66c8d174ab047ccbcfdbd94b0625
+    time: 1531739674
   "/articles/with-uk-aid-lebanon-social-enterprise-pilot-new-model-of-development/index.html":
-    md5: 66837caa91421e7a9e7f7285452294b3
-    time: 1530892580
+    md5: 5130e8f4abf5f7dfa1141577677996c3
+    time: 1531739674
   "/articles/new-dfid-guidance-aims-to-improve-emergency-schooling-for-millions-of-displaced-children/index.html":
-    md5: 3b911cbc370e3e1cdbcdd34ccf8c48f4
-    time: 1530892580
+    md5: 12af45a51fa29e068300eb120298cebc
+    time: 1531739674
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
-    md5: 40c4af43702e8172523f4c64c62ec377
-    time: 1530892580
+    md5: ab030ab40f72aea7c6f84dbb081430a8
+    time: 1531739674
   "/articles/how-can-nigeria-fulfill-its-broad-economic-potential/index.html":
-    md5: d41e82fa2b671c205e089e314c0c62f6
-    time: 1530892581
+    md5: a6e8963877511c75cac8a95559bfe271
+    time: 1531739674
   "/articles/ethiopia-stands-poised-to-lead-an-african-industrial-revolution/index.html":
-    md5: d84be589a71c1f0d86bb8b730ef4d70d
-    time: 1530892581
+    md5: 0c7516ad14e86b934bf950772850dd7f
+    time: 1531739674
   "/articles/young-rural-women-are-crucial-to-advancing-universal-health-coverage-in-northern-nigeria/index.html":
-    md5: 0d72a9b5c99a4ef1a1cb3ab73450f9e3
-    time: 1530892581
+    md5: c4140ce07d663b7b815d16f2d3c90a57
+    time: 1531739674
   "/articles/36-million-investment-facility-finances-warehouses-in-malawi-to-improve-food-security/index.html":
-    md5: f47614d49737c291321c1d8e855befa8
-    time: 1530892581
+    md5: 92af5943e024ebfb9b26ec613196fb50
+    time: 1531739674
   "/articles/lta-program-shows-benefit-of-truly-participatory-approach/index.html":
-    md5: 46f25629440d51d9ec2e62e9833003f9
-    time: 1530892581
+    md5: f31ad8c4a6b462fbffff60aa38c720be
+    time: 1531739674
   "/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience/index.html":
-    md5: 042c02cc209c26160a3c56ff0f031cf4
-    time: 1530892581
+    md5: 11e0bd64368b0fe40932887fe5ad88ae
+    time: 1531739675
   "/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/index.html":
-    md5: ada8a5340e70992fbf15b068854de5ab
-    time: 1530892581
+    md5: 33f28e2a15481d108f913db48f1381c5
+    time: 1531739675
   "/articles/ec-helps-position-the-southern-africa-development-community-for-21st-century-success/index.html":
-    md5: df32b7d8485a9e6d3bbaa0ef173bf8a5
-    time: 1530892581
+    md5: 2c2a93914193871a277aa6acce132919
+    time: 1531739675
   "/articles/new-zealand-aid-helps-rwandan-farmers-reduce-losses-sell-more-maize-to-producer-of-maternal-infant-foods/index.html":
-    md5: 5d26187e7095ced9973fafc37f64c4fa
-    time: 1530892581
+    md5: 4b539ae0a716320f17bac8adbb0f46e4
+    time: 1531739675
   "/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey/index.html":
-    md5: 6703dbbdf780e650d5dcdb772f568369
-    time: 1530892582
+    md5: 8d392715044e5edd777816b4d1e35ba8
+    time: 1531739675
   "/articles/philippines-new-tax-bill-promises-more-revenue-for-social-programs-infrastructure/index.html":
-    md5: 378f5923c1cfad13f88bac8258e2fa6e
-    time: 1530892582
+    md5: e9bf1d51a68c52ec32673d834de443a0
+    time: 1531739675
   "/articles/with-elections-looming-can-pakistan-fulfill-its-education-promise-to-unschooled-children/index.html":
-    md5: b2bbcda1292f1d84d3ec0494c768142b
-    time: 1530892582
+    md5: 2549d46863569c2d8eb6b3eaaeb979b7
+    time: 1531739675
   "/articles/liberia-moves-to-reduce-donor-dependence-by-improving-its-ability-to-invest-in-itself/index.html":
-    md5: 7daa1895f86d2bd7a2f29548220c7163
-    time: 1530892582
+    md5: 16591460a49ef74ff44e15e0ef152bc2
+    time: 1531739675
   "/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia/index.html":
-    md5: 617f8e31b14a2b0ce5e463634fc6b362
-    time: 1530892582
+    md5: 8cd9a45150817cec349c192154648801
+    time: 1531739675
   "/articles/marshaling-the-evidence-to-better-help-developing-countries-improve-and-afford-their-health-services/index.html":
-    md5: 69dbc3d6bb7673095745ef8a662b54b1
-    time: 1530892582
+    md5: 046875244189e577c5b1f26c5bd686d1
+    time: 1531739675
   "/articles/to-realize-the-promise-of-renewables-address-the-concerns-of-local-people/index.html":
-    md5: cb11a9241b0583c76247c0e490f9705e
-    time: 1530892582
+    md5: 4ae73df635b2fba57e2d180e4c9acbdf
+    time: 1531739676
   "/articles/new-orangutan-species-discovered-in-forest-block-saved-by-usaid-conservation-program/index.html":
-    md5: 52ebf2015c3c079bdf4228d91af4d4b5
-    time: 1530892582
+    md5: b76f868dfb43597d13451cfc727d4068
+    time: 1531739676
   "/articles/eu-launches-26-billion-fund-to-attract-investment-in-the-european-neighbourhood-and-africas-fragile-states/index.html":
-    md5: 6b2a9c2791dbbb6294429feda2fb070e
-    time: 1530892582
+    md5: 2511ebd1dff506eaa523772c80030c9d
+    time: 1531739676
   "/articles/qa-with-dais-susan-scribner-about-preparedness-response-and-global-health-security/index.html":
-    md5: f553409aadd89f5eec70de7129a658d7
-    time: 1530892582
+    md5: 7ef7cbdfad53419974c2be2b8f3bd635
+    time: 1531739676
   "/articles/sourcing-the-wadi-training-palestinian-workers-to-fill-niche-need-in-israel-it/index.html":
-    md5: a135c0e383655b803da6253b0cd3c532
-    time: 1530892583
+    md5: dfde98bfaf8c493b77ad068d606e4232
+    time: 1531739676
   "/articles/turning-social-norms-in-the-middle-east-into-job-opportunities-for-women/index.html":
-    md5: 4dc983ad63ed511177ba13c680831f4d
-    time: 1530892583
+    md5: 0357b2ce76c81dda5af151060b4d2689
+    time: 1531739676
   ? "/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change/index.html"
-  : md5: 2d7078b6d7d17028eb45c0eb9aea7443
-    time: 1530892583
+  : md5: 402df2f4ba1cc7a635814b1361c00d38
+    time: 1531739676
   ? "/articles/messe-frankfurts-purchase-of-source-africa-trade-show-exemplifies-the-potential-of-market-systems-development/index.html"
-  : md5: 579c9e78d0afd059c75f2f2259a977cd
-    time: 1530892583
+  : md5: 593ec94aa4f3b790ed26d25a82db7579
+    time: 1531739676
   ? "/articles/qa-assisting-mozambiques-rural-poor-to-build-stability-and-economic-opportunity-through-digital-financial-inclusion/index.html"
-  : md5: 2b27cd764db0b390044e6074de683445
-    time: 1530892583
+  : md5: 7730d22fef5b4a9c5c5e13f18c66075a
+    time: 1531739677
   ? "/articles/its-not-all-about-the-app-narrowing-the-digital-gender-gap-usaid-program-propels-cambodia-girls-into-global-technology-contest-finals/index.html"
-  : md5: d35a795e13cb90cfef24e323f54338a8
-    time: 1530892583
+  : md5: c0e89733fbcbd57db7701b23a6eece60
+    time: 1531739677
   "/articles/qa-barry-finette-on-the-hopes-and-challenges-for-thinkmds-life-saving-mhealth-platform/index.html":
-    md5: c710c2f432420e58326f3e2ada83f4d7
-    time: 1530892583
+    md5: b82a996f8164e6b4239742000ef9134c
+    time: 1531739677
   "/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq/index.html":
-    md5: 01dae78cdcfe7a0ef045ab2a8b0a5b3d
-    time: 1530892583
+    md5: e066bc50c0e85caa520bd90f0f59e154
+    time: 1531739677
   "/articles/the-proliferation-of-cold-storage-in-uzbekistan/index.html":
-    md5: 7a02d664711626fad141efa6a0d1c872
-    time: 1530892583
+    md5: 33b876bd1d44ac863779ca498d81a925
+    time: 1531739677
   "/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/index.html":
-    md5: 8cb4c230c4b6014a13217747dc53f96f
-    time: 1530892584
+    md5: cbcaf0deffb849c8e99de9a62d361287
+    time: 1531739677
   "/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate/index.html":
-    md5: ec14f12ef5b8b21669de479b3c930d0f
-    time: 1530892584
+    md5: f01baeb27659a8a325a388ce552d71a9
+    time: 1531739677
   "/articles/philippines-increases-tax-collections-by-11-billion-year-over-yearwithout-raising-rates/index.html":
-    md5: 28dc1acddaa0d41c044ddf4051805ee3
-    time: 1530892584
+    md5: 94e57966c5d07c45198c3882a76e3537
+    time: 1531739677
   "/articles/making-land-rights-real/index.html":
-    md5: 7edba7d698980ac9f028df707800cd60
-    time: 1530892584
+    md5: b4e13ac9b48809dc3332f65704f11ad6
+    time: 1531739677
   "/articles/using-mobile-technology-for-first-registration-of-land-lessons-learned-in-tanzania/index.html":
-    md5: eab9fa742cad0b50ddbdb32723ac6bb4
-    time: 1530892584
+    md5: d45e3d61954ce252f426473e4157ea8a
+    time: 1531739677
   "/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce/index.html":
-    md5: caa1f65a764fb13f0fabc034008c2359
-    time: 1530892584
+    md5: 006fc05ba77ca1cccd963b1fdadd36f6
+    time: 1531739678
   "/articles/83-million-grain-deal-between-east-african-countries-demonstrates-how-east-africa-can-feed-itself/index.html":
-    md5: dfb28f8e576993f4b0584d9ed272d1e3
-    time: 1530892584
+    md5: a8327b3deb4e50d368d2cef5ebc596b6
+    time: 1531739678
   "/articles/from-land-tenure-regularisation-to-a-sustainable-land-register/index.html":
-    md5: eb73ff4a0d40ae8a522b4aa84f50b198
-    time: 1530892584
+    md5: 6361d50de8de17cdf2bbbd34b8ffe76d
+    time: 1531739678
   "/articles/dialogue-and-development-in-ghanas-oil-and-gas-region/index.html":
-    md5: 4dc32379a3b209e62001784a1590ff9c
-    time: 1530892584
+    md5: c033bc3c9d373a1a422d45df946d6eae
+    time: 1531739678
   "/articles/the-whole-spectrum-a-holistic-approach-to-climate-resilience/index.html":
-    md5: 5ba3589305dd7e838d345e57f872f6e7
-    time: 1530892584
+    md5: b84c28ad98b2da1d06b3e0f9c79d336c
+    time: 1531739678
   "/articles/how-tax-assistance-from-usaid-dfid-helps-developing-countries-to-manage-money-and-help-themselves/index.html":
-    md5: ffc18dfe2399668583e5699b503fae85
-    time: 1530892585
+    md5: 28850fd1b2cd4ead81318b7a0421d309
+    time: 1531739678
   "/articles/public-private-partnerships-for-land-administration-can-it-work-in-cabo-verde/index.html":
-    md5: 04eccf982a9d88dc769fd96be268546c
-    time: 1530892585
+    md5: 9fd5beb653f15ba01847ff3c98834749
+    time: 1531739678
   "/articles/despite-regional-instability-lebanons-honey-sector-reaches-new-heights/index.html":
-    md5: 0dd3208e84a41334331501c82b4c0e28
-    time: 1530892585
+    md5: 872b8de95041b6dee1ccc514391823b0
+    time: 1531739678
   ? "/articles/unlocking-capital-across-kenya-how-usaid-firm-pushed-the-frontier-of-financial-services-and-built-a-foundation-for-economic-growth/index.html"
-  : md5: e8d9b79141580f6265eb79994121121e
-    time: 1530892585
+  : md5: 28fd033170ba35dabd119e428098be59
+    time: 1531739679
   "/articles/doubling-access-to-safe-drinking-water-how-four-african-countries-did-it-and-how-others-can-too/index.html":
-    md5: 9ae9c3c671d8ba64b7f275ff17ecc2b6
-    time: 1530892585
+    md5: 791a7f076dfc11729a9d7579cb5b5145
+    time: 1531739679
   "/articles/a-call-to-arms/index.html":
-    md5: 97ed0f3b327529f41864401083710efe
-    time: 1530892585
+    md5: d1b79d05e62c3cd34e958ffc4f515c1e
+    time: 1531739679
   "/articles/ethiopia-land-registration-ready-for-lift-off-now-what/index.html":
-    md5: d8109ce6717dc36806bb50134fe84e40
-    time: 1530892585
+    md5: cf1123b729348f47be15a7bd60f8bdd2
+    time: 1531739679
   "/articles/the-law-of-the-land-recent-cases-show-legal-support-for-local-people/index.html":
-    md5: d2c68b4f2bc43db330736aed7fee91fe
-    time: 1530892585
+    md5: e6069ffb3236f034fe186b192678ebdf
+    time: 1531739679
   "/articles/legitimate-land-tenure-and-property-rights-fostering-compliance-and-development-outcomes/index.html":
-    md5: 1796817edacc88e0c10705f9931758ec
-    time: 1530892586
+    md5: 363b5167a0433f45b2ed7fb025312b9d
+    time: 1531739679
   "/articles/enhancing-women-and-girls-land-rights-in-rural-sierra-leone/index.html":
-    md5: e9c38f8d8563eab845b0889e826284d0
-    time: 1530892586
+    md5: c2daebdf0b04c60b6867987821f205f0
+    time: 1531739679
   "/articles/afghan-municipalities-raise-more-revenues-deliver-better-services-enhance-stability/index.html":
-    md5: 19ccae79da6dc55781ab28a7f8076510
-    time: 1530892586
+    md5: 423896cc8d7bbcddbd345683189b0901
+    time: 1531739679
   "/articles/investing-leasing-land-and-compensating-landowners-the-addax-bioenergy-experience-in-sierra-leone/index.html":
-    md5: 3077a2a6f033f03814582c7cb0884434
-    time: 1530892586
+    md5: 30858a72030bfc731ce53ee805810aab
+    time: 1531739679
   "/articles/delivering-large-scale-land-certification-programmes-lessons-from-rwanda/index.html":
-    md5: a04deda74b8467bca0c5012dab0f4325
-    time: 1530892586
+    md5: 98c427e241883b308f179a40b8ea0166
+    time: 1531739679
   "/articles/mitigating-instability-in-central-america/index.html":
-    md5: 4f8155990e372ef1692a2e62c97e2662
-    time: 1530892586
+    md5: a51304e629ed6c0235ab1449a129e1fe
+    time: 1531739680
   "/articles/law-to-criminalize-sexual-harassment-passed-by-afghan-parliament-awaits-presidents-approval/index.html":
-    md5: d2ea3ee2e8602ccffff22c6dc7256d9d
-    time: 1530892586
+    md5: 853732c30b4a5ed95815f293d40a36c2
+    time: 1531739680
   "/articles/place-more-women-on-the-frontlines-of-the-global-war-on-hunger/index.html":
-    md5: 174e4ef90a7a8713e5870f1c4c1fcf49
-    time: 1530892586
+    md5: 2a1056ce2b772f3b64389dc366aa8e75
+    time: 1531739680
   "/articles/dreams-come-true-as-onshore-fish-farms-emerge-in-gaza/index.html":
-    md5: e9c0c72d3d064d04a1cddfe65056a4e1
-    time: 1530892587
+    md5: 248ee2796fea193d6cc06827e89932e4
+    time: 1531739680
   "/articles/simple-solutions-nutrition-and-kitchen-gardens-in-afghanistan/index.html":
-    md5: 458d0ad18b2bf81fe3f8d02b39970ddb
-    time: 1530892587
+    md5: be39d8304fb5f14e02fa4054994f1d90
+    time: 1531739680
   "/articles/market-systems-development-boosts-farming-nutrition-in-bangladeshs-southern-delta/index.html":
-    md5: 5d5419e2fac2708a4f54a2ab266df567
-    time: 1530892587
+    md5: 3f3206682132da8a38a1769e97b931d7
+    time: 1531739680
   "/articles/climate-adaptation-success-achieved-by-bridging-climate-science-with-local-realities-in-the-lower-mekong/index.html":
-    md5: 68fc9ff66c7796e6b42ecab043a2bac0
-    time: 1530892587
+    md5: 84e9ea9d016acf56afb66e0599e6e96b
+    time: 1531739681
   "/articles/before-breaking-ground-mining-companies-and-startup-partners-should-begin-developing-local-content/index.html":
-    md5: f4191f2b6cca44f6742ddb44f0440053
-    time: 1530892587
+    md5: 7cf27d69c94170b4a307531788448775
+    time: 1531739681
   "/articles/learning-from-local-content-policies-insights-from-a-study-of-five-resource-rich-countries/index.html":
-    md5: 0e986907c90fd6acba01b7ceb2039630
-    time: 1530892587
+    md5: 98d4dbc2332a3e9255d0eb9a4fd7ca74
+    time: 1531739681
   "/articles/applying-market-systems-approaches-to-financial-inclusion-projects/index.html":
-    md5: fd75676f760f9840d072a2009f977466
-    time: 1530892587
+    md5: cd99c772f506841e34707b23ae37d785
+    time: 1531739681
   "/articles/tapping-climate-change-adaptation-financing-for-the-benefit-of-the-rural-poor-of-the-mekong-basin/index.html":
-    md5: 0b5bd186174e9abd048c01e92846b029
-    time: 1530892588
+    md5: 4c9695ebbbc685a96446d778b8074094
+    time: 1531739681
   "/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/index.html":
-    md5: 760d5c3f741883af59fc5376756723ab
-    time: 1530892588
+    md5: 8c2600e23b4517215afd6ef5675c39da
+    time: 1531739681
   "/articles/unveiling-a-new-methodology-for-measuring-development-impact-on-market-systems/index.html":
-    md5: 82f1a83036119a9e638dfe134ee38e0e
-    time: 1530892588
+    md5: 4e8f39f56dd388d1fcf317c16894edf1
+    time: 1531739681
   "/articles/new-opportunities-emerge-to-support-meaningful-reform-in-sri-lanka/index.html":
-    md5: 837f13aa69fd3e1134259a4ec8465898
-    time: 1530892588
+    md5: 58506bcf5370a1af9b28b2f85f463083
+    time: 1531739681
   "/articles/agriculture-goes-prime-time-entertaining-a-tv-audience-of-future-farmers-1/index.html":
-    md5: ed9ea716abf6e296bc7933e890a12446
-    time: 1530892588
+    md5: 06f72e283cdc46c9d5d37898ac3ecb8d
+    time: 1531739682
   "/articles/long-term-fiscal-reform-takes-root-in-el-salvador-and-elsewhere/index.html":
-    md5: fa8de57149cf5793908f289bf31e1565
-    time: 1530892588
+    md5: 1638c1fedeb6780cfc056729d4ff4dc2
+    time: 1531739682
   "/articles/big-data-and-domestic-resource-mobilization-how-donors-can-help-developing-countries-increase-revenue/index.html":
-    md5: 7d09f253f9c216de079528995eaf4d63
-    time: 1530892588
+    md5: 1bff1b438e43b86de6443421c72f3976
+    time: 1531739682
   "/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/index.html":
-    md5: 4de248845d6aae7ea26bf19d68367718
-    time: 1530892588
+    md5: ce13c103db8e3ff34ef0987115ac457e
+    time: 1531739682
   "/articles/plugging-in-to-jordans-rising-demand-for-electric-cars/index.html":
-    md5: 772905e08f84ff21e75d21aebaa0a89f
-    time: 1530892589
+    md5: 090fc712a1925d797e38b708e4a23fd1
+    time: 1531739682
   "/articles/zika-and-the-americasa-call-to-action-for-surveillance-and-preparedness/index.html":
-    md5: cd98a2ee2c8860d74f5cc02e4f63a90e
-    time: 1530892589
+    md5: 323700d213355a2be0ffd6bc818e00f3
+    time: 1531739682
   "/articles/usaid-backed-fellow-inspires-malaysian-renewable-energy-policy/index.html":
-    md5: aeec3b05d303575d35f04de3f604f042
-    time: 1530892589
+    md5: 7e58878a37775e38de66f350434ec192
+    time: 1531739682
   "/articles/clean-water-for-all-by-2030-no-really/index.html":
-    md5: 0e6b76133d6f0232984a60ce41cf17d2
-    time: 1530892589
+    md5: 279d2110ee5b57a8652085383f3e4650
+    time: 1531739682
   "/articles/servir-demand-activity-a-key-link-in-connecting-space-to-village/index.html":
-    md5: 0e9d21908fa7d6eafd4f39a9a83582da
-    time: 1530892589
+    md5: f03a0f4f2e0ff62d80a8a0f4699332c9
+    time: 1531739682
   "/articles/a-good-use-of-us-taxpayer-money-helping-other-countries-mobilize-their-own-domestic-resources/index.html":
-    md5: 152125088316fe5ac366f9d3229b5e57
-    time: 1530892589
+    md5: 48eb8784d168cf97408491061d911dcf
+    time: 1531739683
   "/articles/when-tax-reform-leads-to-increased-funding-for-health-services/index.html":
-    md5: bfa23a6b50c827b91c24621a980c62e3
-    time: 1530892589
+    md5: eab1a21d97018cdecb730a4cb9305499
+    time: 1531739683
   "/articles/energizing-the-support-network-for-people-with-disabilities-in-vietnam/index.html":
-    md5: 4fd545ce3a6e615228bd9a67097189c4
-    time: 1530892589
+    md5: 87d312683e2735c2502c06f8754dadf2
+    time: 1531739683
   "/articles/positively-mobilizing-urban-communities-for-wash/index.html":
-    md5: 3cbca309e2165aa0f77f2c17c95c3e89
-    time: 1530892589
+    md5: 8a03280ee76ef77760cb86dda87e7b45
+    time: 1531739683
   "/articles/scaling-up-mobile-health-services-to-expectant-and-new-mothers-in-cambodia/index.html":
-    md5: 0555a64bb3d7fd8f3e1dcf3f22f5d3bd
-    time: 1530892590
+    md5: b89c12b67f74ce1adbea32bb7c48f2d8
+    time: 1531739683
   "/articles/including-men-and-farmers-to-promote-nutrition-change-behaviors/index.html":
-    md5: 7e1d116a360b03f824aaa741ffe585ef
-    time: 1530892590
+    md5: 48dbb73d8662be86c598b03799c9d58f
+    time: 1531739683
   "/articles/breaking-a-wooden-box-under-a-mango-tree/index.html":
-    md5: 7e2b4ecf4f4f208e28d469d933189f72
-    time: 1530892590
+    md5: 6c167c866e7076275e9442490aabcd62
+    time: 1531739683
   "/articles/spurring-the-malawi-judiciary-to-rehear-death-sentence-cases-free-prisoners-unjustly-held/index.html":
-    md5: ddc3f949f6df399831e0fa8fb6d7b3a1
-    time: 1530892590
+    md5: 8a1b217e0892b309948507541bff033c
+    time: 1531739683
   "/articles/insights-on-how-savings-groups-assist-the-poor-and-support-broader-development-goals/index.html":
-    md5: 0080dc54308a52ce1020e22ac479d8e4
-    time: 1530892590
+    md5: 33666a20e6124ecc7edfeafe070a228d
+    time: 1531739683
   "/articles/innovation-into-action-challenge/index.html":
-    md5: ae48b8c7e82f656812406636955a3f4c
-    time: 1530892590
+    md5: 2ed4add5cd65e10bfaf40c8a0fb2983e
+    time: 1531739683
   "/articles/feed-the-future-project-builds-freekeh-industry-in-lebanon/index.html":
-    md5: f814af8b1c008228e4607f66f2f53223
-    time: 1530892590
+    md5: 88245f82ede428a6929a6b1f6a630156
+    time: 1531739684
   "/articles/usaid-sapan-program-energized-thailands-civil-society/index.html":
-    md5: f842784341a55e2adc8b959ee34336f4
-    time: 1530892590
+    md5: 65383a3ecdb570046ea58f280a2ad149
+    time: 1531739684
   "/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia/index.html":
-    md5: 229b42cb30b3f65a600f15db240bff12
-    time: 1530892590
+    md5: f4203d79794f0f5e8a53950765474ca2
+    time: 1531739684
   "/articles/indigenous-gardens-improving-nutrition-while-easing-the-load/index.html":
-    md5: f25f7f6670217c9da005277718492be2
-    time: 1530892590
+    md5: f70195704541b3892755b2a5319c6ec5
+    time: 1531739684
   "/articles/the-future-of-mobile-money-big-banks-b2b-and-the-users-perspective/index.html":
-    md5: ef734afeaa6edff794b78dd51736d3a1
-    time: 1530892591
+    md5: 173675984320d9dc69d2afd9fdb0985b
+    time: 1531739684
   "/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities/index.html":
-    md5: fc5a49cfbdc04834fdc73213221d9d07
-    time: 1530892591
+    md5: 0876327dde65ef574035ca609a442341
+    time: 1531739684
   "/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/index.html":
-    md5: ec25abe23831424c564a811c5e56802f
-    time: 1530892591
+    md5: 0501c724f62a01773f287acb6430f373
+    time: 1531739684
   "/articles/nurturing-a-culture-of-law-and-justice-in-the-drc/index.html":
-    md5: 6d8e0d5f5fa8a6b48a9ee584870c873d
-    time: 1530892591
+    md5: 78182675f1dcc06570d7cbf0a593e088
+    time: 1531739684
   "/articles/getting-back-to-business-in-post-conflict-gaza/index.html":
-    md5: 24a6d9c2c6269e9326ecc4438e4ab577
-    time: 1530892591
+    md5: 18d6dbc7207159e4e52eba7b51994146
+    time: 1531739684
   "/articles/growing-a-global-network-of-microfinance-practitioners/index.html":
-    md5: b53f31f7a1a08262f8d8683814fe0969
-    time: 1530892591
+    md5: 7aee9fb8de99b82dea6e93e741f92bc3
+    time: 1531739685
   "/articles/building-community-climate-stories-and-adaptation-plans-from-the-ground-up/index.html":
-    md5: f5b3fbaf6daae47ac3017a77811042d1
-    time: 1530892591
+    md5: 29536ff0eeabc090c002cbf5b3ccd30a
+    time: 1531739685
   "/articles/filling-cambodias-video-void/index.html":
-    md5: fb1caee4e481ff8f9a51ccf399353817
-    time: 1530892591
+    md5: da546e5f95acf668f34c0a8429926d6a
+    time: 1531739685
   "/articles/philippines-experiences-major-increase-in-electronic-tax-filing/index.html":
-    md5: bdc2e6448e6fe53d14fb410d38130721
-    time: 1530892592
+    md5: 2910cbe055b22ab1d7c41f6c149fe839
+    time: 1531739685
   "/articles/market-systems-development-a-primer-on-pro-poor-programming/index.html":
-    md5: 6ae451b3bb2af56f089eb1aa6380a6c9
-    time: 1530892592
+    md5: 6a45fcbeba720dcb7752886b94946475
+    time: 1531739685
   "/articles/measuring-the-effectiveness-of-government-in-thailands-provinces/index.html":
-    md5: 44e7d46555c50d3b22482c15dfedbeb6
-    time: 1530892592
+    md5: 93c6e9e8001b28b5251ffe3d6e531888
+    time: 1531739685
   "/articles/from-desert-mountain-and-plain-afghanistans-first-ever-nomad-gathering/index.html":
-    md5: 0ec4cd45820345013b8130a8361ef2fc
-    time: 1530892592
+    md5: 533fcead0c028b4d3e63328116772b23
+    time: 1531739685
   "/articles/interview-with-joel-o-carter-ceo-of-the-afghanistan-agricultural-development-fund/index.html":
-    md5: 3901793731e1c28038f1ac6a09ad0db0
-    time: 1530892592
+    md5: 6099a3f231a2a6abf5a63396ae575429
+    time: 1531739685
   "/articles/uniting-tajikistans-farmers-to-fix-broken-irrigation-systems/index.html":
-    md5: 865e816e1467aac6ca21a4a9d55d5c93
-    time: 1530892592
+    md5: 46891ec38d553ebcb314aa563efafa38
+    time: 1531739685
   "/articles/in-sierra-leone-enhancing-traditional-law-and-justice-services-for-rural-people/index.html":
-    md5: def7e687a53970c7ebf480fb4e4fd93d
-    time: 1530892592
+    md5: 215766a3ab70a7ecd84af4c5d49bc9ae
+    time: 1531739685
   "/articles/the-birth-of-a-new-credit-culture-in-afghanistan/index.html":
-    md5: b4477e7abf52da4c961e15b2e2e08c59
-    time: 1530892592
+    md5: 29b763110eb88d91f9d695da04f7ae19
+    time: 1531739686
   "/articles/building-trust-while-rebuilding-somalia/index.html":
-    md5: 22de24b27822e606163e64c831fccd54
-    time: 1530892592
+    md5: bd3cd2ab11ad6838f5933fb051196e6d
+    time: 1531739686
   "/articles/speed-invigorated-business-reform-in-resource-rich-mozambique/index.html":
-    md5: f3448b119f58d2aeaaba63245823c701
-    time: 1530892592
+    md5: bade976e44cfbed398648899c3eaf314
+    time: 1531739686
   "/articles/serving-the-missing-middle-creating-access-to-finance-for-female-owned-small-businesses-in-ethiopia/index.html":
-    md5: d7195d71a2895fb95f08cb43ef1de262
-    time: 1530892592
+    md5: c6f6af62a03e431a56e27729a91d6be7
+    time: 1531739686
   "/articles/fiscal-reform-and-the-struggle-for-stability-in-jordan-1/index.html":
-    md5: c4b8e2ff43ab061d33992fc5895eae41
-    time: 1530892592
+    md5: 3cc4eeb95a64497d9e58f8957191aeb2
+    time: 1531739686
   "/articles/working-together-were-working-on-it/index.html":
-    md5: 1b84808103b8fbc6d518fbaa7d9543ba
-    time: 1530892593
+    md5: b677923bb338993aa50b141e3d504637
+    time: 1531739686
   "/articles/improved-pig-pens-help-northern-thailand-communities-brace-for-effects-of-climate-change/index.html":
-    md5: fd007480b9378106894c9d8cc079a498
-    time: 1530892593
+    md5: 2b5b64f77e2168dec43287f3f5975497
+    time: 1531739686
   "/articles/women-in-development-an-inside-view/index.html":
-    md5: 9ddd1b7a0b6bc946526df5849c597628
-    time: 1530892593
+    md5: 0ddae224af24906cd766f15e8c328a15
+    time: 1531739686
   "/articles/women-in-development-intissar-hemim/index.html":
-    md5: be2a382870710e5549c0feb63a670c88
-    time: 1530892593
+    md5: ea840876ddcfa8ff555b0118bb689911
+    time: 1531739686
   "/articles/women-in-development-dr-endah-agustiana/index.html":
-    md5: 79d843ccb70583074444fabc3e02fe1a
-    time: 1530892593
+    md5: 78b76821afbe89598eeb399535fcde68
+    time: 1531739686
   "/articles/women-in-development-ruba-alzubi/index.html":
-    md5: 936b34947377011df25818c3e8d114cc
-    time: 1530892593
+    md5: c6870fbdfd28ff2c0ed7d98276769632
+    time: 1531739686
   "/articles/jessica-heinzelman/index.html":
-    md5: 395ac430e207eb7f0781eb162614783d
-    time: 1530892593
+    md5: bc1adbb9f7008fd01ecbe6b23d7c3367
+    time: 1531739686
   "/articles/alia/index.html":
-    md5: f3bda57e6d647517de502d726daa0c68
-    time: 1530892593
+    md5: 26793aca17398f509b7075400b5cf98f
+    time: 1531739686
   "/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs/index.html":
-    md5: f72706fff2ccc4791eaad69d3316bb3b
-    time: 1530892593
+    md5: acbcf49a5b894ffd317c13ad17fa2c4a
+    time: 1531739686
   "/articles/getting-the-message-bonding-suppliers-and-farmers-via-sms/index.html":
-    md5: d0a5ff5b7e4665f3fb5767e0974724fb
-    time: 1530892593
+    md5: 7d600af62c6b91d862086b426d58d3fe
+    time: 1531739687
   "/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/index.html":
-    md5: 7f11537bedb3150cd94b011b40a972de
-    time: 1530892593
+    md5: fb25972d14208d4010a7b37a8709064a
+    time: 1531739687
   "/articles/sustaining-the-facebook-revolution-social-media-in-political-transition/index.html":
-    md5: ed57c84c9ff97f2a445424be275b9349
-    time: 1530892593
+    md5: c5b04a47b82ae7f5cef47ee38cf51a63
+    time: 1531739687
   "/articles/monitoring-our-assumptions/index.html":
-    md5: 6af1e630e94f1ecabb87faa4828e63be
-    time: 1530892593
+    md5: ec964c4990e6e7a139fe53ae55b35cbd
+    time: 1531739687
   "/articles/community-savings-groups-in-tanzania-provide-locally-managed-safety-nets/index.html":
-    md5: b0f4fed53c218671dd79c7847e17cd4f
-    time: 1530892594
+    md5: f541c03b4e5ce1b0646fdf9c95bf7a36
+    time: 1531739687
   "/articles/the-phantom-team-leader/index.html":
-    md5: d532940988eb7dc959de987be15146b8
-    time: 1530892594
+    md5: ada16011eac1bcc23f14f04b3b125f58
+    time: 1531739687
   "/articles/stepping-up-to-the-innovation-challenge/index.html":
-    md5: 85c1695e111ff686626f3aa6e0e092b3
-    time: 1530892594
+    md5: 7f34bd8822cc6d38d62d5bca084a20db
+    time: 1531739687
   "/articles/dais-2014-innovation-challenge-lessons-and-legacy/index.html":
-    md5: eacddc766bd363a6c3d04a205cd8b77d
-    time: 1530892594
+    md5: 93fb94c888efcc4be9ab1dc306d1751f
+    time: 1531739687
   "/articles/is-everyone-really-innovating/index.html":
-    md5: 32c3e97d648932925a5181d4fa635555
-    time: 1530892594
+    md5: 77479d06432da034aeefe742546a6d6a
+    time: 1531739687
   "/articles/innovations-missing-link/index.html":
-    md5: 016d3b9589d2ee8b2682517f23a43a22
-    time: 1530892594
+    md5: 99681f50d333d2dc4a1a5348496a432c
+    time: 1531739687
   "/articles/can-the-development-set-reinvent-itself/index.html":
-    md5: a70f1d21675aeff1c72f4768328b7d52
-    time: 1530892594
+    md5: c930b1765055f463b6ce9036c76e2058
+    time: 1531739687
   "/articles/disruption-for-good/index.html":
-    md5: 7deed8f445d0226169c007dcfeb2e63d
-    time: 1530892594
+    md5: e5be1e489bb2f1c505b45f454bfab91a
+    time: 1531739687
   "/articles/humanitarians-in-the-sky/index.html":
-    md5: 6dd2b400295c3615ba85e325135624bf
-    time: 1530892594
+    md5: e56b38d64e4bb21b5bb9747cd4a96124
+    time: 1531739687
   "/articles/drones-for-development/index.html":
-    md5: c70781fb1b04f5c01bb717c109df56a7
-    time: 1530892594
+    md5: d71f91e7b7da293d24d7e3850e567216
+    time: 1531739688
   "/articles/we-need-disruption-in-financial-inclusion/index.html":
-    md5: 309a6859bc7e09f4bc94b5ad4597e827
-    time: 1530892594
+    md5: 75d1e7b2cfe81c7be6411c60ed3f81d7
+    time: 1531739688
   "/articles/an-innovation-in-governance/index.html":
-    md5: 51a1fe3664e8e43c60a329df020e0e99
-    time: 1530892594
+    md5: ac0f7a92e56ff6c66e3d9dd67e55a285
+    time: 1531739688
   "/articles/failing-fast/index.html":
-    md5: aea0474b20d0e16e7e3cf264565dd709
-    time: 1530892594
+    md5: e47c788a1e1cd39b2ada6ae1bb5e119c
+    time: 1531739688
   "/articles/design-thinking-and-development/index.html":
-    md5: 6e822bd510bfa7a38c70d8dadf5298f7
-    time: 1530892594
+    md5: e32cdaaa0442ff917cd2be9461632420
+    time: 1531739688
   "/articles/big-data-for-impact/index.html":
-    md5: 4e9bbd11af6b8147f98984b132f1834f
-    time: 1530892594
+    md5: 9c784610775a84733a0f4a8ac0df6aff
+    time: 1531739688
   "/articles/made-in-africa/index.html":
-    md5: 4cd2eefc1d6fe8771a3728f419817fea
-    time: 1530892594
+    md5: caa84fe7ffb8f002bffa776429d0643e
+    time: 1531739688
   "/articles/diy-development/index.html":
-    md5: 1717f208ae81847f0207c5e668c0afa0
-    time: 1530892595
+    md5: 3b3758734cb67e75e74775dab845ea59
+    time: 1531739688
   "/articles/self-examining-practitioners/index.html":
-    md5: 657d6b8561b170bde5a812a5f52c7c05
-    time: 1530892595
+    md5: d9d4fd7ca8a4c72c673b4b9c221c6839
+    time: 1531739688
   "/articles/financial-services-via-mobile/index.html":
-    md5: 4eb3943fd92e305eba18c67ee8e88369
-    time: 1530892595
+    md5: 5f3a0fe633fa4a1a9f52e590114ad7ba
+    time: 1531739688
   "/articles/text-messages-empower-kenya/index.html":
-    md5: e03767d81145e036fc269dc6713c986b
-    time: 1530892595
+    md5: 6f6c68bd449d8530a9c998a17e46bb7c
+    time: 1531739688
   "/articles/nutrition-agriculture-and-resilience/index.html":
-    md5: d3b696f51669080092170d7f23aadf0f
-    time: 1530892595
+    md5: b1cca3434cd1b91a079e2d124e1d75c9
+    time: 1531739688
   "/articles/improving-resilience-of-the-hiv-affectede280a8/index.html":
-    md5: c8406d1015a945a73108b01124f50670
-    time: 1530892595
+    md5: 696b8156e75c3467f74c3c99cec591d9
+    time: 1531739688
   "/articles/customary-land-tenure/index.html":
-    md5: 4f5e11f3dfe970a313abd2fd50e66715
-    time: 1530892595
+    md5: 71f09cc9ec2745b3be0316d0efab9106
+    time: 1531739688
   "/articles/climate-resilient-city/index.html":
-    md5: 8b589367d49133d0255d0e84c6579ef7
-    time: 1530892595
+    md5: 0e56f9845907e667f4ffeb1cb1cc17c2
+    time: 1531739688
   "/articles/womens-inclusion-and-empowerment/index.html":
-    md5: b75c23391bfaeee767917cbb782a5df9
-    time: 1530892595
+    md5: ec6ec4d635c1adca4a84ef796ef28a65
+    time: 1531739688
   "/articles/fragility-resilience-and-libya-after-the-revolution/index.html":
-    md5: 31773ee197cb67e93457f4098213e809
-    time: 1530892595
+    md5: de1270b58a3b31069bb3cbf37f855c7b
+    time: 1531739689
   "/articles/how-peace-was-won-in-el-wak/index.html":
-    md5: 0677e0a7befd09a07fdbc3897836af62
-    time: 1530892595
+    md5: 961ebff3f16a480f54a1141eb21e2ee1
+    time: 1531739689
   "/articles/connecting-communities/index.html":
-    md5: 0889dde3a78a551da0c8fca06496c2de
-    time: 1530892595
+    md5: 832911524e13fd3f682932125dea3935
+    time: 1531739689
   "/articles/resilience-development-fad-concept-with-staying-power/index.html":
-    md5: 47cff252520ccd9c85e8a3ca7ec85725
-    time: 1530892595
+    md5: 88b69dbf9ae380162c08d76d952cea5c
+    time: 1531739689
   "/articles/building-disaster-response-capacity-and-resilience-in-fragile-states/index.html":
-    md5: be9ffea01c07ba47bfd3f4e8f1d43c2e
-    time: 1530892595
+    md5: e12ae2d7343e61000c00bcdbde8ad9ed
+    time: 1531739689
   "/articles/pro-poor-business-law-and-regulatory-reform/index.html":
-    md5: d3a350775d620a992851b3f652db9785
-    time: 1530892595
+    md5: 9e5835ef764e69af47a88e92c25eaea6
+    time: 1531739689
   "/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers/index.html":
-    md5: 4ca38d24d5293cb9ce16ad3fcd1ae926
-    time: 1530892596
+    md5: cc681088c71e52b1e4e95b12cd64781c
+    time: 1531739689
   "/articles/market-trends-and-resilience/index.html":
-    md5: 29933ea1b11baa85a1d1fea89956b7bc
-    time: 1530892596
+    md5: 15d2c1a76c6e1f7bae37b60025704650
+    time: 1531739689
   "/articles/afterword/index.html":
-    md5: 85c1dd7de2f47afebc5500af6350372a
-    time: 1530892596
+    md5: c3004703319cbda590fffa0e1fa2a05b
+    time: 1531739689
   "/articles/macroeconomic-resilience-of-nations/index.html":
-    md5: 269b0329da5ed41b41012b28b885277c
-    time: 1530892596
+    md5: 3fd4eab19771ffa0c805f6b469fcce2a
+    time: 1531739689
   "/articles/timorese-farmers-high-value-produce/index.html":
-    md5: 3daddf345e9a6d76b1588fc2cc2db6e5
-    time: 1530892596
+    md5: 91008f9fa2c7b2461751c182e153926f
+    time: 1531739689
   "/articles/supporting-the-transition-to-peace-in-sri-lanka/index.html":
-    md5: 057e221de8927aede7ee76384a6dc511
-    time: 1530892596
+    md5: 63daf78e4ce2adda2915b1d4ad06e1c7
+    time: 1531739689
   "/articles/supporting-active-citizenship-across-pakistan/index.html":
-    md5: ef4a84ddcd987fad969effecd39a1327
-    time: 1530892596
+    md5: 2088d6f02e5e94210df30269d2c946f4
+    time: 1531739689
   "/articles/solutions-thinking-outside-organizational-box/index.html":
-    md5: 8cba46ea6db3081f61a0b5eeba9f7e25
-    time: 1530892596
+    md5: a59bed111e526291b4e040d328300b96
+    time: 1531739689
   "/articles/reforming-business-policy-mozambique/index.html":
-    md5: 6c34b9b986b5ad37465ce40fbfcfda95
-    time: 1530892596
+    md5: 83a0679e07985035bef0299e71df6aad
+    time: 1531739689
   "/articles/innovative-fund-enables-philippine-water-utilities-to-invest/index.html":
-    md5: 879dfa30cba66a28c109ac6a4f6da445
-    time: 1530892596
+    md5: 741159249cef8b0fa543e176cc3c9bd4
+    time: 1531739689
   "/articles/poverty-partnership-pursuit-innovation/index.html":
-    md5: d54dfafef7ab03dfc83ec43f993a127f
-    time: 1530892596
+    md5: 55dae98e574637f518b46e46e335eca5
+    time: 1531739690
   "/articles/calculating-syrian-refugee-crisis-fiscal-crisis/index.html":
-    md5: 229d6bba50c42cc3abced0f33462e17b
-    time: 1530892596
+    md5: 0b729de95e00ae6ad0cba465cae31e95
+    time: 1531739690
   "/articles/fertilizing-method-delivers-results-for-liberian-rice-farmers/index.html":
-    md5: 689c01b9131cd21f5fd8345aec83cd55
-    time: 1530892596
+    md5: a901eb70867170665074f81e63e98a56
+    time: 1531739690
   "/articles/going-soical-on-avian-influenza/index.html":
-    md5: c6abff01c9168b876d07c38b45e518f3
-    time: 1530892596
+    md5: c7999c292c83bb21f2afbab982e7e89d
+    time: 1531739690
   "/articles/to-the-partnership-fund/index.html":
-    md5: 6518c03dbfb2e8c8a50118ccbcfdb50b
-    time: 1530892596
+    md5: 35c6abb4e77417fb01e25a2d24b3d71f
+    time: 1531739690
   "/articles/dfid-project-assists-pakistani-boys-and-girls/index.html":
-    md5: eaf2099a4f9f799408983e6f0c600c11
-    time: 1530892597
+    md5: 38502a22763f4ba0052eec61043f277c
+    time: 1531739690
   "/articles/natural-resource-conservation-through-electronic-hotel-reservations/index.html":
-    md5: 675492b08ec540a332fada7a83b37aa3
-    time: 1530892597
+    md5: 2b16f59387175d0b8d788698955b50b2
+    time: 1531739690
   "/articles/fiscal-project-helps-jordan-issue-bond/index.html":
-    md5: 17e8d4e010d4637e27599701be339043
-    time: 1530892597
+    md5: d51b8087018e9d572784ab2a21997eb2
+    time: 1531739690
   "/articles/incentive-for-moroccan-farmers-to-conserve-water/index.html":
-    md5: 8dd5dcb90900022b877af7e52b6c5030
-    time: 1530892597
+    md5: 97c936e868c7857fc0f96ec183d7c89f
+    time: 1531739690
   "/articles/mining-for-answers/index.html":
-    md5: 68d69569ee60ad6883de2b0747feb18a
-    time: 1530892597
+    md5: e0c2462f0ec0852f13c494a7d55cf558
+    time: 1531739690
   "/articles/philippine-townhtml/index.html":
-    md5: f466aad8bf885ed51f9ad9aa1535f4fd
-    time: 1530892597
+    md5: 89f777796a06501a5d96a29cc8b97e9c
+    time: 1531739690
   "/articles/building-back-better/index.html":
-    md5: 39f9cded3c9e9ce7bdeadc8847f3693a
-    time: 1530892597
+    md5: d8a4e6d21830af6310968e126d575569
+    time: 1531739690
   "/articles/evidence-kits-turning-the-tide-on-sexual-violence/index.html":
-    md5: 5ef6b395ee4e3370b3a7f4c167ad8095
-    time: 1530892597
+    md5: d89b9b9efad27a361a1ca6debe063e0f
+    time: 1531739690
   "/articles/to-unlock-job-growth-in-egypt-fix-the-micro-bee/index.html":
-    md5: 24cbce88fc7a5d3fb6c928070beecb69
-    time: 1530892597
+    md5: 3f5d10c637c2bfc2b687b3c8d89eaf5e
+    time: 1531739690
   "/articles/in-sub-saharan-africa-its-time-to-recognize-customary-land-rights/index.html":
-    md5: 7184cbb86d0fc6ba8084890ee5946ece
-    time: 1530892597
+    md5: 53178c57154ed5aae08a7895ca280370
+    time: 1531739691
   "/articles/bottom-up-decentralization-new-local-autonomy-kickstarts-community-governing-in-the-drc-3/index.html":
-    md5: 3c71ad7a88ea7eaa356bd56d5d9d430a
-    time: 1530892597
+    md5: 5460875a60e9f5e7d539bc2881aa1bfc
+    time: 1531739691
   "/articles/ensuring-that-forest-communities-own-redd-projectse28089-e28089not-the-other-way-around/index.html":
-    md5: c6d183872dd656cfe6e3e7fd6a28998a
-    time: 1530892597
+    md5: 138aaf71e8ca96df5f3d20e9fc1f73ac
+    time: 1531739691
   "/articles/three-things-that-really-mattered-to-developing-the-youth-workforce-in-serbias-down-economyhtml/index.html":
-    md5: c73c810b5a355e3f97edca7e4045d12d
-    time: 1530892597
+    md5: 3b0c29822311cdabc96d58b67ca0a12f
+    time: 1531739691
   "/articles/foreseeing-a-grave-crisis-will-india-e280a8embrace-greater-water-use-efficiency/index.html":
-    md5: 9bb83571e74a31e878c9f4c3a3e37d2b
-    time: 1530892597
+    md5: 013f56668b41592d93da95b89f3f55a3
+    time: 1531739691
   "/articles/competitiveness-driven-growth-ciber-process-breaks-barriers-for-moldovan-entrepreneurs/index.html":
-    md5: cdf415aa73790696ada5dcda9f0167e2
-    time: 1530892597
+    md5: 39eee5479f973f590d59c835af8c5ad3
+    time: 1531739691
   "/articles/financial-inclusion/index.html":
-    md5: c45be4b92b8be5a107e4ad5c4c83de6e
-    time: 1530892597
+    md5: 5db33e0c1ea60b6def8bc943df3144ac
+    time: 1531739691
   "/articles/microinsurance-does-it-pay-off-for-the-poor/index.html":
-    md5: d89dca338feb9fddf0ad95f53f12571b
-    time: 1530892598
+    md5: 6a9ba13fdeeee93b207ebd8d36b2fb13
+    time: 1531739691
   "/articles/mobile-services-for-the-unbanked-finding-a-viable-commercial-model/index.html":
-    md5: e009f1f10a28d25eb39f2c0418a68d46
-    time: 1530892598
+    md5: 51debb511298fd286a51fb9cd1b17817
+    time: 1531739691
   "/articles/savings-groups-and-financial-inclusion/index.html":
-    md5: 5332f0f5636f01db599156d91ee5c8c0
-    time: 1530892598
+    md5: e267de6f2c0540ba61d40a0dbf421924
+    time: 1531739691
   "/articles/how-to-unlock-the-potential-of-mobile-money/index.html":
-    md5: c01add64aa7268a3a5e1c708bc019534
-    time: 1530892598
+    md5: cc47dd6ca9975ef2539bdd3a03f4dd87
+    time: 1531739691
   "/articles/the-service-provider-spectrum-from-microfinance-to-financial-inclusion/index.html":
-    md5: 3363540776026aef0968d6764a071c5e
-    time: 1530892598
+    md5: 8632704d5c06dbe17cb49ac3b2c51249
+    time: 1531739691
   "/articles/financial-education-time-for-a-re-think/index.html":
-    md5: d1fda480028def60b7337f997e95181f
-    time: 1530892598
+    md5: a6bb7fecf116fe7ca25272177577e85e
+    time: 1531739691
   "/articles/does-microfinance-work/index.html":
-    md5: ad108d69a0911a43f2420ab6ad633637
-    time: 1530892598
+    md5: e23ccd5f663589fcfaa9d12e11551a7b
+    time: 1531739691
   "/articles/beyond-financial-inclusion/index.html":
-    md5: 47678ac86364098c8c7fc7ff3cac2460
-    time: 1530892598
+    md5: 05fe361c5e74362d9093e68e794f10db
+    time: 1531739691
   "/articles/benefits-of-bringing-mobile-banking-to-the-unbanked/index.html":
-    md5: 515fdd5e7bcb9150eca5408f897f6915
-    time: 1530892598
+    md5: 7fafac0592cc2e3805bfc51e018dc0ab
+    time: 1531739692
   "/articles/are-the-pacific-islands-ripe-for-mobile-money/index.html":
-    md5: 3c7dc0d062faf1663dbc3cf37f815a14
-    time: 1530892598
+    md5: fc3f66d4081c5d24eef8e278e0c920fe
+    time: 1531739692
   "/articles/agricultural-credit-delivering-the-development-promise-in-afghanistan/index.html":
-    md5: 5fd51fa4575b0a03f6c039f963a2a9ef
-    time: 1530892598
+    md5: 669606256aa0c5b4a8302213809c50ae
+    time: 1531739692
   "/articles/a-new-financial-model-putting-the-individual-at-the-centre/index.html":
-    md5: b2d46467f85cb0b4687d303c3bce5e8d
-    time: 1530892598
+    md5: bd6b2381a8a876ff5222a5d2f97b9155
+    time: 1531739692
   "/articles/a-cash-lite-world-safe-cheap-and-convenient-payments-for-all/index.html":
-    md5: 50524bf74ad181d18f82e0c95871e71e
-    time: 1530892598
+    md5: a1f3fce0b2b7b209ee1eea626a7f1bf2
+    time: 1531739692
   "/articles/rwandan-national-park-project-honored-as-worlds-best-by-british-travel-writers/index.html":
-    md5: d45fe71fd0b67fe9ce50546e5211a7cd
-    time: 1530892599
+    md5: b53f4d9a948c97248549c5a9285016d1
+    time: 1531739692
   "/articles/philippine-city-launches-mobile-payment-pilot/index.html":
-    md5: 5a799ae4aeee159813fd0f438de6b45f
-    time: 1530892599
+    md5: 63abebb5601a6d81caf6d514a9d157d1
+    time: 1531739692
   "/articles/one-million-cambodians-reache/index.html":
-    md5: f0f2d554fe88b5337e4b83e48f5af321
-    time: 1530892599
+    md5: 37cfd25fa0ffa2cc7a7d0a3ece6584c7
+    time: 1531739692
   "/articles/using-hard-data-to-inform-hivaids-interventions-for-economic-strengthening/index.html":
-    md5: cc95606b858457ab8f43a6fb3c12c911
-    time: 1530892599
+    md5: a8eb0193846fabfc1eb16d923ba0728e
+    time: 1531739692
   "/articles/linking-soldiers-civilians-across-west-central-africa-to-increase-stability-security/index.html":
-    md5: 6853d913190a99586237e482e46441d7
-    time: 1530892599
+    md5: fa25b44f440cea3ddc35f93c21924722
+    time: 1531739692
   "/articles/inexpensive-mobile-platform-connects-agribusinesses-to-work-together-better/index.html":
-    md5: c7197c7aacd0eb24f48f8d40c3060279
-    time: 1530892599
+    md5: f635d2780d0da90a314705886950961a
+    time: 1531739692
   "/articles/great-expectations/index.html":
-    md5: a7a695cf91bf5788b7b875726aa87af9
-    time: 1530892599
+    md5: 33ab3eb744de77bb803fd016e8bea1bc
+    time: 1531739692
   "/articles/development-insights-on-the-frontlines-of-asymmetric-warfare/index.html":
-    md5: 3d3eba2a010b06753df21e5f6c3e4ca9
-    time: 1530892599
+    md5: bc31ac91f85d6d434cefd41a93b838d5
+    time: 1531739692
   "/articles/business-booms-for-farmers-who-solved-supply-problem-for-top-regional-business/index.html":
-    md5: 45305b902d8ff9d4eeab98e13e292941
-    time: 1530892599
+    md5: e62e766637b261b898cd15a3ee9f88a8
+    time: 1531739692
   "/articles/youth-music-and-popular-voice-in-the-democratic-republic-of-the-congo/index.html":
-    md5: be69458caf7812231bf1c25b99e1d9b9
-    time: 1530892599
+    md5: f1405c47beb0452ae52b5e6ec6cba2e9
+    time: 1531739693
   "/articles/ways-to-help-women-reclaim-their-roles-in-afghanistans-economic-growth/index.html":
-    md5: 331da0d08f6a4f88973892d216dc2144
-    time: 1530892599
+    md5: d3a355a298513971e1fe5125308f6db6
+    time: 1531739693
   "/articles/usaid-star-project-helped-propel-vietnam-into-the-global-economy/index.html":
-    md5: 06bfc140177950f5ec34ad13221f9e4d
-    time: 1530892599
+    md5: b0f6120effc5f906d52c1f706a093f87
+    time: 1531739693
   "/articles/thousands-worldwide-find-environmental-solutions-at-frameweb/index.html":
-    md5: e378e1d4e2b55bd3858fd389e917f573
-    time: 1530892599
+    md5: 8ec4fc125ef13fcca31cd345ec8ce663
+    time: 1531739693
   "/articles/supplier-development/index.html":
-    md5: 202e217b29bb4261a12c1bd6b3a7d187
-    time: 1530892600
+    md5: 73f38c2baad32c31ac8f4293851aaf27
+    time: 1531739693
   "/articles/-providing-an-afghan-village-with-lights-and-electricity/index.html":
-    md5: 4c2c9f29b2c4757ada81b993766a01f1
-    time: 1530892600
+    md5: 16bcb8781f7ad2534ab4ddb3edce11e5
+    time: 1531739693
   "/articles/in-arid-jordan-idara-motivated-citizens-government-to-conserve-precious-water/index.html":
-    md5: 0a5112716037d213082129def2999b5e
-    time: 1530892600
+    md5: 34bfe6009a925d9930123d37424d723d
+    time: 1531739693
   "/articles/herat-economic-corridor-could-catalyze-growth-in-western-afghanistan/index.html":
-    md5: cfdce25ec69f6af524e52bf9a7916116
-    time: 1530892600
+    md5: 90e14067ba089dbd545225ebb3937e34
+    time: 1531739693
   "/articles/helping-a-south-african-mining-giant-invest-for-results-in-its-local-communities/index.html":
-    md5: 1ab364a13bb8cc81ae9cc9102ae0230e
-    time: 1530892600
+    md5: f3a9ce2cb0280e24846f292ac7500b45
+    time: 1531739693
   "/articles/dai-security-chief-discusses-importance-of-local-security-and-training/index.html":
-    md5: 326e6dc147fc87e0cebb393df49eefa2
-    time: 1530892600
+    md5: 3c468726bc3bb23d3c00d3bcc0856ef6
+    time: 1531739693
   "/articles/competitiveness-initiative-simplifies-business-in-vietnam/index.html":
-    md5: 8a9ea98335d608db885ec7b2fcac97cf
-    time: 1530892600
+    md5: 2ae75dbc5af2fbd645cd23da48d17c01
+    time: 1531739693
   "/articles/project-improves-business-environment-in-morocco-in-midst-of-political-upheaval/index.html":
-    md5: 360f03d77d5d54b93d1d2bf21f365370
-    time: 1530892600
+    md5: 2884ece6c37ccb773e0b8b17fa86c47b
+    time: 1531739693
   "/articles/project-helps-vietnam-cut-red-tape-hone-competitiveness-and-boost-economic-growth/index.html":
-    md5: 4a792cc76b157b39c964cc789f08e3d3
-    time: 1530892600
+    md5: 4be30d544085ecb753c4c8da4df302d7
+    time: 1531739693
   "/articles/doing-more-with-doing-business-vietnam-provincial-competitiveness-index/index.html":
-    md5: 5414751b84aafdb5d7225606f7cbde0d
-    time: 1530892600
+    md5: dec86964492f0f85a02be2b498c90dc1
+    time: 1531739693
   "/articles/rethinking-participatory-development-from-critique-to-better-practice/index.html":
-    md5: cf5976e3785068215115f9e1243ebc40
-    time: 1530892600
+    md5: 95db6b06338dc79c54161bf43e5e6f06
+    time: 1531739694
   "/articles/amplifying-the-voice-of-business-to-drive-policy-reform-in-a-difficult-environment/index.html":
-    md5: 0f588ed3c8f258f3cb0c3cd40351e7a3
-    time: 1530892600
+    md5: 9e994f91807d8a5544f106e02a5fb024
+    time: 1531739694
   "/articles/science-into-action-turning-climate-studies-into-decision-making-tools/index.html":
-    md5: fda5f1cff6ab1ddd0a988a19f5e09b45
-    time: 1530892600
+    md5: 8c00928cd121e4f8b35675ae73074389
+    time: 1531739694
   "/articles/daideas-innovation-in-action-chevron/index.html":
-    md5: 37a347823be8d2627fcc7e2cfd940f8d
-    time: 1530892600
+    md5: d0cf6f944df22be16c2184228206af61
+    time: 1531739694
   "/articles/haitian-farmers-see-increased-income-while-better-managing-their-natural-resources/index.html":
-    md5: 19391446ffce62569026b353752a77c1
-    time: 1530892600
+    md5: 02fbf6e99d7cf66f437ca76b5c020705
+    time: 1531739694
   "/articles/afghan-farmers-investing-in-livelihoods/index.html":
-    md5: 27024ee813d58baa12f09383672254f0
-    time: 1530892601
+    md5: 85a74a913c6e5584a3c3d381d2baf8d9
+    time: 1531739694
   "/articles/project-brings-together-divergent-ethnic-groups-in-sri-lanka/index.html":
-    md5: 04faead626b8f4a267b55f82918a3e2f
-    time: 1530892601
+    md5: e15e4da4bb0485508dd2c8809d17832e
+    time: 1531739694
   "/articles/market-driven-approach-delivers-far-reaching-results-in-burundi/index.html":
-    md5: 5851cba253331aaa5db68343e4aede2c
-    time: 1530892601
+    md5: 70ef063ed84a75214d3c1461b65674ec
+    time: 1531739694
   "/articles/the-re-greening-of-iraq-restoring-marshlands/index.html":
-    md5: 9c0cdf03c2c65bc06cd72c2e1e7bacc5
-    time: 1530892601
+    md5: 9359f9942acb1237a7e85d3c7721454e
+    time: 1531739694
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
-    md5: 0a5ba5311a55b55219e762db53fea43a
-    time: 1530892601
+    md5: 9dee421136279b5c447a4d7affb2a564
+    time: 1531739694
   "/articles/enhancing-productivity-in-nigerian-aquaculture/index.html":
-    md5: 723d58f275c0688e9c4d5764d06f10b3
-    time: 1530892601
+    md5: 7d58ccd1dcdb38e71614107a458bbf64
+    time: 1531739694
   "/articles/growing-the-lesotho-garment-industry/index.html":
-    md5: f6f7d3d96b97151ee4ee1099529226fc
-    time: 1530892601
+    md5: a6fe3f49ca20cda25538cf04a2ae8e4d
+    time: 1531739694
   "/articles/archive/index.html":
     md5: 05ccfc27af8e3fc7cd03e9b2fd6deed7
     time: 1522961351
   "/articles/tags/index.html":
-    md5: 6f3cbcb82ca003187145e298017379be
-    time: 1530892601
-  "/articles/tags/global-health/index.html":
-    md5: 9b94235a4bb3e75bfa44eefa1e405655
-    time: 1530892601
-  "/articles/tags/ict/index.html":
-    md5: 2f0b778ad07923ec8bf760e43a726815
-    time: 1530892601
-  "/articles/tags/innovation/index.html":
-    md5: ca627cd2249498f7a07af6b5d81e3192
-    time: 1530892601
+    md5: 3fb8aefb8e01a7f87148330c87eee587
+    time: 1531739694
   "/articles/tags/economic-growth/index.html":
-    md5: 821f9c18ca261c6bc6181291f28e4620
-    time: 1530892602
+    md5: fffd51b1bf5cf0f5e865dae90074f915
+    time: 1531739695
   "/articles/tags/agriculture/index.html":
-    md5: 14f95182c614f76cab007ff80c54e061
-    time: 1530892602
-  "/articles/tags/resilience/index.html":
-    md5: cffc0ab97229cc8cde25a01a44475837
-    time: 1530892602
-  "/articles/tags/environment-and-energy/index.html":
-    md5: 345e74bc61d979a3608059cc1f75558d
-    time: 1530892602
-  "/articles/tags/governance/index.html":
-    md5: 8d666019893c231a976cc216f85cb106
-    time: 1530892602
-  "/articles/tags/dai/index.html":
-    md5: 9c381d9db31f12b8ab84b32e61596324
-    time: 1530892602
-  "/articles/tags/european-commission/index.html":
-    md5: b1e49403e70cffbc7a41f9d5007444b4
-    time: 1530892602
-  "/articles/tags/stability/index.html":
-    md5: 6ac9c1bf66e9f3d6d04fd1c0d64172a7
-    time: 1530892603
-  "/articles/tags/fragile-states/index.html":
-    md5: bee9f35e439b89e1d5b9f53f0dbd4a20
-    time: 1530892603
-  "/articles/tags/finance/index.html":
-    md5: 4ffaeed6854dac6b5fc703314c31c4da
-    time: 1530892603
+    md5: 0d62706c568512e01ed0dd17a96c5789
+    time: 1531739695
   "/articles/tags/trade/index.html":
-    md5: af9b3562ce2a31f7eee753ab276fc92a
-    time: 1530892603
+    md5: dcd8745f1893e62bb30df160641853a1
+    time: 1531739695
+  "/articles/tags/resilience/index.html":
+    md5: 218908a5d6bf90afb036d076acbe87a1
+    time: 1531739695
+  "/articles/tags/global-health/index.html":
+    md5: 6af3a1134e50973ddc33b15af9a1621e
+    time: 1531739695
+  "/articles/tags/ict/index.html":
+    md5: e158c96fe39979d76a001ab21dc747f2
+    time: 1531739695
+  "/articles/tags/innovation/index.html":
+    md5: 3118bdac0a6023c0650ecdab1ce7d00b
+    time: 1531739695
+  "/articles/tags/environment-and-energy/index.html":
+    md5: 6c5cac3f9b0fdaa22b2b6a95ea736d84
+    time: 1531739696
+  "/articles/tags/governance/index.html":
+    md5: 6829704ca38a3d2b3cc6a6601714d729
+    time: 1531739696
+  "/articles/tags/dai/index.html":
+    md5: d20945a44d8e28b204563b8c52f9459b
+    time: 1531739696
+  "/articles/tags/european-commission/index.html":
+    md5: 3ea6686ead2fdbbd558f814f7e1b4bb2
+    time: 1531739696
+  "/articles/tags/stability/index.html":
+    md5: 3bc63dcbb6efb44541c2194c76b38dd9
+    time: 1531739696
+  "/articles/tags/fragile-states/index.html":
+    md5: fc76b87f1b936b89e379163161bdcefd
+    time: 1531739696
+  "/articles/tags/finance/index.html":
+    md5: 7a46efbbcdf274e31fe467ceffbf7919
+    time: 1531739696
   "/articles/tags/investment/index.html":
-    md5: 59f279bec598a03062dc3cc0f7da76df
-    time: 1530892603
+    md5: e75948e0aeb95898c69cd920ed3155c4
+    time: 1531739696
   "/articles/tags/land/index.html":
-    md5: a4f2a2d89b82d4419086eac3c76b14fc
-    time: 1530892603
+    md5: d7fc68575ef0efed8e6c2f6b6f9bf6cd
+    time: 1531739696
   "/articles/tags/land-rights/index.html":
-    md5: 33593386e6a19b968a43de76fa9512a8
-    time: 1530892603
+    md5: 0d7ba83de60a5bd5b83f90a82c800df8
+    time: 1531739696
   "/articles/tags/public-financial-management/index.html":
-    md5: 1cc9436ec41f4ddb9467578434c14a2a
-    time: 1530892603
+    md5: 0bb64b239b7e4d9b2ed7298788b765e3
+    time: 1531739696
   "/articles/tags/health/index.html":
-    md5: 988ca502b9329c3165e1e29f97892355
-    time: 1530892603
+    md5: 8d66f4113e9207766094c4a7b640da65
+    time: 1531739697
   "/articles/tags/renewables/index.html":
-    md5: f3254a020fa77616734ccbad0d7fd16c
-    time: 1530892603
+    md5: f595809d3b0800cacc9e4a0732eb9895
+    time: 1531739697
   "/articles/tags/energy-and-resources/index.html":
-    md5: 52b44bb87d34eac1b6b90ec22ab2f555
-    time: 1530892603
+    md5: 201c814bb496d0f878321b01a64d1d88
+    time: 1531739697
   "/articles/tags/gender/index.html":
-    md5: 37f54e62a551c09631a07477e740a569
-    time: 1530892603
+    md5: d17759afdb395d607b9c986299e24535
+    time: 1531739697
   "/articles/tags/sustainable-business/index.html":
-    md5: 2a9da4b9b1fb6dbc71cd2ee48dec4811
-    time: 1530892603
+    md5: 97faa2d371c8a1f0175826c6d4e25ac7
+    time: 1531739697
   "/articles/tags/leadership/index.html":
-    md5: feb5768fab243e2f9a2d67d4ce5ac0cd
-    time: 1530892603
+    md5: e2f91f531fe5f0e53995146052a73476
+    time: 1531739697
   "/articles/tag-set-name/index.html":
-    md5: 49d15a45585a219e925da719492aa184
-    time: 1530892603
+    md5: 39341a6452315f9b26beb18b6510477e
+    time: 1531739697
   "/articles/energy-and-resources/index.html":
-    md5: 48aab9f329eabd3b9859db197aad26e8
-    time: 1530892603
+    md5: 57a83f6fc19ad4746c27f156a0689e01
+    time: 1531739697
   "/topics/index.html":
-    md5: 7b7e980b5babbe109e01085e048f644a
-    time: 1530892603
+    md5: 0b4eea9e64f39b5a73edc503740dced9
+    time: 1531739697
   "/about/index.html":
-    md5: e8132ec2acf0a6b2f78fb550a099aba5
-    time: 1530892603
+    md5: 2af54604a8e33c9067e785d0abe134e0
+    time: 1531739697
   "/developments/index.html":
-    md5: 926b6e39213cc25a66d509f769aec66c
-    time: 1530892604
+    md5: ec909d9fa499661e74c6621ef4f51d62
+    time: 1531739697
   "/daideas/index.html":
-    md5: 64e38f749f69def44f68d5c691d4b7a4
-    time: 1530892604
+    md5: 58fc2508ba55b6a9c856db4edd47cc43
+    time: 1531739698
   "/developing-alternatives/index.html":
-    md5: d93813c1e8ac430383538d48dc017005
-    time: 1530892604
+    md5: c640e2e529700a03dca9a61186349fd4
+    time: 1531739698
   "/developments/full-archive/index.html":
-    md5: b6ea3fa886671494e741c6c8d5876b3c
-    time: 1530892604
+    md5: e8d18b6759b8f72bbbb91a243eed9d58
+    time: 1531739698
   "/developments/summer-2018/index.html":
-    md5: fe5f2192917162c7765dfcbf10733d13
-    time: 1530892604
+    md5: 204b46717e27d2046b794ef0edc139f4
+    time: 1531739699
   "/developments/spring-2018/index.html":
-    md5: a21a30855a63a73d4bd44feee45a270f
-    time: 1530892604
+    md5: ba41be2e78054ad819133ae62811baed
+    time: 1531739699
   "/developments/winter-2017/index.html":
-    md5: 52802d4a3e6c97e872d306c4c6878007
-    time: 1530892604
+    md5: f8de2b7da72d5a0feb90a80d28e9b9d3
+    time: 1531739699
   "/developments/fall-2017/index.html":
-    md5: 0901fca33b486c0617cef4c4efa58a76
-    time: 1530892604
+    md5: 46b33bdffe00238c05e38f86af9827f2
+    time: 1531739699
   "/developments/summer-2017/index.html":
-    md5: 6a16400baeb5c249d8a1d201fba1f776
-    time: 1530892605
+    md5: 9669e886d07e1f8b0d30b012b4a78e4b
+    time: 1531739699
   "/developments/spring-2017/index.html":
-    md5: c971c9efefd2ab22d4e2c422a8ef7013
-    time: 1530892605
+    md5: 06c10ea83ed0238c50890e8b71533469
+    time: 1531739699
   "/developments/summer-2016/index.html":
-    md5: 9fb436e5383f2d6f7f295c2b9c6910e1
-    time: 1530892605
+    md5: 4364e9ab7128bc8af0df249f3950d50a
+    time: 1531739699
   "/developments/winter-2015/index.html":
-    md5: f327c3facac2971be6a29e9aba0087cb
-    time: 1530892605
+    md5: 24cf3b9aa0706ea0631003d9a4f198dc
+    time: 1531739699
   "/developments/fall-2015/index.html":
-    md5: 9d454670c5b57676fb08febd18a31443
-    time: 1530892605
+    md5: 04517f3815280ce92037347f319279d6
+    time: 1531739700
   "/developments/summer-2015/index.html":
-    md5: 2f73a7105475a6bb7726de1a07410a21
-    time: 1530892605
+    md5: 2aaa70d1b46599483f5aaa5061a36151
+    time: 1531739700
   "/developments/spring-2015/index.html":
-    md5: ca79a961dd3669a78c774558e282184d
-    time: 1530892605
+    md5: 8f26ed1d310b9d1dc083c4bdf4ee9aac
+    time: 1531739700
   "/developments/innovation/index.html":
-    md5: c9571955646c731bbfe7e3abced251ff
-    time: 1530892605
+    md5: 6a80514fa67d0f3b5e220b0df6d43d56
+    time: 1531739700
   "/developments/summer-2014/index.html":
-    md5: 348364d62a8e8169e97787f037d5ca3e
-    time: 1530892605
+    md5: 813e492ee3f7dbb7dee02ccda7dca8d0
+    time: 1531739700
   "/developments/winter-2013/index.html":
-    md5: 41ab84119cd782db2468307105b984d1
-    time: 1530892605
+    md5: 999bcc26d5cf9cf12a8425f5af9da806
+    time: 1531739700
   "/developments/summer-2013/index.html":
-    md5: 3e04e65c62ad9d13ae1ac1adfa53ba30
-    time: 1530892606
+    md5: 1098558ee42e55b023ea6deb88a4e05e
+    time: 1531739700
   "/developments/financial-inclusion/index.html":
-    md5: 2ad3310ac2de4e6cd53f1769fa341e85
-    time: 1530892606
+    md5: 5d77e99527382da7e909ce1d94003252
+    time: 1531739700
   "/developments/spring-2013/index.html":
-    md5: 2b6572992a13e4dd72a7a43679d1aaa3
-    time: 1530892606
+    md5: da420d6f9c68a3745a9d4477ce71b162
+    time: 1531739700
   "/developments/summer-2012/index.html":
-    md5: b3d8cc59f92385c0e2da3543890b160d
-    time: 1530892606
+    md5: 06787af1ffe4aab10af26c2b7f47e5f0
+    time: 1531739700
   "/developing-alternatives/land-rights/index.html":
-    md5: d9d4fcc8632b3f15850dfde0eb2fa90b
-    time: 1530892606
+    md5: a0a60ef0139f89f1e952dcc85ceda543
+    time: 1531739701
   "/developing-alternatives/winter-2013/index.html":
-    md5: 8de174de54b595eafcc6eb2e758192ce
-    time: 1530892606
+    md5: acf66d913a09dc1c2bfd39e2f474be77
+    time: 1531739701
   "/developing-alternatives/full-archive/index.html":
-    md5: 3cbe439c7831987f72a8b77e15affd87
-    time: 1530892606
+    md5: 08fc15f6d104eccdeaea0b9a7e05d67a
+    time: 1531739701
   "/CNAME":
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: ecda8d1ffc2bd2449c3870e49716dff2
-    time: 1530892606
+    md5: 0129e27ce6994449ab267331a4b1dee1
+    time: 1531739701
   "/feed.xml":
-    md5: d12dc0e2024e3196867f40cbabbce268
-    time: 1530892607
+    md5: 89d9a4f8decd40cccbba9f051eb8f9a4
+    time: 1531739702
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1367,8 +1370,8 @@ inventory:
     md5: da73d5bb4d4732c0bd0e7ae36d020d1d
     time: 1506459791
   "/404.html":
-    md5: 08eefe67a3a2d6091c9a75ea37b0ac89
-    time: 1530892607
+    md5: 6e6afa16840f267b470130e84f344635
+    time: 1531739702
   "/assets/practitioners.jpg":
     md5: be31d723eb9bc0dfa68d147496ce0796
     time: 1506459791
@@ -1601,8 +1604,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 4509a1ca2da1641b1ee38cf5746843b0
-    time: 1530892607
+    md5: 80a3262682e46d0b5d08747df0f4b8b2
+    time: 1531739702
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
@@ -2431,6 +2434,9 @@ inventory:
   "/assets/Devs----Umar-Shavurov.jpg":
     md5: cb8afb255635aac9a4c221a0bd5f2304
     time: 1531260979
+  "/assets/Yohannes-Assefi-mug.jpg":
+    md5: 028354500cc2f958ce18878d26627bb7
+    time: 1531739702
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -2860,6 +2866,9 @@ inventory:
   "/assets/Devs----Liberia-Mobile-1.jpg":
     md5: 039fc0e40bd11093e8c5ab4becfa0484
     time: 1531260979
+  "/assets/DAI-News----EATIH-grain-pic-3.jpg":
+    md5: a20760a95d89a3bc59fd97ee3d04f907
+    time: 1531739702
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
