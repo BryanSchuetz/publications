@@ -1,5 +1,5 @@
 ---
-time: 1531769070
+time: 1531956179
 inventory:
   "/publications/index.html":
     md5: d502170c7fdd312dcfaf9a1df38c5645
@@ -11,14 +11,14 @@ inventory:
     md5: bf04cd64ae3d6405c5e129fe98e09d97
     time: 1531739673
   "/articles/africa-trading-five-takeaways-on-trade-based-solutions-for-food-security/index.html":
-    md5: 57c4ec2e2f430ddce98f57dfdca2c282
-    time: 1531769034
+    md5: e4031ad77498273bff73117ef91a49dc
+    time: 1531956143
   "/articles/global-health-and-tech-thinkers-come-together-at-switchpoint/index.html":
     md5: 0dcd142da800be1de91863d27e5e2ba0
     time: 1531739673
   "/articles/four-recommendations-for-strengthening-seed-systems/index.html":
-    md5: b3da29a32bb3a6ca43b798c2fedc5c2c
-    time: 1531739673
+    md5: 9a4e0c2786a4a70f6e3d9bcc03d99b45
+    time: 1531956143
   "/articles/new-generation-of-ec-framework-contracts-offers-agile-programming-for-european-development-aid/index.html":
     md5: d56c835e0690f81a731ae933db2fae88
     time: 1531739673
@@ -737,17 +737,17 @@ inventory:
     md5: 3fb8aefb8e01a7f87148330c87eee587
     time: 1531739694
   "/articles/tags/economic-growth/index.html":
-    md5: fffd51b1bf5cf0f5e865dae90074f915
-    time: 1531739695
+    md5: a02627f6b507af652e953ba752b6ec26
+    time: 1531956166
   "/articles/tags/agriculture/index.html":
-    md5: 0d62706c568512e01ed0dd17a96c5789
-    time: 1531739695
+    md5: 664882f275cc6c7fab872f5fc10ba7e5
+    time: 1531956166
   "/articles/tags/trade/index.html":
-    md5: dcd8745f1893e62bb30df160641853a1
-    time: 1531739695
+    md5: f7121c8ce6112addcc0bcccd582edd07
+    time: 1531956166
   "/articles/tags/resilience/index.html":
-    md5: 218908a5d6bf90afb036d076acbe87a1
-    time: 1531739695
+    md5: 933a06bbe120ea1c1dc65eae06128299
+    time: 1531956167
   "/articles/tags/global-health/index.html":
     md5: 6af3a1134e50973ddc33b15af9a1621e
     time: 1531739695
@@ -830,11 +830,11 @@ inventory:
     md5: c640e2e529700a03dca9a61186349fd4
     time: 1531739698
   "/developments/full-archive/index.html":
-    md5: b72bf43049f2008c1c18249e02209498
-    time: 1531751572
+    md5: b93e53b1375d8f963567677e94b85c21
+    time: 1531956169
   "/developments/summer-2018/index.html":
-    md5: 204b46717e27d2046b794ef0edc139f4
-    time: 1531739699
+    md5: 41ac5f9f6b7c71b7a40a52c279f5e274
+    time: 1531956169
   "/developments/spring-2018/index.html":
     md5: ba41be2e78054ad819133ae62811baed
     time: 1531739699
@@ -899,11 +899,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c75c7104e3e1d48b08fc699a0e11f5d1
-    time: 1531769065
+    md5: 11ad6afdb89a5e24d55ee2dad4330b2d
+    time: 1531956171
   "/feed.xml":
-    md5: ca8d3c6ea013d8803bc863df0379616c
-    time: 1531769066
+    md5: db63d8d04e371be4c1ed6efda8bfc41d
+    time: 1531956172
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
