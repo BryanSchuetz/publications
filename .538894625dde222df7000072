@@ -1,5 +1,5 @@
 ---
-time: 1532021848
+time: 1532026992
 inventory:
   "/publications/index.html":
     md5: cf38b642eeb0e3a649c61fc49bb4eee6
@@ -11,8 +11,8 @@ inventory:
     md5: 8ee69579c2e28a59d679955f3e689bc8
     time: 1532021673
   "/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/index.html":
-    md5: 264db6bb1bd23831db5359751c92ea1d
-    time: 1532021673
+    md5: 9a1e77b4ab0ee29a2764d395aea1d35e
+    time: 1532026956
   "/articles/africa-trading-five-takeaways-on-trade-based-solutions-for-food-security/index.html":
     md5: fe4889ba5c0ca044945c28c669e05de6
     time: 1532021673
@@ -833,8 +833,8 @@ inventory:
     md5: cf1c2e866f10a6c4593ffccf8335b6e4
     time: 1532021701
   "/developments/full-archive/index.html":
-    md5: f93960561713eaf212d856a8105b7a5a
-    time: 1532021701
+    md5: 0a82ee0d7c0622bd17ab1db3bb5d6005
+    time: 1532026982
   "/developments/summer-2018/index.html":
     md5: afc580f3038f59b5a907d88c854685ae
     time: 1532021701
@@ -902,11 +902,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c35f054901651b6aadc7ace4188f2bc4
-    time: 1532021704
+    md5: 038ff42a0b5d0bdf9f266ae4f3f2591b
+    time: 1532026985
   "/feed.xml":
-    md5: 619ecea24f2563fdbcd7530671cda9f0
-    time: 1532021704
+    md5: 1b134e49ce150c50b653265577e50218
+    time: 1532026985
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1601,14 +1601,14 @@ inventory:
     md5: e6cc5dc0c10fe01f54ff63d41c2bf320
     time: 1506459802
   "/pfm-pubs.yml":
-    md5: efacd532d8989d07267ea19e612312db
-    time: 1532021705
+    md5: 328e02d010675401e2ac0a6a753b5170
+    time: 1532026986
   "/assets/Devs----Blended-pic-5.jpg":
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 1bab8de742cd8b8cd4bbad597ec28d25
-    time: 1532021705
+    md5: e0b571df7dc12a0150b9d92acd87c030
+    time: 1532026986
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
