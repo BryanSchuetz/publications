@@ -1,5 +1,5 @@
 ---
-time: 1532026992
+time: 1532027764
 inventory:
   "/publications/index.html":
     md5: cf38b642eeb0e3a649c61fc49bb4eee6
@@ -11,8 +11,8 @@ inventory:
     md5: 8ee69579c2e28a59d679955f3e689bc8
     time: 1532021673
   "/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/index.html":
-    md5: 9a1e77b4ab0ee29a2764d395aea1d35e
-    time: 1532026956
+    md5: 970bc13acb27a21eb746096405ae484f
+    time: 1532027731
   "/articles/africa-trading-five-takeaways-on-trade-based-solutions-for-food-security/index.html":
     md5: fe4889ba5c0ca044945c28c669e05de6
     time: 1532021673
@@ -902,11 +902,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 038ff42a0b5d0bdf9f266ae4f3f2591b
-    time: 1532026985
+    md5: 8a4d972e7095c5394acc584c91fe5a78
+    time: 1532027759
   "/feed.xml":
-    md5: 1b134e49ce150c50b653265577e50218
-    time: 1532026985
+    md5: f33cf723c737e334ecb40daafebc9b56
+    time: 1532027760
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
