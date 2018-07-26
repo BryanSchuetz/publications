@@ -1,5 +1,5 @@
 ---
-time: 1532563231
+time: 1532563806
 inventory:
   "/publications/index.html":
     md5: f102ec4d8b3051fb8476d220e9c28e38
@@ -11,8 +11,8 @@ inventory:
     md5: d416d57b728c4c85cae406d9c7813efe
     time: 1532562601
   "/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/index.html":
-    md5: 75776ccc1b65b7cca3e5d322f61dbacf
-    time: 1532563193
+    md5: b6bb8038726735ba46d67a671cdcb195
+    time: 1532563775
   "/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/index.html":
     md5: dbe13d668dbdd08bff239e271c1279e8
     time: 1532562601
@@ -905,11 +905,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: b74159ca35747e011104a871aabadb15
-    time: 1532563224
+    md5: 05d45a75fa04cba5a4c040d9b3eed772
+    time: 1532563801
   "/feed.xml":
-    md5: e780197f825ac28a3508dedccd0918e3
-    time: 1532563225
+    md5: fd42685b342a432ced03387112456e62
+    time: 1532563802
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
