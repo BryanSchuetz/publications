@@ -1,5 +1,5 @@
 ---
-time: 1532623211
+time: 1532630279
 inventory:
   "/publications/index.html":
     md5: 0bfab4175c7630dd3555124885d67456
@@ -11,8 +11,8 @@ inventory:
     md5: 9d6f033a472a9f27641064b389746650
     time: 1532623049
   "/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/index.html":
-    md5: 6d7d06937ae0be72863148b0634a601d
-    time: 1532623049
+    md5: 0c19fd18cebeca48bd75f3c5f06cd7e8
+    time: 1532630247
   "/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/index.html":
     md5: e8286447c2b9d24dd2a28124515c1a6d
     time: 1532623049
@@ -836,8 +836,8 @@ inventory:
     md5: 4166a3fac0fe1a3f844c5ce24671b8d1
     time: 1532623075
   "/developments/full-archive/index.html":
-    md5: 8d06ef198889ee7414862c12403415f8
-    time: 1532623076
+    md5: db849f529a421913e8240187fdf41b7a
+    time: 1532630271
   "/developments/summer-2018/index.html":
     md5: 084988f5226a59741ff62fe5a97dfa52
     time: 1532623076
@@ -905,11 +905,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 42475a8e01f1ff78c4191979aa449f00
-    time: 1532623078
+    md5: 5dbd6a5268afbfadad50706380201585
+    time: 1532630274
   "/feed.xml":
-    md5: 7f5a208886c34c1558ef03af2fadf1b6
-    time: 1532623078
+    md5: a68a982688fe1940c33ee2d166a86e3c
+    time: 1532630274
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1610,8 +1610,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 2a55810b458ae10b246744084ee96dce
-    time: 1532623078
+    md5: be76fbb058c5bd5d43ea146b61672a20
+    time: 1532630274
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
