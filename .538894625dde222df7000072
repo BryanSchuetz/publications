@@ -1,5 +1,5 @@
 ---
-time: 1532576542
+time: 1532604317
 inventory:
   "/publications/index.html":
     md5: f102ec4d8b3051fb8476d220e9c28e38
@@ -11,8 +11,8 @@ inventory:
     md5: d416d57b728c4c85cae406d9c7813efe
     time: 1532562601
   "/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/index.html":
-    md5: 0fdba3b8c42ca31702d82b507688d59d
-    time: 1532576508
+    md5: 1802d5f06af3519d535c1e4eedcc45c0
+    time: 1532604284
   "/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/index.html":
     md5: dbe13d668dbdd08bff239e271c1279e8
     time: 1532562601
@@ -908,8 +908,8 @@ inventory:
     md5: d728891f9e4e6db930e8bbdafa33a0c9
     time: 1532576537
   "/feed.xml":
-    md5: 1a042959cd057bdd6819554bd8fb3354
-    time: 1532576537
+    md5: 3e411ae5cff66f6733a13d9b1f75662e
+    time: 1532604313
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -3397,6 +3397,9 @@ inventory:
   "/assets/Devs----Liberia-Mobile-5.jpg":
     md5: d0e3ae678312a6b27732d15128c9989e
     time: 1531260980
+  "/assets/Devs----Stephen-Strauss-mug.jpg":
+    md5: e5e079613ee58402791234438b82bf81
+    time: 1532604313
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
     time: 1506459864
