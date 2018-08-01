@@ -1,5 +1,5 @@
 ---
-time: 1532630418
+time: 1533150717
 inventory:
   "/publications/index.html":
     md5: 0bfab4175c7630dd3555124885d67456
@@ -8,8 +8,8 @@ inventory:
     md5: 0bfab4175c7630dd3555124885d67456
     time: 1532623049
   "/articles/index.html":
-    md5: 9d6f033a472a9f27641064b389746650
-    time: 1532623049
+    md5: 25d1ecc89c9326e6b3de9ea973212974
+    time: 1533150681
   "/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/index.html":
     md5: 6d7d06937ae0be72863148b0634a601d
     time: 1532630384
@@ -20,8 +20,8 @@ inventory:
     md5: 337a84e0154ad6f71fc74fdf0ad5436d
     time: 1532623049
   "/articles/global-health-and-tech-thinkers-come-together-at-switchpoint/index.html":
-    md5: 03cd42197ab279bae49666e148affe7e
-    time: 1532623049
+    md5: b01b895492c073b48d0237691fbe2e40
+    time: 1533150681
   "/articles/four-recommendations-for-strengthening-seed-systems/index.html":
     md5: 7741037cf37b439df67f6f398eff79e3
     time: 1532623050
@@ -758,8 +758,8 @@ inventory:
     md5: d51ab13156b9def93125f8379c59b410
     time: 1532623073
   "/articles/tags/ict/index.html":
-    md5: ca96558daace5b85c1e64ec57da36624
-    time: 1532623073
+    md5: 623a42e15abcfc8d763191b31672211e
+    time: 1533150704
   "/articles/tags/agriculture/index.html":
     md5: 99f6a89680530bfd493b6d93c4ef6a0c
     time: 1532623074
@@ -769,12 +769,12 @@ inventory:
   "/articles/tags/resilience/index.html":
     md5: 226a939a3c565d9af2cfa1e738bead9a
     time: 1532623074
-  "/articles/tags/global-health/index.html":
-    md5: 52f71f170eedffc576e1f811cd98500b
-    time: 1532623074
   "/articles/tags/innovation/index.html":
-    md5: 946c665c798818bea2b209de65987526
-    time: 1532623074
+    md5: 26bb99d1e9a0272e09e2c5878e7c9101
+    time: 1533150704
+  "/articles/tags/health/index.html":
+    md5: 755dd846bda44e604dc489305b008863
+    time: 1533150704
   "/articles/tags/environment-and-energy/index.html":
     md5: 8a142760cc0af2d6a16c3c377b213aae
     time: 1532623074
@@ -793,15 +793,15 @@ inventory:
   "/articles/tags/investment/index.html":
     md5: edbc5338402e2284bdf68a4a410f9cc0
     time: 1532623074
+  "/articles/tags/global-health/index.html":
+    md5: d5e57dda432557f22905ec95de9b14a9
+    time: 1533150705
   "/articles/tags/land/index.html":
     md5: 518dd0d9be9e6ce5d03e864ed5d57b1f
     time: 1532623074
   "/articles/tags/land-rights/index.html":
     md5: 573667ee12a61be5bb264c1403b55a05
     time: 1532623074
-  "/articles/tags/health/index.html":
-    md5: e716c81ed226ade29a1f91568d25f648
-    time: 1532623075
   "/articles/tags/renewables/index.html":
     md5: b72e29da078e5af67237a2529fc2263d
     time: 1532623075
@@ -836,11 +836,11 @@ inventory:
     md5: 4166a3fac0fe1a3f844c5ce24671b8d1
     time: 1532623075
   "/developments/full-archive/index.html":
-    md5: 8d06ef198889ee7414862c12403415f8
-    time: 1532630410
+    md5: 6d4529f4cdd44673a4466a83dc8b102f
+    time: 1533150706
   "/developments/summer-2018/index.html":
-    md5: 084988f5226a59741ff62fe5a97dfa52
-    time: 1532623076
+    md5: 55a7e54f3704500970652aabb1eaf6f0
+    time: 1533150706
   "/developments/spring-2018/index.html":
     md5: 970891f05af9702fcc9babfce269a89d
     time: 1532623076
@@ -905,11 +905,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: e8bbe36e66ed51d4b287c55c34cd2a00
-    time: 1532630412
+    md5: b1be74a73c292c4925ef830809bf46a6
+    time: 1533150708
   "/feed.xml":
-    md5: b4b714b11bed0d900afe8fb6639bd19c
-    time: 1532630413
+    md5: 69a2a6cccad54b1e1573b49d7317799c
+    time: 1533150709
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1610,8 +1610,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 2a55810b458ae10b246744084ee96dce
-    time: 1532630413
+    md5: a8aa9ec81d1eddd4eccbbf293617c500
+    time: 1533150709
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
