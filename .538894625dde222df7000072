@@ -1,5 +1,5 @@
 ---
-time: 1534955179
+time: 1534956590
 inventory:
   "/publications/index.html":
     md5: 3d1277d7c2a0da7ad2fbeb58ff61ad18
@@ -11,8 +11,8 @@ inventory:
     md5: 5069b4121dd2f070ef3b21ed3a050d06
     time: 1534954992
   "/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/index.html":
-    md5: cddecb124c862afedfeddfd787f33204
-    time: 1534954992
+    md5: 67f2d44efcd73c875355bafbbed28a26
+    time: 1534956557
   "/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/index.html":
     md5: 88a7fff9e1a2b026fd993a08ac831047
     time: 1534954992
@@ -905,11 +905,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: a5c6452e4ab36b5b10301ee9453fa67e
-    time: 1534955021
+    md5: eab71ea6183ca5d68c4cfb0264ab4d1a
+    time: 1534956585
   "/feed.xml":
-    md5: a7650d2e2659bf29e3fdc8dfc092e009
-    time: 1534955022
+    md5: 296b87be6188db2cc4201f3d544aa49c
+    time: 1534956586
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
