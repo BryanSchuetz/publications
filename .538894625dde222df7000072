@@ -1,5 +1,5 @@
 ---
-time: 1535042753
+time: 1535042891
 inventory:
   "/publications/index.html":
     md5: 9b2cdcf20185b354a01243abbeb65fb0
@@ -11,8 +11,8 @@ inventory:
     md5: a8cc4558cdf7acf646d1870a41760a47
     time: 1535039991
   "/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/index.html":
-    md5: 52106779708bd2c096b726c514630f0c
-    time: 1535042416
+    md5: 300edeff228ac6a4d047d4938288dbdf
+    time: 1535042858
   "/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/index.html":
     md5: 81db28199b6a62452e2be69b81ed7ec5
     time: 1535042721
@@ -842,8 +842,8 @@ inventory:
     md5: 425ff73a7639e35f5729a296d52dd17b
     time: 1535040018
   "/developments/full-archive/index.html":
-    md5: 4ca54035dfa6d1f0c462a45779d0e5f9
-    time: 1535042442
+    md5: bb182039f166aee46d8058021473f1bd
+    time: 1535042883
   "/developments/summer-2018/index.html":
     md5: 72267b0458067b61c05bde27dda6ac38
     time: 1535040019
@@ -911,11 +911,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c82e0c3636851f0ad79325d1a47d24b9
-    time: 1535042747
+    md5: e4f4ab02c3cb8f8667b22e2dab09c3af
+    time: 1535042885
   "/feed.xml":
-    md5: 7cf6cd0956c80e93d08e5d5329bada2e
-    time: 1535042748
+    md5: 1b3bbe0ccce9f0e817d97f83e8253957
+    time: 1535042886
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
