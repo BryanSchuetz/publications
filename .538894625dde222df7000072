@@ -1,5 +1,5 @@
 ---
-time: 1535040157
+time: 1535042452
 inventory:
   "/publications/index.html":
     md5: 9b2cdcf20185b354a01243abbeb65fb0
@@ -11,8 +11,8 @@ inventory:
     md5: a8cc4558cdf7acf646d1870a41760a47
     time: 1535039991
   "/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/index.html":
-    md5: 77dae55aee5262f356ac8a401cd1c3fd
-    time: 1535039991
+    md5: 52106779708bd2c096b726c514630f0c
+    time: 1535042416
   "/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/index.html":
     md5: 9c029a20dd9145598873c0f7b3dbab65
     time: 1535039991
@@ -842,8 +842,8 @@ inventory:
     md5: 425ff73a7639e35f5729a296d52dd17b
     time: 1535040018
   "/developments/full-archive/index.html":
-    md5: 5ce948e2cdf5cbb79d075df03cb36234
-    time: 1535040019
+    md5: 4ca54035dfa6d1f0c462a45779d0e5f9
+    time: 1535042442
   "/developments/summer-2018/index.html":
     md5: 72267b0458067b61c05bde27dda6ac38
     time: 1535040019
@@ -911,11 +911,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 790a790ef5b02eb3370bbeffeb01ca78
-    time: 1535040021
+    md5: c4846c42c0d5155817f165f9b132e9f0
+    time: 1535042444
   "/feed.xml":
-    md5: 6ff469aca0cc423bad5c88d7b398ac1b
-    time: 1535040021
+    md5: 303b78d163bf52e39d052779b4bc784d
+    time: 1535042445
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1616,8 +1616,8 @@ inventory:
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
   "/pubs.yml":
-    md5: 11092d72bb7439aec30e88f157e8b024
-    time: 1535040021
+    md5: 9a819f56f99ce6f405df06cc356b2ec0
+    time: 1535042445
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
@@ -2479,6 +2479,9 @@ inventory:
   "/assets/MADE_article_2.jpg":
     md5: 9fab4f268a257c69f193dfb500ec711f
     time: 1535040022
+  "/assets/Devs----Haiti-TB-1.jpg":
+    md5: 82402fe91f2d543afc84140c3e631300
+    time: 1535042445
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -2923,6 +2926,9 @@ inventory:
   "/assets/MADE_article_1-1.jpg":
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
+  "/assets/Devs----Haiti-TB-2.jpg":
+    md5: 6e93a2c6b7409a211ce05ba176024696
+    time: 1535042445
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
