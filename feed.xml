@@ -3,7 +3,49 @@
   <channel>
     <title>DAI Online Publications</title>
     <link>http://dai-global-developments.com</link>
-    <pubDate>Wed, 22 Aug 2018 16:49:45 -0000</pubDate>
+    <pubDate>Thu, 23 Aug 2018 16:00:21 -0000</pubDate>
+    
+    <item>
+      <title>Health System in Haiti Takes Key Step by Launching National Tuberculosis Tracker</title>
+      <link>http://dai-global-developments.com/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker</link>
+      <pubDate>Wed, 22 Aug 2018 17:16:00 +0000</pubDate>
+      <author> </author>
+      <guid>http://dai-global-developments.com/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker</guid>
+      <description>&lt;p&gt;Haiti’s government this year launched a national electronic platform for reporting and tracking tuberculosis (TB), a key step in its efforts to capture, monitor, and report all patient-level data across the country. Information on cases of TB—a contagious and often deadly disease plaguing the Caribbean nation—is being prepared for aggregation into the System d’Information Sanitaire Nationale Unique, or SISNU, which uses the &lt;a href=&quot;http://www.hisp.org/aboutus/&quot;&gt;DHIS2&lt;/a&gt; open-source software platform for reporting, analyzing, and disseminating national health data.&lt;/p&gt;
+
+&lt;p&gt;Development of the TB tracker and related work is being led by the &lt;a href=&quot;https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program&quot;&gt;Haiti Strategic Health Information System (HIS) Program&lt;/a&gt;. Launched in 0217, HIS is funded by the U.S. Agency for International Development (USAID) and implemented by DAI in partnership with Haiti’s Ministry of Health (MSPP). Data on TB cases and treatment regimens is being captured electronically—and soon through a mobile application that will better serves remote locales.&lt;/p&gt;
+
+&lt;p&gt;For the three-month TB pilot phase, the HIS team trained health professionals at nine facilities from four of Haiti’s departments—Artibonite, Centre, North, and West. This area includes nearly half of all health facilities in Haiti that provide TB care and covers more than 70 percent of Haiti’s reported TB cases. Once the pilot was completed in April 2018, the HIS team and its partners deployed the platform to the rest of the country’s 10 departments, their health offices, and select health care facilities. Our goal was to capture data on 5,000 TB patients—through July 2018, we had captured data on more than 12,000.&lt;/p&gt;
+
+&lt;p&gt;&lt;aside&gt;&lt;strong&gt;Tuberculosis in Haiti (2016)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;11 million: Country population&lt;/li&gt;
+&lt;li&gt;15,302: New/relapse cases of tuberculosis reported&lt;/li&gt;
+&lt;li&gt;1,700: Estimated deaths from tuberculosis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://extranet.who.int/sree/Reports?op=Replet&amp;amp;name=%2FWHO_HQ_Reports%2FG2%2FPROD%2FEXT%2FTBCountryProfile&amp;amp;ISO2=HT&amp;amp;LAN=EN&amp;amp;outtype=html&quot;&gt;World Health Organization&lt;/a&gt; &lt;/aside&gt;&lt;/p&gt;
+
+&lt;h2&gt;Improving TB Management&lt;/h2&gt;
+
+&lt;p&gt;TB bacteria is typically spread by coughing, and the bacteria can become resistant to most drug cures if patients go untreated or their treatment is mismanaged. Haiti perpetually suffers the &lt;a href=&quot;http://apps.who.int/medicinedocs/documents/s23098en/s23098en.pdf&quot;&gt;highest incidence of TB in the Americas&lt;/a&gt;, with an estimated 21,000 cases in 2015. Solutions to control drug-resistant TB, as &lt;a href=&quot;http://www.who.int/features/qa/79/en/&quot;&gt;prescribed&lt;/a&gt; by the World Health Organization, are to cure the TB patient the first time around, provide access to diagnosis, control infection in facilities where patients are treated, and ensure appropriate use of recommended second-line drugs. Implementing these solutions on a national scale requires data. &lt;/p&gt;
+
+&lt;p&gt;The TB tracker digitizes previously paperbound patient details registered by health care providers at local facilities. These registries previously had to be manually collected and then transported and entered by hand at the department and national levels. The tracker will eventually include four case-specific modules—for routine cases, outset cases, multi-drug resistant cases, and HIV cases (which can be a precursor to TB).&lt;/p&gt;
+
+&lt;p&gt;The TB and future trackers will improve data quality and inform decision making; for instance, helping the government decide where to invest in clinics and staff. The tracker can be adapted to capture and integrate data on other diseases—such as HIV/AIDS, cholera, flu, and non-communicable diseases. It is already capturing patient-level immunization data for migration to SISNU and being used to develop community-based mobile health information apps.&lt;/p&gt;
+
+&lt;p&gt;The five-year HIS program ultimately aims to build the capacity of the Ministry of Health to take ownership and optimize the use of SISNU.&lt;/p&gt;
+
+&lt;h2&gt;Getting Health Systems in Good Order&lt;/h2&gt;
+
+&lt;p&gt;Haiti’s health reporting platforms need to be shored up to better serve citizens, especially given the country’s history of contagious disease and natural disaster. The January 2010 earthquake demolished 50 health centers, part of Haiti’s primary teaching hospital, and the Ministry of Health. The country still heavily relies on international funding to provide Haitians access to health care services. The government itself could help fund and manage these services if armed with improved aggregated data. &lt;/p&gt;
+
+&lt;p&gt;“Haiti and other developing countries can benefit greatly now and well into the future simply by getting their health information systems in good order,” said &lt;a href=&quot;https://www.dai.com/who-we-are/our-team/bobby-jefferson&quot;&gt;Bobby Jefferson&lt;/a&gt;, Chief Technology Officer for &lt;a href=&quot;https://www.dai.com/our-work/solutions/global-health&quot;&gt;DAI Global Health&lt;/a&gt;. “By applying health informatics with discipline, countries such as Haiti will be far better prepared to reap good value from investments in health care planning and delivery.”&lt;/p&gt;
+
+&lt;p&gt;The lack of ongoing collection of reliable health data has harmed the Haitian government’s ability to plan for and respond efficiently to public health needs. Launching the TB data platform marks an important step for the country in its goal to become better prepared to respond to both health crises and the daily needs of its 11 million people.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Zambia Pilot Demonstrates How to Save Lives, Scale Relief for Children Suffering from Malaria</title>
@@ -1140,90 +1182,6 @@ And not everyone loves blending. We frequently hear concerns about “overblendi
 &lt;p&gt;Under SPARC, the northern state of Kano mobilized GBP14 million more revenue from 2012 to 2014, an 11 percent increase; the resulting expenditures benefited health, education, and other services. In the northwest state of Niger, budget variance for expenditures decreased from 50 percent in 2011 (budget vs. actual) to 15 percent in 2013, enabling improved planning. As noted above, these and other gains were achieved largely thanks to Nigerian consultants and their local counterparts.&lt;/p&gt;
 
 &lt;p&gt;To strengthen the three legs of the governance stool—strategic planning, institutional capacity, and financial management—we must identify, support, and empower those Nigerian champions in both the public and private sectors who seek to align traditional loyalties with civic reforms in ways that broaden and deepen the country’s economic successes to benefit all Nigerians. These champions are there—in business, government, schools, and communities. They are many.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EC Helps Position the Southern Africa Development Community for 21st Century Success</title>
-      <link>http://dai-global-developments.com/articles/ec-helps-position-the-southern-africa-development-community-for-21st-century-success</link>
-      <pubDate>Tue, 06 Feb 2018 17:16:00 +0000</pubDate>
-      <author> </author>
-      <guid>http://dai-global-developments.com/articles/ec-helps-position-the-southern-africa-development-community-for-21st-century-success</guid>
-      <description>&lt;p&gt;Launched in 1992, the Southern Africa Development Community (SADC) was based more on ideals than economics. Born of the anti-Apartheid movement, the SADC aimed to help Southern Africa countries build economic ties and reduce dependence on the Republic of South Africa. As the region changed, the SADC’s membership grew and the organization adopted lofty goals. But the SADC’s outmoded inner workings did not meet the needs of its escalating staff and ambitions.&lt;/p&gt;
-
-&lt;p&gt;In 2013, the SADC’s Secretariat—based in Gaborone, Botswana—asked the European Commission (EC) to help modernise the SADC’s processes and recalibrate the organisation for success. After four years of sustained collaboration, the SADC now operates with new systems and a renewed focus on rigorously planning and managing its projects.&lt;/p&gt;
-
-&lt;script id=&quot;infogram_0__/lfYchLjWLYbcc7p8s6a4&quot; title=&quot;SADC Map&quot; src=&quot;https://e.infogram.com/js/dist/embed.js?lYq&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;This accomplishment was assisted by the &lt;a href=&quot;https://www.dai.com/our-work/projects/botswana-technical-assistance-sadc-secretariat-institutional-capacity-development&quot;&gt;Technical Assistance to the SADC Secretariat Institutional Capacity Development Programme&lt;/a&gt;, which worked closely with the Secretariat’s executive team, supporting them through the setbacks and successes of organisational transformation. Over the past four years, the team:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Trained the Secretariat on revised procurement policies, supply chain management, and contract administration;&lt;/li&gt;
-&lt;li&gt;Prepared the SADC to work directly with international donors to manage projects;&lt;/li&gt;
-&lt;li&gt;Teamed with SADC directorates to improve evaluation guidelines and build capacity among personnel responsible for monitoring and planning;&lt;/li&gt;
-&lt;li&gt;Developed program dashboards to track projects and created statistical yearbooks to support data-driven planning;&lt;/li&gt;
-&lt;li&gt;Enabled the SADC to better manage members’ obligations;&lt;/li&gt;
-&lt;li&gt;Aligned human resources policies—including job descriptions, hiring standards, and performance reviews—to support the SADC vision and values.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The programme, managed by DAI, also helped the SADC to develop a comprehensive plan for how it will utilise the current round of European Development Fund (EDF) funding for its programmes, which address agriculture, water, trade, and other regional needs.&lt;/p&gt;
-
-&lt;p&gt;&lt;aside&gt;&lt;strong&gt;Why Regional Communities Matter&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The African Union recognizes eight regional economic communities on the continent. The SADC member states— Angola, Botswana, Democratic Republic of Congo, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Swaziland, Tanzania, Zambia, and Zimbabwe—have long depended on regional cooperation:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Regional economic communities play increasingly important roles, from improving intra-region trade to preventing conflicts between member states.&lt;/li&gt;
-&lt;li&gt;Harmonized financial regulations can facilitate commerce and create jobs.&lt;/li&gt;
-&lt;li&gt;Strong regional cooperation can attract donor agencies and private investors to support cross-border infrastructure projects, such as highways and electrical grids.&lt;/li&gt;
-&lt;li&gt;Six SADC member states are landlocked and rely on neighbours to import and export products by sea.&lt;/aside&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;SADC Commits to Intensive Reform&lt;/h2&gt;
-
-&lt;p&gt;Working with a complex and diverse regional body prompted DAI to apply an adaptable, demand-driven approach. The programme focused on improving SADC staff attitudes about their work over publishing documents. The SADC Secretariat staff proved to be receptive partners.&lt;/p&gt;
-
-&lt;p&gt;“Initially, the programme was run like a framework contract, but this didn’t allow enough flexibility—the typical 20-day timeframes for consultants didn’t provide time for knowledge transfer,” said David Ablett, Team Leader for DAI. “We didn’t want to just drop off documents and then leave. We wanted to nurture people and test things.”&lt;/p&gt;
-
-&lt;p&gt;In 2013, the Secretariat was struggling with the key processes it needed to plan, implement, and monitor projects, but its leadership knew what the organization needed and committed to bringing about sustainable change. In turn, DAI’s team formed a close working relationship with the SADC’s executive team.&lt;/p&gt;
-
-&lt;h2&gt;Fixing the Procurement Struggle&lt;/h2&gt;
-
-&lt;p&gt;In response to the procurement difficulties of the Secretariat, for example, the DAI team and SADC leadership developed and implemented procedures and created an internal audit manual. &lt;/p&gt;
-
-&lt;p&gt;Staff from across the Secretariat were trained on the revised policies. The cross-trained staff can now effectively manage an annual procurement budget, allowing the Secretariat to hire directly and manage technical consultants or upgrade its own information technology (IT). &lt;/p&gt;
-
-&lt;p&gt;These changes had an immediate effect on efficiency and staff morale. Several large tenders that had been blocked in the SADC’s system for years have been executed as a result, and staff are now working on projects directly with international donors. &lt;/p&gt;
-
-&lt;p&gt;&lt;aside&gt;Among SADC’s offerings:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Service centres&lt;/strong&gt; addressing areas such as agriculture standards, climate resilience, and &lt;a href=&quot;http://www.sadc.int/sadc-secretariat/services-centres/rptc/&quot;&gt;security&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Financing facilities&lt;/strong&gt; for jumpstarting project planning, water projects, and &lt;a href=&quot;https://www.sadc.int/sadc-secretariat/directorates/office-deputy-executive-secretary-regional-integration/trade-industry-finance-investment/sadc-trade-related-facility-trf/&quot;&gt;trade&lt;/a&gt; technical assistance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Consultancies&lt;/strong&gt; including for health, infrastructure, defence, and agriculture.&lt;/aside&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;Promoting Merit-Based Human Resources&lt;/h2&gt;
-
-&lt;p&gt;The SADC Secretariat’s annual budget of $71.9 million is made up of contributions from member states. While revamped administrative processes were essential, addressing the SADC’s human factors was equally important. &lt;/p&gt;
-
-&lt;p&gt;The Secretariat worked with DAI’s team to revise HR policies. Incomplete job descriptions were updated and performance reviews adjusted to connect employee’s objectives to larger organizational goals. Improving hiring standards and rewarding top performers helped rejuvenate the organization and boost morale, while enabling the Secretariat to hold underperforming and corrupt employees accountable.&lt;/p&gt;
-
-&lt;h2&gt;Dusting Off Manuals, Putting Policy into Practice&lt;/h2&gt;
-
-&lt;p&gt;The Secretariat worked with DAI’s team to strengthen financial management and upgrade IT systems. While previous consulting projects had developed valuable technical manuals and plans for the Secretariat, the EC and DAI’s team recognised that different approaches would be needed to ensure that what was put down on paper during previous programmes was also put into practice. &lt;/p&gt;
-
-&lt;p&gt;The EC Delegation in Botswana supported DAI’s team in taking a long-term, iterative approach, with a focus on attitudinal change, and allowed the programme to hire consultants for extended periods. “We took a more in-depth, hands-on project approach to a typical technical assistance framework contract,” said Ablett. “It was a frustrating process at times to design and test, but the EC saw benefit in it.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Devs----SADC-1.jpg&quot; alt=&quot;Devs----SADC-1&quot; title=&quot;SADC Executive Secretary Ms. Stergomena Lawrence Tax Gaborone, right, meets in November 2017 with United Nations Special Representative Maman Sidikou in her office in Gaborone, Botswana. Photo: MONUSCO.&quot;&gt; &lt;/p&gt;
-
-&lt;h2&gt;New Confidence Attracts New Partners&lt;/h2&gt;
-
-&lt;p&gt;The positive changes were noticed outside of the Secretariat. With new confidence in the SADC’s administrative capabilities, donor agencies from France, Italy, the United Kingdom, and other countries began approaching the organisation about leading regional development projects.&lt;/p&gt;
-
-&lt;p&gt;For those working on U.S. Agency for International Development (USAID)-funded projects in the region, the SADC’s improved capacity was noticeable. USAID’s &lt;a href=&quot;https://www.dai.com/our-work/projects/southern-africa-trade-and-investment-hub&quot;&gt;Southern Africa Trade and Investment Hub&lt;/a&gt; and &lt;a href=&quot;https://www.dai.com/our-work/projects/southern-africa-feed-future-southern-africa-seed-trade-project&quot;&gt;Feed the Future Seed Trade Project&lt;/a&gt;, both led by DAI, have partnered with the SADC Secretariat on activities, including the &lt;a href=&quot;http://www.satradehub.org/food-safety-and-production/537-sadc-convenes-to-improve-seed-trade?highlight=WyJzYWRjIiwic2FkYydzIiwiJ3NhZGMnIl0=&quot;&gt;SADC Seed Technical Meeting&lt;/a&gt; in November 2017 to discuss agricultural issues affecting the region. With its newly streamlined procurement process, the Secretariat directly paid its contribution of $20,000 rather than having to pass funds through an intermediary member state.&lt;/p&gt;
-
-&lt;p&gt;With its new policies and procedures, the Secretariat can confidently address operational challenges. Most importantly, this regional economic community—accounting for 300 million people and gross domestic product of $600 billion—has the potential to play a positive role in transforming the economy of Southern Africa and the wider continent.&lt;/p&gt;
 </description>
     </item>
     
