@@ -1,5 +1,5 @@
 ---
-time: 1535401349
+time: 1535403126
 inventory:
   "/publications/index.html":
     md5: 065cd503668f70bec8c630dd521c01a0
@@ -14,8 +14,8 @@ inventory:
     md5: 554e41c8c9b7baa8802025391287e383
     time: 1535401187
   "/articles/lets-work-together-to-improve-maternal-and-newborn-health/index.html":
-    md5: fe83c8391e7ae8e9cc72a33d2456a660
-    time: 1535401187
+    md5: 0e09b07d948c9e21ec1fe72c8f26dcf6
+    time: 1535403095
   "/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/index.html":
     md5: 529ddbb993c9d844a81b3646452070bb
     time: 1535401187
@@ -911,11 +911,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 921eb626ebdbe9980ffb47436da44a9c
-    time: 1535401215
+    md5: a0bfc7105a1c03e28cc8d0b2c187ddb8
+    time: 1535403121
   "/feed.xml":
-    md5: 5bfca8f2a58dcded473bbc143a2764f3
-    time: 1535401215
+    md5: f591d7e2f75e4702c642fc45d6b6b9db
+    time: 1535403122
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
