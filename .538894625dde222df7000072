@@ -1,5 +1,5 @@
 ---
-time: 1535397779
+time: 1535399749
 inventory:
   "/publications/index.html":
     md5: 9b2cdcf20185b354a01243abbeb65fb0
@@ -733,9 +733,6 @@ inventory:
   "/articles/the-re-greening-of-iraq-restoring-marshlands/index.html":
     md5: 7bca7f9e0734d5fb1f28b50294027385
     time: 1535040015
-  "/articles/lets-work-together-to-improve-maternal-and-newborn-health/index.html":
-    md5: 82b7e60a68f0bd725ff4dec297f7758c
-    time: 1535397766
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
     md5: 3167ff1d5b1fc169c66a6ad4ac991b27
     time: 1535040015
@@ -752,8 +749,8 @@ inventory:
     md5: 60735fa1ea3b79970a04615fbf9a7d85
     time: 1535040015
   "/articles/tags/health/index.html":
-    md5: 227b1a1dc5bdf03ee4a74cf766d1029a
-    time: 1535040015
+    md5: 5ca39432247d71aad5138a5c74498ed3
+    time: 1535399739
   "/articles/tags/governance/index.html":
     md5: 5a0bbf07d702d8deab5a38eba596752e
     time: 1535040016
@@ -914,8 +911,8 @@ inventory:
     md5: 5ec0229f10446d8edb62e1813b221487
     time: 1535048509
   "/feed.xml":
-    md5: bce4bf0db48cf1b2b9e805ac6f813916
-    time: 1535397773
+    md5: 18679b91de51bd264822d35bf6300939
+    time: 1535399744
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1775,8 +1772,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 699e3f7cd77ba76686a5da7f5a9e3b62
-    time: 1535397774
+    md5: c9d4891785cf144e2782eda81afdb85c
+    time: 1535399744
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2482,6 +2479,9 @@ inventory:
   "/assets/Devs----Haiti-TB-1.jpg":
     md5: 82402fe91f2d543afc84140c3e631300
     time: 1535042445
+  "/assets/ibubayi.jpg":
+    md5: 9ab696cbf5a7552c70c799bf75b2cff3
+    time: 1535399744
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
