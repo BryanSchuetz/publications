@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rack', 1.5.3
+gem 'rack'
 gem 'siteleaf'
 gem 'guard-sass'
 gem 'guard-livereload'
