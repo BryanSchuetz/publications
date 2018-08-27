@@ -1,5 +1,5 @@
 ---
-time: 1535048514
+time: 1535397779
 inventory:
   "/publications/index.html":
     md5: 9b2cdcf20185b354a01243abbeb65fb0
@@ -734,8 +734,8 @@ inventory:
     md5: 7bca7f9e0734d5fb1f28b50294027385
     time: 1535040015
   "/articles/lets-work-together-to-improve-maternal-and-newborn-health/index.html":
-    md5: f730e6d2bfd6383a08ffdc9c2409a6b7
-    time: 1535040015
+    md5: 82b7e60a68f0bd725ff4dec297f7758c
+    time: 1535397766
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
     md5: 3167ff1d5b1fc169c66a6ad4ac991b27
     time: 1535040015
@@ -914,8 +914,8 @@ inventory:
     md5: 5ec0229f10446d8edb62e1813b221487
     time: 1535048509
   "/feed.xml":
-    md5: 881586358e27935fad3c1650ec3e4bf6
-    time: 1535048509
+    md5: bce4bf0db48cf1b2b9e805ac6f813916
+    time: 1535397773
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1615,9 +1615,6 @@ inventory:
   "/assets/Devs----Blended-pic-5.jpg":
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
-  "/pubs.yml":
-    md5: 998b77d3c6dce86f52d0ade9501d3089
-    time: 1535042748
   "/assets/Devs----Summer-2017-2.jpg":
     md5: d39da3447931d070d0501c00a7a08ceb
     time: 1506459802
@@ -1777,6 +1774,9 @@ inventory:
   "/assets/MADE_article_1.jpg":
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
+  "/pubs.yml":
+    md5: 699e3f7cd77ba76686a5da7f5a9e3b62
+    time: 1535397774
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803

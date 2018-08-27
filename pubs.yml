@@ -6,10 +6,8 @@
   link: "http://dai-global-developments.com/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker?utm_source=daidotcom"
   summary: |
     Haiti’s government this year launched a national electronic platform for reporting and tracking tuberculosis (TB), a key step in its efforts to capture, monitor, and report all patient-level data across the country. Information on cases of TB—a contagious and often deadly disease plaguing the Caribbean nation—is being prepared for aggregation into the System d’Information Sanitaire Nationale Unique, or SISNU, which uses the DHIS2 open-source software platform for reporting, analyzing, and disseminating national health data.
-  tags:
-    - health
-    - governance
-    - ict
+  tags: - global health 
+    - governance - digital acceleration 
 - title: |
     Zambia Pilot Demonstrates How to Save Lives, Scale Relief for Children Suffering from Malaria
   pub: "Developments"
@@ -18,8 +16,7 @@
   summary: |
     Thousands of infants and children in rural Zambia suffer or die unnecessarily from malaria each year because they lack access to high-quality medicines and proper medical care. But a recent pilot program shows how trained local volunteers administering crucial medicine can keep a child well enough to be transported to a health care facility for further, potentially lifesaving treatment.
   tags:
-    - governance
-    - health
+    - governance - global health 
 - title: |
     DFID Programme Helps Establish Business Equipment Leasing in Sub-Saharan Africa’s Largest Country
   pub: "Developments"
@@ -40,8 +37,7 @@
     Imagine if you could pay taxes only by traveling to the capital and paying in person—or, by paying in cash at a tax office to a “middleman.” Until recently, this is how taxes were paid in Liberia. Additionally, due to failures by the internet, power supply, or information technology systems, taxpayers often required four trips on average to tax offices to fulfill their obligations. Even basic transactions such as paying for a birth certificate required making a trip to the capital, Monrovia. As a result, many citizens and businesses simply did not comply, depriving the government of revenues needed for services as well as of valuable data.
   tags:
     - governance
-    - public-financial-management
-    - ict
+    - public-financial-management - digital acceleration 
 - title: |
     Africa Trading: Five Takeaways on Trade-Based Solutions for Food Security
   pub: "Developments"
@@ -61,10 +57,8 @@
   link: "http://dai-global-developments.com/articles/global-health-and-tech-thinkers-come-together-at-switchpoint?utm_source=daidotcom"
   summary: |
     At SwitchPoint, a two-day conference organized by Intrahealth International—a DAI strategic affiliate—400 global health and technology devotees came together in the North Carolina countryside to share ideas and seed partnerships for solving global health challenges, especially by using technology. The seventh annual event, held April 26–27, featured 30-plus stage speakers and 20-plus microlabs.
-  tags:
-    - ict
-    - innovation
-    - health
+  tags: - digital acceleration 
+    - innovation - global health 
 - title: |
     Four Recommendations for Strengthening Seed Systems
   pub: "Developments"
@@ -120,8 +114,7 @@
     The influx of refugees from across the Syrian border is straining Lebanon’s economy and host communities. Since 2011, Lebanon’s population has increased 30 percent to around 6 million as a result of this influx, and its young people are increasingly anxious to enter the workforce. Many even wish to start or join social enterprises to help address the country’s challenges, including problems stemming from the refugee crisis. But until recently there were few avenues for pursuing this work.
   tags:
     - economic-growth
-    - stability
-    - ict
+    - stability - digital acceleration 
 - title: |
     New DFID Guidance Aims to Improve Emergency Schooling for Millions of Displaced Children
   pub: "Developments"
@@ -173,8 +166,7 @@
   link: "http://dai-global-developments.com/articles/young-rural-women-are-crucial-to-advancing-universal-health-coverage-in-northern-nigeria?utm_source=daidotcom"
   summary: |
     This year’s World Health Day theme is Universal Health Coverage. It’s an apt rallying cry, particularly for those working in our Women for Health (W4H) programme in Northern Nigeria, where a 2013 study showed that 94 percent of live births lacked any medical personnel presence, resulting in one of the highest maternal mortality rates in the world.
-  tags:
-    - health
+  tags: - global health 
 - title: |
     $36 Million Investment Partnership Finances Warehouses in Malawi to Improve Food Security
   pub: "Developments"
@@ -238,8 +230,7 @@
     Small-scale farmers in Rwanda struggle to capture the full value of their maize harvests. Farmers typically process their maize manually or using basic tools. With limited infrastructure available for threshing, cleaning, and drying, the full harvest and post-harvest process takes six weeks, on average. Apart from being burdensome for farm families, the lengthy process exposes their maize to rotting, pest infestation, and mould. As a result, the farmers lose an estimated 30 percent of their yields, and traders capture much of the profit generated.
   tags:
     - agriculture
-    - economic-growth
-    - health
+    - economic-growth - global health 
 - title: |
     Afghan Cities Assisted by USAID Project Achieve Highest Ratings in Citizen Survey
   pub: "Developments"
@@ -299,8 +290,7 @@
   summary: |
     Two key areas of development assistance have been merging quickly: health care and domestic resource mobilization. The goal is to help developing countries afford to invest in their national health systems and institutions and do so wisely. Many countries want to do more to fund their own development, and donors are on board to assist. But there is little evidence on how to do so effectively in the pursuit of greater health security.
   tags:
-    - governance
-    - health
+    - governance - global health 
     - finance
 - title: |
     To Realize the Promise of Renewables, Address the Concerns of Local People
