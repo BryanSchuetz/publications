@@ -1,5 +1,5 @@
 ---
-time: 1535471051
+time: 1535471111
 inventory:
   "/publications/index.html":
     md5: a0c3513f90a8a9ecf3ceca0d7da0b3a9
@@ -11,8 +11,8 @@ inventory:
     md5: 4deb0404dabf4c55ea51d5af633fd84c
     time: 1535470862
   "/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/index.html":
-    md5: 000c68f6d05b18da65514168a6c144a5
-    time: 1535470862
+    md5: dc3cc9c394ac5c0a7ca08bc63e2cd156
+    time: 1535471078
   "/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/index.html":
     md5: 5c611ebed9d3cd587e543d9ec92577ad
     time: 1535470862
@@ -845,8 +845,8 @@ inventory:
     md5: eb0cf89b281992776030163c704b33d4
     time: 1535470890
   "/developments/full-archive/index.html":
-    md5: 6730be5d587e266d6bc80f536392ab2b
-    time: 1535470890
+    md5: 0c8a83374bd0c9c888a5d06131eafd5f
+    time: 1535471102
   "/developments/summer-2018/index.html":
     md5: 9c44a829fc0db5ba733ee33c67e1db7a
     time: 1535470890
@@ -914,11 +914,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f72c51498202d81b6ca9d6efb63ddb3f
-    time: 1535470892
+    md5: 959d96c1ce3f9a5e570f18627cb56e34
+    time: 1535471104
   "/feed.xml":
-    md5: f9c956481cf549683b7a809f3bd0c01b
-    time: 1535470893
+    md5: 4456eda5731d690451d5c696dfd177c9
+    time: 1535471104
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1778,8 +1778,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 8c689668d98861c724daca0274a794f1
-    time: 1535470893
+    md5: 88c2f2260621f756e2b66bbdd7ceecfc
+    time: 1535471105
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
