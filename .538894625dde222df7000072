@@ -1,5 +1,5 @@
 ---
-time: 1535471111
+time: 1535472775
 inventory:
   "/publications/index.html":
     md5: a0c3513f90a8a9ecf3ceca0d7da0b3a9
@@ -755,14 +755,14 @@ inventory:
     md5: 065f932eaef32c2e6fb1a98644ef6900
     time: 1535470886
   "/articles/tags/environment-and-energy/index.html":
-    md5: b52e36b4dc285c403e916190a3e6df25
-    time: 1535470887
+    md5: f8415da3ffbeadcae5bdce481396bb54
+    time: 1535472761
   "/articles/tags/health/index.html":
-    md5: 26c27d822c719917f875c1e309a1ba8a
-    time: 1535470887
+    md5: 0cb84381151aa89ba50775f836b53e16
+    time: 1535472761
   "/articles/tags/economic-growth/index.html":
-    md5: 0d18fc09ff28be6fbf1bc066360a9b60
-    time: 1535470887
+    md5: 17491010509161d837cb1af6dec12a84
+    time: 1535472762
   "/articles/tags/governance/index.html":
     md5: 43a8397d7f579e9397541770630c58ef
     time: 1535470888
@@ -845,8 +845,8 @@ inventory:
     md5: eb0cf89b281992776030163c704b33d4
     time: 1535470890
   "/developments/full-archive/index.html":
-    md5: 0c8a83374bd0c9c888a5d06131eafd5f
-    time: 1535471102
+    md5: 5d18cef56cff5820970db78a0aef2484
+    time: 1535472765
   "/developments/summer-2018/index.html":
     md5: 9c44a829fc0db5ba733ee33c67e1db7a
     time: 1535470890
@@ -914,11 +914,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 959d96c1ce3f9a5e570f18627cb56e34
-    time: 1535471104
+    md5: 9b8bb5dc7f9804cab6b9635d6c788a62
+    time: 1535472768
   "/feed.xml":
-    md5: 4456eda5731d690451d5c696dfd177c9
-    time: 1535471104
+    md5: 1f6a58d4053ead9ba73d838a8a24e47a
+    time: 1535472768
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1778,8 +1778,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 88c2f2260621f756e2b66bbdd7ceecfc
-    time: 1535471105
+    md5: 31914c579581b79742e81a8989fff956
+    time: 1535472769
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
