@@ -1,5 +1,5 @@
 ---
-time: 1535473961
+time: 1535474566
 inventory:
   "/publications/index.html":
     md5: a0c3513f90a8a9ecf3ceca0d7da0b3a9
@@ -11,8 +11,8 @@ inventory:
     md5: 4deb0404dabf4c55ea51d5af633fd84c
     time: 1535470862
   "/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/index.html":
-    md5: 15bcba61bf0f75629c7e91988a17be15
-    time: 1535473928
+    md5: a305df22d4929b21f9a534b5dbfbd00e
+    time: 1535474533
   "/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/index.html":
     md5: 5c611ebed9d3cd587e543d9ec92577ad
     time: 1535470862
@@ -914,11 +914,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: ec3297a24284926515e7b047bfd495e9
-    time: 1535473956
+    md5: a17239b164777258037d32cbe7c87fa8
+    time: 1535474561
   "/feed.xml":
-    md5: c101c593559b27a112f1e6442047f805
-    time: 1535473957
+    md5: 8c958d63a38fe3f27184c81e9ccde6cd
+    time: 1535474561
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
