@@ -1,5 +1,5 @@
 ---
-time: 1535549585
+time: 1535551824
 inventory:
   "/publications/index.html":
     md5: 8537fde425d9dd4af5f5c19c7b18d146
@@ -8,14 +8,14 @@ inventory:
     md5: 8537fde425d9dd4af5f5c19c7b18d146
     time: 1535549157
   "/articles/index.html":
-    md5: 5955176431fee43a1448a3fd61d23942
-    time: 1535549157
+    md5: 4e346669e5cffc240adb4e86810d5425
+    time: 1535551789
   "/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/index.html":
     md5: 7a39599599a68b01769cd6d0d1256ca3
     time: 1535549158
   "/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria/index.html":
-    md5: ac4a110946010123b8b018ecc7823221
-    time: 1535549158
+    md5: c8357fa0712c47a52037c42d90238d7f
+    time: 1535551790
   "/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/index.html":
     md5: 66f5c641d10cf49d3a7cd32d215d5ae8
     time: 1535549158
@@ -764,8 +764,14 @@ inventory:
     md5: a7fb490c976171e7bf799d2d0c475ea3
     time: 1535549182
   "/articles/tags/economic-growth/index.html":
-    md5: d2e566c45b20e742ee312b03da080a76
-    time: 1535549182
+    md5: fa0dc506787c027b7d0afadabaabc3bf
+    time: 1535551812
+  "/articles/tags/nigeria/index.html":
+    md5: 8b08b4b98bd0d5863d1e5497aabe4a8f
+    time: 1535551812
+  "/articles/tags/value-chain-and-market-systems-development/index.html":
+    md5: 7eff1377822d674f88621e237584e01e
+    time: 1535551812
   "/articles/tags/governance/index.html":
     md5: 35e87e36223824a1af99b4f0928d0747
     time: 1535549183
@@ -829,15 +835,6 @@ inventory:
   "/articles/tag-set-name/index.html":
     md5: faffb741d96588e2fe915596b17b5d8b
     time: 1535549184
-  "/articles/tag-set-name/nigeria/index.html":
-    md5: 6a72d94f843f991d8b53f8a25570152d
-    time: 1535549184
-  "/articles/tag-set-name/economic-growth/index.html":
-    md5: 6ffbf27c2af01adc02f5d796a266471b
-    time: 1535549184
-  "/articles/tag-set-name/value-chain-and-market-systems-development/index.html":
-    md5: 659a53cd82a3546764b1901651dcbf39
-    time: 1535549184
   "/articles/energy-and-resources/index.html":
     md5: 035d1edff661895949c944c27f88211c
     time: 1535549184
@@ -857,8 +854,8 @@ inventory:
     md5: 572cf8f96aaa5fc093d92a47422bb2e0
     time: 1535549184
   "/developments/full-archive/index.html":
-    md5: 3557dab4ddc84f2976004418b34fe0ee
-    time: 1535549185
+    md5: ed3021d2e327da5f85dff8b284f2b4bb
+    time: 1535551815
   "/developments/summer-2018/index.html":
     md5: 076dc7a85345854b15a8c65b379bd3a7
     time: 1535549185
@@ -926,11 +923,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: aad655a4d534dd7cbffe9e2735c1d8b4
-    time: 1535549187
+    md5: 58f610ab34a0febb631510a086a5a0f4
+    time: 1535551817
   "/feed.xml":
-    md5: b39e70dbc542844f186f0460b52c2f42
-    time: 1535549187
+    md5: 911f957e34128e80817ee9bae32f8389
+    time: 1535551817
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1790,8 +1787,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 55097eb9988f47fb4b30e2b73a38ac6f
-    time: 1535549188
+    md5: 808a1a77d11e609ce578cd91e5beefb8
+    time: 1535551817
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
