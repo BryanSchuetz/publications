@@ -1,5 +1,5 @@
 ---
-time: 1535566891
+time: 1535578760
 inventory:
   "/publications/index.html":
     md5: 8537fde425d9dd4af5f5c19c7b18d146
@@ -14,8 +14,8 @@ inventory:
     md5: 7a39599599a68b01769cd6d0d1256ca3
     time: 1535549158
   "/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria/index.html":
-    md5: 902659280b9e928a6f0bfe7b0c7ac92f
-    time: 1535566857
+    md5: 82dcb987b6e18c33bfbdcb26d49f43aa
+    time: 1535578729
   "/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/index.html":
     md5: 66f5c641d10cf49d3a7cd32d215d5ae8
     time: 1535549158
@@ -923,11 +923,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f29c972d39e479067a576e06bb44a0b9
-    time: 1535566886
+    md5: 6da873933709580d76ce2a99d8f7bf5e
+    time: 1535578755
   "/feed.xml":
-    md5: f9e3d9d4a0b09c7d1016541ab8408045
-    time: 1535566887
+    md5: 698361a42b75e0ea685584a127e7b5d4
+    time: 1535578755
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
