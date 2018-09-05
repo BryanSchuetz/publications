@@ -1,5 +1,5 @@
 ---
-time: 1536167297
+time: 1536167560
 inventory:
   "/publications/index.html":
     md5: f7a6a93887c90d582ffca5aea0a4f5fe
@@ -23,8 +23,8 @@ inventory:
     md5: c4d5fa5368de19d38b3a7b954458c369
     time: 1536167110
   "/articles/agriculture-finance-with-a-climate-lens-takes-off-in-kenya/index.html":
-    md5: beb21e4bc6fbd61f241ed7fc6023853a
-    time: 1536167110
+    md5: f36356ec919b188c71a33dcb9303ec6c
+    time: 1536167527
   "/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/index.html":
     md5: 17c20377b1c49de7a657f7884f14290d
     time: 1536167111
@@ -929,11 +929,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 8bfb60cae60db5a2907490919544ec46
-    time: 1536167140
+    md5: 3c9560bb2bc73f35b550c6a872f81935
+    time: 1536167555
   "/feed.xml":
-    md5: c10af4fce1c81516d07a835519f8f1ba
-    time: 1536167141
+    md5: 9e5381eba8620d75231ade2b71237440
+    time: 1536167556
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
