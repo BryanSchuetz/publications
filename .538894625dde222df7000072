@@ -1,5 +1,5 @@
 ---
-time: 1536776465
+time: 1536797869
 inventory:
   "/publications/index.html":
     md5: 7866d60c59e0f89f0f41e48daef2ee53
@@ -29,8 +29,8 @@ inventory:
     md5: 7e819312a563dba963972b8a137bd3c9
     time: 1536776299
   "/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/index.html":
-    md5: 25f57a79acd08efe91de0fcdc1ab32bc
-    time: 1536776300
+    md5: 9bd744d299fa820a38a593eadfe6b2a5
+    time: 1536797835
   "/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/index.html":
     md5: 4ea2e2373657c64d4dbf3b35ac1e1bb8
     time: 1536776300
@@ -935,11 +935,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: fa1b8ec479036953b365398a6b92627a
-    time: 1536776330
+    md5: 9a14a600642a68e4130384b3cad31d33
+    time: 1536797862
   "/feed.xml":
-    md5: d1581dbdc041f92f637079a691cd6364
-    time: 1536776330
+    md5: e99a5d2cbe35bc350ec908fd412ff26a
+    time: 1536797862
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -3874,9 +3874,9 @@ inventory:
   "/assets/Devs----SwitchPoint-1.jpg":
     md5: a7d6ab2c6d6d32763e2d99138207f2de
     time: 1525980872
-  "/assets/KeyResults_MAM_EvidenceBrief_July2018.pdf":
-    md5: 9ba9f1a99238c73932191cd5a99bc7f5
-    time: 1534955025
+  "/assets/Evidence brief FINAL.pdf":
+    md5: 4acff810fcbf6f9c5d106e3ef4b9c3d3
+    time: 1536797863
   "/assets/Devs----Gaza-fish-9.jpg":
     md5: 0b146e4e9631d4f4c3c683939dde7aff
     time: 1506459875
