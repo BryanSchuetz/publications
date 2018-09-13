@@ -1,5 +1,5 @@
 ---
-time: 1536844696
+time: 1536865994
 inventory:
   "/publications/index.html":
     md5: bf1e1078f33951b45a9b5e127fcc6485
@@ -11,8 +11,8 @@ inventory:
     md5: 54cfb2c2c5ebcd20c06b7e102ecd97a7
     time: 1536844530
   "/articles/keep-up-the-fight/index.html":
-    md5: a788c8dc2a8a6a120a9c4ae73f3a4c89
-    time: 1536844530
+    md5: 5f41b6f8f83e22e1ffab04b11c1de765
+    time: 1536865956
   "/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/index.html":
     md5: ccb49376760e20d1b261648fdf5553fb
     time: 1536844530
@@ -764,11 +764,11 @@ inventory:
     md5: 3b3de3fae6cd1050bbc208f9d534109f
     time: 1536844553
   "/articles/tags/governance/index.html":
-    md5: 6a84db4d658b564d9f24e82cf7169b5c
-    time: 1536844553
+    md5: 93c4df3ea3e7c5f2ebd06f7adf348fd5
+    time: 1536865981
   "/articles/tags/education/index.html":
-    md5: 570f1864408a3d00dfe9baf1ac3918c4
-    time: 1536844554
+    md5: f3b18ddb7d8b168fe7f782e622eacc72
+    time: 1536865981
   "/articles/tags/environment-and-energy/index.html":
     md5: 058c255ba6fd3a2e70c04a19da37b5f0
     time: 1536844554
@@ -866,8 +866,8 @@ inventory:
     md5: 9a7f4e7e039f6166235056aeae0fa5b5
     time: 1536844556
   "/developments/full-archive/index.html":
-    md5: 2971c0bfcc6502228383f875e84fa43f
-    time: 1536844556
+    md5: fa2445543577a4cfc2f289b4544d353e
+    time: 1536865984
   "/developments/summer-2018/index.html":
     md5: 2b74eb8651a695d4237550f9a4ff9d5e
     time: 1536844556
@@ -935,11 +935,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 7b39663e4336e0f1687f0b12440c3f28
-    time: 1536844559
+    md5: 2909eec705f34e1c3c4e66734d96e9c6
+    time: 1536865986
   "/feed.xml":
-    md5: e4e6e14212760e3c743d0c10df3eb5e4
-    time: 1536844559
+    md5: c2d13d9f9b082826515723a604ca3ac7
+    time: 1536865987
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1799,8 +1799,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 3dd34892a89016a290faf5897f97e20f
-    time: 1536844559
+    md5: d92b1cff386552c62111dad1a2c22cf8
+    time: 1536865987
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
