@@ -1,5 +1,5 @@
 ---
-time: 1536797869
+time: 1536798005
 inventory:
   "/publications/index.html":
     md5: 7866d60c59e0f89f0f41e48daef2ee53
@@ -11,8 +11,8 @@ inventory:
     md5: c3b11dd5418f53b6ffd97463f21d8eca
     time: 1536776299
   "/articles/message-to-pakistans-education-advocates-thank-you-and-keep-up-the-good-fight/index.html":
-    md5: 6e5323968dc04489e9dbf27a4f5d6acf
-    time: 1536776299
+    md5: 07a1db9120c732f0b571386d4d0bcd3e
+    time: 1536797971
   "/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/index.html":
     md5: e5f49671041c299f3f91de5409c18af4
     time: 1536776299
@@ -866,8 +866,8 @@ inventory:
     md5: 709851eb1597d6a0a640e5da4eb08055
     time: 1536776327
   "/developments/full-archive/index.html":
-    md5: c22bc129d6022ed776f269b04cbbeda4
-    time: 1536776327
+    md5: ea82a7ad9b5d7fcad6b3f164b6a81353
+    time: 1536797997
   "/developments/summer-2018/index.html":
     md5: de6884749dfd957ea4785cf86bf2b91c
     time: 1536776328
@@ -935,11 +935,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 9a14a600642a68e4130384b3cad31d33
-    time: 1536797862
+    md5: b850e0836751fbddc74ee473668c8487
+    time: 1536797999
   "/feed.xml":
-    md5: e99a5d2cbe35bc350ec908fd412ff26a
-    time: 1536797862
+    md5: adc0066b807e35de7fb2a502d1f4eed9
+    time: 1536798000
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1799,8 +1799,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 35919777568ee30fb16d4e9fe439dbd4
-    time: 1536776331
+    md5: e51d1fafe00aeee63f36295bfcea685d
+    time: 1536798000
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
