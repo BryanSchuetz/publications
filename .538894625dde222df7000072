@@ -1,5 +1,5 @@
 ---
-time: 1536944061
+time: 1537102890
 inventory:
   "/publications/index.html":
     md5: e123f5d7c841b2f364fe806c87dc2d4f
@@ -11,8 +11,8 @@ inventory:
     md5: b29c5cb0bef2c9ae2b11d5053aeb31f0
     time: 1536941008
   "/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/index.html":
-    md5: 77ffdb301962497f5425dbb684ae04ce
-    time: 1536944028
+    md5: 489b1353a1f76ab5695bcf80731e47cc
+    time: 1537102853
   "/articles/keep-up-the-fight/index.html":
     md5: e870129db0d416c68dfaa996ffb523a2
     time: 1536941008
@@ -938,11 +938,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 25092c2ce2d8b5dda566d1503fc01cda
-    time: 1536944056
+    md5: 13fde34445feb239dbc2158d63431478
+    time: 1537102882
   "/feed.xml":
-    md5: d39f2612eeee6f518cf9c8f1912a9aa2
-    time: 1536944057
+    md5: c4121ed041fcf6c2de97355d64f5fc3b
+    time: 1537102883
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1810,12 +1810,12 @@ inventory:
   "/assets/Devs----TEP-3.jpg":
     md5: 3ddff68293b2ae5344733431efe77fac
     time: 1536775544
-  "/assets/Devs----Gwen-Andersen-mug.jpg":
-    md5: 83146811c21220cd837ccf16b3b9585d
-    time: 1536941039
   "/assets/Devs----WIE-2018-7.jpg":
     md5: b00ef0b6efd0ffa9b1cdd98e6edb4de2
     time: 1536941040
+  "/assets/Devs----Jordan-Energy-4.jpg":
+    md5: b9c4ca638200380c5ee24d1076cd2daf
+    time: 1537102883
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2530,6 +2530,9 @@ inventory:
   "/assets/Mosharraf-Zaidi-mug.jpg":
     md5: 441f7e6606b5219568bd2a2353300d31
     time: 1536775544
+  "/assets/Devs----Gwen-Andersen-mug.jpg":
+    md5: 83146811c21220cd837ccf16b3b9585d
+    time: 1536941039
   "/assets/WIE----2018-11.jpg":
     md5: 635520786e3bea089cd33e06f34783f5
     time: 1536941040
@@ -2989,6 +2992,9 @@ inventory:
   "/assets/DEVS----WIE-2018-6.jpg":
     md5: f65515de1c66c1a60579a4530c0e93dd
     time: 1536941040
+  "/assets/Devs----Jordan-Energy-1.jpg":
+    md5: f8332ffe522fd3f22e64772aec37cb67
+    time: 1537102883
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -3298,6 +3304,9 @@ inventory:
   "/assets/Devs----WIE-2018-9.jpg":
     md5: aa3efc0a0f851bafdb84ee4c7a8adec6
     time: 1536941040
+  "/assets/Devs----Jordan-Energy-2.jpg":
+    md5: f9aa996bf3c43489ca1167ae8cfe0643
+    time: 1537102883
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
@@ -3541,6 +3550,9 @@ inventory:
   "/assets/Devs----WIE-2018-3.jpg":
     md5: 5b50e4bb77a4c7f5bd11863b8ce8ff48
     time: 1536941040
+  "/assets/Devs----Jordan-Energy-3.jpg":
+    md5: 1bb3261f2ed39eb6489e3babb40655e6
+    time: 1537102883
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
     time: 1506459864
