@@ -1,5 +1,5 @@
 ---
-time: 1537202493
+time: 1537203150
 inventory:
   "/publications/index.html":
     md5: bf5a465bf737f166e698cbd0f98f9ddd
@@ -14,8 +14,8 @@ inventory:
     md5: 85e7b4f8c8f34a07f21ff015e546858e
     time: 1537202323
   "/articles/jordan-embraces-renewables-to-fuel-its-economy/index.html":
-    md5: 558dd2f5b7115c74a61426a1a09655c1
-    time: 1537202323
+    md5: 3e71a293935adc229522540de910c300
+    time: 1537203113
   "/articles/keep-up-the-fight/index.html":
     md5: 2da5478c01f88a1d8ef751724d95df3b
     time: 1537202323
@@ -770,8 +770,8 @@ inventory:
     md5: f7732553c74ca3e4c26df74c3e6b03b3
     time: 1537202347
   "/articles/tags/economic-growth/index.html":
-    md5: b51631d384d15d3692aa876038fcf0ac
-    time: 1537202348
+    md5: dde97dd309a22c06d4aba61b300a6f0d
+    time: 1537203138
   "/articles/tags/gender/index.html":
     md5: 5003493300448631e4955f63ab246b77
     time: 1537202348
@@ -779,11 +779,11 @@ inventory:
     md5: 602ea92d1f27fd48c81494ed55174602
     time: 1537202348
   "/articles/tags/environment-and-energy/index.html":
-    md5: 71db54d219b0ee388eaf17da1528439e
-    time: 1537202348
+    md5: 0e3830f01574b655682507a81b602c78
+    time: 1537203138
   "/articles/tags/renewables/index.html":
-    md5: 4a1e4e94a9744a66d6f45157d285d06f
-    time: 1537202348
+    md5: 5c255d64d4e7f6d0de5c85ceae47f580
+    time: 1537203138
   "/articles/tags/governance/index.html":
     md5: a97593bf00e69d248add5a65b114b906
     time: 1537202348
@@ -872,8 +872,8 @@ inventory:
     md5: 7af913b2191c5c9c39428edf7fee8a6c
     time: 1537202350
   "/developments/full-archive/index.html":
-    md5: 571781d8df6c6a05cb42eb1e34de1b5b
-    time: 1537202351
+    md5: 3e84135d8c65422fa0f3be35baf93ddd
+    time: 1537203141
   "/developments/summer-2018/index.html":
     md5: 61e698b14425a2593ee94348fa360b46
     time: 1537202351
@@ -941,11 +941,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 0f18ff0a4ed428e66adcaab12b0cb438
-    time: 1537202353
+    md5: b99721cbd617c544eca1402fb64e1263
+    time: 1537203143
   "/feed.xml":
-    md5: f47086a86b2f2e6943010d7d50a2adac
-    time: 1537202354
+    md5: 4c95e6c5efcf4a1f203731c1aa3ebf78
+    time: 1537203144
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1805,8 +1805,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 49fc3dcad41b28e69813f9dc9daa9bbd
-    time: 1537202354
+    md5: 4e607699e56e50f69c949c188eef44b5
+    time: 1537203144
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
