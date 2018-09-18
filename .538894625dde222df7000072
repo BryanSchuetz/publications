@@ -1,5 +1,5 @@
 ---
-time: 1537306189
+time: 1537306344
 inventory:
   "/publications/index.html":
     md5: bf5a465bf737f166e698cbd0f98f9ddd
@@ -14,8 +14,8 @@ inventory:
     md5: 85e7b4f8c8f34a07f21ff015e546858e
     time: 1537202323
   "/articles/jordan-embraces-renewables-to-fuel-its-economy/index.html":
-    md5: 867094d67d72859c4af9315e9b15089b
-    time: 1537306155
+    md5: 13141abca3829b1b2ca0e0c37fbe7d2a
+    time: 1537306309
   "/articles/keep-up-the-fight/index.html":
     md5: 2da5478c01f88a1d8ef751724d95df3b
     time: 1537202323
@@ -941,11 +941,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: a9038c5be2489047f3916bbd23a690ee
-    time: 1537306183
+    md5: 40230867f277a845f1e46ebe259b8699
+    time: 1537306339
   "/feed.xml":
-    md5: 0bba64019f87f68ed4e137c27b2ca5b3
-    time: 1537306184
+    md5: 398a459a6c4a8f3cac6ce53d822e8438
+    time: 1537306339
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
