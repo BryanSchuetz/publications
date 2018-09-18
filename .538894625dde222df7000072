@@ -1,5 +1,5 @@
 ---
-time: 1537203694
+time: 1537306189
 inventory:
   "/publications/index.html":
     md5: bf5a465bf737f166e698cbd0f98f9ddd
@@ -14,8 +14,8 @@ inventory:
     md5: 85e7b4f8c8f34a07f21ff015e546858e
     time: 1537202323
   "/articles/jordan-embraces-renewables-to-fuel-its-economy/index.html":
-    md5: c0d7b4023b8de9d701b5ee55376bbefa
-    time: 1537203660
+    md5: 867094d67d72859c4af9315e9b15089b
+    time: 1537306155
   "/articles/keep-up-the-fight/index.html":
     md5: 2da5478c01f88a1d8ef751724d95df3b
     time: 1537202323
@@ -941,11 +941,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: e69270ea08f4166815c9207e3af49e2b
-    time: 1537203689
+    md5: a9038c5be2489047f3916bbd23a690ee
+    time: 1537306183
   "/feed.xml":
-    md5: 90ac4411713b97ecd4369e15d1478331
-    time: 1537203690
+    md5: 0bba64019f87f68ed4e137c27b2ca5b3
+    time: 1537306184
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -2995,9 +2995,9 @@ inventory:
   "/assets/DEVS----WIE-2018-6.jpg":
     md5: f65515de1c66c1a60579a4530c0e93dd
     time: 1536941040
-  "/assets/Devs----Jordan-Energy-1.jpg":
-    md5: f8332ffe522fd3f22e64772aec37cb67
-    time: 1537102883
+  "/assets/Devs----Jordan-Energy-wind.jpg":
+    md5: d0e2be65069eed214f302bbece97eab7
+    time: 1537306184
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -3307,8 +3307,8 @@ inventory:
   "/assets/Devs----WIE-2018-9.jpg":
     md5: aa3efc0a0f851bafdb84ee4c7a8adec6
     time: 1536941040
-  "/assets/Devs----Jordan-Energy-2.jpg":
-    md5: f9aa996bf3c43489ca1167ae8cfe0643
+  "/assets/Devs----Jordan-Energy-1.jpg":
+    md5: f8332ffe522fd3f22e64772aec37cb67
     time: 1537102883
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
@@ -3553,8 +3553,8 @@ inventory:
   "/assets/Devs----WIE-2018-3.jpg":
     md5: 5b50e4bb77a4c7f5bd11863b8ce8ff48
     time: 1536941040
-  "/assets/Devs----Jordan-Energy-3.jpg":
-    md5: 1bb3261f2ed39eb6489e3babb40655e6
+  "/assets/Devs----Jordan-Energy-2.jpg":
+    md5: f9aa996bf3c43489ca1167ae8cfe0643
     time: 1537102883
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
@@ -3712,9 +3712,9 @@ inventory:
   "/assets/WIE----Devs-2018-8.jpg":
     md5: a9a13d037e05ca559b20cdc717ce8466
     time: 1536941040
-  "/assets/1. USAID JCP Competitiveness Brief - Building a New Electric Vehicle Industry - FINAL (Branded)[1].pdf":
-    md5: ef64e1ebc6c6395205b5eda29cc59626
-    time: 1537202354
+  "/assets/Devs----Jordan-Energy-3.jpg":
+    md5: 1bb3261f2ed39eb6489e3babb40655e6
+    time: 1537102883
   "/assets/Devs----Mekong-ARCC-pic-2.jpg":
     md5: af9f8547ad33cee3046322570fccfba4
     time: 1506459869
@@ -3811,6 +3811,9 @@ inventory:
   "/assets/Devs----Mare-Elston-mug.jpg":
     md5: 142cad0341463a30171dbf773971f5e8
     time: 1536941040
+  "/assets/1. USAID JCP Competitiveness Brief - Building a New Electric Vehicle Industry - FINAL (Branded)[1].pdf":
+    md5: ef64e1ebc6c6395205b5eda29cc59626
+    time: 1537202354
   "/assets/Devs----Mekong-ARCC-pic-4.jpg":
     md5: 390f1f9cc5d31c53a1d7b74f0cdd5ea3
     time: 1506459872
