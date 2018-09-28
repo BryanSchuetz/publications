@@ -1,5 +1,5 @@
 ---
-time: 1538154751
+time: 1538163564
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -11,8 +11,8 @@ inventory:
     md5: fb3d277ffc4a46cdaa29e68e0eabc777
     time: 1538151209
   "/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/index.html":
-    md5: bffe6174f7ce3e5d7952ccb0246f6e3b
-    time: 1538154710
+    md5: d8cf44fdb453f826e232ae6bc24f0c67
+    time: 1538163525
   "/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/index.html":
     md5: 6be76e9ab9ffb63df6fbbcd9063d709d
     time: 1538151209
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: e65e8f11341c7f7f0764d3c5fc83af36
-    time: 1538154745
+    md5: 7f65073b6ea86a8fd1b423f4fbdcd740
+    time: 1538163559
   "/feed.xml":
-    md5: 7cc4b728764ce682a3652151ef7bd09f
-    time: 1538154746
+    md5: 069ac21aae866933eff6a6a30e7b6e02
+    time: 1538163559
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
