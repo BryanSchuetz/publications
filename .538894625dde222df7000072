@@ -1,5 +1,5 @@
 ---
-time: 1538151383
+time: 1538151585
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -11,8 +11,8 @@ inventory:
     md5: fb3d277ffc4a46cdaa29e68e0eabc777
     time: 1538151209
   "/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/index.html":
-    md5: c96226045fc1e5dc8e5dd85710d04f9a
-    time: 1538151209
+    md5: 18c3e5ee807b5b98c275af92165195cd
+    time: 1538151543
   "/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/index.html":
     md5: 6be76e9ab9ffb63df6fbbcd9063d709d
     time: 1538151209
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: 1ca1adb64cb7f664d6f5824e5d5b2aed
-    time: 1538151239
+    md5: c67b770ef66189121d7e3f7c1f4f7a4c
+    time: 1538151576
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c152d5934906996ef4f192db2bcec6bb
-    time: 1538151241
+    md5: c287f2b0cfd9073b3c0ee1775da30a81
+    time: 1538151579
   "/feed.xml":
-    md5: 33dcb5163c6a41602a616e5a992a7191
-    time: 1538151242
+    md5: 9fbaf312f8381910e92260298abcaa44
+    time: 1538151580
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1808,8 +1808,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 00cc18608c6a2b4f7fdbddb9c46cd9d8
-    time: 1538151242
+    md5: 9443b7a6f39696733d7b1c529d6c79d5
+    time: 1538151580
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
