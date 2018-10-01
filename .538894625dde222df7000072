@@ -1,5 +1,5 @@
 ---
-time: 1538429998
+time: 1538430058
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -41,8 +41,8 @@ inventory:
     md5: 129288f279ef8e86367afbaae4df2569
     time: 1538429958
   "/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/index.html":
-    md5: d42fbd1a083f7c6be877e90c61f57a5c
-    time: 1538151210
+    md5: ab1e0d0039d31125f9389e3be565ebdc
+    time: 1538430024
   "/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/index.html":
     md5: 06713558823c6bcc251fb4a4ad1865c6
     time: 1538151211
@@ -773,11 +773,11 @@ inventory:
     md5: 4290cf606313bba43abaaffbabb3b2ee
     time: 1538151235
   "/articles/tags/economic-growth/index.html":
-    md5: 274894b26dae37b9a2524e5968708d82
-    time: 1538429717
+    md5: 2a5c7683b8c6aa1cd183fad6c405b133
+    time: 1538430046
   "/articles/tags/finance/index.html":
-    md5: 415b46370760fe0c03d0f1bbcc5ccfba
-    time: 1538429919
+    md5: 90c369b8567ae17c71e9a8cc966a92b0
+    time: 1538430046
   "/articles/tags/investment/index.html":
     md5: b0df1181cbe179e7e3021ea64ba46b03
     time: 1538429292
@@ -815,8 +815,8 @@ inventory:
     md5: d0428f0af27ceb6b0a75c4c72d690407
     time: 1538429920
   "/articles/tags/sustainable-business/index.html":
-    md5: 15a88cfee2654b30ed0777d4fff1955e
-    time: 1538151237
+    md5: 1597af62061ee79f67f8ef1b88f46d96
+    time: 1538430047
   "/articles/tags/public-financial-management/index.html":
     md5: 7e48354e2cc3ec5e44b2c17598e0927d
     time: 1538151237
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: 4c9008f92004a4e9977d9a1a80493ddd
-    time: 1538429989
+    md5: 61e54f47ab48a6f2514daf821e825892
+    time: 1538430049
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: ad20275a908f38501c3a8b9965511138
-    time: 1538429992
+    md5: 191f78e370f37577d25d1e1a3c4ff674
+    time: 1538430051
   "/feed.xml":
-    md5: e43da633b8b41b150f4619c085b18b92
-    time: 1538429993
+    md5: a16f1a775b46e132e349f738946fc763
+    time: 1538430052
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
