@@ -1,5 +1,5 @@
 ---
-time: 1538163914
+time: 1538429307
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -11,8 +11,8 @@ inventory:
     md5: fb3d277ffc4a46cdaa29e68e0eabc777
     time: 1538151209
   "/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/index.html":
-    md5: 2f50538c90ce2ef3fe52ddb9af80fac3
-    time: 1538163882
+    md5: 94bfa5c0ab8dffb4d721ea7fd5437568
+    time: 1538429264
   "/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/index.html":
     md5: 6be76e9ab9ffb63df6fbbcd9063d709d
     time: 1538151209
@@ -773,14 +773,14 @@ inventory:
     md5: 4290cf606313bba43abaaffbabb3b2ee
     time: 1538151235
   "/articles/tags/economic-growth/index.html":
-    md5: b6473be6e0b37831c01dc4dae8adc4b4
-    time: 1538151235
+    md5: 14660d47ada3e8e3542e78c8b58242f4
+    time: 1538429292
   "/articles/tags/finance/index.html":
-    md5: cf79e98fc711b896692e329f2beba7e6
-    time: 1538151236
+    md5: 7c3a3c2ac5d189d0310d9e5cfa68c5d3
+    time: 1538429292
   "/articles/tags/investment/index.html":
-    md5: 0f03063a7316046281640bf89676b9e5
-    time: 1538151236
+    md5: b0df1181cbe179e7e3021ea64ba46b03
+    time: 1538429292
   "/articles/tags/gender/index.html":
     md5: f0604a2e3a0314b860f0ac88916a1ae9
     time: 1538151236
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: c67b770ef66189121d7e3f7c1f4f7a4c
-    time: 1538151576
+    md5: 7d3e96451fcc89c260ecbf7a831f8b85
+    time: 1538429296
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 9506fcafbc19cadf9f207c55637f7aea
-    time: 1538163909
+    md5: 2fc740f24fbc344fd5ccc3fdbff90594
+    time: 1538429298
   "/feed.xml":
-    md5: 8b7dfd96a7659b0a131b337b5f55a1a8
-    time: 1538163909
+    md5: ce82d7da3a8926d5c5b467496e0d9ff9
+    time: 1538429299
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1825,6 +1825,9 @@ inventory:
   "/assets/Devs----Robin-Young-mug-1.jpg":
     md5: 53502d18b1eea99fe195ffaeb6f7456b
     time: 1538151242
+  "/assets/Devs----Fall-2018-1.jpg":
+    md5: a319135bffc12496d1d38309b1b9e655
+    time: 1538429299
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2548,6 +2551,9 @@ inventory:
   "/assets/Devs----INVEST-1.jpg":
     md5: 10d46487b1e09ac3a5d7f078e13ac293
     time: 1538151242
+  "/assets/Devs----Haiti-TB-1-1.jpg":
+    md5: 392af739a22793a41e7ab8fcea74f22d
+    time: 1538429299
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
