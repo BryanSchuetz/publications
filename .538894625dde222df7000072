@@ -1,5 +1,5 @@
 ---
-time: 1538429789
+time: 1538429857
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -32,8 +32,8 @@ inventory:
     md5: 716e0ad15ed7d62787bc713c9cbd6d1d
     time: 1538429754
   "/articles/lets-work-together-to-improve-maternal-and-newborn-health/index.html":
-    md5: eb8b5487da06694595fbf0f89fd7e338
-    time: 1538151210
+    md5: 49f30c58162c5a82321393819fbed78a
+    time: 1538429814
   "/articles/agriculture-finance-with-a-climate-lens-takes-off-in-kenya/index.html":
     md5: ce62667611d1c91ca160396a5c0fa4b7
     time: 1538151210
@@ -797,8 +797,8 @@ inventory:
     md5: 3cdec729280f9ee7f15a8dc6587f624b
     time: 1538429581
   "/articles/tags/health/index.html":
-    md5: da463e9aaeb4a9f8f3a240801a24048a
-    time: 1538429777
+    md5: 5f0e2f474c7e66c64f7f7bb64b3b3224
+    time: 1538429845
   "/articles/tags/nigeria/index.html":
     md5: 4763b9b2a93c74c24f344fe9f5bd83a7
     time: 1538429718
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: 05d7234abaaa4519e615706bf80d4f48
-    time: 1538429779
+    md5: e8ca9b9abbcb1d3d5c538b50dc382b39
+    time: 1538429848
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f7b5bb0568f8adbd8c97732a1fb85f12
-    time: 1538429781
+    md5: 577a339492fe354a70e421ce9fe4f831
+    time: 1538429850
   "/feed.xml":
-    md5: a278c10d4fd5ae9cd8f4a8106df44a4b
-    time: 1538429781
+    md5: d84826d27b9815eb411309ecb82ad763
+    time: 1538429851
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
