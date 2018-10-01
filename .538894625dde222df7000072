@@ -1,5 +1,5 @@
 ---
-time: 1538429857
+time: 1538429932
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -35,8 +35,8 @@ inventory:
     md5: 49f30c58162c5a82321393819fbed78a
     time: 1538429814
   "/articles/agriculture-finance-with-a-climate-lens-takes-off-in-kenya/index.html":
-    md5: ce62667611d1c91ca160396a5c0fa4b7
-    time: 1538151210
+    md5: 3a39a77ca1f0c3df9a8fe7520c732e48
+    time: 1538429890
   "/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/index.html":
     md5: d1d16c097dca8be9f396f64859a78e49
     time: 1538151210
@@ -776,8 +776,8 @@ inventory:
     md5: 274894b26dae37b9a2524e5968708d82
     time: 1538429717
   "/articles/tags/finance/index.html":
-    md5: 04746db607644071467c08d45f2ae3c8
-    time: 1538429448
+    md5: 415b46370760fe0c03d0f1bbcc5ccfba
+    time: 1538429919
   "/articles/tags/investment/index.html":
     md5: b0df1181cbe179e7e3021ea64ba46b03
     time: 1538429292
@@ -785,8 +785,8 @@ inventory:
     md5: 01ec114322099afbb5586e00dabc9443
     time: 1538429448
   "/articles/tags/environment-and-energy/index.html":
-    md5: 64ed3d55af98e8f00db0b2a4e8691f65
-    time: 1538429655
+    md5: 9cd91306d2310a0ddce99ea070afa7eb
+    time: 1538429919
   "/articles/tags/renewables/index.html":
     md5: 572d53fa48fea9dd76dd303d69190739
     time: 1538429517
@@ -809,11 +809,11 @@ inventory:
     md5: 417cbe465287567cc938afffcc6b49bb
     time: 1538429777
   "/articles/tags/agriculture/index.html":
-    md5: 48d1a7dcfaf78e538a5421a8f70e869c
-    time: 1538151237
+    md5: 19d475891e7cd3cda09f6d1cd0e44886
+    time: 1538429920
   "/articles/tags/climate-change/index.html":
-    md5: d9d0fcdb0a1a79f1ec28bca1e7460134
-    time: 1538151237
+    md5: d0428f0af27ceb6b0a75c4c72d690407
+    time: 1538429920
   "/articles/tags/sustainable-business/index.html":
     md5: 15a88cfee2654b30ed0777d4fff1955e
     time: 1538151237
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: e8ca9b9abbcb1d3d5c538b50dc382b39
-    time: 1538429848
+    md5: b5c6c131874fdf478e9307519f696272
+    time: 1538429922
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 577a339492fe354a70e421ce9fe4f831
-    time: 1538429850
+    md5: 9d9c06cd69e9db106c5d5bd0f75a0e35
+    time: 1538429925
   "/feed.xml":
-    md5: d84826d27b9815eb411309ecb82ad763
-    time: 1538429851
+    md5: 9a80c75095179f31a3cf00057b778cad
+    time: 1538429925
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
