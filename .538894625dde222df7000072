@@ -1,5 +1,5 @@
 ---
-time: 1538430058
+time: 1538430119
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -44,8 +44,8 @@ inventory:
     md5: ab1e0d0039d31125f9389e3be565ebdc
     time: 1538430024
   "/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/index.html":
-    md5: 06713558823c6bcc251fb4a4ad1865c6
-    time: 1538151211
+    md5: 22323657f106425e5d32d7ecb8b09834
+    time: 1538430084
   "/articles/africa-trading-five-takeaways-on-trade-based-solutions-for-food-security/index.html":
     md5: fbe3038a23ba0a74288cc126f2ec7cf8
     time: 1538151211
@@ -791,8 +791,8 @@ inventory:
     md5: 572d53fa48fea9dd76dd303d69190739
     time: 1538429517
   "/articles/tags/governance/index.html":
-    md5: b27c2218a39ccd57b6fc8f8855beabf1
-    time: 1538429987
+    md5: 4793ed48c6f436ef49d0ee46ee91f062
+    time: 1538430107
   "/articles/tags/education/index.html":
     md5: 3cdec729280f9ee7f15a8dc6587f624b
     time: 1538429581
@@ -806,8 +806,8 @@ inventory:
     md5: 1cb06b28bb5b783bde719657b8ed0664
     time: 1538429718
   "/articles/tags/ict/index.html":
-    md5: 417cbe465287567cc938afffcc6b49bb
-    time: 1538429777
+    md5: 845068f67053ca5e8bfa4fd1afd9abdc
+    time: 1538430108
   "/articles/tags/agriculture/index.html":
     md5: 19d475891e7cd3cda09f6d1cd0e44886
     time: 1538429920
@@ -818,8 +818,8 @@ inventory:
     md5: 1597af62061ee79f67f8ef1b88f46d96
     time: 1538430047
   "/articles/tags/public-financial-management/index.html":
-    md5: 7e48354e2cc3ec5e44b2c17598e0927d
-    time: 1538151237
+    md5: b68276d0d4524110af392c78ad451533
+    time: 1538430108
   "/articles/tags/trade/index.html":
     md5: a274a7edb2926e3183e80f32afb7e573
     time: 1538151237
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: 61e54f47ab48a6f2514daf821e825892
-    time: 1538430049
+    md5: e1f0c8aca26673e0cb8464aea590a315
+    time: 1538430110
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 191f78e370f37577d25d1e1a3c4ff674
-    time: 1538430051
+    md5: 7ba29dffb8d73d778d5cf37dab9dc21a
+    time: 1538430112
   "/feed.xml":
-    md5: a16f1a775b46e132e349f738946fc763
-    time: 1538430052
+    md5: 498be38d4ca0d981be577c208c35dd76
+    time: 1538430113
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
