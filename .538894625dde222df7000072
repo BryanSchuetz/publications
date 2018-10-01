@@ -1,5 +1,5 @@
 ---
-time: 1538429461
+time: 1538429530
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -17,8 +17,8 @@ inventory:
     md5: 5d1d5e75252e4d001870808eadea1c65
     time: 1538429417
   "/articles/jordan-embraces-renewables-to-fuel-its-economy/index.html":
-    md5: ff62194d0e9b1da50b230e1345c0a3bc
-    time: 1538151209
+    md5: 5cbd6c1c71d81d987b65b1e07eafb5f8
+    time: 1538429487
   "/articles/keep-up-the-fight/index.html":
     md5: 294a754cf74621e4341cf1d82a5677e0
     time: 1538151209
@@ -773,8 +773,8 @@ inventory:
     md5: 4290cf606313bba43abaaffbabb3b2ee
     time: 1538151235
   "/articles/tags/economic-growth/index.html":
-    md5: ff5b6a7925a8df38e4a9337709929ddd
-    time: 1538429448
+    md5: f4715b156dbcf52bd778e0889d3ca83c
+    time: 1538429517
   "/articles/tags/finance/index.html":
     md5: 04746db607644071467c08d45f2ae3c8
     time: 1538429448
@@ -785,11 +785,11 @@ inventory:
     md5: 01ec114322099afbb5586e00dabc9443
     time: 1538429448
   "/articles/tags/environment-and-energy/index.html":
-    md5: 42ba96a4659849d478625831779d9fdc
-    time: 1538151236
+    md5: f8805f3183c2a5f1a8209a0280579374
+    time: 1538429517
   "/articles/tags/renewables/index.html":
-    md5: 76809debc69adea7b1ef4b35f5650ba4
-    time: 1538151236
+    md5: 572d53fa48fea9dd76dd303d69190739
+    time: 1538429517
   "/articles/tags/governance/index.html":
     md5: 7884b0a349f3d637a2afed1c301cf704
     time: 1538151236
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: 062bfe3d1e2064b47d33904e9d4a8a9c
-    time: 1538429451
+    md5: 334167ed1d8fe10d77cb27c551b667b7
+    time: 1538429520
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 16e46ff338ab9a20afaf35ec84845bad
-    time: 1538429454
+    md5: c69650e5209e69ace92056c7f2c02bed
+    time: 1538429523
   "/feed.xml":
-    md5: dd714dcc5ad04f186e7b8cf5f2171973
-    time: 1538429454
+    md5: 2bcc572bc4f8115169a5438d928dddc3
+    time: 1538429523
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
