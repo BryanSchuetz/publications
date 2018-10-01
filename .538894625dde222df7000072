@@ -1,5 +1,5 @@
 ---
-time: 1538429729
+time: 1538429789
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -29,8 +29,8 @@ inventory:
     md5: 5fb42d9468f51f8386db4a389e73fdbf
     time: 1538429694
   "/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/index.html":
-    md5: 8ef465782a3ebbbaaf304681845b7e2e
-    time: 1538151210
+    md5: 716e0ad15ed7d62787bc713c9cbd6d1d
+    time: 1538429754
   "/articles/lets-work-together-to-improve-maternal-and-newborn-health/index.html":
     md5: eb8b5487da06694595fbf0f89fd7e338
     time: 1538151210
@@ -791,14 +791,14 @@ inventory:
     md5: 572d53fa48fea9dd76dd303d69190739
     time: 1538429517
   "/articles/tags/governance/index.html":
-    md5: 74d078182a35f992988989eb911c9760
-    time: 1538429581
+    md5: 49fd6521b90de7f2b01f426fb5119de0
+    time: 1538429777
   "/articles/tags/education/index.html":
     md5: 3cdec729280f9ee7f15a8dc6587f624b
     time: 1538429581
   "/articles/tags/health/index.html":
-    md5: 25bc75abfb68bc4ff62cf0ee37c6d895
-    time: 1538429656
+    md5: da463e9aaeb4a9f8f3a240801a24048a
+    time: 1538429777
   "/articles/tags/nigeria/index.html":
     md5: 4763b9b2a93c74c24f344fe9f5bd83a7
     time: 1538429718
@@ -806,8 +806,8 @@ inventory:
     md5: 1cb06b28bb5b783bde719657b8ed0664
     time: 1538429718
   "/articles/tags/ict/index.html":
-    md5: 2adebeb1f2be05b7a854fc67a3031a3f
-    time: 1538151237
+    md5: 417cbe465287567cc938afffcc6b49bb
+    time: 1538429777
   "/articles/tags/agriculture/index.html":
     md5: 48d1a7dcfaf78e538a5421a8f70e869c
     time: 1538151237
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: 1b8d74576bcc48222229a1121c11699b
-    time: 1538429720
+    md5: 05d7234abaaa4519e615706bf80d4f48
+    time: 1538429779
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 5864569e6ffb4a4754ed57ced4a19daa
-    time: 1538429722
+    md5: f7b5bb0568f8adbd8c97732a1fb85f12
+    time: 1538429781
   "/feed.xml":
-    md5: bea076db90578f34bfc7eedbfc329a6a
-    time: 1538429723
+    md5: a278c10d4fd5ae9cd8f4a8106df44a4b
+    time: 1538429781
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
