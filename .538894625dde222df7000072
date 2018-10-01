@@ -1,5 +1,5 @@
 ---
-time: 1538429307
+time: 1538429461
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -14,8 +14,8 @@ inventory:
     md5: 94bfa5c0ab8dffb4d721ea7fd5437568
     time: 1538429264
   "/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/index.html":
-    md5: 6be76e9ab9ffb63df6fbbcd9063d709d
-    time: 1538151209
+    md5: 5d1d5e75252e4d001870808eadea1c65
+    time: 1538429417
   "/articles/jordan-embraces-renewables-to-fuel-its-economy/index.html":
     md5: ff62194d0e9b1da50b230e1345c0a3bc
     time: 1538151209
@@ -773,17 +773,17 @@ inventory:
     md5: 4290cf606313bba43abaaffbabb3b2ee
     time: 1538151235
   "/articles/tags/economic-growth/index.html":
-    md5: 14660d47ada3e8e3542e78c8b58242f4
-    time: 1538429292
+    md5: ff5b6a7925a8df38e4a9337709929ddd
+    time: 1538429448
   "/articles/tags/finance/index.html":
-    md5: 7c3a3c2ac5d189d0310d9e5cfa68c5d3
-    time: 1538429292
+    md5: 04746db607644071467c08d45f2ae3c8
+    time: 1538429448
   "/articles/tags/investment/index.html":
     md5: b0df1181cbe179e7e3021ea64ba46b03
     time: 1538429292
   "/articles/tags/gender/index.html":
-    md5: f0604a2e3a0314b860f0ac88916a1ae9
-    time: 1538151236
+    md5: 01ec114322099afbb5586e00dabc9443
+    time: 1538429448
   "/articles/tags/environment-and-energy/index.html":
     md5: 42ba96a4659849d478625831779d9fdc
     time: 1538151236
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: 7d3e96451fcc89c260ecbf7a831f8b85
-    time: 1538429296
+    md5: 062bfe3d1e2064b47d33904e9d4a8a9c
+    time: 1538429451
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 2fc740f24fbc344fd5ccc3fdbff90594
-    time: 1538429298
+    md5: 16e46ff338ab9a20afaf35ec84845bad
+    time: 1538429454
   "/feed.xml":
-    md5: ce82d7da3a8926d5c5b467496e0d9ff9
-    time: 1538429299
+    md5: dd714dcc5ad04f186e7b8cf5f2171973
+    time: 1538429454
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
