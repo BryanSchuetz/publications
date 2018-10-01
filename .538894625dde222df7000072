@@ -1,5 +1,5 @@
 ---
-time: 1538429593
+time: 1538429668
 inventory:
   "/publications/index.html":
     md5: bded3464a0783e6cdd90c32c5017d938
@@ -23,8 +23,8 @@ inventory:
     md5: 39cc67aa555dcd6c6ea6d7df0247181c
     time: 1538429558
   "/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/index.html":
-    md5: cf6a3670e4d479094ae8a6276bba7750
-    time: 1538151210
+    md5: 1fd8fe16455d9338fc224a9e839b731a
+    time: 1538429625
   "/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria/index.html":
     md5: b357abbfa89cda9303d24205b54938aa
     time: 1538151210
@@ -773,8 +773,8 @@ inventory:
     md5: 4290cf606313bba43abaaffbabb3b2ee
     time: 1538151235
   "/articles/tags/economic-growth/index.html":
-    md5: f4715b156dbcf52bd778e0889d3ca83c
-    time: 1538429517
+    md5: 54c75bf98fa305c5bb06cad3a2b348b6
+    time: 1538429655
   "/articles/tags/finance/index.html":
     md5: 04746db607644071467c08d45f2ae3c8
     time: 1538429448
@@ -785,8 +785,8 @@ inventory:
     md5: 01ec114322099afbb5586e00dabc9443
     time: 1538429448
   "/articles/tags/environment-and-energy/index.html":
-    md5: f8805f3183c2a5f1a8209a0280579374
-    time: 1538429517
+    md5: 64ed3d55af98e8f00db0b2a4e8691f65
+    time: 1538429655
   "/articles/tags/renewables/index.html":
     md5: 572d53fa48fea9dd76dd303d69190739
     time: 1538429517
@@ -797,8 +797,8 @@ inventory:
     md5: 3cdec729280f9ee7f15a8dc6587f624b
     time: 1538429581
   "/articles/tags/health/index.html":
-    md5: c92b915518e2ae03523426ea529aca42
-    time: 1538151236
+    md5: 25bc75abfb68bc4ff62cf0ee37c6d895
+    time: 1538429656
   "/articles/tags/nigeria/index.html":
     md5: 8934d0c8db63d4146732438204859aa5
     time: 1538151236
@@ -875,8 +875,8 @@ inventory:
     md5: d0983cb0ad9a5bda8ee0177940201aab
     time: 1538151238
   "/developments/full-archive/index.html":
-    md5: a8ccc0b7872fd17e02cbc9190dca0635
-    time: 1538429584
+    md5: 03bcd625f1f60cec96ff2ff342c3a98c
+    time: 1538429658
   "/developments/summer-2018/index.html":
     md5: 91f4dee3827e4475e37e6b9f70d7dbb9
     time: 1538151239
@@ -944,11 +944,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 59e5db69b9b2d2361dd43994b510a000
-    time: 1538429586
+    md5: d0fef595851b1644ccdacc6ebdda8e24
+    time: 1538429661
   "/feed.xml":
-    md5: c7c2a1c19764cf3cbd01baacd25c5e1d
-    time: 1538429587
+    md5: 322498bb4c4788c4d1b61ad71fd92c77
+    time: 1538429662
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
