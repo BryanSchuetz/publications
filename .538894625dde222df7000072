@@ -1,5 +1,5 @@
 ---
-time: 1539356839
+time: 1540410297
 inventory:
   "/publications/index.html":
     md5: 03c94de4cd895c5755c44b23f0c172bf
@@ -11,8 +11,8 @@ inventory:
     md5: 46006b1b30280ce9497ced3468047296
     time: 1539356662
   "/articles/how-can-developing-countries-identify-and-allocate-resources-to-pay-for-health-services/index.html":
-    md5: f6550b239c35d3298759e5a65b8ab68e
-    time: 1539356663
+    md5: bfba21e87a1e86ddb7aef47a8a0f3d6c
+    time: 1540410260
   "/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/index.html":
     md5: 7a3c03ce6ee51932d95e508cc9b8c009
     time: 1539356663
@@ -878,8 +878,8 @@ inventory:
     md5: b99577be6faaeffdfdd3d2c0b610f3c7
     time: 1539356691
   "/developments/full-archive/index.html":
-    md5: c8edf5670e952dd2aff7120108ff611d
-    time: 1539356691
+    md5: fdab86e330677430259f1bd0c686ebe3
+    time: 1540410288
   "/developments/fall-2018/index.html":
     md5: 0b1551984da0eb5690f01a686b257c6a
     time: 1539356691
@@ -950,11 +950,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: bec5cd3343ca2e2c1063b813f9c0f7c2
-    time: 1539356694
+    md5: f80ea03f94540efb794afd26ae8c4884
+    time: 1540410290
   "/feed.xml":
-    md5: 661d6e4c0a537e61bc10e61e26d28e82
-    time: 1539356694
+    md5: 8867b8243417e3a418b41604469acac6
+    time: 1540410291
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1649,8 +1649,8 @@ inventory:
     md5: e6cc5dc0c10fe01f54ff63d41c2bf320
     time: 1506459802
   "/pfm-pubs.yml":
-    md5: 40198370ad2a8177bfb48091df5bb787
-    time: 1539356694
+    md5: f79ecb50782c5bd708ca19c84b1b8e72
+    time: 1540410291
   "/assets/Devs----Blended-pic-5.jpg":
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
@@ -1814,8 +1814,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 5f38f7418372e52e488dcd588b32e0b8
-    time: 1539356694
+    md5: aade6914f6325add0130aaa786634ca7
+    time: 1540410291
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
