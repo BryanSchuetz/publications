@@ -1,5 +1,5 @@
 ---
-time: 1541531485
+time: 1541532957
 inventory:
   "/publications/index.html":
     md5: 6693b15633abcdad155fdb45c1fb2217
@@ -11,8 +11,8 @@ inventory:
     md5: 4ac8452f73a16eee6f1885a6a465e65f
     time: 1541522481
   "/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras/index.html":
-    md5: 45076e25638b74edf73707d2fde11695
-    time: 1541531448
+    md5: 5e544feb23898d9308f735558047cd8a
+    time: 1541532921
   "/articles/how-can-developing-countries-identify-and-allocate-resources-to-pay-for-health-services/index.html":
     md5: 9b53dc6319a57d74a6429f58d3368a63
     time: 1541522481
@@ -953,11 +953,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c3f9c1897a00f63182a06c71018b82c5
-    time: 1541531479
+    md5: a3bcf6f10000ed870f1b21f4f45d60a6
+    time: 1541532952
   "/feed.xml":
-    md5: bd9f997d6e658f6f0138db224eb84fb3
-    time: 1541531480
+    md5: 228dd50175bfefd45667e9f82e351e2c
+    time: 1541532952
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1843,6 +1843,9 @@ inventory:
   "/assets/SanPedroSula Chicas_RiveraHernandez_SanPedroSula (1).jpg":
     md5: 62d8aecd3e099d42d7fa24b9e4831f98
     time: 1541522513
+  "/assets/Devs----Bill-Thomas-Musharikat.jpg":
+    md5: fdc73588eec0b66f3ebeeebd26150c20
+    time: 1541532952
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
