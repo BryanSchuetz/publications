@@ -1,5 +1,5 @@
 ---
-time: 1541527298
+time: 1541531485
 inventory:
   "/publications/index.html":
     md5: 6693b15633abcdad155fdb45c1fb2217
@@ -11,8 +11,8 @@ inventory:
     md5: 4ac8452f73a16eee6f1885a6a465e65f
     time: 1541522481
   "/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras/index.html":
-    md5: d453d04c4ac6ca10b91a5054bf56fde9
-    time: 1541527257
+    md5: 45076e25638b74edf73707d2fde11695
+    time: 1541531448
   "/articles/how-can-developing-countries-identify-and-allocate-resources-to-pay-for-health-services/index.html":
     md5: 9b53dc6319a57d74a6429f58d3368a63
     time: 1541522481
@@ -881,8 +881,8 @@ inventory:
     md5: a3e58892f7ad1f7a0ad6210670417659
     time: 1541522509
   "/developments/full-archive/index.html":
-    md5: 8ae6135c044a52251d204f339d5e44cb
-    time: 1541527287
+    md5: 313c1142acabd960aeed7d7c5b2d2170
+    time: 1541531477
   "/developments/fall-2018/index.html":
     md5: 372bcdee23ee5c85897c0449fc9b8782
     time: 1541522510
@@ -953,11 +953,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 6d3d7832339fed152b99261453db271a
-    time: 1541527290
+    md5: c3f9c1897a00f63182a06c71018b82c5
+    time: 1541531479
   "/feed.xml":
-    md5: 7a7c2f4569aab95afbd98764d359ba56
-    time: 1541527290
+    md5: bd9f997d6e658f6f0138db224eb84fb3
+    time: 1541531480
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1817,8 +1817,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: d93ab47c5e23b9b915650bb39fb71035
-    time: 1541522513
+    md5: e9a5a61f574a827571c7efe8552aa113
+    time: 1541531480
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
