@@ -1,5 +1,5 @@
 ---
-time: 1541532957
+time: 1541535649
 inventory:
   "/publications/index.html":
     md5: 6693b15633abcdad155fdb45c1fb2217
@@ -2578,6 +2578,9 @@ inventory:
   "/assets/Craig Davis.jpg":
     md5: cac8cd27f99ee60fea57644e62eb574b
     time: 1541522513
+  "/assets/Devs----Musharikat-1.jpg":
+    md5: b27b28636bc13131cf1e419b6066612b
+    time: 1541535644
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -3046,6 +3049,9 @@ inventory:
   "/assets/Eileen Moore.jpg":
     md5: d44e00e2216c4e856eccb54962eae6f7
     time: 1541522513
+  "/assets/Devs----Musharikat-2.jpg":
+    md5: 736531ce5ca949341a3c45921bfb44a7
+    time: 1541535644
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -3367,6 +3373,9 @@ inventory:
   "/assets/LaCeiba Horadeclase_LaCeiba.jpg":
     md5: 0b8b476689a826de04a11b960bc14693
     time: 1541522513
+  "/assets/Devs----Musharikat-3.jpg":
+    md5: 9577eff245342825014dcc44e85bec2a
+    time: 1541535644
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
