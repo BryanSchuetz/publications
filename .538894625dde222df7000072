@@ -1,5 +1,5 @@
 ---
-time: 1541522664
+time: 1541527298
 inventory:
   "/publications/index.html":
     md5: 6693b15633abcdad155fdb45c1fb2217
@@ -11,8 +11,8 @@ inventory:
     md5: 4ac8452f73a16eee6f1885a6a465e65f
     time: 1541522481
   "/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras/index.html":
-    md5: 83eb6d7af91225fb1c08e23fb9f6e3ad
-    time: 1541522481
+    md5: d453d04c4ac6ca10b91a5054bf56fde9
+    time: 1541527257
   "/articles/how-can-developing-countries-identify-and-allocate-resources-to-pay-for-health-services/index.html":
     md5: 9b53dc6319a57d74a6429f58d3368a63
     time: 1541522481
@@ -779,14 +779,14 @@ inventory:
     md5: 905d72525d8fbda2aeabc18cc989d03a
     time: 1541522506
   "/articles/tags/governance/index.html":
-    md5: ad0951284ab4d242c2a88e8943131263
-    time: 1541522506
+    md5: 548a618ae1a73307dc80619038fd80c8
+    time: 1541527283
   "/articles/tags/education/index.html":
-    md5: 91100b600919926c08abd95dfbe05401
-    time: 1541522506
+    md5: fbf40c8e1234b38e30d984797cce30c8
+    time: 1541527283
   "/articles/tags/stability/index.html":
-    md5: 73483714501459d8b6d8f88a35ef8fb4
-    time: 1541522506
+    md5: 018dff7b698bbca7aa43a2984310d616
+    time: 1541527283
   "/articles/tags/public-financial-management/index.html":
     md5: 0a1542a043e69efbf3bcceaacab8264b
     time: 1541522506
@@ -881,8 +881,8 @@ inventory:
     md5: a3e58892f7ad1f7a0ad6210670417659
     time: 1541522509
   "/developments/full-archive/index.html":
-    md5: 8318371ade403b267bf5f403efd9170b
-    time: 1541522509
+    md5: 8ae6135c044a52251d204f339d5e44cb
+    time: 1541527287
   "/developments/fall-2018/index.html":
     md5: 372bcdee23ee5c85897c0449fc9b8782
     time: 1541522510
@@ -953,11 +953,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 4d8713178998c2bcb7314f778a3d7aee
-    time: 1541522512
+    md5: 6d3d7832339fed152b99261453db271a
+    time: 1541527290
   "/feed.xml":
-    md5: 4690563562565fc4f10a5f6e6460de7b
-    time: 1541522513
+    md5: 7a7c2f4569aab95afbd98764d359ba56
+    time: 1541527290
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
