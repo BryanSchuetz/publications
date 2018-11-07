@@ -1,5 +1,5 @@
 ---
-time: 1541616775
+time: 1541617094
 inventory:
   "/publications/index.html":
     md5: 20f4294c41d6b90ae7efbee9e8c4a3f8
@@ -11,11 +11,11 @@ inventory:
     md5: da1d189c33a5b8170ced7df5390bacfd
     time: 1541616200
   "/articles/land-titles-in-ethiopia-open-doors-to-finance-and-investment/index.html":
-    md5: c37d856753a3c781e2947be9e6094582
-    time: 1541616200
+    md5: ec162a9908bc4d8ae99a86be43cca4d0
+    time: 1541617053
   "/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream/index.html":
-    md5: 3bef6c6cdca39ef679f7cd8bcad2d74c
-    time: 1541616740
+    md5: b2a4effe97bcdeb9542458ad1d28a116
+    time: 1541617053
   "/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras/index.html":
     md5: dec19ac5a9b61b1422feea3c5369a3ca
     time: 1541616200
@@ -947,23 +947,23 @@ inventory:
     md5: d9c63eb5245b0a0ff6105c137256919b
     time: 1541616233
   "/developing-alternatives/land-rights/index.html":
-    md5: a5ca18624de888248b927bd43264ff69
-    time: 1541616233
+    md5: 5bddd826ff0e750b5a00542bb7a4b8bf
+    time: 1541617086
   "/developing-alternatives/winter-2013/index.html":
     md5: 5f705f2383f19e358e40012d21c1a063
     time: 1541616233
   "/developing-alternatives/full-archive/index.html":
-    md5: d101f9b0ff03dfd54ab04bf490c49c40
-    time: 1541616233
+    md5: 4e22be9d89e6898ea1ee9cd3ef96c1e8
+    time: 1541617087
   "/CNAME":
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 40cdd1abf73eceaad53806fb6a0c5dc7
-    time: 1541616769
+    md5: 905b77c7621838f0c82c7c4d0b2fe3fe
+    time: 1541617087
   "/feed.xml":
-    md5: 2bcdbc32d0a11703116ce6de81fe2a8a
-    time: 1541616770
+    md5: 741c5d3fc1edc876f0c43ba8eea87ef0
+    time: 1541617087
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -2590,6 +2590,9 @@ inventory:
   "/assets/Devs----Musharikat-1.jpg":
     md5: b27b28636bc13131cf1e419b6066612b
     time: 1541535644
+  "/assets/phone-9b944e.jpg":
+    md5: 41903eb5e80deb553053a69982530581
+    time: 1541617088
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -3382,9 +3385,9 @@ inventory:
   "/assets/LaCeiba Horadeclase_LaCeiba.jpg":
     md5: 0b8b476689a826de04a11b960bc14693
     time: 1541522513
-  "/assets/Devs----Musharikat-12.jpg":
-    md5: e1f1b0c0df3eb4c0cac0972bc90f709b
-    time: 1541615985
+  "/assets/Devs----Musharikat-3.jpg":
+    md5: 9577eff245342825014dcc44e85bec2a
+    time: 1541535644
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
@@ -3634,8 +3637,8 @@ inventory:
   "/assets/Devs----Yates-graphic-1.jpg":
     md5: 65e65f111227172e133787fcc9c55dee
     time: 1539356695
-  "/assets/Devs----Musharikat-15.jpg":
-    md5: 8a3a7975e5990eb1cca2d3f12c501c71
+  "/assets/Devs----Musharikat-12.jpg":
+    md5: e1f1b0c0df3eb4c0cac0972bc90f709b
     time: 1541615985
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
@@ -3799,8 +3802,8 @@ inventory:
   "/assets/Devs----Yates-1.jpg":
     md5: 44f85a777ce0f2bbcf6a50475efd9c5a
     time: 1539356695
-  "/assets/Devs----Musharikat-13.jpg":
-    md5: 58662a9fe2486c63088ab552f91230c7
+  "/assets/Devs----Musharikat-15.jpg":
+    md5: 8a3a7975e5990eb1cca2d3f12c501c71
     time: 1541615985
   "/assets/Devs----Mekong-ARCC-pic-2.jpg":
     md5: af9f8547ad33cee3046322570fccfba4
@@ -3901,8 +3904,8 @@ inventory:
   "/assets/1. USAID JCP Competitiveness Brief - Building a New Electric Vehicle Industry - FINAL (Branded)[1].pdf":
     md5: ef64e1ebc6c6395205b5eda29cc59626
     time: 1537202354
-  "/assets/Devs----Musharikat-14.jpg":
-    md5: 1868cb7eb80029c3bc9ec43d0d1ac6cf
+  "/assets/Devs----Musharikat-13.jpg":
+    md5: 58662a9fe2486c63088ab552f91230c7
     time: 1541615985
   "/assets/Devs----Mekong-ARCC-pic-4.jpg":
     md5: 390f1f9cc5d31c53a1d7b74f0cdd5ea3
@@ -3967,9 +3970,9 @@ inventory:
   "/assets/Devs----WIE-2018-1.jpg":
     md5: 94598edde7a5fd65c56b4a8f8fdfe1d5
     time: 1536941040
-  "/assets/Devs----Musharikat-3.jpg":
-    md5: 9577eff245342825014dcc44e85bec2a
-    time: 1541535644
+  "/assets/Devs----Musharikat-14.jpg":
+    md5: 1868cb7eb80029c3bc9ec43d0d1ac6cf
+    time: 1541615985
   "/assets/Devs----Shannon-Dugan.jpg":
     md5: 09d32ad5d9f848f77e600ae233692fc0
     time: 1506459873
