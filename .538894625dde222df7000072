@@ -1,5 +1,5 @@
 ---
-time: 1541616378
+time: 1541616775
 inventory:
   "/publications/index.html":
     md5: 20f4294c41d6b90ae7efbee9e8c4a3f8
@@ -14,8 +14,8 @@ inventory:
     md5: c37d856753a3c781e2947be9e6094582
     time: 1541616200
   "/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream/index.html":
-    md5: 24b58c67d936a382dc5ad33fb433359b
-    time: 1541616200
+    md5: 3bef6c6cdca39ef679f7cd8bcad2d74c
+    time: 1541616740
   "/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras/index.html":
     md5: dec19ac5a9b61b1422feea3c5369a3ca
     time: 1541616200
@@ -887,8 +887,8 @@ inventory:
     md5: 86509292b63de28e69e0320d0f7fe741
     time: 1541616230
   "/developments/full-archive/index.html":
-    md5: 4949b10819e76bb9f5f5d8f4c0ab936f
-    time: 1541616231
+    md5: 0959f119a96c78b34bb3699630df89e3
+    time: 1541616767
   "/developments/fall-2018/index.html":
     md5: 33324c873767340b75dc5ec71332a841
     time: 1541616231
@@ -959,11 +959,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 88687b38fc0b5650a6049a2f3c897d84
-    time: 1541616233
+    md5: 40cdd1abf73eceaad53806fb6a0c5dc7
+    time: 1541616769
   "/feed.xml":
-    md5: 550722176e4a9f8ed77a340153bb9d1b
-    time: 1541616234
+    md5: 2bcdbc32d0a11703116ce6de81fe2a8a
+    time: 1541616770
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1823,8 +1823,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 075eb760c836d9b9c9c6017cb86b7ba5
-    time: 1541616234
+    md5: 365980d739af598c6b000381011dab68
+    time: 1541616770
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
