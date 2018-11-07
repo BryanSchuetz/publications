@@ -1,5 +1,5 @@
 ---
-time: 1541617094
+time: 1541621265
 inventory:
   "/publications/index.html":
     md5: 20f4294c41d6b90ae7efbee9e8c4a3f8
@@ -11,8 +11,8 @@ inventory:
     md5: da1d189c33a5b8170ced7df5390bacfd
     time: 1541616200
   "/articles/land-titles-in-ethiopia-open-doors-to-finance-and-investment/index.html":
-    md5: ec162a9908bc4d8ae99a86be43cca4d0
-    time: 1541617053
+    md5: a998b916f66c2ddf52f5b333c27c6642
+    time: 1541621231
   "/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream/index.html":
     md5: b2a4effe97bcdeb9542458ad1d28a116
     time: 1541617053
@@ -947,23 +947,23 @@ inventory:
     md5: d9c63eb5245b0a0ff6105c137256919b
     time: 1541616233
   "/developing-alternatives/land-rights/index.html":
-    md5: 5bddd826ff0e750b5a00542bb7a4b8bf
-    time: 1541617086
+    md5: 0884903522774e4af1bebe36e5624933
+    time: 1541621259
   "/developing-alternatives/winter-2013/index.html":
     md5: 5f705f2383f19e358e40012d21c1a063
     time: 1541616233
   "/developing-alternatives/full-archive/index.html":
-    md5: 4e22be9d89e6898ea1ee9cd3ef96c1e8
-    time: 1541617087
+    md5: e81d08bd91ae4aa41c1aa44f8ff6517f
+    time: 1541621259
   "/CNAME":
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 905b77c7621838f0c82c7c4d0b2fe3fe
-    time: 1541617087
+    md5: 08f146cc413e012ea52c17a090e6fd05
+    time: 1541621259
   "/feed.xml":
-    md5: 741c5d3fc1edc876f0c43ba8eea87ef0
-    time: 1541617087
+    md5: 8f3a55822a3b3299809d43b0ba7382e3
+    time: 1541621259
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -2590,9 +2590,6 @@ inventory:
   "/assets/Devs----Musharikat-1.jpg":
     md5: b27b28636bc13131cf1e419b6066612b
     time: 1541535644
-  "/assets/phone-9b944e.jpg":
-    md5: 41903eb5e80deb553053a69982530581
-    time: 1541617088
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
