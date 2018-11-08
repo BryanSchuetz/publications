@@ -1,5 +1,5 @@
 ---
-time: 1541701491
+time: 1541701798
 inventory:
   "/publications/index.html":
     md5: ec10dae8c6b0d87c2922775ccb4485b2
@@ -11,17 +11,17 @@ inventory:
     md5: 96804e4f76f5e7e2a08535a92ec28353
     time: 1541696460
   "/articles/case-study-overcoming-land-tenure-issues-in-mozambique/index.html":
-    md5: c164a37a383999042c64cf374c72eeb9
-    time: 1541696460
+    md5: 19f8ef54899cf91e62a83b26700afdac
+    time: 1541701762
   "/articles/case-study-a-market-systems-approach-to-deriving-value-from-land-certificates-in-ethiopia/index.html":
     md5: bc81d49f664d10a0752a991ce903b587
     time: 1541701454
   "/articles/putting-the-value-in-land-titling/index.html":
-    md5: 2317495a8d1e35db5beecb1abbff6003
-    time: 1541701055
+    md5: f6f18ebb083f9521ee85fd1446561c35
+    time: 1541701762
   "/articles/land-titles-in-ethiopia-open-doors-to-finance-and-investment/index.html":
-    md5: dcdd57d039fb5ff2ea5d0b91e554f762
-    time: 1541696460
+    md5: 0208ab670868e3746ad40aeddfa1b6a7
+    time: 1541701762
   "/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream/index.html":
     md5: 922fd3b8cb0ee2db75e1e138f8707f80
     time: 1541696460
@@ -956,23 +956,23 @@ inventory:
     md5: 25537f0e2e099279b9b4294e2fcf4f12
     time: 1541696493
   "/developing-alternatives/land-rights/index.html":
-    md5: 20ee9c137e81e92bb3c7a2e7bb156cbe
-    time: 1541701483
+    md5: 0b5de8d99d1b95f37fb5895f4d75e9fe
+    time: 1541701790
   "/developing-alternatives/winter-2013/index.html":
     md5: 5d6e879cc22d7bc1612e519ceeb36f45
     time: 1541696493
   "/developing-alternatives/full-archive/index.html":
-    md5: 4ad733d643cdfb7139133efd2366978d
-    time: 1541701483
+    md5: 08ba4e3a5307067bd4c37ea29c333a30
+    time: 1541701791
   "/CNAME":
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c980ff1bc0b192af61c42f3a059ffacb
-    time: 1541701483
+    md5: ada20695405f44ad0229f8430033ff3d
+    time: 1541701791
   "/feed.xml":
-    md5: 019e4d8686e9190abc5e963fa89afa7d
-    time: 1541701484
+    md5: 82c2ba0e472a8ff53c2e374f921bc97b
+    time: 1541701791
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1832,8 +1832,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: d7b312c30e59e73d4817614f3bc23bd6
-    time: 1541701484
+    md5: 393950d0e911e0a4c9b4db1021f50a4b
+    time: 1541701791
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
