@@ -1,5 +1,5 @@
 ---
-time: 1541701798
+time: 1541702415
 inventory:
   "/publications/index.html":
     md5: ec10dae8c6b0d87c2922775ccb4485b2
@@ -17,8 +17,8 @@ inventory:
     md5: bc81d49f664d10a0752a991ce903b587
     time: 1541701454
   "/articles/putting-the-value-in-land-titling/index.html":
-    md5: f6f18ebb083f9521ee85fd1446561c35
-    time: 1541701762
+    md5: b96ce091a9dadbd3141d35ee7e3a9d43
+    time: 1541702379
   "/articles/land-titles-in-ethiopia-open-doors-to-finance-and-investment/index.html":
     md5: 0208ab670868e3746ad40aeddfa1b6a7
     time: 1541701762
@@ -968,11 +968,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: ada20695405f44ad0229f8430033ff3d
-    time: 1541701791
+    md5: 504b2be7a2c85cb54ebe10339020a848
+    time: 1541702410
   "/feed.xml":
-    md5: 82c2ba0e472a8ff53c2e374f921bc97b
-    time: 1541701791
+    md5: 44464d7ea8ce460a5d1f39d3dc2f82e8
+    time: 1541702410
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
