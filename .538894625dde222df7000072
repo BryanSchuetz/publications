@@ -1,5 +1,5 @@
 ---
-time: 1541702812
+time: 1541704914
 inventory:
   "/publications/index.html":
     md5: ec10dae8c6b0d87c2922775ccb4485b2
@@ -11,8 +11,8 @@ inventory:
     md5: 96804e4f76f5e7e2a08535a92ec28353
     time: 1541696460
   "/articles/case-study-overcoming-land-tenure-issues-in-mozambique/index.html":
-    md5: 19f8ef54899cf91e62a83b26700afdac
-    time: 1541701762
+    md5: a99b880c6bb3e1e912ed20116ca904cc
+    time: 1541704879
   "/articles/case-study-a-market-systems-approach-to-deriving-value-from-land-certificates-in-ethiopia/index.html":
     md5: bc81d49f664d10a0752a991ce903b587
     time: 1541701454
@@ -968,11 +968,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 84f2e2b88442ff3d1a9b6b390ad586de
-    time: 1541702807
+    md5: c290a7def625f7a0a6a256e2bb0c4b37
+    time: 1541704908
   "/feed.xml":
-    md5: 6e3ea798d11ab05d348a50a279a46d4e
-    time: 1541702807
+    md5: 7ac4aa16a0a5b734cec8cb003cb36ae3
+    time: 1541704909
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -3424,6 +3424,9 @@ inventory:
   "/assets/nephas copy-1.png":
     md5: 64da90f61c80e65bd0b7251983f27808
     time: 1541696134
+  "/assets/seed store.jpg":
+    md5: 5bef8fe970987897636380ee4ca0661e
+    time: 1541704909
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
