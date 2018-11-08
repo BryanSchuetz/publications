@@ -1,5 +1,5 @@
 ---
-time: 1541704914
+time: 1541708792
 inventory:
   "/publications/index.html":
     md5: ec10dae8c6b0d87c2922775ccb4485b2
@@ -11,14 +11,14 @@ inventory:
     md5: 96804e4f76f5e7e2a08535a92ec28353
     time: 1541696460
   "/articles/case-study-overcoming-land-tenure-issues-in-mozambique/index.html":
-    md5: a99b880c6bb3e1e912ed20116ca904cc
-    time: 1541704879
+    md5: 6d4bf66dee09e0427f768021f8f03acd
+    time: 1541708754
   "/articles/case-study-a-market-systems-approach-to-deriving-value-from-land-certificates-in-ethiopia/index.html":
-    md5: bc81d49f664d10a0752a991ce903b587
-    time: 1541701454
+    md5: 11cbd217523b88c824af650a02d949c6
+    time: 1541708754
   "/articles/putting-the-value-in-land-titling/index.html":
-    md5: cc35ee295180eb43963d487aa260dca6
-    time: 1541702777
+    md5: 1809a2b98f85a1a6d3f520310ea5fb2c
+    time: 1541708754
   "/articles/land-titles-in-ethiopia-open-doors-to-finance-and-investment/index.html":
     md5: 0208ab670868e3746ad40aeddfa1b6a7
     time: 1541701762
@@ -956,8 +956,8 @@ inventory:
     md5: 25537f0e2e099279b9b4294e2fcf4f12
     time: 1541696493
   "/developing-alternatives/land-rights/index.html":
-    md5: 0b5de8d99d1b95f37fb5895f4d75e9fe
-    time: 1541701790
+    md5: 5e35fec46be24ac887775c1bc71be7c5
+    time: 1541708785
   "/developing-alternatives/winter-2013/index.html":
     md5: 5d6e879cc22d7bc1612e519ceeb36f45
     time: 1541696493
@@ -968,11 +968,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c290a7def625f7a0a6a256e2bb0c4b37
-    time: 1541704908
+    md5: 04cb9c06748e8887b1df31ae43af6902
+    time: 1541708785
   "/feed.xml":
-    md5: 7ac4aa16a0a5b734cec8cb003cb36ae3
-    time: 1541704909
+    md5: 23b302cc9ae0fa0c1734c03fbefea753
+    time: 1541708786
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
