@@ -1,5 +1,5 @@
 ---
-time: 1541696643
+time: 1541701093
 inventory:
   "/publications/index.html":
     md5: ec10dae8c6b0d87c2922775ccb4485b2
@@ -17,8 +17,8 @@ inventory:
     md5: de34e80c44c32d1d89d9220ea5bf3a4e
     time: 1541696460
   "/articles/putting-the-value-in-land-titling/index.html":
-    md5: 74636732a115987f751044f6d563fc90
-    time: 1541696460
+    md5: 2317495a8d1e35db5beecb1abbff6003
+    time: 1541701055
   "/articles/land-titles-in-ethiopia-open-doors-to-finance-and-investment/index.html":
     md5: dcdd57d039fb5ff2ea5d0b91e554f762
     time: 1541696460
@@ -956,23 +956,23 @@ inventory:
     md5: 25537f0e2e099279b9b4294e2fcf4f12
     time: 1541696493
   "/developing-alternatives/land-rights/index.html":
-    md5: 1eb245bb8a50f0038da04de535b126a2
-    time: 1541696493
+    md5: f387dcddafc7c62b34237ddbce351f5a
+    time: 1541701086
   "/developing-alternatives/winter-2013/index.html":
     md5: 5d6e879cc22d7bc1612e519ceeb36f45
     time: 1541696493
   "/developing-alternatives/full-archive/index.html":
-    md5: f70edd23d7f0a50b81cee56aef34068d
-    time: 1541696493
+    md5: 8815addcf3b14dfe75a3401aea8719a3
+    time: 1541701087
   "/CNAME":
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: a7ff558b874afa42c361c94045ac0078
-    time: 1541696493
+    md5: 8260d169cb311e81559d115117266f99
+    time: 1541701087
   "/feed.xml":
-    md5: 417c8d83351756347cbf7d5078c15435
-    time: 1541696494
+    md5: bbacffc689c57ebd8f49f5f491517fd1
+    time: 1541701087
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
