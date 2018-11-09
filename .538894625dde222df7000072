@@ -1,5 +1,5 @@
 ---
-time: 1541785985
+time: 1541791824
 inventory:
   "/publications/index.html":
     md5: a8eae179d2719c962bb9bd561f02f4c5
@@ -8,11 +8,11 @@ inventory:
     md5: a8eae179d2719c962bb9bd561f02f4c5
     time: 1541785805
   "/articles/index.html":
-    md5: 75d2ddda0c2b3df5335b9317976fe298
-    time: 1541785805
+    md5: 7b598322d8aba864addbf236065581ca
+    time: 1541791784
   "/articles/beyond-boundaries-how-secure-land-tenure-is-improving-lives-in-rural-tanzania/index.html":
-    md5: 2e4630229cc608e5d989e22daeeb88b5
-    time: 1541785806
+    md5: 8d417900fb9ecd88da5357cad9b92440
+    time: 1541791785
   "/articles/case-study-overcoming-land-tenure-issues-in-mozambique/index.html":
     md5: 0830960f657d5d556f5aec2954457058
     time: 1541785806
@@ -797,8 +797,14 @@ inventory:
     md5: 195a727d068b9ef0317fa8eca2ebe643
     time: 1541785831
   "/articles/tags/land-rights/index.html":
-    md5: 6c4d9630430d7785141023f43b486c86
-    time: 1541785831
+    md5: adb57b7e83f400b2a193eb5c0ef80a3b
+    time: 1541791810
+  "/articles/tags/economic-growth/index.html":
+    md5: 7099a50235a76bfced5972a5bfa14b50
+    time: 1541791810
+  "/articles/tags/gender/index.html":
+    md5: 1f4058bdbd87e743b389bd05de2c69d8
+    time: 1541791810
   "/articles/tags/value-chain-and-market-systems-development/index.html":
     md5: 242b7a5bbf36ccec840b695a2c366da2
     time: 1541785831
@@ -808,9 +814,6 @@ inventory:
   "/articles/tags/stability/index.html":
     md5: 32081d1cdd6b74ebce62bc6620723a43
     time: 1541785831
-  "/articles/tags/gender/index.html":
-    md5: ce01fac53d17f3648c8892d2afcead79
-    time: 1541785832
   "/articles/tags/education/index.html":
     md5: 3b15730ab7f3f5d8298728aa22032cc7
     time: 1541785832
@@ -819,9 +822,6 @@ inventory:
     time: 1541785832
   "/articles/tags/health/index.html":
     md5: a9fb7c4cb0d5861dd1cc5ef49323456a
-    time: 1541785832
-  "/articles/tags/economic-growth/index.html":
-    md5: d74c1c0d180214ee057c5fd6d87e24a1
     time: 1541785832
   "/articles/tags/finance/index.html":
     md5: 315043ffd73077d1cd345a53cdfe50a1
@@ -959,23 +959,23 @@ inventory:
     md5: b353e94f2be203dc4ef2287b10611bbe
     time: 1541785837
   "/developing-alternatives/land-rights/index.html":
-    md5: 49a587c6d912e1dd6c17c4702f5320c8
-    time: 1541785837
+    md5: 19aad2be203c0c3f1fa8c7b1bb49f2f0
+    time: 1541791815
   "/developing-alternatives/winter-2013/index.html":
     md5: f7f0a430076b38effd8a96ee685f971b
     time: 1541785837
   "/developing-alternatives/full-archive/index.html":
-    md5: 753f396c538300f4618cbc174e29cbe5
-    time: 1541785837
+    md5: 3a95b86e2b4e5650cefa63f9a0b6b2ce
+    time: 1541791816
   "/CNAME":
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: b9505cb12799ce536a533a9874cc9535
-    time: 1541785837
+    md5: 36f9d3efe7d80aeaf0aabb316cd36a09
+    time: 1541791816
   "/feed.xml":
-    md5: cb4762d7e527c588fefbd877fab35353
-    time: 1541785837
+    md5: d714e25739a488ddc79c65810e417610
+    time: 1541791816
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1835,8 +1835,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: a15f74a645f7098cafe81d3b33ef1509
-    time: 1541785838
+    md5: f911e02e6f63baa2efcd08e5cce290a2
+    time: 1541791817
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
