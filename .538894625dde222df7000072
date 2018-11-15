@@ -1,5 +1,5 @@
 ---
-time: 1541791824
+time: 1542316113
 inventory:
   "/publications/index.html":
     md5: a8eae179d2719c962bb9bd561f02f4c5
@@ -781,6 +781,9 @@ inventory:
   "/articles/the-re-greening-of-iraq-restoring-marshlands/index.html":
     md5: e9c9ddc8aea65eebf442142f3ffd9105
     time: 1541785831
+  "/articles/can-online-dispute-resolution-change-the-way-global-msmes-do-business/index.html":
+    md5: 733856dae219e81c0b02e129bc94d9a9
+    time: 1542316100
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
     md5: 0cacc0d4524adfee6b73d59eb38c83ea
     time: 1541785831
@@ -974,8 +977,8 @@ inventory:
     md5: 36f9d3efe7d80aeaf0aabb316cd36a09
     time: 1541791816
   "/feed.xml":
-    md5: d714e25739a488ddc79c65810e417610
-    time: 1541791816
+    md5: 2f0eaaf0297bd77d2b943e48202eff55
+    time: 1542316107
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1879,6 +1882,9 @@ inventory:
   "/assets/Matembo_Women copy.jpg":
     md5: 78c8980aca83ec20088b16f0cca4df41
     time: 1541785838
+  "/assets/Mark2.jpg":
+    md5: 8232e8da354d4913fd66e65b69d16bed
+    time: 1542316107
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2626,6 +2632,9 @@ inventory:
   "/assets/parasurveyor.jpg":
     md5: a56d960d82df1d6bbf65a8782270923e
     time: 1541785838
+  "/assets/Photo 1.jpg":
+    md5: 7aa3f522f5b226059fe3f0dfa7580ef1
+    time: 1542316107
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -3109,6 +3118,9 @@ inventory:
   "/assets/Joti_store.jpg":
     md5: d4b1407a30ffb10ef5cb0e804ed61a38
     time: 1541785838
+  "/assets/Photo 3.jpg":
+    md5: d80a6aff1c91648d33bbed88dcbec862
+    time: 1542316107
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
