@@ -1,5 +1,5 @@
 ---
-time: 1542316113
+time: 1542658575
 inventory:
   "/publications/index.html":
     md5: a8eae179d2719c962bb9bd561f02f4c5
@@ -44,8 +44,8 @@ inventory:
     md5: 2f0ffa45b702b5925fd0e0ee3df5d8a0
     time: 1541785807
   "/articles/keep-up-the-fight/index.html":
-    md5: 5820d0e97f8098ba220d9cdb6cbd4b2a
-    time: 1541785807
+    md5: 02baf841c207f5d1b94647f33d415e56
+    time: 1542658541
   "/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/index.html":
     md5: 548a0c9f128d15f319da8e9fa6174ed2
     time: 1541785807
@@ -53,8 +53,8 @@ inventory:
     md5: 83ef0257be50e9ba30beda3458832c30
     time: 1541785807
   "/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/index.html":
-    md5: 65bdb14d475f729cd7ab3a5dc9ebfacf
-    time: 1541785807
+    md5: 4402c653347c26d9fe51c51452e7fd5a
+    time: 1542658541
   "/articles/lets-work-together-to-improve-maternal-and-newborn-health/index.html":
     md5: 5facd73b54aaa5605e8893afb739a810
     time: 1541785807
@@ -974,11 +974,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 36f9d3efe7d80aeaf0aabb316cd36a09
-    time: 1541791816
+    md5: 49868aa863eec1f34b117d14a7fc7bd1
+    time: 1542658569
   "/feed.xml":
-    md5: 2f0eaaf0297bd77d2b943e48202eff55
-    time: 1542316107
+    md5: 5c1f71b02e39095040f2ca6534b2a36f
+    time: 1542658570
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1726,9 +1726,6 @@ inventory:
   "/assets/Devs----OCSP-3.jpg":
     md5: febf2649af39d0fbc45c5336969ba3f9
     time: 1512658639
-  "/styles/css/style.css":
-    md5: 98d02d72980dbffc497cf7872c3fd5ec
-    time: 1512664187
   "/assets/waterfall.jpg":
     md5: abef1b8f1374c8d1fba355ae20683ee0
     time: 1513179963
@@ -1885,6 +1882,9 @@ inventory:
   "/assets/Mark2.jpg":
     md5: 8232e8da354d4913fd66e65b69d16bed
     time: 1542316107
+  "/styles/css/style.css":
+    md5: 89d64814a759c4a75c68f42ab971a5b7
+    time: 1542658570
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
