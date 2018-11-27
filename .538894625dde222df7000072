@@ -1,5 +1,5 @@
 ---
-time: 1542738138
+time: 1543349605
 inventory:
   "/publications/index.html":
     md5: 1ca9dc50d0526256c3f3c708d916b090
@@ -11,8 +11,8 @@ inventory:
     md5: 7165bceb7fbdb61e1449e017f5232799
     time: 1542737941
   "/articles/can-online-dispute-resolution-change-the-way-global-msmes-do-business/index.html":
-    md5: 3dad7f88f7077e512a27d64a6ce37a5f
-    time: 1542737941
+    md5: 57db7a2550d7b199b8f6ba18969738f9
+    time: 1543349567
   "/articles/beyond-boundaries-how-secure-land-tenure-is-improving-lives-in-rural-tanzania/index.html":
     md5: ad436226643fd8b080d2d51758e93f18
     time: 1542737941
@@ -902,8 +902,8 @@ inventory:
     md5: 201fd4660820830127c9613525a7bcc2
     time: 1542737969
   "/developments/full-archive/index.html":
-    md5: e87df1180bb6bf40034f60087fc5e647
-    time: 1542737970
+    md5: 891689c87bcc9a564c68a11122aad469
+    time: 1543349596
   "/developments/fall-2018/index.html":
     md5: 6794eef6f4b9ce8267b24da7e8fdfed3
     time: 1542737970
@@ -974,11 +974,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f822f27e47bd5cfb85e56fcaf32e7c73
-    time: 1542737972
+    md5: 660c3565998df6b0bfbd5ca74f243284
+    time: 1543349599
   "/feed.xml":
-    md5: 307f56acc867ef0c940ec55809e2716e
-    time: 1542737973
+    md5: 865937ad2f2505bad283e38aaf4c0ec0
+    time: 1543349599
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1835,8 +1835,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: e273924802bb583ebb8c6ec1a6646097
-    time: 1542737973
+    md5: 867be68a903a2af6c722ce10411c27c3
+    time: 1543349599
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
