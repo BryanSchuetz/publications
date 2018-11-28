@@ -1,5 +1,5 @@
 ---
-time: 1543349605
+time: 1543432255
 inventory:
   "/publications/index.html":
     md5: 1ca9dc50d0526256c3f3c708d916b090
@@ -41,8 +41,8 @@ inventory:
     md5: 756bdc33ff2a4c0fec733903240d88a3
     time: 1542737942
   "/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/index.html":
-    md5: bc6c4baf416b9254f726bec7ff606480
-    time: 1542737942
+    md5: cb8395f4bc2939015b3b689a8bf3fb30
+    time: 1543432221
   "/articles/jordan-embraces-renewables-to-fuel-its-economy/index.html":
     md5: 6dadfdf802dcfb84a69a4104570added
     time: 1542737942
@@ -974,11 +974,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 660c3565998df6b0bfbd5ca74f243284
-    time: 1543349599
+    md5: fef777a0235f1fb083a4459b47e23a16
+    time: 1543432250
   "/feed.xml":
-    md5: 865937ad2f2505bad283e38aaf4c0ec0
-    time: 1543349599
+    md5: 5e754effdb87d7b9ed9662ecfff0b8ca
+    time: 1543432251
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
