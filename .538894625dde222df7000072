@@ -1,5 +1,5 @@
 ---
-time: 1543432255
+time: 1544041744
 inventory:
   "/publications/index.html":
     md5: 1ca9dc50d0526256c3f3c708d916b090
@@ -29,8 +29,8 @@ inventory:
     md5: b010d9567fa3f3c2e5f6c4b517d04b9c
     time: 1542737941
   "/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream/index.html":
-    md5: 6f1b4111244d931a06733fa432b1f76d
-    time: 1542737941
+    md5: 8315d0a22c4c2e01288fa5c4008c80bf
+    time: 1544041706
   "/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras/index.html":
     md5: 8843adac1a1a8d45afd1d656c039e2ec
     time: 1542737942
@@ -974,11 +974,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: fef777a0235f1fb083a4459b47e23a16
-    time: 1543432250
+    md5: 990f6eaa0895b04ea718ef889680efa4
+    time: 1544041735
   "/feed.xml":
-    md5: 5e754effdb87d7b9ed9662ecfff0b8ca
-    time: 1543432251
+    md5: 455a344582e6383d63a8116ef02ebfab
+    time: 1544041735
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1885,6 +1885,9 @@ inventory:
   "/styles/css/style.css":
     md5: 89d64814a759c4a75c68f42ab971a5b7
     time: 1542658570
+  "/assets/Devs----new-pic-UNITED.jpg":
+    md5: 6b5b84050f8a1c3dadd990c165cb1c51
+    time: 1544041736
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2635,6 +2638,9 @@ inventory:
   "/assets/Photo 1.jpg":
     md5: 7aa3f522f5b226059fe3f0dfa7580ef1
     time: 1542316107
+  "/assets/Devs----Nigeria-UNITED-3.jpg":
+    md5: ca53a59e9a28c7f30ed8a6fdc8b85cb0
+    time: 1544041736
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
@@ -3121,6 +3127,9 @@ inventory:
   "/assets/Photo 3.jpg":
     md5: d80a6aff1c91648d33bbed88dcbec862
     time: 1542316107
+  "/assets/Devs----Nigeria-UNITED-5.jpg":
+    md5: 4ffd89434f299cdb95566202a1932c40
+    time: 1544041736
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -3454,6 +3463,9 @@ inventory:
   "/assets/Tressan_Sullivan.jpeg":
     md5: c3d5b85889350f502ba5e0a825319635
     time: 1541785838
+  "/assets/Devs----Blessing-Stephen-Nigeria-UNITED.jpg":
+    md5: 524d98c7a79761e941290b1aac71bd9a
+    time: 1544041736
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
