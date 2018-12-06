@@ -1,5 +1,5 @@
 ---
-time: 1544108276
+time: 1544109010
 inventory:
   "/publications/index.html":
     md5: 34859bea85aa0ffbba497105abca6bb0
@@ -11,8 +11,8 @@ inventory:
     md5: cb02d3ea4f65275c29e64a4df1c5c6eb
     time: 1544108068
   "/articles/four-steps-to-advocate-for-government-investment-in-public-health/index.html":
-    md5: 3734120d48b20b69933c8afc726c88de
-    time: 1544108068
+    md5: 1ad0a0fa12bba13902cbf845c79912fa
+    time: 1544108972
   "/articles/can-online-dispute-resolution-change-the-way-global-msmes-do-business/index.html":
     md5: d6a54dfff1b3b0413e9364d658857160
     time: 1544108068
@@ -905,8 +905,8 @@ inventory:
     md5: 10c653de5ab1f18594924c2db91de4d9
     time: 1544108096
   "/developments/full-archive/index.html":
-    md5: 36e1ece993dea295de2a0eca5e034716
-    time: 1544108096
+    md5: 10d844228bc83f506ee1032fc3187fd0
+    time: 1544109001
   "/developments/fall-2018/index.html":
     md5: 30dbb7cf7fd950cf05a7466a21b76794
     time: 1544108096
@@ -977,11 +977,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 8429669c933a855d9ddaa0928ffd68d1
-    time: 1544108099
+    md5: 826107f6c77048ab91568241c6d65e90
+    time: 1544109004
   "/feed.xml":
-    md5: 6963f71cc44b94d1d822266a76741126
-    time: 1544108099
+    md5: 8de01c69689b0801947ab5449fa5f34a
+    time: 1544109004
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1838,8 +1838,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: b7b0ef42d1176acc29c30a8eac31cbe3
-    time: 1544108099
+    md5: 293d8dbf284d0d39db850064ff36a2c6
+    time: 1544109004
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
