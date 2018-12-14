@@ -1,5 +1,5 @@
 ---
-time: 1544798663
+time: 1544811472
 inventory:
   "/publications/index.html":
     md5: 37d140ca75e4b8eb284b79f3a31720ca
@@ -11,8 +11,8 @@ inventory:
     md5: 533140340746a8e1b9b1fcca7bd4400a
     time: 1544729721
   "/articles/why-the-time-is-right-for-access-for-all/index.html":
-    md5: 4f4df208704141a0be1ba828be375705
-    time: 1544798626
+    md5: 28179dc2b818c8448c9157bdd72ea1d4
+    time: 1544811435
   "/articles/four-steps-to-advocate-for-government-investment-in-public-health/index.html":
     md5: 894be23fa208363227da528982b0b51c
     time: 1544729722
@@ -980,11 +980,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: bd65f2c4b9c9c9d3ad7ff24c49fcb2eb
-    time: 1544798657
+    md5: 0fc064c026955a077c2119a4e5a25b3c
+    time: 1544811466
   "/feed.xml":
-    md5: cca6191ed6c9b4b49ed2a61686a45628
-    time: 1544798658
+    md5: 39f416b05898badee5e0ca10756513fe
+    time: 1544811467
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
