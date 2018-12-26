@@ -1,5 +1,5 @@
 ---
-time: 1545858274
+time: 1545859569
 inventory:
   "/publications/index.html":
     md5: 37d140ca75e4b8eb284b79f3a31720ca
@@ -911,8 +911,8 @@ inventory:
     md5: 106a8b30a835909cbcb102d62fd5f173
     time: 1545855674
   "/developments/winter-2018/index.html":
-    md5: 21ff7dda99f38a906e7adbd51adc7f0a
-    time: 1545858258
+    md5: cad508a2f91ef8a7630e4924e5c12ff0
+    time: 1545859560
   "/developments/fall-2018/index.html":
     md5: db0745afa31b22c9e430d1dae7e277c5
     time: 1544729750
@@ -983,11 +983,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 6495ebe49aac7af5f76eac6e60bae66e
-    time: 1545858263
+    md5: 0c6c887335ddbbc75b8c06f99ff30385
+    time: 1545859562
   "/feed.xml":
-    md5: 2458925becfc2388d548c88133f15f84
-    time: 1545858264
+    md5: a79d659727888531541210ca02b05e6c
+    time: 1545859563
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1900,9 +1900,9 @@ inventory:
   "/assets/Devs----Boomgard-mug.jpg":
     md5: a5beda630fe1455e440ca73c04ea80a6
     time: 1544729754
-  "/assets/Devs----Winter-2018-1-1.jpg":
-    md5: cec5d4fc0884857d1e69558fd6d26f81
-    time: 1545852600
+  "/assets/Devs----Winter-2018-3.jpg":
+    md5: c482f2bddb0fe5bfc6106081086a244e
+    time: 1545859563
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2659,9 +2659,9 @@ inventory:
   "/assets/Devs----Boomgard-1.jpg":
     md5: c54ee92e9256bcc84098db40c2e42a99
     time: 1544729754
-  "/assets/devs----Winter-2018-2.jpg":
-    md5: 31f8223aacf28c228d010994592be4d5
-    time: 1545855680
+  "/assets/Devs----Winter-2018-1-1.jpg":
+    md5: cec5d4fc0884857d1e69558fd6d26f81
+    time: 1545852600
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
