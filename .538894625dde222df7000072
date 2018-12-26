@@ -1,5 +1,5 @@
 ---
-time: 1545852836
+time: 1545852906
 inventory:
   "/publications/index.html":
     md5: 37d140ca75e4b8eb284b79f3a31720ca
@@ -38,8 +38,8 @@ inventory:
     md5: e710bfa166a62823e507726a3a66da8d
     time: 1545852798
   "/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras/index.html":
-    md5: fd59bd2305aca0e629cf775cfbde7b38
-    time: 1544729722
+    md5: c16dbf2e0290f7b9c2e661bf2e61602b
+    time: 1545852868
   "/articles/how-can-developing-countries-identify-and-allocate-resources-to-pay-for-health-services/index.html":
     md5: 082c6e3d5f9e608907d3392081eba8f8
     time: 1544729723
@@ -821,8 +821,8 @@ inventory:
     md5: 429d7edc2c8cccc156c7853e007e08c9
     time: 1545852666
   "/articles/tags/governance/index.html":
-    md5: 277c2c5406aa1a1cc501cc0ce39a4bbd
-    time: 1545852824
+    md5: 66989226bef0caf4707e03e5f2697726
+    time: 1545852893
   "/articles/tags/trade/index.html":
     md5: f99bd396bffa066a79838c74df4e9ed7
     time: 1545852731
@@ -842,11 +842,11 @@ inventory:
     md5: 88f77a32ec6531d3ff2a5b73d830765b
     time: 1544729748
   "/articles/tags/stability/index.html":
-    md5: 928692ad906494e710a01de7d5462762
-    time: 1545852824
+    md5: db70d5606eafc992bbd17f3add11036e
+    time: 1545852894
   "/articles/tags/education/index.html":
-    md5: eafd52c453ced8a196d91dff0445300a
-    time: 1544729748
+    md5: d7d0a960a1ff8544f714f3ee0d63df68
+    time: 1545852894
   "/articles/tags/public-financial-management/index.html":
     md5: 54de93f30de02c639f17a4b29c4bc817
     time: 1544729748
@@ -908,8 +908,8 @@ inventory:
     md5: e6d3f10336f7e42280fa86a57ff5b701
     time: 1544729750
   "/developments/full-archive/index.html":
-    md5: 9faade5e29ff93f2b6adef809904c9aa
-    time: 1545852826
+    md5: 2d6ac3c4969ba6b1d746d18637b7c328
+    time: 1545852896
   "/developments/fall-2018/index.html":
     md5: db0745afa31b22c9e430d1dae7e277c5
     time: 1544729750
@@ -980,11 +980,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 48e2295d7ccb068aca383abed3058c41
-    time: 1545852828
+    md5: 15d273c894f81c4b56c27774f3809d5f
+    time: 1545852898
   "/feed.xml":
-    md5: 38929537e3f7af841d474265ece8925c
-    time: 1545852829
+    md5: 72641779e549695d765152f41310f4f1
+    time: 1545852899
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
