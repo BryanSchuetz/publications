@@ -1,5 +1,5 @@
 ---
-time: 1545852678
+time: 1545852745
 inventory:
   "/publications/index.html":
     md5: 37d140ca75e4b8eb284b79f3a31720ca
@@ -17,8 +17,8 @@ inventory:
     md5: f54467723c1099bf2949aefe43be3b20
     time: 1545852639
   "/articles/can-online-dispute-resolution-change-the-way-global-msmes-do-business/index.html":
-    md5: 62020a49f7eb4fd03beb5af3ba0d48df
-    time: 1544729722
+    md5: a45be65da0d2d7c7eac57a823bf5e090
+    time: 1545852703
   "/articles/beyond-boundaries-how-secure-land-tenure-is-improving-lives-in-rural-tanzania/index.html":
     md5: 71cf086520438c48bbfe14edfb4839d6
     time: 1544729722
@@ -809,29 +809,29 @@ inventory:
     md5: 2d2696e963d95c51f4c0407aeacf5f5d
     time: 1545852593
   "/articles/tags/economic-growth/index.html":
-    md5: c216221ee4cf644b798acadbb481455d
-    time: 1545852594
+    md5: 069af5367334655c787d583427e765b4
+    time: 1545852730
   "/articles/tags/finance/index.html":
     md5: 748a90ab21149cb8a6292951a80f8054
     time: 1545852594
   "/articles/tags/investment/index.html":
-    md5: fd85b7e6090cc2f524db04891a398f42
-    time: 1545852594
+    md5: 22bf8f05134367da2af5f20de416c979
+    time: 1545852730
   "/articles/tags/health/index.html":
     md5: 429d7edc2c8cccc156c7853e007e08c9
     time: 1545852666
   "/articles/tags/governance/index.html":
-    md5: 469b19c0356bf9f5dc9e1c4492055b2d
-    time: 1545852666
+    md5: 3468c7bfa1953c5b2e4d263d4d9da437
+    time: 1545852731
   "/articles/tags/trade/index.html":
-    md5: cc78dac7930ce19389c04072d3dbc7e5
-    time: 1544729748
+    md5: f99bd396bffa066a79838c74df4e9ed7
+    time: 1545852731
   "/articles/tags/ict/index.html":
-    md5: 75ab4f9e6b999740be74facf28ab4f40
-    time: 1544729748
+    md5: bf12e3d38057227e5733bc870ea5690d
+    time: 1545852731
   "/articles/tags/innovation/index.html":
-    md5: 27b3619c730b09538afd4934aec3d344
-    time: 1544729748
+    md5: 773086b1e0dfaf228b2f7176eceedd36
+    time: 1545852731
   "/articles/tags/land-rights/index.html":
     md5: 02af17925603ddaf91862d15ca9c5057
     time: 1544729748
@@ -908,8 +908,8 @@ inventory:
     md5: e6d3f10336f7e42280fa86a57ff5b701
     time: 1544729750
   "/developments/full-archive/index.html":
-    md5: c9f07f3a4173228e2dfca46d933c5e74
-    time: 1545852668
+    md5: e4277a10239ad84204450f0c1967c0c2
+    time: 1545852733
   "/developments/fall-2018/index.html":
     md5: db0745afa31b22c9e430d1dae7e277c5
     time: 1544729750
@@ -980,11 +980,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: e2250a43593e8fcdca0ff0cc01023276
-    time: 1545852671
+    md5: eaaf1595c3c9091500e5305c5d00e654
+    time: 1545852736
   "/feed.xml":
-    md5: 344c802bbcc113a145a7a9ba9f8c7424
-    time: 1545852672
+    md5: 0f9a06270b87dab9b459781d9b814a64
+    time: 1545852736
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
