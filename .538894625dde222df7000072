@@ -1,5 +1,5 @@
 ---
-time: 1545852972
+time: 1545853583
 inventory:
   "/publications/index.html":
     md5: 37d140ca75e4b8eb284b79f3a31720ca
@@ -11,8 +11,8 @@ inventory:
     md5: 533140340746a8e1b9b1fcca7bd4400a
     time: 1544729721
   "/articles/why-the-time-is-right-for-access-for-all/index.html":
-    md5: 77679a97b2547841156904eeb1b20054
-    time: 1545852568
+    md5: def764f0dfb407ee528571b308e4bb15
+    time: 1545853399
   "/articles/four-steps-to-advocate-for-government-investment-in-public-health/index.html":
     md5: f54467723c1099bf2949aefe43be3b20
     time: 1545852639
@@ -806,17 +806,17 @@ inventory:
     md5: 2db38b170c6c13b425b83cea4d94f788
     time: 1544729746
   "/articles/tags/dai/index.html":
-    md5: 2d2696e963d95c51f4c0407aeacf5f5d
-    time: 1545852593
+    md5: 801aecf6bb74f816006fe4a027526644
+    time: 1545853549
   "/articles/tags/economic-growth/index.html":
-    md5: 069af5367334655c787d583427e765b4
-    time: 1545852730
+    md5: 3810eecbf418fa43b50058d8f7d12143
+    time: 1545853550
   "/articles/tags/finance/index.html":
-    md5: 748a90ab21149cb8a6292951a80f8054
-    time: 1545852594
+    md5: 414c3be479dc342187459a99bb2563ce
+    time: 1545853550
   "/articles/tags/investment/index.html":
-    md5: 22bf8f05134367da2af5f20de416c979
-    time: 1545852730
+    md5: 074fa14d93c3ec1f83f31253bc5f1efb
+    time: 1545853550
   "/articles/tags/health/index.html":
     md5: 831010cd177b1b541a822d80c7f6f24c
     time: 1545852960
@@ -908,8 +908,8 @@ inventory:
     md5: e6d3f10336f7e42280fa86a57ff5b701
     time: 1544729750
   "/developments/full-archive/index.html":
-    md5: d6b5744c0c9ba4c8e7ea3f015e8f17f1
-    time: 1545852962
+    md5: f837d599ecd11e66a65ac3938477bc75
+    time: 1545853555
   "/developments/fall-2018/index.html":
     md5: db0745afa31b22c9e430d1dae7e277c5
     time: 1544729750
@@ -980,11 +980,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: a62f4fddd5053e0267362f8af3a87a79
-    time: 1545852965
+    md5: 792c3584fc0b0ad84250161810d3691b
+    time: 1545853561
   "/feed.xml":
-    md5: eed58023505177e852b76a98b885b0a0
-    time: 1545852965
+    md5: b90371b455d453d1a8ab6f4750cf87ce
+    time: 1545853561
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1841,8 +1841,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: aac8063dbc23c5ae98059b99542b3f27
-    time: 1544729754
+    md5: 321f297da8c90298419790cb3ffea65a
+    time: 1545853562
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
