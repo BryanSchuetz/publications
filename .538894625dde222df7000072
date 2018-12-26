@@ -1,5 +1,5 @@
 ---
-time: 1544811472
+time: 1545852610
 inventory:
   "/publications/index.html":
     md5: 37d140ca75e4b8eb284b79f3a31720ca
@@ -11,8 +11,8 @@ inventory:
     md5: 533140340746a8e1b9b1fcca7bd4400a
     time: 1544729721
   "/articles/why-the-time-is-right-for-access-for-all/index.html":
-    md5: 28179dc2b818c8448c9157bdd72ea1d4
-    time: 1544811435
+    md5: 77679a97b2547841156904eeb1b20054
+    time: 1545852568
   "/articles/four-steps-to-advocate-for-government-investment-in-public-health/index.html":
     md5: 894be23fa208363227da528982b0b51c
     time: 1544729722
@@ -806,17 +806,17 @@ inventory:
     md5: 2db38b170c6c13b425b83cea4d94f788
     time: 1544729746
   "/articles/tags/dai/index.html":
-    md5: 2ff72432dc0b8fb988535d9d8c529c56
-    time: 1544729747
+    md5: 2d2696e963d95c51f4c0407aeacf5f5d
+    time: 1545852593
   "/articles/tags/economic-growth/index.html":
-    md5: 8eb4ee5576c20dc61385c5a0bebae091
-    time: 1544729747
+    md5: c216221ee4cf644b798acadbb481455d
+    time: 1545852594
   "/articles/tags/finance/index.html":
-    md5: b427a88f31365398df341e688d9a7e28
-    time: 1544729747
+    md5: 748a90ab21149cb8a6292951a80f8054
+    time: 1545852594
   "/articles/tags/investment/index.html":
-    md5: f34c86ee684e166a40eeca2cf17788b0
-    time: 1544729747
+    md5: fd85b7e6090cc2f524db04891a398f42
+    time: 1545852594
   "/articles/tags/health/index.html":
     md5: 45a513d69cad84e2f48817415c5dcdb9
     time: 1544729747
@@ -908,8 +908,8 @@ inventory:
     md5: e6d3f10336f7e42280fa86a57ff5b701
     time: 1544729750
   "/developments/full-archive/index.html":
-    md5: a11fffe7d835055db1d8f3f0ffd2da90
-    time: 1544729750
+    md5: 4b563f09638fcb1d0886e9ca7dbfdf70
+    time: 1545852597
   "/developments/fall-2018/index.html":
     md5: db0745afa31b22c9e430d1dae7e277c5
     time: 1544729750
@@ -980,11 +980,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 0fc064c026955a077c2119a4e5a25b3c
-    time: 1544811466
+    md5: bea1fa82775376c7fb73f9714d76c8a2
+    time: 1545852599
   "/feed.xml":
-    md5: 39f416b05898badee5e0ca10756513fe
-    time: 1544811467
+    md5: 0b121e497b614a968cab2ca391a0d171
+    time: 1545852600
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1897,6 +1897,9 @@ inventory:
   "/assets/Devs----Boomgard-mug.jpg":
     md5: a5beda630fe1455e440ca73c04ea80a6
     time: 1544729754
+  "/assets/Devs----Winter-2018-1-1.jpg":
+    md5: cec5d4fc0884857d1e69558fd6d26f81
+    time: 1545852600
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2653,6 +2656,9 @@ inventory:
   "/assets/Devs----Boomgard-1.jpg":
     md5: c54ee92e9256bcc84098db40c2e42a99
     time: 1544729754
+  "/assets/devs----Winter-2018-2-1.jpg":
+    md5: 31f8223aacf28c228d010994592be4d5
+    time: 1545852600
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
