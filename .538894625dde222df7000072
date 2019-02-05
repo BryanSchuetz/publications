@@ -1,5 +1,5 @@
 ---
-time: 1549389746
+time: 1549389845
 inventory:
   "/publications/index.html":
     md5: b4b3f16b68f67d51d2d2e7220e054156
@@ -11,8 +11,8 @@ inventory:
     md5: 657a6f1878d5897595a58308caf5a68b
     time: 1549389541
   "/articles/building-inclusivity-into-inclusive-education/index.html":
-    md5: 54056daee1148626b778169d74efcb69
-    time: 1549389541
+    md5: 1926d860e8f13309aa2f3ce6f9b7c1de
+    time: 1549389807
   "/articles/why-the-time-is-right-for-access-for-all/index.html":
     md5: aa8fd9c002639ab9cafbeff0c01daf12
     time: 1549389541
@@ -911,8 +911,8 @@ inventory:
     md5: a4d2d859c28a5d38f495d6d861df66f5
     time: 1549389569
   "/developments/full-archive/index.html":
-    md5: 88eac878be7e83b1384c0ab04fd523b6
-    time: 1549389570
+    md5: 83a7a40e1435a68acf4c1238d3e02f43
+    time: 1549389835
   "/developments/winter-2018/index.html":
     md5: 0bbfe5059d5aefcc43edd7b4545fe02b
     time: 1549389570
@@ -986,11 +986,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 4cf2a8d091a1a8e86a554c3e6da3f6ca
-    time: 1549389572
+    md5: 40227c2719e00dc91970a5a2d07afabd
+    time: 1549389838
   "/feed.xml":
-    md5: a47040e6fd6e4f50fd03b67b6daef2e9
-    time: 1549389573
+    md5: 08934e2919d6fa9d7c4c3451256a7b04
+    time: 1549389838
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1847,8 +1847,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 60dc60914706e432f975775b91d2599c
-    time: 1549389573
+    md5: e1d0e9646f545d5c6aab2bd5124b40a0
+    time: 1549389839
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
