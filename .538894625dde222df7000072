@@ -1,5 +1,5 @@
 ---
-time: 1549396384
+time: 1549396549
 inventory:
   "/publications/index.html":
     md5: b4b3f16b68f67d51d2d2e7220e054156
@@ -377,8 +377,8 @@ inventory:
     md5: f93cbc19cc4be14b200252e2efc8db9e
     time: 1549389556
   "/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities/index.html":
-    md5: c815b3e76f86fc650ad2a78524444b6e
-    time: 1549389556
+    md5: 52fb20dbc9abd5451039e7c99e15c906
+    time: 1549396524
   "/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/index.html":
     md5: f83eb503342368135692e67060ef5b0c
     time: 1549389556
@@ -809,11 +809,11 @@ inventory:
     md5: c9799fdc4dafc7b073aa7f7560f0f7d7
     time: 1549389566
   "/articles/tags/education/index.html":
-    md5: 8677b8f36921400fc0446ee966222c68
-    time: 1549396370
+    md5: a8de0651bdb18f6edc45a5df423a26cc
+    time: 1549396535
   "/articles/tags/governance/index.html":
-    md5: 085eae9d1d0ad67a047d1798ebb56c4f
-    time: 1549389567
+    md5: 82cac12eb42d2c6300b9b887395a0a9f
+    time: 1549396536
   "/articles/tags/dai/index.html":
     md5: f7cceccef11c9e5849c7326b54021e90
     time: 1549389567
@@ -827,8 +827,8 @@ inventory:
     md5: e88c8561ab9ada8ebc67cd694e9a0783
     time: 1549389567
   "/articles/tags/health/index.html":
-    md5: 8a166af067f75525e1c6530a047a84cb
-    time: 1549389568
+    md5: f707e1ee3ba0a312c9043053bbd0950d
+    time: 1549396536
   "/articles/tags/trade/index.html":
     md5: ee1f164b3d41ede9f6e4aa6a8162d744
     time: 1549389568
@@ -911,8 +911,8 @@ inventory:
     md5: a4d2d859c28a5d38f495d6d861df66f5
     time: 1549389569
   "/developments/full-archive/index.html":
-    md5: 926d39347e897fab25ac4633b5eede48
-    time: 1549396374
+    md5: dc1df672c2688514bc2f49c31e1adc3e
+    time: 1549396539
   "/developments/winter-2018/index.html":
     md5: 0bbfe5059d5aefcc43edd7b4545fe02b
     time: 1549389570
@@ -941,8 +941,8 @@ inventory:
     md5: efec58ae20d5689d15ff1272505e991a
     time: 1549389571
   "/developments/winter-2015/index.html":
-    md5: 8fcd6e080a4bad847dc4d93416d9e264
-    time: 1549389571
+    md5: 624a076ad84c0be785d59084210616d2
+    time: 1549396540
   "/developments/fall-2015/index.html":
     md5: bb22fe08d326fb229b33fe69ed451842
     time: 1549389571
@@ -986,11 +986,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: dd60c96b42e18f73221412c29eb955dc
-    time: 1549396376
+    md5: 5a896cd41b09c6c405c271e511753d3a
+    time: 1549396541
   "/feed.xml":
-    md5: 148e38f5994bfdc932ba4628ce427b7b
-    time: 1549396377
+    md5: 6aaf71b55295b6b40a15abc7101250b7
+    time: 1549396542
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
