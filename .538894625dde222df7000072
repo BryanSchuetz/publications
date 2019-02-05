@@ -1,5 +1,5 @@
 ---
-time: 1549396549
+time: 1549396678
 inventory:
   "/publications/index.html":
     md5: b4b3f16b68f67d51d2d2e7220e054156
@@ -143,8 +143,8 @@ inventory:
     md5: 9378aac94826c9aa8ebdf6c05bf96351
     time: 1549389546
   "/articles/with-elections-looming-can-pakistan-fulfill-its-education-promise-to-unschooled-children/index.html":
-    md5: fdd2aac6b6bb62090e7606bef452ced2
-    time: 1549389546
+    md5: 99e4b4df7611fd75181700e636c5a829
+    time: 1549396642
   "/articles/liberia-moves-to-reduce-donor-dependence-by-improving-its-ability-to-invest-in-itself/index.html":
     md5: 3d9753ed9609803567c7a247d276cacf
     time: 1549389546
@@ -809,11 +809,11 @@ inventory:
     md5: c9799fdc4dafc7b073aa7f7560f0f7d7
     time: 1549389566
   "/articles/tags/education/index.html":
-    md5: a8de0651bdb18f6edc45a5df423a26cc
-    time: 1549396535
+    md5: a5d7c827c4764e8f7a061445d944f9f4
+    time: 1549396663
   "/articles/tags/governance/index.html":
-    md5: 82cac12eb42d2c6300b9b887395a0a9f
-    time: 1549396536
+    md5: bcc9037aa7f893bc2d0cc1e71b3fef91
+    time: 1549396663
   "/articles/tags/dai/index.html":
     md5: f7cceccef11c9e5849c7326b54021e90
     time: 1549389567
@@ -848,8 +848,8 @@ inventory:
     md5: 80ee509e551887fb37c29f3688ead870
     time: 1549389568
   "/articles/tags/stability/index.html":
-    md5: ac33d8b2e4bd2b8ace904e28f7ce06ec
-    time: 1549396372
+    md5: 41e394668337e9959fa920bc31f3bc5c
+    time: 1549396665
   "/articles/tags/public-financial-management/index.html":
     md5: 5b2e02bed2ee2b8759677eed3d2285c9
     time: 1549389568
@@ -911,8 +911,8 @@ inventory:
     md5: a4d2d859c28a5d38f495d6d861df66f5
     time: 1549389569
   "/developments/full-archive/index.html":
-    md5: dc1df672c2688514bc2f49c31e1adc3e
-    time: 1549396539
+    md5: 7c251747631daa5c2e9ce255cd42b860
+    time: 1549396666
   "/developments/winter-2018/index.html":
     md5: 0bbfe5059d5aefcc43edd7b4545fe02b
     time: 1549389570
@@ -923,8 +923,8 @@ inventory:
     md5: 718bdcfcf1f5153f37cd3ccb86aa4b7f
     time: 1549396374
   "/developments/spring-2018/index.html":
-    md5: 2d8b9a77989a7982958027528689afac
-    time: 1549389570
+    md5: 71f225e9cc8515c0955e0a0d118695dd
+    time: 1549396667
   "/developments/winter-2017/index.html":
     md5: 20b9dc271a1c0f94fa471336be746820
     time: 1549389570
@@ -986,11 +986,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 5a896cd41b09c6c405c271e511753d3a
-    time: 1549396541
+    md5: 67dcc1140eb53d7b114f51998575b058
+    time: 1549396669
   "/feed.xml":
-    md5: 6aaf71b55295b6b40a15abc7101250b7
-    time: 1549396542
+    md5: 569b7d91585c8292c2d0778e1b94fa06
+    time: 1549396670
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
