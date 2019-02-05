@@ -1,5 +1,5 @@
 ---
-time: 1549389845
+time: 1549396384
 inventory:
   "/publications/index.html":
     md5: b4b3f16b68f67d51d2d2e7220e054156
@@ -104,8 +104,8 @@ inventory:
     md5: 3cbea680f71f0989172a67f1e80d0e78
     time: 1549389545
   "/articles/new-dfid-guidance-aims-to-improve-emergency-schooling-for-millions-of-displaced-children/index.html":
-    md5: eec0f6cfbfecb6d2bab5f2e4df23f59b
-    time: 1549389545
+    md5: 91765126e4f79a7a7411c961df7677e2
+    time: 1549396350
   "/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/index.html":
     md5: b6969303b14be5d16fd08e48010c3a2b
     time: 1549389545
@@ -809,8 +809,8 @@ inventory:
     md5: c9799fdc4dafc7b073aa7f7560f0f7d7
     time: 1549389566
   "/articles/tags/education/index.html":
-    md5: f6ec88ce20aed4cd62beca3ef7b566a6
-    time: 1549389566
+    md5: 8677b8f36921400fc0446ee966222c68
+    time: 1549396370
   "/articles/tags/governance/index.html":
     md5: 085eae9d1d0ad67a047d1798ebb56c4f
     time: 1549389567
@@ -848,8 +848,8 @@ inventory:
     md5: 80ee509e551887fb37c29f3688ead870
     time: 1549389568
   "/articles/tags/stability/index.html":
-    md5: ee127b5d34ac5ce1caaf0446701d8529
-    time: 1549389568
+    md5: ac33d8b2e4bd2b8ace904e28f7ce06ec
+    time: 1549396372
   "/articles/tags/public-financial-management/index.html":
     md5: 5b2e02bed2ee2b8759677eed3d2285c9
     time: 1549389568
@@ -872,14 +872,14 @@ inventory:
     md5: 657c5f08c42bffd5d05ce3b569b28cf5
     time: 1549389569
   "/articles/tags/resilience/index.html":
-    md5: 4f84bd4d353785a04d7a66395ee59c4d
-    time: 1549389569
+    md5: 54c71a4a55fc59ad05d63ec7264f6704
+    time: 1549396373
   "/articles/tags/european-commission/index.html":
     md5: ad37102c321bfb2dbc4b9be225486e67
     time: 1549389569
   "/articles/tags/fragile-states/index.html":
-    md5: a83b47cac023c8a6be9536657680f7e0
-    time: 1549389569
+    md5: 9a3b3c85f8e2c52912b7cc1eed02d8dc
+    time: 1549396373
   "/articles/tags/land/index.html":
     md5: fa54a7b0e82e5c2be9c37097e90790e9
     time: 1549389569
@@ -911,8 +911,8 @@ inventory:
     md5: a4d2d859c28a5d38f495d6d861df66f5
     time: 1549389569
   "/developments/full-archive/index.html":
-    md5: 83a7a40e1435a68acf4c1238d3e02f43
-    time: 1549389835
+    md5: 926d39347e897fab25ac4633b5eede48
+    time: 1549396374
   "/developments/winter-2018/index.html":
     md5: 0bbfe5059d5aefcc43edd7b4545fe02b
     time: 1549389570
@@ -920,8 +920,8 @@ inventory:
     md5: fda1490ce9c67bcb172990f13d5cb93e
     time: 1549389570
   "/developments/summer-2018/index.html":
-    md5: 70616dcc22797df9f76739e8a0b00d6b
-    time: 1549389570
+    md5: 718bdcfcf1f5153f37cd3ccb86aa4b7f
+    time: 1549396374
   "/developments/spring-2018/index.html":
     md5: 2d8b9a77989a7982958027528689afac
     time: 1549389570
@@ -986,11 +986,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 40227c2719e00dc91970a5a2d07afabd
-    time: 1549389838
+    md5: dd60c96b42e18f73221412c29eb955dc
+    time: 1549396376
   "/feed.xml":
-    md5: 08934e2919d6fa9d7c4c3451256a7b04
-    time: 1549389838
+    md5: 148e38f5994bfdc932ba4628ce427b7b
+    time: 1549396377
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
