@@ -1,5 +1,5 @@
 ---
-time: 1549406505
+time: 1549406624
 inventory:
   "/publications/index.html":
     md5: b4b3f16b68f67d51d2d2e7220e054156
@@ -11,8 +11,8 @@ inventory:
     md5: 657a6f1878d5897595a58308caf5a68b
     time: 1549389541
   "/articles/building-inclusivity-into-inclusive-education/index.html":
-    md5: 9360d2b9726ddce09349cbaf332ede71
-    time: 1549406470
+    md5: d2ed947a7785c28a6d90d30674472e60
+    time: 1549406586
   "/articles/why-the-time-is-right-for-access-for-all/index.html":
     md5: aa8fd9c002639ab9cafbeff0c01daf12
     time: 1549389541
@@ -986,11 +986,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c526e6291331b87f0210699fbccd0bfc
-    time: 1549406500
+    md5: 9ed5a7e6b952231412bc1beea1f92913
+    time: 1549406618
   "/feed.xml":
-    md5: 9edcb3f17d65123a463c435ab5d5f797
-    time: 1549406500
+    md5: 149a1c0247de528bef448a02f66164cf
+    time: 1549406619
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
