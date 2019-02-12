@@ -1,5 +1,5 @@
 ---
-time: 1550005307
+time: 1550008281
 inventory:
   "/publications/index.html":
     md5: fb021703547e278f22cc4c4f95b7efee
@@ -11,8 +11,8 @@ inventory:
     md5: ad49bbff8922759ab417ccc103743e03
     time: 1550004505
   "/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/index.html":
-    md5: bc9eca04c5ffe7a569c692bf8b888d08
-    time: 1550005263
+    md5: dd96b72c5ca9b4663dffee6eaeb65094
+    time: 1550008244
   "/articles/building-inclusivity-into-inclusive-education/index.html":
     md5: 2bfe74a011d2863a7ff39e8df22f31d9
     time: 1550004505
@@ -989,11 +989,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: b9141c483f34015a0a9aa7baf043df99
-    time: 1550005299
+    md5: c4bcb3ffbda66a9afd579818f4013560
+    time: 1550008275
   "/feed.xml":
-    md5: e07cd0979096d319b1a124438b6bdf3f
-    time: 1550005300
+    md5: 4a40c3acbbb71cd6d9a3bf3565092965
+    time: 1550008276
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
