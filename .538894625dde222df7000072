@@ -1,5 +1,5 @@
 ---
-time: 1550004701
+time: 1550005307
 inventory:
   "/publications/index.html":
     md5: fb021703547e278f22cc4c4f95b7efee
@@ -11,8 +11,8 @@ inventory:
     md5: ad49bbff8922759ab417ccc103743e03
     time: 1550004505
   "/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/index.html":
-    md5: 2e8417d5699ebc0b6973164dc4acd56b
-    time: 1550004505
+    md5: bc9eca04c5ffe7a569c692bf8b888d08
+    time: 1550005263
   "/articles/building-inclusivity-into-inclusive-education/index.html":
     md5: 2bfe74a011d2863a7ff39e8df22f31d9
     time: 1550004505
@@ -914,8 +914,8 @@ inventory:
     md5: a10b821413848763678c063d76b145fd
     time: 1550004536
   "/developments/full-archive/index.html":
-    md5: 035ea30b17315305117b491838ebc93e
-    time: 1550004536
+    md5: f2f5cd709cda15a77e1408958166c569
+    time: 1550005296
   "/developments/winter-2018/index.html":
     md5: 50f467ff917a81e4b8fb1812996b4c2b
     time: 1550004536
@@ -989,11 +989,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 940f24ef73269d9218142ab63d941748
-    time: 1550004538
+    md5: b9141c483f34015a0a9aa7baf043df99
+    time: 1550005299
   "/feed.xml":
-    md5: a99e59bd303bfe22606ccc66d0b0e6a8
-    time: 1550004539
+    md5: e07cd0979096d319b1a124438b6bdf3f
+    time: 1550005300
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1850,8 +1850,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 54d84b5281724a31d99e3e6aed79df1e
-    time: 1550004539
+    md5: aff3e315d024a6fa37131a3353b1250c
+    time: 1550005300
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
