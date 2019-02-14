@@ -1,5 +1,5 @@
 ---
-time: 1550168064
+time: 1550187138
 inventory:
   "/publications/index.html":
     md5: ad669291b0cb964d1e5f104c26864862
@@ -14,8 +14,8 @@ inventory:
     md5: 195d46596be6639b710cd700668eee58
     time: 1550168026
   "/articles/will-feminized-parliaments-mean-more-gender-friendly-policies/index.html":
-    md5: cf13be205fde8bcdbd0860c3bb333a54
-    time: 1550167257
+    md5: 213080a2853cf9f201427f8b77ef4060
+    time: 1550187101
   "/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/index.html":
     md5: b8bba497c1fe69295d20a382dea65086
     time: 1550167257
@@ -995,11 +995,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 7aecd427b606bd55852952bec5b659b6
-    time: 1550168057
+    md5: 036b454009f0f7b8901109215b7a9feb
+    time: 1550187132
   "/feed.xml":
-    md5: b651278759559b37fefa1f6188becab2
-    time: 1550168058
+    md5: b762d477b553873c1dc2e3d44a14bfa5
+    time: 1550187132
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -3550,6 +3550,9 @@ inventory:
   "/assets/Devs----Afghan-WIE-health-3.jpg":
     md5: ddcd78dec820d759f7b19ae3fc4ae378
     time: 1550004540
+  "/assets/Devs----Carmen-Parliament-3.jpg":
+    md5: c737fb8d90a3c7551c06d62200d946e5
+    time: 1550187132
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
