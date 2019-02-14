@@ -1,5 +1,5 @@
 ---
-time: 1550167453
+time: 1550167586
 inventory:
   "/publications/index.html":
     md5: ad669291b0cb964d1e5f104c26864862
@@ -11,8 +11,8 @@ inventory:
     md5: 6cabfc1e298bd971dc1ab7b86f1d7ab4
     time: 1550167257
   "/articles/improving-livestock-markets-to-generate-economic-growth-and-resilience-in-east-africa/index.html":
-    md5: a961d35db93d5a766ef92fe968efa645
-    time: 1550167257
+    md5: 08e6f9570c7c17a4c981c47424256f21
+    time: 1550167548
   "/articles/will-feminized-parliaments-mean-more-gender-friendly-policies/index.html":
     md5: cf13be205fde8bcdbd0860c3bb333a54
     time: 1550167257
@@ -920,8 +920,8 @@ inventory:
     md5: d30a6ca63b6e5408459f9eda99b57be2
     time: 1550167286
   "/developments/full-archive/index.html":
-    md5: d9a7cce2e3d1289864423c1c38c5a86c
-    time: 1550167286
+    md5: 573493c1b79072e040003a5a1f8d32f3
+    time: 1550167577
   "/developments/winter-2018/index.html":
     md5: 0850fb53282efbed8f49dff4752f388a
     time: 1550167286
@@ -995,11 +995,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 4d75c73b94f73c9d9ae537381f64b269
-    time: 1550167288
+    md5: 991fa96859dbabeee4aaa4c640bc1603
+    time: 1550167580
   "/feed.xml":
-    md5: 6ffb427c91a7292a6042351797f83801
-    time: 1550167289
+    md5: 203f73b70b6e813df6ffd557287666f1
+    time: 1550167580
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1856,8 +1856,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 848df3ca5da9e2901d697a4528bb49b7
-    time: 1550167289
+    md5: 609f41fe0dff511603051cdf295a7a52
+    time: 1550167581
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
