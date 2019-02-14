@@ -1,5 +1,5 @@
 ---
-time: 1550167684
+time: 1550167901
 inventory:
   "/publications/index.html":
     md5: ad669291b0cb964d1e5f104c26864862
@@ -11,8 +11,8 @@ inventory:
     md5: 6cabfc1e298bd971dc1ab7b86f1d7ab4
     time: 1550167257
   "/articles/improving-livestock-markets-to-generate-economic-growth-and-resilience-in-east-africa/index.html":
-    md5: 1854808197fe3bf5f1089ca02a5f50b6
-    time: 1550167647
+    md5: 7293e9f7a270a65e7433b6d57211e87a
+    time: 1550167865
   "/articles/will-feminized-parliaments-mean-more-gender-friendly-policies/index.html":
     md5: cf13be205fde8bcdbd0860c3bb333a54
     time: 1550167257
@@ -995,11 +995,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 099acd57d5526c57147e7c6184bbe31b
-    time: 1550167676
+    md5: 3b5b9848838f5c3b9be9daea2a433930
+    time: 1550167895
   "/feed.xml":
-    md5: 7ac4414329544f85cb83532fa4329a6b
-    time: 1550167677
+    md5: 5c14e51b9c3777c7b91c3fa2aceafdde
+    time: 1550167896
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
