@@ -1,5 +1,5 @@
 ---
-time: 1550248137
+time: 1550584957
 inventory:
   "/publications/index.html":
     md5: ad669291b0cb964d1e5f104c26864862
@@ -14,8 +14,8 @@ inventory:
     md5: 195d46596be6639b710cd700668eee58
     time: 1550168026
   "/articles/will-feminized-parliaments-mean-more-gender-friendly-policies/index.html":
-    md5: d81a027d960029599c938c38dabf8e43
-    time: 1550248099
+    md5: 681cd08276e506fa0727d32852e45993
+    time: 1550584914
   "/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/index.html":
     md5: b8bba497c1fe69295d20a382dea65086
     time: 1550167257
@@ -827,11 +827,11 @@ inventory:
     md5: 69e8cfdbf65edbab590e31518f3e078c
     time: 1550167283
   "/articles/tags/gender/index.html":
-    md5: 85ce2e48960d262352ea297c5f9a579a
-    time: 1550167283
+    md5: 25e6915170cc331c3a2892e4d8626423
+    time: 1550584939
   "/articles/tags/governance/index.html":
-    md5: 0d59b6a9f1fab2c3fae9f6d9e8a91634
-    time: 1550167284
+    md5: f175b5112c912b68062d186184cc4547
+    time: 1550584939
   "/articles/tags/health/index.html":
     md5: 24816a71960d1a37ee4c17e02cb3d041
     time: 1550167284
@@ -920,8 +920,8 @@ inventory:
     md5: d30a6ca63b6e5408459f9eda99b57be2
     time: 1550167286
   "/developments/full-archive/index.html":
-    md5: b190cf4c5e7400f16242f69507597384
-    time: 1550168055
+    md5: 00ca5d69bb576a8168d7d22b4db314bd
+    time: 1550584942
   "/developments/winter-2018/index.html":
     md5: 0850fb53282efbed8f49dff4752f388a
     time: 1550167286
@@ -995,11 +995,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 2f9b76b1f44943729924208bafce9b4a
-    time: 1550248130
+    md5: 7ae7777aa89fd7ec0dcac228da902645
+    time: 1550584944
   "/feed.xml":
-    md5: 0c068f968a6ddf0741d84f4dbbad3835
-    time: 1550248131
+    md5: cd6b2cd821348ec87b6bf145e1d28db6
+    time: 1550584945
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1856,8 +1856,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 33399382e7e4450a17bacb32bc6a7756
-    time: 1550168058
+    md5: 54418d82a48ff0657c7e53ab7c13233e
+    time: 1550584945
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
