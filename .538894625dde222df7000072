@@ -1,5 +1,5 @@
 ---
-time: 1551126932
+time: 1551127092
 inventory:
   "/publications/index.html":
     md5: bacc3692a6da0ff737b8520394c052d1
@@ -8,11 +8,11 @@ inventory:
     md5: bacc3692a6da0ff737b8520394c052d1
     time: 1551126623
   "/articles/index.html":
-    md5: 926820b907766be6f8165600ec96e440
-    time: 1551126624
+    md5: 9ed14fc41bc7a09169e15e237bd12d7e
+    time: 1551127048
   "/articles/in-uganda-local-hearings-show-accountability-in-action/index.html":
-    md5: d95c4027adca5e0290a7eee5aec4d912
-    time: 1551126894
+    md5: 578820c8560d3488a7decb65c285bbed
+    time: 1551127048
   "/articles/improving-livestock-markets-to-generate-economic-growth-and-resilience-in-east-africa/index.html":
     md5: de5554e5c1d5f59352edc65fc49bdc31
     time: 1551126624
@@ -820,6 +820,12 @@ inventory:
   "/articles/tags/index.html":
     md5: 03dfdc2b0a38d19c248343aa58d086ea
     time: 1551126650
+  "/articles/tags/governance/index.html":
+    md5: 458b6593f21615dd6f63ca933e84c8e7
+    time: 1551127075
+  "/articles/tags/public-financial-management/index.html":
+    md5: a0dd7b9f7a14b8026e9e3e5ee1110c36
+    time: 1551127075
   "/articles/tags/agriculture/index.html":
     md5: 8ce0a4f3ae8f003d3e77c439627c7e9f
     time: 1551126650
@@ -831,9 +837,6 @@ inventory:
     time: 1551126651
   "/articles/tags/gender/index.html":
     md5: 7cd7f5d6d08284961788737e8247063b
-    time: 1551126651
-  "/articles/tags/governance/index.html":
-    md5: 28741630c7254729991394a44aac4a05
     time: 1551126651
   "/articles/tags/health/index.html":
     md5: d362e74a05c37b0a8095f3ac634c63bc
@@ -864,9 +867,6 @@ inventory:
     time: 1551126652
   "/articles/tags/stability/index.html":
     md5: b2934914673a99a952a31d00f4b0b17b
-    time: 1551126652
-  "/articles/tags/public-financial-management/index.html":
-    md5: b6ae09f2fa3d17f88ee3c58f0d68194f
     time: 1551126652
   "/articles/tags/environment-and-energy/index.html":
     md5: fd037ae3d77e0604c20b374b769037b1
@@ -923,8 +923,8 @@ inventory:
     md5: d167af997b3e50af0a2e7fbca2794a43
     time: 1551126653
   "/developments/full-archive/index.html":
-    md5: e0945cd2bc3dc0a24afb606a748ee90c
-    time: 1551126923
+    md5: 37c10aa55d003a11adc5398466bd70ad
+    time: 1551127078
   "/developments/winter-2018/index.html":
     md5: 30b516ebc9dfbad2e57c0b735f21ea12
     time: 1551126654
@@ -998,11 +998,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: a7a77b25e1aad4bedc713f8ce6b2f41e
-    time: 1551126925
+    md5: 039857f2e0ffa873a6ea9633aefb0b21
+    time: 1551127081
   "/feed.xml":
-    md5: be4eedb643fb4dbedec5ed1ed30f747b
-    time: 1551126926
+    md5: 724c5a1056d633a8e54d700999bfa77b
+    time: 1551127081
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1697,8 +1697,8 @@ inventory:
     md5: e6cc5dc0c10fe01f54ff63d41c2bf320
     time: 1506459802
   "/pfm-pubs.yml":
-    md5: 8b4d5d37dd9b2eb68632537a0d13ed3f
-    time: 1545855680
+    md5: c1e00de681065453acfadfbcaf012a5b
+    time: 1551127082
   "/assets/Devs----Blended-pic-5.jpg":
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
@@ -1859,8 +1859,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 3a48adbd774dbc8df5f79868c33c6b35
-    time: 1551126926
+    md5: 81ff56ea979a6ba0889988dcd4b6dafb
+    time: 1551127082
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
