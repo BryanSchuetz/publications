@@ -1,5 +1,5 @@
 ---
-time: 1551126816
+time: 1551126932
 inventory:
   "/publications/index.html":
     md5: bacc3692a6da0ff737b8520394c052d1
@@ -11,8 +11,8 @@ inventory:
     md5: 926820b907766be6f8165600ec96e440
     time: 1551126624
   "/articles/in-uganda-local-hearings-show-accountability-in-action/index.html":
-    md5: b15b0ba6a1928dd21bfa60e30d923a1d
-    time: 1551126624
+    md5: d95c4027adca5e0290a7eee5aec4d912
+    time: 1551126894
   "/articles/improving-livestock-markets-to-generate-economic-growth-and-resilience-in-east-africa/index.html":
     md5: de5554e5c1d5f59352edc65fc49bdc31
     time: 1551126624
@@ -923,8 +923,8 @@ inventory:
     md5: d167af997b3e50af0a2e7fbca2794a43
     time: 1551126653
   "/developments/full-archive/index.html":
-    md5: ecf5e5c3153a25f54934bdf86a347262
-    time: 1551126654
+    md5: e0945cd2bc3dc0a24afb606a748ee90c
+    time: 1551126923
   "/developments/winter-2018/index.html":
     md5: 30b516ebc9dfbad2e57c0b735f21ea12
     time: 1551126654
@@ -998,11 +998,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: f14f736b0cee4acf880fbbb4f05243ee
-    time: 1551126656
+    md5: a7a77b25e1aad4bedc713f8ce6b2f41e
+    time: 1551126925
   "/feed.xml":
-    md5: bf89dd0be38fb904204b6b30932034d8
-    time: 1551126657
+    md5: be4eedb643fb4dbedec5ed1ed30f747b
+    time: 1551126926
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1859,8 +1859,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 5921087f2d308df894f96f30e2107d62
-    time: 1551126657
+    md5: 3a48adbd774dbc8df5f79868c33c6b35
+    time: 1551126926
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
