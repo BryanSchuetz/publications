@@ -1,5 +1,5 @@
 ---
-time: 1551128552
+time: 1551128649
 inventory:
   "/publications/index.html":
     md5: bacc3692a6da0ff737b8520394c052d1
@@ -11,8 +11,8 @@ inventory:
     md5: 9ed14fc41bc7a09169e15e237bd12d7e
     time: 1551128329
   "/articles/in-uganda-local-hearings-show-accountability-in-action/index.html":
-    md5: 954d272f0b0178c240c32fd187b24726
-    time: 1551128329
+    md5: 18a3896f65b06e8007fd397eb23a3505
+    time: 1551128610
   "/articles/improving-livestock-markets-to-generate-economic-growth-and-resilience-in-east-africa/index.html":
     md5: de5554e5c1d5f59352edc65fc49bdc31
     time: 1551128329
@@ -821,11 +821,11 @@ inventory:
     md5: 03dfdc2b0a38d19c248343aa58d086ea
     time: 1551128359
   "/articles/tags/governance/index.html":
-    md5: 5a3dc3cd13296c7e902c9f629b3118ac
-    time: 1551128359
+    md5: 9f296a586876c77e7bf94b61c2e0d98c
+    time: 1551128635
   "/articles/tags/public-financial-management/index.html":
-    md5: 9f4d7e95a9feeb2fed0a3484810f7c60
-    time: 1551128359
+    md5: 6db8edb13ab4586917286c2cbeea4d55
+    time: 1551128635
   "/articles/tags/agriculture/index.html":
     md5: 8ce0a4f3ae8f003d3e77c439627c7e9f
     time: 1551128359
@@ -923,8 +923,8 @@ inventory:
     md5: d167af997b3e50af0a2e7fbca2794a43
     time: 1551128363
   "/developments/full-archive/index.html":
-    md5: 42b397e421225d4b493d06db807e7150
-    time: 1551128364
+    md5: c648160257775033e2becaf7719a03d3
+    time: 1551128638
   "/developments/winter-2018/index.html":
     md5: 30b516ebc9dfbad2e57c0b735f21ea12
     time: 1551128364
@@ -998,11 +998,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 20b3e9f49b7079d418312499e22e2a1c
-    time: 1551128367
+    md5: 9eb9b309e9074db6763af9b1ccc71080
+    time: 1551128640
   "/feed.xml":
-    md5: 0d1981c4980d3772ef59d96152352da8
-    time: 1551128368
+    md5: 05d1e60ab6d500d008892a1cdf721d15
+    time: 1551128641
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1697,8 +1697,8 @@ inventory:
     md5: e6cc5dc0c10fe01f54ff63d41c2bf320
     time: 1506459802
   "/pfm-pubs.yml":
-    md5: 6ac1ee835f8c374e10a58d0c80cd5d25
-    time: 1551128368
+    md5: 4226761a732ca91c11ca674af1c34e56
+    time: 1551128641
   "/assets/Devs----Blended-pic-5.jpg":
     md5: 47c1772f2e1a0eabd6f2c782309ebf68
     time: 1506459802
@@ -1859,8 +1859,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: d6150c020822e9a95b79da7f7679229a
-    time: 1551128368
+    md5: d1c99daeab7feb23fbb468c99f26d5cb
+    time: 1551128641
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
