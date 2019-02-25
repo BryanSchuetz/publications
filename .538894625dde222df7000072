@@ -1,5 +1,5 @@
 ---
-time: 1551128649
+time: 1551129869
 inventory:
   "/publications/index.html":
     md5: bacc3692a6da0ff737b8520394c052d1
@@ -11,8 +11,8 @@ inventory:
     md5: 9ed14fc41bc7a09169e15e237bd12d7e
     time: 1551128329
   "/articles/in-uganda-local-hearings-show-accountability-in-action/index.html":
-    md5: 18a3896f65b06e8007fd397eb23a3505
-    time: 1551128610
+    md5: 0a7a9e158782f7fd858da24fcabafa3e
+    time: 1551129830
   "/articles/improving-livestock-markets-to-generate-economic-growth-and-resilience-in-east-africa/index.html":
     md5: de5554e5c1d5f59352edc65fc49bdc31
     time: 1551128329
@@ -998,11 +998,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 9eb9b309e9074db6763af9b1ccc71080
-    time: 1551128640
+    md5: c37a092e0ad5f2c9eafb3b8c34ef06c0
+    time: 1551129863
   "/feed.xml":
-    md5: 05d1e60ab6d500d008892a1cdf721d15
-    time: 1551128641
+    md5: 127df8f3578148942b8a85f6eea0b74a
+    time: 1551129864
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
