@@ -1,5 +1,5 @@
 ---
-time: 1551195784
+time: 1551730756
 inventory:
   "/publications/index.html":
     md5: bacc3692a6da0ff737b8520394c052d1
@@ -805,6 +805,12 @@ inventory:
   "/articles/the-re-greening-of-iraq-restoring-marshlands/index.html":
     md5: e864338454a4ef3c54aa72945e8b5f46
     time: 1551128358
+  ? "/articles/how-to-ensure-voluntary-sustainability-standards-are-more-effective-in-promoting-gender-equality-in-global-value-chains/index.html"
+  : md5: bf594d6801684474e451d31f1dea53db
+    time: 1551730742
+  "/articles/invest-on-the-frontier-of-gender-lens-investing/index.html":
+    md5: 5dda6272f015f9c542c6f8db9aa78bc7
+    time: 1551730742
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
     md5: 285600346746278cb010c77a646e1b64
     time: 1551128358
@@ -1001,8 +1007,8 @@ inventory:
     md5: 9afe6862b3e57ab029bc7c08c6e1dce0
     time: 1551195775
   "/feed.xml":
-    md5: 861b6e89e5e1820243a760564d384d1a
-    time: 1551195776
+    md5: af5e4e0e2b8b0fb4bef7e579698bcb30
+    time: 1551730749
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1933,6 +1939,9 @@ inventory:
   "/assets/Aaron-Sheldon-mug.jpg":
     md5: 7980476cc8e3947612f32cd051c456da
     time: 1551126657
+  "/assets/GLI 1.jpg":
+    md5: 295023839eb2d965f8fe30ba1ad6412e
+    time: 1551730749
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2707,6 +2716,9 @@ inventory:
   "/assets/Devs----GAPP-4.jpg":
     md5: bdf36f9c7a5cf1fe180da2349ba547a2
     time: 1551195776
+  "/assets/GLI 2.jpg":
+    md5: 275b7c984ced7d916e247bfa5dd3f83f
+    time: 1551730750
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
