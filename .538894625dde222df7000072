@@ -1,5 +1,5 @@
 ---
-time: 1551730756
+time: 1551801521
 inventory:
   "/publications/index.html":
     md5: bacc3692a6da0ff737b8520394c052d1
@@ -806,11 +806,11 @@ inventory:
     md5: e864338454a4ef3c54aa72945e8b5f46
     time: 1551128358
   ? "/articles/how-to-ensure-voluntary-sustainability-standards-are-more-effective-in-promoting-gender-equality-in-global-value-chains/index.html"
-  : md5: bf594d6801684474e451d31f1dea53db
-    time: 1551730742
+  : md5: fa41a64e5b266c80ccfe3fa47020f957
+    time: 1551801507
   "/articles/invest-on-the-frontier-of-gender-lens-investing/index.html":
-    md5: 5dda6272f015f9c542c6f8db9aa78bc7
-    time: 1551730742
+    md5: 5244fbe476174292dac32792b1f07943
+    time: 1551801507
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
     md5: 285600346746278cb010c77a646e1b64
     time: 1551128358
@@ -1007,8 +1007,8 @@ inventory:
     md5: 9afe6862b3e57ab029bc7c08c6e1dce0
     time: 1551195775
   "/feed.xml":
-    md5: af5e4e0e2b8b0fb4bef7e579698bcb30
-    time: 1551730749
+    md5: dcee3ce0be0c3f6c3d70a135bf308b11
+    time: 1551801514
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1942,6 +1942,9 @@ inventory:
   "/assets/GLI 1.jpg":
     md5: 295023839eb2d965f8fe30ba1ad6412e
     time: 1551730749
+  "/assets/VSS 1.jpg":
+    md5: fce812ff64236e19b9be62ccaae67353
+    time: 1551801514
   "/assets/safe.jpg":
     md5: c28673d80ceb2684449d1685544d4908
     time: 1506459803
@@ -2719,6 +2722,9 @@ inventory:
   "/assets/GLI 2.jpg":
     md5: 275b7c984ced7d916e247bfa5dd3f83f
     time: 1551730750
+  "/assets/VSS 2.jpg":
+    md5: 7415a70ad7f454f956d9dc7c2279035b
+    time: 1551801514
   "/assets/ideas3.jpg":
     md5: 5869875bac75d11a2a5004eb586d0793
     time: 1506459830
