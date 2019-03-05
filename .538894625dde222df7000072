@@ -1,5 +1,5 @@
 ---
-time: 1551801521
+time: 1551810897
 inventory:
   "/publications/index.html":
     md5: bacc3692a6da0ff737b8520394c052d1
@@ -806,8 +806,8 @@ inventory:
     md5: e864338454a4ef3c54aa72945e8b5f46
     time: 1551128358
   ? "/articles/how-to-ensure-voluntary-sustainability-standards-are-more-effective-in-promoting-gender-equality-in-global-value-chains/index.html"
-  : md5: fa41a64e5b266c80ccfe3fa47020f957
-    time: 1551801507
+  : md5: 1e73c8dbf92016a50a787884b19d39b9
+    time: 1551810884
   "/articles/invest-on-the-frontier-of-gender-lens-investing/index.html":
     md5: 5244fbe476174292dac32792b1f07943
     time: 1551801507
@@ -1007,8 +1007,8 @@ inventory:
     md5: 9afe6862b3e57ab029bc7c08c6e1dce0
     time: 1551195775
   "/feed.xml":
-    md5: dcee3ce0be0c3f6c3d70a135bf308b11
-    time: 1551801514
+    md5: d8213dafca8423e706f684d8d8fd287a
+    time: 1551810891
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -3232,6 +3232,9 @@ inventory:
   "/assets/gapp-6.jpg":
     md5: 7b500fc5db299f4797307bb5c50012d5
     time: 1551195776
+  "/assets/amy wilson-lee devs.jpg":
+    md5: e02814810d8d6433ade1084346c14fa4
+    time: 1551810891
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
@@ -3586,6 +3589,9 @@ inventory:
   "/assets/Devs----Uganda-GAPP-1.jpg":
     md5: 14fe47ba3598261cac46c5ba06526002
     time: 1551126657
+  "/assets/VSS and Gender Equality in Global Value Chains 2019.pdf":
+    md5: d6ee676c002d7071f00c862055998b91
+    time: 1551810891
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
@@ -3853,6 +3859,9 @@ inventory:
   "/assets/Devs----Uganda--GAPP-2.jpg":
     md5: 6047cd74d33fbc3d31d50469b55debfe
     time: 1551126658
+  "/assets/VSS and Gender Equality in Global Value Chains 2019-1.pdf":
+    md5: d6ee676c002d7071f00c862055998b91
+    time: 1551810892
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
     time: 1506459864
