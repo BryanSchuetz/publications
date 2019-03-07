@@ -1,5 +1,5 @@
 ---
-time: 1551982077
+time: 1551990210
 inventory:
   "/publications/index.html":
     md5: 28abb1386116625ba347adc25fe24bec
@@ -809,8 +809,8 @@ inventory:
     md5: adc23f5f8d2cc3a0b6cdb9f749fbd18f
     time: 1551811931
   "/articles/invest-on-the-frontier-of-gender-lens-investing/index.html":
-    md5: a2966a71f6d7149739c7f40b2d2a2bc9
-    time: 1551981266
+    md5: 105872933a852325799e28d6fc2d6078
+    time: 1551990198
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
     md5: a6069ed391cb1a53bec7903a7251f84f
     time: 1551811931
@@ -1013,8 +1013,8 @@ inventory:
     md5: 72a3aba3f86d1c5179fd37e292bee67f
     time: 1551982072
   "/feed.xml":
-    md5: 5399783fcfe719bde2fc9b6390f0080b
-    time: 1551982072
+    md5: 4591dc1574716debeb09b8b343842b9c
+    time: 1551990205
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
