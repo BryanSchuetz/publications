@@ -1,5 +1,5 @@
 ---
-time: 1551977269
+time: 1551981279
 inventory:
   "/publications/index.html":
     md5: 28abb1386116625ba347adc25fe24bec
@@ -809,8 +809,8 @@ inventory:
     md5: adc23f5f8d2cc3a0b6cdb9f749fbd18f
     time: 1551811931
   "/articles/invest-on-the-frontier-of-gender-lens-investing/index.html":
-    md5: f13ad46c66fc03d4ade16e7e4b706798
-    time: 1551811931
+    md5: a2966a71f6d7149739c7f40b2d2a2bc9
+    time: 1551981266
   "/articles/market-driven-productivity-increases-in-mozambiques-soya-sector/index.html":
     md5: a6069ed391cb1a53bec7903a7251f84f
     time: 1551811931
@@ -1013,8 +1013,8 @@ inventory:
     md5: 06282907d917ce97c2bb0b9a514d3241
     time: 1551977261
   "/feed.xml":
-    md5: fc9804ff3dabfdbdde64b9a57a2dcb94
-    time: 1551977261
+    md5: 7956ff9736ece820ef071b81face7f51
+    time: 1551981273
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -3241,6 +3241,9 @@ inventory:
   "/assets/amy wilson-lee devs.jpg":
     md5: e02814810d8d6433ade1084346c14fa4
     time: 1551810891
+  "/assets/Lalarukh Faiz.jpg":
+    md5: f828137f937fdd22a2158bdc27ce6b0d
+    time: 1551981273
   "/assets/estrada.jpg":
     md5: 100d24764a531509af4c9cd2db8d55a6
     time: 1506459846
