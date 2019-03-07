@@ -1,5 +1,5 @@
 ---
-time: 1551812088
+time: 1551977269
 inventory:
   "/publications/index.html":
     md5: 28abb1386116625ba347adc25fe24bec
@@ -11,8 +11,8 @@ inventory:
     md5: 9c36d689b2600c79a40a9e2721ed8201
     time: 1551811904
   ? "/articles/how-to-ensure-voluntary-sustainability-standards-are-more-effective-in-promoting-gender-equality-in-global-value-chains/index.html"
-  : md5: 7466d23dfcc48f06c85b0d4549346949
-    time: 1551811904
+  : md5: e30c241ec75926b71d41aefedacbef69
+    time: 1551977227
   "/articles/in-uganda-local-hearings-show-accountability-in-action/index.html":
     md5: 5bb9da85fb76da38769d5a46124fb266
     time: 1551811904
@@ -827,14 +827,14 @@ inventory:
     md5: 2973925b7b723501b23ce80519ab3a05
     time: 1551811931
   "/articles/tags/gender/index.html":
-    md5: ba3ca2243a569b9714440ec1706ffdc2
-    time: 1551811931
+    md5: 02cdadaf1619c35d571d055e1259f09d
+    time: 1551977254
   "/articles/tags/iwd/index.html":
-    md5: 795d35a7513c31622d1fc4fa7e2f33da
-    time: 1551811931
+    md5: 75d492d348238a636eb3d36f951e7bbd
+    time: 1551977254
   "/articles/tags/inclusion/index.html":
-    md5: 9c3d2ba2c6e6fc357c83eeea7f98f76a
-    time: 1551811931
+    md5: 978ea313b419c183c55acba452357c67
+    time: 1551977254
   "/articles/tags/governance/index.html":
     md5: 2dcb97d49c8e8e70a43eb7e4d9d002d7
     time: 1551811931
@@ -935,8 +935,8 @@ inventory:
     md5: 4c88b330d6c06574c8f0c83d2a6826b2
     time: 1551811934
   "/developments/full-archive/index.html":
-    md5: e27e3ba4c534fd9a8d1babc11f47c05d
-    time: 1551811935
+    md5: 4ef9253009f3225fc7cc20e71d0a3e6a
+    time: 1551977258
   "/developments/winter-2018/index.html":
     md5: 28e8d386a71f4420ef46f5c60946f085
     time: 1551811935
@@ -1010,11 +1010,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: d1331097417cb0f4adfb751ef87a63f3
-    time: 1551811937
+    md5: 06282907d917ce97c2bb0b9a514d3241
+    time: 1551977261
   "/feed.xml":
-    md5: 5ee563ea950ab29f0c34565b89af0d7a
-    time: 1551811938
+    md5: fc9804ff3dabfdbdde64b9a57a2dcb94
+    time: 1551977261
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1871,8 +1871,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 93da373f2cc5482833137018fff7064f
-    time: 1551811938
+    md5: 00af5cb753532cf88fbc193c25157a8a
+    time: 1551977261
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
