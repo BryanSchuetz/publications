@@ -1,5 +1,5 @@
 ---
-time: 1551981279
+time: 1551982077
 inventory:
   "/publications/index.html":
     md5: 28abb1386116625ba347adc25fe24bec
@@ -11,8 +11,8 @@ inventory:
     md5: 9c36d689b2600c79a40a9e2721ed8201
     time: 1551811904
   ? "/articles/how-to-ensure-voluntary-sustainability-standards-are-more-effective-in-promoting-gender-equality-in-global-value-chains/index.html"
-  : md5: e30c241ec75926b71d41aefedacbef69
-    time: 1551977227
+  : md5: bb451eb90828242c9e5bf9961e8c349e
+    time: 1551982039
   "/articles/in-uganda-local-hearings-show-accountability-in-action/index.html":
     md5: 5bb9da85fb76da38769d5a46124fb266
     time: 1551811904
@@ -1010,11 +1010,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 06282907d917ce97c2bb0b9a514d3241
-    time: 1551977261
+    md5: 72a3aba3f86d1c5179fd37e292bee67f
+    time: 1551982072
   "/feed.xml":
-    md5: 7956ff9736ece820ef071b81face7f51
-    time: 1551981273
+    md5: 5399783fcfe719bde2fc9b6390f0080b
+    time: 1551982072
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
