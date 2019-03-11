@@ -1,5 +1,5 @@
 ---
-time: 1551990550
+time: 1552314572
 inventory:
   "/publications/index.html":
     md5: 2ee9dac2efad3e2ca6549f1bd3ef7fa5
@@ -14,8 +14,8 @@ inventory:
   : md5: 11da7279991614e3df109d6e9f1bbead
     time: 1551990361
   "/articles/invest-on-the-frontier-of-gender-lens-investing/index.html":
-    md5: 09b5a631efa0f27bbea8e22858bd1447
-    time: 1551990361
+    md5: 879f8b205fd861ebb5dd6c3c87b06a8a
+    time: 1552314536
   "/articles/in-uganda-local-hearings-show-accountability-in-action/index.html":
     md5: e5ece4493b7ea587f197086eeb1a352c
     time: 1551990361
@@ -1013,11 +1013,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: c33a9dbce7234d9244dd1a68f0aed484
-    time: 1551990392
+    md5: 1cde5f7e6afe5a74b295df741a61c27e
+    time: 1552314567
   "/feed.xml":
-    md5: 53a11089432a591a066cd00125594382
-    time: 1551990393
+    md5: 29200687edeaa121436033d168e390c2
+    time: 1552314567
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
