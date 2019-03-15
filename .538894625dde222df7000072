@@ -1,5 +1,5 @@
 ---
-time: 1552673721
+time: 1552676804
 inventory:
   "/publications/index.html":
     md5: d7c5dae441c5a67f090b662f13c8bdee
@@ -11,8 +11,8 @@ inventory:
     md5: 253dc9a4556324e4656a9390eafc5e8d
     time: 1552673536
   "/articles/now-more-competitive-jordans-pharmaceuticals-see-healthy-jump-in-exports/index.html":
-    md5: 25b9b99b4fd2f953656107d43eb72495
-    time: 1552673536
+    md5: 8637eb8a9bfeef8f8a620d6e0b905639
+    time: 1552676761
   ? "/articles/how-to-ensure-voluntary-sustainability-standards-are-more-effective-in-promoting-gender-equality-in-global-value-chains/index.html"
   : md5: 7cacc636338db5f6d80874f7b914557a
     time: 1552673536
@@ -941,8 +941,8 @@ inventory:
     md5: 8c16bb504a045439d20b941b5b10fc22
     time: 1552673564
   "/developments/full-archive/index.html":
-    md5: 045bcb3eb267849dbc87e43a0c5b183d
-    time: 1552673564
+    md5: 96eb8de8d615cc9a9efc659cf03123ca
+    time: 1552676793
   "/developments/winter-2018/index.html":
     md5: c492faad50f4aa96101f46b91a1a2e48
     time: 1552673564
@@ -1016,11 +1016,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 983477cbb2d6a408701304eaddb22d1f
-    time: 1552673567
+    md5: 4f639ef5847903081995781ec157b497
+    time: 1552676796
   "/feed.xml":
-    md5: e7899ac627a4cab8947b89dbc6903e4c
-    time: 1552673567
+    md5: cb44c26ccd6aa2102ba004dff9920bfa
+    time: 1552676797
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -1877,8 +1877,8 @@ inventory:
     md5: cf649555bdd9c9946a4d9d312cefe989
     time: 1535040022
   "/pubs.yml":
-    md5: 1b46941c19446ee84f8624eaae1437a2
-    time: 1552673568
+    md5: b1a529a549ea1dd5cbb543b8f9b7a7dc
+    time: 1552676797
   "/assets/Emily-Mutai-mug.jpg":
     md5: 1a683880353e288cb9c4206ec4147552
     time: 1535470893
