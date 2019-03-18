@@ -1,5 +1,5 @@
 ---
-time: 1552680444
+time: 1552924145
 inventory:
   "/publications/index.html":
     md5: d7c5dae441c5a67f090b662f13c8bdee
@@ -11,8 +11,8 @@ inventory:
     md5: 253dc9a4556324e4656a9390eafc5e8d
     time: 1552673536
   "/articles/now-more-competitive-jordans-pharmaceuticals-see-healthy-jump-in-exports/index.html":
-    md5: 32cf07e2fc5a35dfdb5686e8f67b284c
-    time: 1552680406
+    md5: a2410df99b3f632cd0a3786214d4d30e
+    time: 1552924100
   ? "/articles/how-to-ensure-voluntary-sustainability-standards-are-more-effective-in-promoting-gender-equality-in-global-value-chains/index.html"
   : md5: 7cacc636338db5f6d80874f7b914557a
     time: 1552673536
@@ -830,14 +830,14 @@ inventory:
     md5: 355c43d8e53ab313fbe4ef00733cb6a4
     time: 1552673561
   "/articles/tags/health/index.html":
-    md5: 16faf55519da939f4cd00886c2bc76fc
-    time: 1552673561
+    md5: 2ed17740f6597c1858d2508b51930725
+    time: 1552924128
   "/articles/tags/economic-growth/index.html":
-    md5: e9d174aee4a096fbc5e6936165e19663
-    time: 1552673561
+    md5: 5701e5111bf7e9ddb3e556d216740bc7
+    time: 1552924129
   "/articles/tags/governance/index.html":
-    md5: 2ccbfe566d9f8e5eb9d60f8b7f09060a
-    time: 1552673562
+    md5: 4266f7308b6b7841ed338fd39c47a3a9
+    time: 1552924129
   "/articles/tags/gender/index.html":
     md5: 48e9dccb20384b333d1b98de62ce4180
     time: 1552673562
@@ -941,8 +941,8 @@ inventory:
     md5: 8c16bb504a045439d20b941b5b10fc22
     time: 1552673564
   "/developments/full-archive/index.html":
-    md5: 96eb8de8d615cc9a9efc659cf03123ca
-    time: 1552676793
+    md5: 045787dffa1181de330ffba46c2f3d27
+    time: 1552924132
   "/developments/winter-2018/index.html":
     md5: c492faad50f4aa96101f46b91a1a2e48
     time: 1552673564
@@ -1016,11 +1016,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 8c315ae0b5d2bd5fe0cc816f78a56e78
-    time: 1552680437
+    md5: 7fe84e24654b1be444ad6bc751175eb4
+    time: 1552924135
   "/feed.xml":
-    md5: 6ad60fcb31f9210dfb8139ff53d5eb59
-    time: 1552680438
+    md5: ade73f2ce3035c526f7ddf5817021533
+    time: 1552924136
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
