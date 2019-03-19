@@ -1,5 +1,5 @@
 ---
-time: 1552924145
+time: 1553006741
 inventory:
   "/publications/index.html":
     md5: d7c5dae441c5a67f090b662f13c8bdee
@@ -11,8 +11,8 @@ inventory:
     md5: 253dc9a4556324e4656a9390eafc5e8d
     time: 1552673536
   "/articles/now-more-competitive-jordans-pharmaceuticals-see-healthy-jump-in-exports/index.html":
-    md5: a2410df99b3f632cd0a3786214d4d30e
-    time: 1552924100
+    md5: 703e8b5d9156d1fb440127b0d60f1df1
+    time: 1553006698
   ? "/articles/how-to-ensure-voluntary-sustainability-standards-are-more-effective-in-promoting-gender-equality-in-global-value-chains/index.html"
   : md5: 7cacc636338db5f6d80874f7b914557a
     time: 1552673536
@@ -1016,11 +1016,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 7fe84e24654b1be444ad6bc751175eb4
-    time: 1552924135
+    md5: 5ac99105f7627479dea602195994ec56
+    time: 1553006734
   "/feed.xml":
-    md5: ade73f2ce3035c526f7ddf5817021533
-    time: 1552924136
+    md5: c49741b71c1425caccd08e3c4d9d3776
+    time: 1553006735
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
@@ -3616,6 +3616,9 @@ inventory:
   "/assets/VSS and Gender Equality in Global Value Chains 2019.pdf":
     md5: d6ee676c002d7071f00c862055998b91
     time: 1551810891
+  "/assets/Devs----Jordan-Pharma-2.jpg":
+    md5: 074da26b8968b26d36b4077e4558f569
+    time: 1552680438
   "/assets/ym3.jpg":
     md5: b1cb5272388f580762cfdadde63e9d6f
     time: 1506459856
@@ -3886,9 +3889,9 @@ inventory:
   "/assets/VSS and Gender Equality in Global Value Chains 2019-1.pdf":
     md5: d6ee676c002d7071f00c862055998b91
     time: 1551810892
-  "/assets/Devs----Jordan-Pharma-2.jpg":
-    md5: 074da26b8968b26d36b4077e4558f569
-    time: 1552680438
+  "/assets/Devs----Luma.jpg":
+    md5: 5933e69e162d5525e9a451ce7289750a
+    time: 1553006735
   "/assets/Devs-Tajik-Karchner-pic-2.jpg":
     md5: f08e2f1a12dae1334071bf96eeee0e03
     time: 1506459864
