@@ -1,5 +1,5 @@
 ---
-time: 1553006741
+time: 1553607382
 inventory:
   "/publications/index.html":
     md5: d7c5dae441c5a67f090b662f13c8bdee
@@ -44,8 +44,8 @@ inventory:
     md5: 7fad713a88115da374f16da2e3b9e517
     time: 1552673537
   "/articles/beyond-boundaries-how-secure-land-tenure-is-improving-lives-in-rural-tanzania/index.html":
-    md5: 5b05452c5832f60a622cb01daa1f9d1d
-    time: 1552673537
+    md5: bf6e3afe964e3ea2d6f105c7c3c2c912
+    time: 1553607341
   "/articles/case-study-overcoming-land-tenure-issues-in-mozambique/index.html":
     md5: c0fe18ba6de18293eef18ad806a82126
     time: 1552673537
@@ -1016,11 +1016,11 @@ inventory:
     md5: 8742a8035cae6ce7e3a22bce455df4d4
     time: 1506459771
   "/sitemap.xml":
-    md5: 5ac99105f7627479dea602195994ec56
-    time: 1553006734
+    md5: b4a33dc3cde7e011448af68250aaea2d
+    time: 1553607376
   "/feed.xml":
-    md5: c49741b71c1425caccd08e3c4d9d3776
-    time: 1553006735
+    md5: fa0ab859c2ed7b8e279ea7b49c0798d6
+    time: 1553607377
   "/assets/aawaz-2.jpg":
     md5: 00e8809ab80cc1ac00191abad2c8b150
     time: 1506459771
